@@ -2,4 +2,186 @@
    JOHAR GANDHI — Player Styles
    ============================================ */
 
-/* Shell for player.css */
+/* --- Layout --- */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: var(--bg-primary);
+}
+
+.player-container {
+  height: 100vh;
+  height: 100dvh;
+  width: 100vw;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Hide scrollbar for immersive feel */
+.player-container::-webkit-scrollbar {
+  display: none;
+}
+.player-container {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* --- Slides --- */
+.slide {
+  position: relative;
+  height: 100vh;
+  height: 100dvh;
+  width: 100vw;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+
+/* --- HUD --- */
+.player-hud {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: var(--space-md) var(--space-lg);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  z-index: 100;
+  pointer-events: none; /* Let clicks pass through empty areas */
+  transition: opacity var(--transition-slow);
+}
+
+.hud-button, .hud-logo {
+  pointer-events: auto;
+}
+
+.hud-logo {
+  height: clamp(30px, 4vw, 45px);
+  width: auto;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));
+}
+
+.hud-button.pill {
+  background: rgba(10, 10, 10, 0.6);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(245, 240, 232, 0.1);
+  color: var(--text-primary);
+  padding: var(--space-sm) var(--space-lg);
+  border-radius: 30px;
+  font-family: var(--font-heading);
+  font-size: 0.85rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  transition: background var(--transition-fast), border-color var(--transition-fast);
+}
+
+.hud-button.pill:hover {
+  background: rgba(10, 10, 10, 0.8);
+  border-color: var(--accent-gold);
+}
+
+/* --- Text Panel (Read Along Mode) --- */
+.slide-text-panel {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  padding: var(--space-2xl) var(--space-xl) var(--space-xl);
+  background: linear-gradient(
+    to top,
+    rgba(10, 10, 10, 0.95) 0%,
+    rgba(10, 10, 10, 0.8) 50%,
+    transparent 100%
+  );
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity var(--transition-medium), transform var(--transition-medium);
+}
+
+.mode-read .slide-text-panel {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.mode-visual .slide-text-panel {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.slide-text {
+  font-family: var(--font-body);
+  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  font-weight: 300;
+  line-height: 1.8;
+  color: var(--text-primary);
+  max-width: 800px;
+  margin: 0 auto var(--space-md);
+  text-shadow: 0 2px 4px rgba(0,0,0,0.8);
+  text-align: center;
+}
+
+/* --- Progress Bar --- */
+.slide-progress {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: rgba(245, 240, 232, 0.1);
+  z-index: 20;
+}
+
+/* --- Editor's Choice Badge --- */
+.editors-choice-badge {
+  position: absolute;
+  top: var(--space-xl);
+  right: var(--space-lg);
+  background: rgba(200, 168, 92, 0.9);
+  color: var(--bg-primary);
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  z-index: 15;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* --- Center Content (for title cards/recaps) --- */
+.center-content {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(10, 10, 10, 0.7);
+  padding: var(--space-2xl);
+  text-align: center;
+}
+
+.center-content .heading-lg {
+  margin-top: var(--space-md);
+  color: var(--text-primary);
+  text-shadow: 0 4px 12px rgba(0,0,0,0.5);
+}
+
+.center-content .gold-line {
+  width: 60px;
+  height: 2px;
+  background: var(--accent-gold);
+  margin: var(--space-md) auto;
+}
