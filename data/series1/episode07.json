@@ -1,1 +1,1029 @@
-﻿{ "series": 1, "episode": 7, "title": "The Invitation", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 1,
+  "episode": 7,
+  "title": "Episode 07",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s1e07-001",
+      "type": "content",
+      "image": "images/series1/ep07/slide-001.webp",
+      "text": ") was triggered by this incident. Pt. Sundarlal Sharma, Subhadra Kumari Chauhan , and Nathuram Modi , etc. leaders took out a rally in Jabalpur, Madhy...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s1e07-002",
+      "type": "content",
+      "image": "images/series1/ep07/slide-002.webp",
+      "text": "1923 and in Bilaspur, Chhattisgarh in the second phase of Jhanda Satyagraha on 31 March 1923. They were arrested. Pandit Sundarlal Sharma was sentence...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s1e07-003",
+      "type": "content",
+      "image": "images/series1/ep07/slide-003.webp",
+      "text": "Deshmukh , and Mahatma Bhagwadin led the movement. After his arrest, Vallabhbhai Patel led the movement. At the All India Congress Committee meeting i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s1e07-004",
+      "type": "content",
+      "image": "images/series1/ep07/slide-004.webp",
+      "text": "to support the Jhanda Satyagraha. In 1930, Jungle Satyagraha Tamora, Mahasamund The movement took place at this place from 8 September to 24 September...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s1e07-005",
+      "type": "content",
+      "image": "images/series1/ep07/slide-005.webp",
+      "text": "Jungle Satyagraha. In this movement, nearby tribals actively participated in this movement. During the Satyagraha, when the police used force on the m...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s1e07-006",
+      "type": "content",
+      "image": "images/series1/ep07/slide-006.webp",
+      "text": "took over the leadership of the movement. The British enacted the Forest Act and local residents were prohibited from entering the forest. Tamora's Sa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s1e07-007",
+      "type": "content",
+      "image": "images/series1/ep07/slide-007.webp",
+      "text": "part of Gandhi's Civil disobedience movement, which started by Raghuvar Singh Dewan in Tamora. In the year 1930, Mahatma Gandhi's Civil Disobedience M...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s1e07-008",
+      "type": "content",
+      "image": "images/series1/ep07/slide-008.webp",
+      "text": "Raipur city. Meanwhile the opportunity had come to expand the movement, when reports of dissatisfaction among the villagers were being received from T...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s1e07-009",
+      "type": "content",
+      "image": "images/series1/ep07/slide-009.webp",
+      "text": "was also related to the forest. Some of the cattle of the village had entered the government forest, which was caught by the watchman Bisahuram. He ca...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s1e07-010",
+      "type": "content",
+      "image": "images/series1/ep07/slide-010.webp",
+      "text": "and said that the cattle owners should write that their cattle graze in the forest. The villagers refused to give this in writing, as the cattle often...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s1e07-011",
+      "type": "content",
+      "image": "images/series1/ep07/slide-011.webp",
+      "text": "government forest. The villagers also refused to accept the seized cattle. The forest department filed a lawsuit against the farmers and the malguzars...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s1e07-012",
+      "type": "content",
+      "image": "images/series1/ep07/slide-012.webp",
+      "text": "the case itself was found to be false, the incident was reported to the Raipur District Congress Committee. Shankarrao Ganodwale and Yeti Yatan Lal we...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s1e07-013",
+      "type": "content",
+      "image": "images/series1/ep07/slide-013.webp",
+      "text": "Villagers of Tamora met him in village Khatti, after a brief discussion, the villagers agreed for Jungle Satyagraha. A few days later, a meeting was h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s1e07-014",
+      "type": "content",
+      "image": "images/series1/ep07/slide-014.webp",
+      "text": "many people got their names registered for the Satyagraha, out of which 90 were selected, and for the next 15 days, people were prepared for the Jungl...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s1e07-015",
+      "type": "content",
+      "image": "images/series1/ep07/slide-015.webp",
+      "text": "from village to village. On 6 September 1930, a resolution was passed to organize a public meeting and satyagraha in Tamora village on 8 September in ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s1e07-016",
+      "type": "content",
+      "image": "images/series1/ep07/slide-016.webp",
+      "text": "Arimardan Giri was appointed as the Dictator in a meeting of prom inent persons in village Labhra. On 7 September 1930, the Dictator gave notice of Ju...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s1e07-017",
+      "type": "content",
+      "image": "images/series1/ep07/slide-017.webp",
+      "text": "Deputy Commissioner of Raipur and on the same day Tamora was selected for the Satyagraha in the meeting held at Khamharmuda. On September 8, a general...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s1e07-018",
+      "type": "content",
+      "image": "images/series1/ep07/slide-018.webp",
+      "text": "the presence of thousands of people and the first batch of satyagrahis was sent towards the forest. This group included Bajrang Das, Janardan Gir Numb...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s1e07-019",
+      "type": "content",
+      "image": "images/series1/ep07/slide-019.webp",
+      "text": "and Sanwal Das of Khamharmuda. However, there was no police on the spot, so no arrest was made. On September 9, a bigger meeting was held in Tamora th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s1e07-020",
+      "type": "content",
+      "image": "images/series1/ep07/slide-020.webp",
+      "text": "previous meeting, on that day there were other officers along with Tehsildar Matange, some police personnel were accompanied by Sub Inspector Mirza Ba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s1e07-021",
+      "type": "content",
+      "image": "images/series1/ep07/slide-021.webp",
+      "text": "sent to the forest, they were arrested. Then another team was sent and also arrested. The arrested Satyagrahis were brought to the Chhapri of Malguzar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s1e07-022",
+      "type": "content",
+      "image": "images/series1/ep07/slide-022.webp",
+      "text": "people started returning, when a police constable asked Itwari Kenwat to carry Kanwar. Itwari Kenwat refused to do forced labor, then caught the other...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s1e07-023",
+      "type": "content",
+      "image": "images/series1/ep07/slide-023.webp",
+      "text": "named Paklu, on this Paklu was arrested but Paklu sat there fiercely, then the enraged constable beat him up. When Paklu resisted, another soldier hit...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s1e07-024",
+      "type": "content",
+      "image": "images/series1/ep07/slide-024.webp",
+      "text": "head exploded. After which the people got angry, in the chaos, the Tehsildar did a mild lathi charge in the deteriorating situation, and after reachin...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s1e07-025",
+      "type": "content",
+      "image": "images/series1/ep07/slide-025.webp",
+      "text": "it, the assistant of the Tehsildar, Dwivedi pointed his pistol at Paklu. After all, blood-stained Paklu was also taken to Malguzar's chapri. The Satya...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s1e07-026",
+      "type": "content",
+      "image": "images/series1/ep07/slide-026.webp",
+      "text": "were sent to village Thod by pitying them. On September 10, the meeting was held again, and thousands of people attended the meeting. The third batch ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s1e07-027",
+      "type": "content",
+      "image": "images/series1/ep07/slide-027.webp",
+      "text": "after which Sub Inspector Mirza Baig arrested Shankarrao Ganodwale. On September 11, a meeting was also organized, and a large group of about 500 peop...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s1e07-028",
+      "type": "content",
+      "image": "images/series1/ep07/slide-028.webp",
+      "text": "on the way by Mirza Baig and Dwivedi and after persuasion some people went back but some went towards the meeting place. Grown up, 17 Satyagrahis who ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s1e07-029",
+      "type": "content",
+      "image": "images/series1/ep07/slide-029.webp",
+      "text": "arrested on September 11 and released in the forest. On 12 september, There was a general meeting again on the day , the patience of the police was br...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s1e07-030",
+      "type": "content",
+      "image": "images/series1/ep07/slide-030.webp",
+      "text": "the daily meeting, and Section 144 was imposed and orders were given for lathi charge at the meeting place, people were given a time of five minutes. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s1e07-031",
+      "type": "content",
+      "image": "images/series1/ep07/slide-031.webp",
+      "text": "started. On that day more than five thousand villagers were present in the meeting place, a large number of women were also present there, on the day ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s1e07-032",
+      "type": "content",
+      "image": "images/series1/ep07/slide-032.webp",
+      "text": "imposed, there was a meeting in Tamora. There were also a large number of women there. The police were stopping the people of Karubhatha, Thonga, Dhau...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s1e07-033",
+      "type": "content",
+      "image": "images/series1/ep07/slide-033.webp",
+      "text": "the meeting with a rope. A girl named Dayavati and other women were on their way to the place designated for women when a lathi charge took place. Acc...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s1e07-034",
+      "type": "content",
+      "image": "images/series1/ep07/slide-034.webp",
+      "text": "Dayavati's statement, the police started trying to remove the women from the bayonets but they were not ready to move from their place. Dayavati told ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s1e07-035",
+      "type": "content",
+      "image": "images/series1/ep07/slide-035.webp",
+      "text": "due to fear of being beaten with sticks, but women remained standing at the meeting place. On 13 september, Satyagrahis were also arrested but they we...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s1e07-036",
+      "type": "content",
+      "image": "images/series1/ep07/slide-036.webp",
+      "text": "day. On 14 september, Heeraman, Prem Ganda of Doomardih and Lallu Ganda of Parsada were arrested during the Satyagraha. Prem was beaten up with sticks...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s1e07-037",
+      "type": "content",
+      "image": "images/series1/ep07/slide-037.webp",
+      "text": "Satyagraha did not take place but a meeting was held in Tusada. On 16 september, A general meeting was held in Amethi, on that day a group of village ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s1e07-038",
+      "type": "content",
+      "image": "images/series1/ep07/slide-038.webp",
+      "text": "which included Ruru Kenwat, Ramadhar Marar, Manrakhan Koshta, Mahesh Marar were arrested. Chauthmal, Advaita Giri and Khelu of Doomarpali were arreste...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s1e07-039",
+      "type": "content",
+      "image": "images/series1/ep07/slide-039.webp",
+      "text": "batch was sent for Satyagraha, that day Rajaram Marar, Kapil Gond, Mani Gond, Shivraj Singh Gond and Raghubir Singh Malguzar (Tamora) were arrested, a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s1e07-040",
+      "type": "content",
+      "image": "images/series1/ep07/slide-040.webp",
+      "text": "September 24, The Satyagraha continued from 8 September to 24 September. A general meeting was held in Amethi on 24th itself, villagers were beaten up...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s1e07-041",
+      "type": "content",
+      "image": "images/series1/ep07/slide-041.webp",
+      "text": "was concluded on this day. During this movement, Raghuvar Singh Dewan, a resident and Malguzar of Tamora, was sentenced to three months' imprisonment ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s1e07-042",
+      "type": "content",
+      "image": "images/series1/ep07/slide-042.webp",
+      "text": "this Satyagraha and was sent to the Central Jail, Raipur, and as per the villages from Tamora, Raghuvar Singh Dewan's niece Dayavati had slapped the t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s1e07-043",
+      "type": "content",
+      "image": "images/series1/ep07/slide-043.webp",
+      "text": "the lathi charge . Gandhi had come to Tamora in 1933 after hearing about this Satyagraha. Since then the identity of the village was associated with G...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s1e07-044",
+      "type": "content",
+      "image": "images/series1/ep07/slide-044.webp",
+      "text": "came to be known as \"Gandhigram Tamora\". Police Brutality, Riots And Loot The Tamora, Mahasamund Jungle Satyagraha of 1930 was a non-violent and symbo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s1e07-045",
+      "type": "content",
+      "image": "images/series1/ep07/slide-045.webp",
+      "text": "tumult was there all over the region. S ome parallel incidents took place, which were carried out by the British government in an attempt to break, in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s1e07-046",
+      "type": "content",
+      "image": "images/series1/ep07/slide-046.webp",
+      "text": "movement. The British had instilled so much hatred among the sycophants and policemen who took advantage of the government for the people who spoke ag...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s1e07-047",
+      "type": "content",
+      "image": "images/series1/ep07/slide-047.webp",
+      "text": "police constable of Indian origin was beating the people of his own country with hatred and brutality. They were robbing them, beating them mercilessl...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s1e07-048",
+      "type": "content",
+      "image": "images/series1/ep07/slide-048.webp",
+      "text": "beat any helpless person to half-dead who was thinking against the government. In the village Tamora, Tamora's Malagujar Raghubir Singh was legally im...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s1e07-049",
+      "type": "content",
+      "image": "images/series1/ep07/slide-049.webp",
+      "text": "but unethically the police robbed the cucumber crop and sugarcane from malgujar's farm. Bananas were looted from the trees by the police constables wh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s1e07-050",
+      "type": "content",
+      "image": "images/series1/ep07/slide-050.webp",
+      "text": "from there. Bananas from the houses of farmers Raghu, Ramdas, Ramcharan, the policemen took the pumpkin from the houses of Mohan, Chamar Rai, Mangallu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s1e07-051",
+      "type": "content",
+      "image": "images/series1/ep07/slide-051.webp",
+      "text": "from the house of Anandram, r ak h iya (fruit) was robbed from the bari ( fence ) of Vishal Das and Ghasi, t he chickens o f Chamru and...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s1e07-052",
+      "type": "content",
+      "image": "images/series1/ep07/slide-052.webp",
+      "text": "Charan were looted, at Jhuran Binjhwar's house, the police ate stale and mistook ghee and drank crow's oil, after drinking the oil, they started vomit...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s1e07-053",
+      "type": "content",
+      "image": "images/series1/ep07/slide-053.webp",
+      "text": "a 90 year s old Dharamu Kalar, he was paralyzed and also deaf, but had somehow reached the meeting place slither walking . This old and helpless perso...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s1e07-054",
+      "type": "content",
+      "image": "images/series1/ep07/slide-054.webp",
+      "text": "up by the police with sticks . Malguzar Rag hubir Singh fined Rs 200, Lachhan Kunwar was also fined Rs 100. In an incidence, w hile guarding his own h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s1e07-055",
+      "type": "content",
+      "image": "images/series1/ep07/slide-055.webp",
+      "text": "from Police robbing , Amar Singh of Khamharmuda were put in jail. An inspector and 2 constables entered the house forcibly and searched the house afte...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s1e07-056",
+      "type": "content",
+      "image": "images/series1/ep07/slide-056.webp",
+      "text": "i nspector started beating Amar Singh with a stick , a nd asked to say the slogon \"˜Long live the King' . In response, Amar Singh said ' Mahatma Ga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s1e07-057",
+      "type": "content",
+      "image": "images/series1/ep07/slide-057.webp",
+      "text": "ndhi ki Jai' ( Glory to Mahatma Gandhi ). The Inspector and the constables beat up Amar Singh a lot, when his wife stood in front to save the middle,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s1e07-058",
+      "type": "content",
+      "image": "images/series1/ep07/slide-058.webp",
+      "text": "the policemen together beat his wife Devi with sticks. A fine of Rs 300 was imposed on Malguzar of Khamharmuda, Fuguva Kotwar also became a victim of ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s1e07-059",
+      "type": "content",
+      "image": "images/series1/ep07/slide-059.webp",
+      "text": "50 on Hirapuri and Shivlalpuri was fined Rs 50. Rs 100 fine was forcly recovered from a 70-year-old farmer Shankar Giri from village Pacheda, Rs 100 f...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s1e07-060",
+      "type": "content",
+      "image": "images/series1/ep07/slide-060.webp",
+      "text": "100 from Budhram. Few policemen forcibly had a feast at Johan Teli's house, entered his house and cooked and ate food. Shobharam, Govind Panka, Vittha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s1e07-061",
+      "type": "content",
+      "image": "images/series1/ep07/slide-061.webp",
+      "text": "of village Labhra were beaten up. Rs 200 each was recovered from Prem Giri, Jeevan Giri and Janardan Giri. Kachru was badly be aten up by the police i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s1e07-062",
+      "type": "content",
+      "image": "images/series1/ep07/slide-062.webp",
+      "text": ". Fortunately no one was beaten up by the police in Navagaon, but o ne hundred rupees fine was forcly collected from Devi Singh . Hiramal Teli of Doom...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s1e07-063",
+      "type": "content",
+      "image": "images/series1/ep07/slide-063.webp",
+      "text": "jailed for six months and fined Rs 200. Six bullocks, two buffaloes, four cows, four heifers were attached for non-payment of the fine, and a few days...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s1e07-064",
+      "type": "content",
+      "image": "images/series1/ep07/slide-064.webp",
+      "text": "and a cycle were attached from his Pacheda's house and Rs 57 in cash was also confiscated. The attached cattle were auctioned in Mahasamund. In hiatus...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s1e07-065",
+      "type": "content",
+      "image": "images/series1/ep07/slide-065.webp",
+      "text": ", the hated English sycophantic policemen looted and rioted in the areas of Mahasamund, forcibly entered the house, beaten on the road, forcing the sl...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s1e07-066",
+      "type": "content",
+      "image": "images/series1/ep07/slide-066.webp",
+      "text": "ut people in retaliation considered Gandhi's ideology higher than violence, and even after being beaten up, only one word came out of their mouth, tha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s1e07-067",
+      "type": "content",
+      "image": "images/series1/ep07/slide-067.webp",
+      "text": "Jai\". Tanwat-Nawapara Jungle Satyagraha In 1930, Mahatma Gandhi was engaged in organizing the Rural Congress. The \"Gandhi cap\" had become a symbol of ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s1e07-068",
+      "type": "content",
+      "image": "images/series1/ep07/slide-068.webp",
+      "text": "looting also continued in the Tanwar-Nawapara area. In urban areas, the British police exercised restraint due to the pressure and fear of big leaders...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s1e07-069",
+      "type": "content",
+      "image": "images/series1/ep07/slide-069.webp",
+      "text": "completely unbridled. Presently Navapara and Khariar are now included in Odisha, until 1 April 1935 they were included in Mahasamund tehsil of Chhatti...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s1e07-070",
+      "type": "content",
+      "image": "images/series1/ep07/slide-070.webp",
+      "text": "was formed. In the Tanwat-Nawapara area, a program of promotion of Swadeshi and prohibition of alcohol was conducted. Both these villages came under K...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s1e07-071",
+      "type": "content",
+      "image": "images/series1/ep07/slide-071.webp",
+      "text": "people due to the tyranny of the landlord, because the landlord was used to taking forced labor from the people. He used to find excuses to pass the b...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s1e07-072",
+      "type": "content",
+      "image": "images/series1/ep07/slide-072.webp",
+      "text": "rent on the farmers. Even his relations with the nearby Malguzars were not good. The zamindar's henchmen also used to roam around with sticks and guns...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s1e07-073",
+      "type": "content",
+      "image": "images/series1/ep07/slide-073.webp",
+      "text": "When the news of atrocities reached the District Congress Committee, Thakur Pyarelal Singh, Maulana Abdul Rauf Khan, Bhagwati Prasad Mishra, Yati Yata...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s1e07-074",
+      "type": "content",
+      "image": "images/series1/ep07/slide-074.webp",
+      "text": "April 1931 for investigation. This team conducted investigation in five centers, Tamora on 14 April, Tanwat-Nawapara on 15, Khariyar on 16, Chowkbeda ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s1e07-075",
+      "type": "content",
+      "image": "images/series1/ep07/slide-075.webp",
+      "text": "the victims and took their testimony. Although the appropriate time could not be found for the investigation, but what came out was frightening, peopl...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s1e07-076",
+      "type": "content",
+      "image": "images/series1/ep07/slide-076.webp",
+      "text": "the police, due to paucity of time, complete information could not be received. Nevertheless, the report he prepared on the basis of the interviews wi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s1e07-077",
+      "type": "content",
+      "image": "images/series1/ep07/slide-077.webp",
+      "text": "tell the history of the atrocities. The Congress movement was widespread in Mahasamund tehsil, but could not take root in Tanwat-Nawapara. Foreign boy...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s1e07-078",
+      "type": "content",
+      "image": "images/series1/ep07/slide-078.webp",
+      "text": "campaigning was widespread, although wicket-keeping took place in some places, some meetings were held and a few strikes were also held. On 15 April 1...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s1e07-079",
+      "type": "content",
+      "image": "images/series1/ep07/slide-079.webp",
+      "text": "28 people of the area were in jail, including Malguzars and farmers. He was imprisoned from 6 months to 4 years. In Saliha village, 5 miles from Tanwa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s1e07-080",
+      "type": "content",
+      "image": "images/series1/ep07/slide-080.webp",
+      "text": "opened fire and people were beaten up with sticks. Some people, who were suffering from the unjust forced labor, logistics and rent of the Zamindar, h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s1e07-081",
+      "type": "content",
+      "image": "images/series1/ep07/slide-081.webp",
+      "text": "Commissioner of Raipur, on this complaint a fine of two hundred rupees was imposed on the Zamindar, but the Zamindar adopted a repressive attitude to ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s1e07-082",
+      "type": "content",
+      "image": "images/series1/ep07/slide-082.webp",
+      "text": "Organized villagers stopped logistical and forced labor and refused to pay the loan, so the landlord then increased the tax on every item of the fores...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s1e07-083",
+      "type": "content",
+      "image": "images/series1/ep07/slide-083.webp",
+      "text": "from the livelihood of the villagers, wood and fodder for the animals were available from the forest itself, the villagers then decided to break the \"...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s1e07-084",
+      "type": "content",
+      "image": "images/series1/ep07/slide-084.webp",
+      "text": "started demanding the amount of grazing to be recovered in December-January in September, on which people objected. The henchmen turned to hooliganism...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s1e07-085",
+      "type": "content",
+      "image": "images/series1/ep07/slide-085.webp",
+      "text": "were locked up in kanji houses (Shed for unclaimed cattle causing damage to agriculture etc.). In the villages of Chhattisgarh, there was a tradition ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
