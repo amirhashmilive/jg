@@ -1,1 +1,1029 @@
-﻿{ "series": 1, "episode": 10, "title": "The Spark That Stayed", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 1,
+  "episode": 10,
+  "title": "Episode 10",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s1e10-001",
+      "type": "content",
+      "image": "images/series1/ep10/slide-001.webp",
+      "text": "The primary responsibility of arranging Gandhi's visit to Chhattisgarh was on the Pt. Ravi Shankar Shukla, but since no t a single person was accompan...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s1e10-002",
+      "type": "content",
+      "image": "images/series1/ep10/slide-002.webp",
+      "text": "it was not possible to get the details of his entire journey from any one person. But the towns and villages he passed through, people remembered his ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s1e10-003",
+      "type": "content",
+      "image": "images/series1/ep10/slide-003.webp",
+      "text": "deeply, and various writers and permanent journalists compiled it over time, which are available in fractions of stories from different cities and pla...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s1e10-004",
+      "type": "content",
+      "image": "images/series1/ep10/slide-004.webp",
+      "text": "took place on 22 November 1933 in Durg district. Gandhi was accompanied by his secretary Mahadev Desai, Thakkar Bapa, Kumari Meera Ben (Madelaine Slad...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s1e10-005",
+      "type": "content",
+      "image": "images/series1/ep10/slide-005.webp",
+      "text": "Madalsa Narayan also came to Raipur. O n this journey , he went to places like Durg, Dhamtari, Bhatapara, Bilaspur , etc. U ntouchability was the main...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s1e10-006",
+      "type": "content",
+      "image": "images/series1/ep10/slide-006.webp",
+      "text": "second arrival , during his visit to Chhattisgarh , he came to know that the work of untouchability is a lready going on in Chhattisgarh, from 1917 by...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s1e10-007",
+      "type": "content",
+      "image": "images/series1/ep10/slide-007.webp",
+      "text": "Sundarlal Sharma. Gandhi was happy to know this and he said to P t. Sundarlal Sharma that: \" Harijan Uddhar me aap mere bhi guru hain \" ( You are...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s1e10-008",
+      "type": "content",
+      "image": "images/series1/ep10/slide-008.webp",
+      "text": "even my G uru in Untouchability salvation or y ou are better than me in untouchability salvation ). Gandhi in Durg November 22, Gandhi Reached Durg, a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s1e10-009",
+      "type": "content",
+      "image": "images/series1/ep10/slide-009.webp",
+      "text": "in Durg, left for Raipur in the same night, a historic procession from Amapara to Budhapara, Ra i pur. On 22 November at Durg, Gandhi asked about the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s1e10-010",
+      "type": "content",
+      "image": "images/series1/ep10/slide-010.webp",
+      "text": "be seen here. Gupta a leader from Durg, told him about the school where since 1926 the children of upper castes and Harijans were studying sitting on ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s1e10-011",
+      "type": "content",
+      "image": "images/series1/ep10/slide-011.webp",
+      "text": "This school was established in 1925. On the same day in the evening , a huge public meeting was held o n the grounds of the Moti Bagh pond of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s1e10-012",
+      "type": "content",
+      "image": "images/series1/ep10/slide-012.webp",
+      "text": "the Durg . In the public meeting, Gandhi delivered a speech. Gandhi also had food while sitting with the children of the untouchable class at Baithd S...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s1e10-013",
+      "type": "content",
+      "image": "images/series1/ep10/slide-013.webp",
+      "text": "Bazar. Gandhi in Raipur , November 23 Gandhi reached Raipur by motor on the same night, addressing a huge gathering in the Durg at 9 p.m. as a process...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s1e10-014",
+      "type": "content",
+      "image": "images/series1/ep10/slide-014.webp",
+      "text": "Amapara School (P resent-day RD Tiwari School) he reached the residence of Pt. Ravishankar Shukla at B udhapara . The crowd can only be estimated from...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s1e10-015",
+      "type": "content",
+      "image": "images/series1/ep10/slide-015.webp",
+      "text": "took them more than three hours to reach Shukla Niwas from Amapara. His A arti (welcoming prayers) was performed every few step s , Mahatma Gandhi was...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s1e10-016",
+      "type": "content",
+      "image": "images/series1/ep10/slide-016.webp",
+      "text": "garlands. Flowers and pylons were decorated on both sides of the road and lamps were lit all the way. Such a historical welcome can only be from the h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s1e10-017",
+      "type": "content",
+      "image": "images/series1/ep10/slide-017.webp",
+      "text": "Gandhi lived in Raipur till 28 November. He would visit other cities in the morning and take meetings and return for the rest of the night. Gandhi and...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s1e10-018",
+      "type": "content",
+      "image": "images/series1/ep10/slide-018.webp",
+      "text": "n wall On 23 November, Gandhi came for the Khadi and Swadeshi exhibition at Victoria Garden ( Presently know as Moti Bagh ) at four in the evening. Ya...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s1e10-019",
+      "type": "content",
+      "image": "images/series1/ep10/slide-019.webp",
+      "text": "wrote in his diary , \" There was a crowd of more than one lakh on this occasion. It was as if the Raipur district was overflowing. Wherever Narmund, o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s1e10-020",
+      "type": "content",
+      "image": "images/series1/ep10/slide-020.webp",
+      "text": "Narmund was seen. The crowd was so much that Gandhi ha d to be moved by another route \" . Pt. Ramdayal Tiwari, the author of Gandhi Mimam sa, was...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s1e10-021",
+      "type": "content",
+      "image": "images/series1/ep10/slide-021.webp",
+      "text": "also present there. H e mention s that, \"˜ Welcoming Gandhi ' is a fierce display of people ' s reverence. As soon as his car arrived, the whole dam...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s1e10-022",
+      "type": "content",
+      "image": "images/series1/ep10/slide-022.webp",
+      "text": "of the system broke. Gandhi ' s car got caught in the whirlwind of the people, had it not been strong enough, it would have been crushed and crushed b...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s1e10-023",
+      "type": "content",
+      "image": "images/series1/ep10/slide-023.webp",
+      "text": "the combined power of the people. In summary, Gandhi's reception was so uncontrollable that he went through a lot of difficult ies . The public rallie...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s1e10-024",
+      "type": "content",
+      "image": "images/series1/ep10/slide-024.webp",
+      "text": "and unfortunately the loudspeaker also deteriorated. No one could tell exactly what Gandhi said there. The back wall of the garden had to be broken to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s1e10-025",
+      "type": "content",
+      "image": "images/series1/ep10/slide-025.webp",
+      "text": "exhibition site. On 24 November Gandhi met and was greeted at Lorry School (currently Sapre School). They were presented with manne r s, placed in sil...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s1e10-026",
+      "type": "content",
+      "image": "images/series1/ep10/slide-026.webp",
+      "text": "auctioned at the venue itself. The amount received was given in Harijan-Kosh. He attended the meeting held at Moudhapara. He also visited the Satnam A...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s1e10-027",
+      "type": "content",
+      "image": "images/series1/ep10/slide-027.webp",
+      "text": "worth remembering that the Satnam Ashram was established by the efforts of Pt. Sundarlal Sharma. When Gandhi was informed about this, the words that c...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s1e10-028",
+      "type": "content",
+      "image": "images/series1/ep10/slide-028.webp",
+      "text": "\" Pt. Sundarlal Sharma is senior than me in the work of salvation of Harijans. Those who have done an ideal in conducting this important work of the c...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s1e10-029",
+      "type": "content",
+      "image": "images/series1/ep10/slide-029.webp",
+      "text": "me \" . I am a Baniya: Mahatma Gandhi After inspecting the Satnam Ashram, Gandhi went to Kanhaiyalal Verma's house in Nayapara. There he addressed a w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s1e10-030",
+      "type": "content",
+      "image": "images/series1/ep10/slide-030.webp",
+      "text": "speec h , he spread his bag for the Harijan fund. The women filled his bag. Jetha Bai donat ed her gold ring. Gandhi said: \"I am a Baniya (tradesman),...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s1e10-031",
+      "type": "content",
+      "image": "images/series1/ep10/slide-031.webp",
+      "text": "I will auction it\". and was auctioned at a meeting of Gandhi Chowk in a bid of Rs 500 for a ring of 15 rupees. Avoiding national defects Gandhi was...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s1e10-032",
+      "type": "content",
+      "image": "images/series1/ep10/slide-032.webp",
+      "text": "invited to deliver a speech at Rajkumar College. The principal was Smith Pearce. Gandhi said - \" Children must come in contact with the British and ta...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s1e10-033",
+      "type": "content",
+      "image": "images/series1/ep10/slide-033.webp",
+      "text": "try to avoid their national miseries like alcoholism and gambling \" . The prince of the Riyasat s of Chhattisgarh used to study in Rajkumar College. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s1e10-034",
+      "type": "content",
+      "image": "images/series1/ep10/slide-034.webp",
+      "text": "e further said in his address: \" Unfortunately we think that the king is a king, he cannot have any relation with the common people.\" So we see that ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s1e10-035",
+      "type": "content",
+      "image": "images/series1/ep10/slide-035.webp",
+      "text": "separate school has to be opened for you. You do not dar e to get an education in ordinary schools. The sense of untouchability is stigma. In such a s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s1e10-036",
+      "type": "content",
+      "image": "images/series1/ep10/slide-036.webp",
+      "text": "you have to act with the same courage as Prahlada. This idea is completely contrary to my understanding, that a person becomes a n upper caste or unto...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s1e10-037",
+      "type": "content",
+      "image": "images/series1/ep10/slide-037.webp",
+      "text": "A complaint was made to the Home Secretary about the audacity of Smith Pearce, the principal of Rajkumar College. Abbas Bhai's License seized In 1920,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s1e10-038",
+      "type": "content",
+      "image": "images/series1/ep10/slide-038.webp",
+      "text": "then Abbas Bhai's motor ride to Gandhi came to Dhamtari. Gandhi and other leaders were to go to Dhamtari o n the bus. The police stopped the driver of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s1e10-039",
+      "type": "content",
+      "image": "images/series1/ep10/slide-039.webp",
+      "text": "bus at the last moment. All the leaders were waiting for the bus in front of the Children's Society Library at Brahmanpara. When the driver did not co...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s1e10-040",
+      "type": "content",
+      "image": "images/series1/ep10/slide-040.webp",
+      "text": "took up the steering and took Gandhi to Dhamtari. After a few days, the license of Abbas Bhai ' s Raipur Bus Service was canceled by Deputy Commission...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s1e10-041",
+      "type": "content",
+      "image": "images/series1/ep10/slide-041.webp",
+      "text": "A . Clarke. Gandhi in Dhamtari On 25 November, Gandhi met at Dhamtari at ten - thirty in the morning. He was presented with an honorarium on behalf of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s1e10-042",
+      "type": "content",
+      "image": "images/series1/ep10/slide-042.webp",
+      "text": "Municipal Corporation of the Local Board. Gandhi auctioned the certificate in the assembly itself, a bid of 15 rupees was made. Meanwhile, a bundle of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s1e10-043",
+      "type": "content",
+      "image": "images/series1/ep10/slide-043.webp",
+      "text": "instructions, his secretary Mahadev Desai would reply to the letters. Gandhi reached t he home of Chhotelal Srivastava, A women's meeting was held in ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s1e10-044",
+      "type": "content",
+      "image": "images/series1/ep10/slide-044.webp",
+      "text": "meeting, Gandhi called for an end to untouchability and discrimination of caste and creed. After the meeting, Satnam received fruits from the food bro...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s1e10-045",
+      "type": "content",
+      "image": "images/series1/ep10/slide-045.webp",
+      "text": "He was very impressed with the cleanliness of the Harijan locality. Call the Naapi It is about the Dhamtari incident. Gandhi had to shave. M eeraben t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s1e10-046",
+      "type": "content",
+      "image": "images/series1/ep10/slide-046.webp",
+      "text": "\"Bring the Naapi\" Dr. Jain kept asking the people who came with Gandhi, \" Who are the Naapi? Gandhi calls them \" Someone told them the Naapi is calle...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s1e10-047",
+      "type": "content",
+      "image": "images/series1/ep10/slide-047.webp",
+      "text": "hairdresser. \" Hazarilal rushed to Brahmapara and brought Makhan from there. Makhan shaved Gan dhi after shaved Gandhi said to Hazarilal: ' Give a ru...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s1e10-048",
+      "type": "content",
+      "image": "images/series1/ep10/slide-048.webp",
+      "text": "Makhan fell at the feet of Gandhi and said: \"˜ Jekar Darasan Bar Laakhon Logan Taras Rahithen, Taun La Main Aaj Chhoo Lenv, Ihee Mor Nyochhaavar He ' ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s1e10-049",
+      "type": "content",
+      "image": "images/series1/ep10/slide-049.webp",
+      "text": "To whom millions of people yearn to see, I touched him myself, this is my reward ' .) Then the Gandhi said: \"˜ Feed a green grass of one and...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s1e10-050",
+      "type": "content",
+      "image": "images/series1/ep10/slide-050.webp",
+      "text": "a quarter rupees to a cow ' Similarly, the Kuber from Raipur also got the opportunity to shave Gandhi. He too refused to take leave, but he also kept ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s1e10-051",
+      "type": "content",
+      "image": "images/series1/ep10/slide-051.webp",
+      "text": "hair for years. Turmeric rice in a bundle From Dhamtari, a bundle fell in Mahatma Gandhi's motor at Cornaband Chowk in Raipur. The bundle was opened o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s1e10-052",
+      "type": "content",
+      "image": "images/series1/ep10/slide-052.webp",
+      "text": "contained a turmeric lump, a little yellow rice, two cauldrons, a half-coin , and some flowers. It came out of Gandhi's mouth \"“ \" It is a gift of a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s1e10-053",
+      "type": "content",
+      "image": "images/series1/ep10/slide-053.webp",
+      "text": "true poor \" . A Potali (B undle ) was auctioned at the House of Nawapara-Rajim for 101 rupees. Gandhi near Nandghat , November 24 E arlier in the mor...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s1e10-054",
+      "type": "content",
+      "image": "images/series1/ep10/slide-054.webp",
+      "text": "of November 24, Gandhi left for Bilaspur by an open car. Near Nandghat, an old lady stood in front of her car carrying a flower garland. Gandhi did no...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s1e10-055",
+      "type": "content",
+      "image": "images/series1/ep10/slide-055.webp",
+      "text": "anywhere other than the scheduled program. But looking at the 70 - 75 -year- old wo man, he stopped the car and asked: \" What's the matter? \" The wo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s1e10-056",
+      "type": "content",
+      "image": "images/series1/ep10/slide-056.webp",
+      "text": "man said: \"˜I am a Harijan woman, I want to wash Gandhi's feet once before dying and offer them flowers' . Gandhi said with a laugh: \" I'll take one...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s1e10-057",
+      "type": "content",
+      "image": "images/series1/ep10/slide-057.webp",
+      "text": "rupee for that \" . Where does that poor old la dy come from? One rupee in 1933? The woman became frustrated. He said: \" You stay here, Bab a,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s1e10-058",
+      "type": "content",
+      "image": "images/series1/ep10/slide-058.webp",
+      "text": "I am in search of my house.\" Gandhi thought more jest, he said: \"I don't have time to stop.\" Hearing the answer, the woman was shocked. At suddenly ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s1e10-059",
+      "type": "content",
+      "image": "images/series1/ep10/slide-059.webp",
+      "text": "nt, Gandhi put one foot forward, and t he old wo man's wish was complete. Gandhi in Bilaspur , November 24 When Gandhi had come to Chhattisgarh for th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s1e10-060",
+      "type": "content",
+      "image": "images/series1/ep10/slide-060.webp",
+      "text": "time in 1920 under the Kandel Canal Satyagraha movement, he promised to come to Bilaspur soon at the request of the people of Bilaspur. Thirteen years...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s1e10-061",
+      "type": "content",
+      "image": "images/series1/ep10/slide-061.webp",
+      "text": "time Gandhi had promised to come to Bilaspur, but the people's craze for Gandhi had not diminished, and the proof of this is that like in Raipur, Dham...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s1e10-062",
+      "type": "content",
+      "image": "images/series1/ep10/slide-062.webp",
+      "text": "of Bilaspur and its surroundings started camping in Bilaspur weeks in advance to see and hear Gandhi as soon as the information of Gandhi's arrival wa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s1e10-063",
+      "type": "content",
+      "image": "images/series1/ep10/slide-063.webp",
+      "text": "the information of Gandhi's arrival in Bilaspur was received, people in and around Bilaspur started camping in Bilaspur weeks before to see Gandhi. Ba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s1e10-064",
+      "type": "content",
+      "image": "images/series1/ep10/slide-064.webp",
+      "text": "Amar Singh Sehgal were responsible for making Gandhi's arrival at Bilaspur successful and organizing the meeting. Gandhi was welcomed as soon as he re...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s1e10-065",
+      "type": "content",
+      "image": "images/series1/ep10/slide-065.webp",
+      "text": "At present, he was given a grand welcome near the place called Jarhabhatha Chowk . On 24 November 1933 , Gandhi reached Bilaspur at eight in the morni...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s1e10-066",
+      "type": "content",
+      "image": "images/series1/ep10/slide-066.webp",
+      "text": "started gathering in the city from dawn itself. At seven o'clock, different groups of people turned into a massive crowd, there was no place to walk o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s1e10-067",
+      "type": "content",
+      "image": "images/series1/ep10/slide-067.webp",
+      "text": "and Gandhi's motor was crawling like an ant. Gandhi had come to Bilaspur in an open car, p eople were showering coins, which was also hurting Gandhi. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s1e10-068",
+      "type": "content",
+      "image": "images/series1/ep10/slide-068.webp",
+      "text": "possibility of a crowd, so the group of volunteers surrounded the car. But the enthusiasm of the people and the desire to touch Gandhi was such that m...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s1e10-069",
+      "type": "content",
+      "image": "images/series1/ep10/slide-069.webp",
+      "text": "injured due to the brunt of the bumps and nails of the people. Yadunandan Prasad Srivastava, who was clearing the path in front of the car, got caught...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s1e10-070",
+      "type": "content",
+      "image": "images/series1/ep10/slide-070.webp",
+      "text": "grip of the crowd so that his feet got uprooted from the ground and he got hit by the road. Gandhi was then sent to the residence of Kunjbehari Agniho...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s1e10-071",
+      "type": "content",
+      "image": "images/series1/ep10/slide-071.webp",
+      "text": "for rest, where the cr owd was becoming uncontrollable, Gandhi had greeted the crowd present outside the window of the house. After the meal, on the s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s1e10-072",
+      "type": "content",
+      "image": "images/series1/ep10/slide-072.webp",
+      "text": "meeting of women was organized in the Company Garden of the city which is now known as Vivekananda Udyan. Gandhi reached this meeting and for the coll...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s1e10-073",
+      "type": "content",
+      "image": "images/series1/ep10/slide-073.webp",
+      "text": "Swaraj fund s , women presented him a bag full of 1000 rupees, which Gandhi considered very little as an aid to independence , and then the women imme...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s1e10-074",
+      "type": "content",
+      "image": "images/series1/ep10/slide-074.webp",
+      "text": "their jewelry to Gandhi. After this women's gathering meet, he has to left for addressing a public meeting in Bilaspur, and as Gandhi moved towards th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s1e10-075",
+      "type": "content",
+      "image": "images/series1/ep10/slide-075.webp",
+      "text": "legs was on the foot of the car and the other was on the ground when someone caught his leg. Seeing this, Srivastava without any hesitation pressed th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s1e10-076",
+      "type": "content",
+      "image": "images/series1/ep10/slide-076.webp",
+      "text": "the person with his foot. He writes \"“ \"The work was of cruelty, but Gandhi lost his foot\" After addressing a huge gathering in Bilaspur, he went to ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s1e10-077",
+      "type": "content",
+      "image": "images/series1/ep10/slide-077.webp",
+      "text": "from where he came to Raipur by train. Fear of locks fail in Bilaspur In 1933, Gandhi's meeting was held at 4 p.m. at the Shanichari Padav ( halt stat...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s1e10-078",
+      "type": "content",
+      "image": "images/series1/ep10/slide-078.webp",
+      "text": "in Bilaspur. Ramsharan Tamboli was a student of 11 th at that time and lived in a hostel behind the government high school. The hostel gate was locked...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s1e10-079",
+      "type": "content",
+      "image": "images/series1/ep10/slide-079.webp",
+      "text": "and the warden posted to stay hold the students inside . The student ' s persuasion and outrage did not affect the princi pal, and eve n , on the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s1e10-080",
+      "type": "content",
+      "image": "images/series1/ep10/slide-080.webp",
+      "text": "contrary, they started threatening the students and threatening to restate them. These measures were taken so that the students could not see Gandhi a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s1e10-081",
+      "type": "content",
+      "image": "images/series1/ep10/slide-081.webp",
+      "text": "The hostel is located on the way to the station from the assembly site. The students were allowed to play hockey in the hostel grounds from where the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s1e10-082",
+      "type": "content",
+      "image": "images/series1/ep10/slide-082.webp",
+      "text": "visible. Gandhi's convoy passed rapidly. The students could not even get a glimpse of him. Meanwhile, seeing the oppor tunity, he ran towards Tamboli ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s1e10-083",
+      "type": "content",
+      "image": "images/series1/ep10/slide-083.webp",
+      "text": "standing on the platform. Gandhi stood at the door with his bag spread. On seeing the student Ramsharan, Gandhi signaled, the crowd made way. Gasping ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s1e10-084",
+      "type": "content",
+      "image": "images/series1/ep10/slide-084.webp",
+      "text": "offered him Duanni ( coin ) in his bag. Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed for a while in Simga and Nandghat. Retu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s1e10-085",
+      "type": "content",
+      "image": "images/series1/ep10/slide-085.webp",
+      "text": "to Raipur by train on the night of 25 November. He visited Saragaon, Kharora, Palari, Kanaki, Balodabazar, and Sim ga on the 26th. On 27 November, the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
