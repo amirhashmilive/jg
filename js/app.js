@@ -1,12 +1,12 @@
 /**
  * JOHAR GANDHI - Main Application
- * Coordinates slide rendering, scroll engine, speech, and state.
+ * Coordinates slide rendering, scroll engine, and state.
  */
 
 import slideRenderer from './slide-renderer.js';
 import scrollEngine from './scroll-engine.js';
 import brandEngine from './brand-engine.js';
-import downloadEngine from './download.js';
+
 
 class App {
     constructor() {
