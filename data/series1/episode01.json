@@ -7,1023 +7,1023 @@
   "slides": [
     {
       "id": "s1e01-001",
-      "type": "content",
+      "type": "title",
       "image": "images/series1/ep01/slide-001.webp",
-      "text": "Introduction + Chhattisgarh context",
+      "text": "A person is best known for his Truth and Non-Violence ' Mohandas Karamchand Gandhi was an eminent independence activist and an influential political leader who played a major role in India ' s struggle for independence. Gandhi is known by different names, such as Mahatma (a great soul), Bapu (father in the Gujarati language) , and father of the nation.",
       "animation": {
-        "type": "Chhattisgarh as a land; Gandhi's relevance; setting the stage",
+        "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "",
-      "visualDescription": "The Land of 36 Forts"
-    },
-    {
-      "id": "s1e01-003",
-      "type": "content",
-      "image": "images/series1/ep01/slide-003.webp",
-      "text": "Tribal Revolts continued",
-      "animation": {
-        "type": "Muria, Bhumkal 1910, Gundadhur; forest vs empire",
-        "duration": 15
-      },
-      "emotion": "",
-      "visualDescription": "The Earthquake of Bastar"
-    },
-    {
-      "id": "s1e01-005",
-      "type": "content",
-      "image": "images/series1/ep01/slide-005.webp",
-      "text": "Gandhian Movement begins",
-      "animation": {
-        "type": "Congress in Chhattisgarh, Sapre, Sharma, Arya Samaj reforms",
-        "duration": 15
-      },
-      "emotion": "",
-      "visualDescription": "Awakening"
-    },
-    {
-      "id": "s1e01-007",
-      "type": "content",
-      "image": "images/series1/ep01/slide-007.webp",
-      "text": "Sharma goes to Calcutta",
-      "animation": {
-        "type": "Pt. Sundarlal Sharma travels to bring Gandhi; parallel to Champaran",
-        "duration": 15
-      },
-      "emotion": "",
-      "visualDescription": "The Invitation"
-    },
-    {
-      "id": "s1e01-009",
-      "type": "content",
-      "image": "images/series1/ep01/slide-009.webp",
-      "text": "Dec 21, 1920 — Dhamtari/Kurud",
-      "animation": {
-        "type": "Kandel victory, women's gathering, Tilak Fund",
-        "duration": 15
-      },
-      "emotion": "",
-      "visualDescription": "The Day in Dhamtari"
-    },
-    {
-      "id": "s1e01-001",
-      "type": "content",
-      "image": "images/series1/ep01/slide-001.webp",
-      "text": "Civil Disobedience, Salt March context",
-      "animation": {
-        "type": "1920-1933 gap; Jungle Satyagrahas; Dandi March impact in CG",
-        "duration": 15
-      },
-      "emotion": "",
-      "visualDescription": "Thirteen Years"
-    },
-    {
-      "id": "s1e01-003",
-      "type": "content",
-      "image": "images/series1/ep01/slide-003.webp",
-      "text": "Women's movement chapter",
-      "animation": {
-        "type": "Dr. Radhabai, Rohini Bai, Kekti Bai, Phoolkunwar",
-        "duration": 15
-      },
-      "emotion": "",
-      "visualDescription": "Women of Iron"
-    },
-    {
-      "id": "s1e01-005",
-      "type": "content",
-      "image": "images/series1/ep01/slide-005.webp",
-      "text": "Nov 22 night — Raipur",
-      "animation": {
-        "type": "Historic procession Amapara to Budhapara, 3+ hours",
-        "duration": 15
-      },
-      "emotion": "",
-      "visualDescription": "The Procession of Lamps"
-    },
-    {
-      "id": "s1e01-007",
-      "type": "content",
-      "image": "images/series1/ep01/slide-007.webp",
-      "text": "Nov 23-25 — Dhamtari/meetings",
-      "animation": {
-        "type": "Ring auction, Naapi story, turmeric bundle, \"I am a Baniya\"",
-        "duration": 15
-      },
-      "emotion": "",
-      "visualDescription": "I Am a Baniya"
-    },
-    {
-      "id": "s1e01-009",
-      "type": "content",
-      "image": "images/series1/ep01/slide-009.webp",
-      "text": "Nov 26-27 — Rural visits",
-      "animation": {
-        "type": "Saragaon, Kharora, Palari, Balodabazar, old woman at Nandghat",
-        "duration": 15
-      },
-      "emotion": "",
-      "visualDescription": "The Village Path"
-    },
-    {
-      "id": "s1e01-001",
-      "type": "visual",
-      "image": "images/series1/ep01/slide-001.webp",
-      "text": "",
-      "animation": {
-        "type": "Fade in 3s",
-        "duration": 15
-      },
-      "emotion": "Anticipation",
-      "visualDescription": "Black screen. Single flame igniting. JG logo fades in with gold particles."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 1: A person is best known for his Truth and Non-Violence ' Mohandas Karamchand Gandhi was an eminent in..."
     },
     {
       "id": "s1e01-002",
       "type": "content",
       "image": "images/series1/ep01/slide-002.webp",
-      "text": "Series 1: MOHANDAS — December 1920",
+      "text": "Every year in India, his birthday is celebrated as Gandhi Jayanti, a national holiday here, and also as International Day of Nonviolence. Mahatma Gandhi played an important role in freeing India from the clutches of the British. With his unusual but powerful political tools of S atyagraha and non-violence, he inspired many other political leaders around the world such as Nelson Mandela, Martin Luther King Jr. , and Aung San Suu Kyi.",
       "animation": {
-        "type": "Type-in effect",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Gravitas",
-      "visualDescription": "\"MOHANDAS\" title card. Series subtitle: \"The First Visit, 1920\". Dramatic serif typography on black."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 2: Every year in India, his birthday is celebrated as Gandhi Jayanti, a national holiday here, and also..."
     },
     {
       "id": "s1e01-003",
       "type": "content",
       "image": "images/series1/ep01/slide-003.webp",
-      "text": "The Land of 36 Forts",
+      "text": "Apart from helping India win its war of independence against the British, Gandhi also led a simple and righteous life. Gandhi ' s early life was quite ordinary, and he became a great man through some of the occasions during his life, some of his decisions, and his leadership abilities. This is one of the main reasons why Gandhi is followed by billions, as he proved that one can become a great soul during one ' s life if one ha s the will to do so.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Mystery",
-      "visualDescription": "Episode title card: \"Episode 1 — The Land of 36 Forts\" over silhouette of ancient fort ruins at dawn."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 3: Apart from helping India win its war of independence against the British, Gandhi also led a simple a..."
     },
     {
       "id": "s1e01-004",
       "type": "content",
       "image": "images/series1/ep01/slide-004.webp",
-      "text": "Johar Gandhi is The Reminiscence Book of Record of the Freedom Fighters of the Diversity Land of Erstwhile Central Province of British India",
+      "text": "He began his activism as an Indian immigrant in South Africa in the early 1900s and became a leading figure in India ' s struggle for independence from Great Britain in the years following World War I. He often wore only a loincloth and shawl. Gandhi was imprisoned several times during the b attle of India and went on hunger strikes several times to protest the oppression of India ' s poorest classes.",
       "animation": {
         "type": "panRight",
         "duration": 15
       },
-      "emotion": "Awe",
-      "visualDescription": "Aerial view of dense Sal forests stretching to horizon, rivers cutting through. Ink illustration style."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 4: He began his activism as an Indian immigrant in South Africa in the early 1900s and became a leading..."
     },
     {
       "id": "s1e01-005",
       "type": "content",
       "image": "images/series1/ep01/slide-005.webp",
-      "text": "Chhattisgarh was a part of the Central Provinces.",
+      "text": "After the partition in 1947, he continued to work towards peace between Hindus and Muslims. Gandhi was shot dead in Delhi in January 1948. The great scientist Albert Einstein said of Gandhi that \"",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Context",
-      "visualDescription": "Map of undivided Central Provinces with Chhattisgarh region highlighted in warm ink wash."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 5: After the partition in 1947, he continued to work towards peace between Hindus and Muslims. Gandhi w..."
     },
     {
       "id": "s1e01-006",
       "type": "content",
       "image": "images/series1/ep01/slide-006.webp",
-      "text": "Chhattisgarh is named after the forts located here.",
+      "text": "F uture generations will find it difficult to believe that such a man - made of flesh and blood ever came to earth. \" Gandhi ' s ide o logy not only inspired people all over the world but also played an important role in transforming India and the world with an attitude of compassion, tolerance , and peace. He emphasized the development of principles and practices throughout his life and also made an incomparable contribution to raising the voice of marginalized groups and oppressed communities around the world.",
       "animation": {
-        "type": "panLeft",
+        "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Wonder",
-      "visualDescription": "Panorama of 36 ancient forts scattered across hills and forests — stylized, dramatic skyline."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 6: F uture generations will find it difficult to believe that such a man - made of flesh and blood ever..."
     },
     {
       "id": "s1e01-007",
       "type": "content",
       "image": "images/series1/ep01/slide-007.webp",
-      "text": "the two visits of Mahatma Gandhi in Chhattisgarh",
+      "text": "At the same time, Mahatma Gandhi inspired the world ' s great moral and political leaders such as Martin Luther King Jr., Nelson Mandela , and the Dalai Lama , etc. , and influenced social and political movements in Latin America, Asia, the Middle East , and Europe. Mahatma Gandhi in South Africa In South Africa, Gandhi felt racial discrimination towards blacks and Indians. He faced humiliation on several occasions due to which he decided to fight racial discrimination.",
       "animation": {
-        "type": "zoomInPanRight",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Warmth",
-      "visualDescription": "Village scene — mud huts, paddy fields, tribal families gathered around evening fire."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 7: At the same time, Mahatma Gandhi inspired the world ' s great moral and political leaders such as Ma..."
     },
     {
       "id": "s1e01-008",
       "type": "content",
       "image": "images/series1/ep01/slide-008.webp",
-      "text": "Gandhi had a very wide influence in the state of Chhattisgarh, he had visited this province only twice",
+      "text": "At that time, Indians and blacks in South Africa did not have the right to vote and even walk on the footpath, Gandhi strongly opposed this and eventually succeeded in establishing an organization called \" Indian National Congress \" in the year 1894. He returned to India in the year 1915 after living in South Africa for 21 years.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Reverence",
-      "visualDescription": "Silhouette of Gandhi (from behind) standing at a railway platform, small figure against vast landscape."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 8: At that time, Indians and blacks in South Africa did not have the right to vote and even walk on the..."
     },
     {
       "id": "s1e01-009",
       "type": "content",
       "image": "images/series1/ep01/slide-009.webp",
-      "text": "but without being here physically and without any direct communication, his ideology was widely spread to the far-flung areas of this state",
+      "text": "Mahatma Gandhi ' s A rrival in India Due to his long stay in South Africa and activism against the racist policy of the British, Gandhi earned a reputation as a nationalist, theorist , and organizer. Gopal Krishna Gokhale, a senior leader of the Indian National Congress, invited Gandhi to join India ' s struggle for independence against British rule. In the year 1915, Gandhi came to India and toured the villages of the country to prepare the strategy for the freedom struggle.",
       "animation": {
-        "type": "zoomOut",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Wonder",
-      "visualDescription": "Ripple effect — a single stone dropped into still water, waves spreading outward. Visual metaphor."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 9: Mahatma Gandhi ' s A rrival in India Due to his long stay in South Africa and activism against the r..."
     },
     {
       "id": "s1e01-010",
       "type": "content",
       "image": "images/series1/ep01/slide-010.webp",
-      "text": "The untold stories of the freedom struggles in Chhattisgarh recorded on the pages of history have never been discussed in any meaningful way",
+      "text": "Mahatma Gandhi and Satyagraha Gandhi gave the name of \" Satyagraha \" to his entire non - violent method of work. Satyagraha for him meant the exercise of pure self-force against all kinds of injustice, tyr anny , and exploitation.",
       "animation": {
-        "type": "panLeft",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Melancholy",
-      "visualDescription": "Ink drawing of freedom fighters walking on dusty road, some in chains, some carrying flags."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 10: Mahatma Gandhi and Satyagraha Gandhi gave the name of ' Satyagraha ' to his entire non - violent me..."
     },
     {
       "id": "s1e01-011",
       "type": "content",
       "image": "images/series1/ep01/slide-011.webp",
-      "text": "Chhattisgarh gave strength and unconditional support to Mahatma Gandhi for the successful Indian freedom movement",
+      "text": "Gandhi said that Satyagraha can be adopted by anyone, in his thoughts Satyagraha was like a banyan tree that has innumerable branches. Champaran and Bardoli Satyagrahas were done by Gandhi not only to get material benefits for the people but to oppose the unjust attitude of the then British rule. Civil Disobedience Movement, Dandi Satyagraha , and Quit India Movement were the prime examples in which Gandhi used self-power as a weapon of Satyagraha.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Determination",
-      "visualDescription": "Hands of different skin tones and castes clasped together, breaking free from chains. Visual metaphor."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 11: Gandhi said that Satyagraha can be adopted by anyone, in his thoughts Satyagraha was like a banyan t..."
     },
     {
       "id": "s1e01-012",
       "type": "content",
       "image": "images/series1/ep01/slide-012.webp",
-      "text": "Many areas of Chhattisgarh have now been merged in other states of India, and many families who could be the witness of freedom fighters migrated to Pakistan after the partition in 1947",
+      "text": "How relevant is Satyagraha at present? Mahatma Gandhi ' s Satyagraha can be seen as a moral alternative to war. He taught the common people how to use Satyagraha to solve problems and conflicts.",
       "animation": {
-        "type": "panRight",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Sorrow",
-      "visualDescription": "Families leaving homes — bundles on heads, walking away from ancestral land. Partition imagery."
+      "emotion": "establishing",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 12: How relevant is Satyagraha at present? Mahatma Gandhi ' s Satyagraha can be seen as a moral alternat..."
     },
     {
       "id": "s1e01-013",
       "type": "content",
       "image": "images/series1/ep01/slide-013.webp",
-      "text": "There is no information about many of the agitators who were involved in the Indian freedom movement from Chhattisgarh",
+      "text": "Gandhi ' s Satyagraha has proved to be an effective tool for the redressal of political issues. Many of the contemporary challenges related to war and peace, terrorism, human rights, sustainable development, climate change, socio-political unrest , and politico-administrative corruption can be solved in a Gandhian way. So the people of the 21st century still have a lot to learn from Gandhism.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Loss",
-      "visualDescription": "Empty courtyard of an old house, dust-covered photographs on wall, cobwebs."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 13: Gandhi ' s Satyagraha has proved to be an effective tool for the redressal of political issues. Many..."
     },
     {
       "id": "s1e01-014",
       "type": "content",
       "image": "images/series1/ep01/slide-014.webp",
-      "text": "To write this book, I have been trying to find the relatives of Satyagrahis for about two-three years",
+      "text": "Mahatma Gandhi's Concept of Education Gandhi was a great educationist, he believed that the social, moral , and economic progress of a country ultimately depends on education. In his opinion the highest aim of education is self-evaluation. According to him, character building is most important for the students and it is not possible in the absence of proper education.",
       "animation": {
-        "type": "panLeft",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Determination",
-      "visualDescription": "Author (Amir Hashmi) walking through village lanes, notebook in hand, asking elderly people."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 14: Mahatma Gandhi's Concept of Education Gandhi was a great educationist, he believed that the social,..."
     },
     {
       "id": "s1e01-015",
       "type": "content",
       "image": "images/series1/ep01/slide-015.webp",
-      "text": "Their last descendants have ended in many families, some have left the state",
+      "text": "Gandhi ' s education concept is also known as Basic Education. He emphasized the inclusion of moral and religious education in the curriculum o f schools and colleges. Gandhi gave the following objectives of the concept of education: To build good character, to make ideal citizens, to make self-reliant, and to develop all a round.",
       "animation": {
         "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Melancholy",
-      "visualDescription": "Old family tree drawn in ink, branches fading into smoke at the edges."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 15: Gandhi ' s education concept is also known as Basic Education. He emphasized the inclusion of moral..."
     },
     {
       "id": "s1e01-016",
       "type": "content",
       "image": "images/series1/ep01/slide-016.webp",
-      "text": "the heroic saga of their ancestors is not known as a result of the race of life, poverty, illiteracy, and efforts to erase history",
+      "text": "Relevance of Mahatma Gandhi in P resent T ime Gandhi's concept of non-violence not only helped India get independence but through this , the world got another weapon to deal with exploitation and tyranny. However, today a time has come when most people are denying the necessity of Gandhi and his ide o logy , and their relevance is being questioned in the present times. Today Gandhi is remembered only on 2nd October.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Urgency",
-      "visualDescription": "A candle burning on a stack of old papers and books. Light against darkness. Visual metaphor."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 16: Relevance of Mahatma Gandhi in P resent T ime Gandhi's concept of non-violence not only helped India..."
     },
     {
       "id": "s1e01-017",
       "type": "content",
       "image": "images/series1/ep01/slide-017.webp",
-      "text": "A person is best known for his Truth and Non-Violence",
+      "text": "Today, keeping Gandhi ' s ide o logy at bay, efforts are being made to serve all kinds of interests with the help of violence. Knowing that Gandhi ' s ide o logy is most relevant at a time when people are trying to find solutions to greed, widespread violence , and a run-of-the-mill lifestyle. Gandhi ' s concept of non-violence and Satyagraha is needed the most today because this is the time when anyone is killed in the name of vengeance only and his critics are treated as nothing more than enemies.",
       "animation": {
-        "type": "zoomInPanLeft",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Introduction",
-      "visualDescription": "Young Gandhi in South Africa — suited, determined expression, walking on a road alone."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 17: Today, keeping Gandhi ' s ide o logy at bay, efforts are being made to serve all kinds of interests..."
     },
     {
       "id": "s1e01-018",
       "type": "content",
       "image": "images/series1/ep01/slide-018.webp",
-      "text": "Mohandas Karamchand Gandhi was an eminent independence activist and an influential political leader who played a major role in India's struggle for independence",
+      "text": "The Gandhian technique of mobilizing people has been successfully employed by many oppressed societies around the world, led by people such as Martin Luther King in the United States, Nelson Mandela in South Africa, and Aung San Suu Kyi in Myanmar. T his t estifies that Gandhi and his ide o logy are relevant even today. Mahatma Gandhi in Chhattisgarh Mahatma Gandhi is an indelible name, despite only two visits to Chhattisgarh.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Reverence",
-      "visualDescription": "Portrait of Gandhi — round glasses, gentle eyes, iconic profile. Dramatic rim lighting."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 18: The Gandhian technique of mobilizing people has been successfully employed by many oppressed societi..."
     },
     {
       "id": "s1e01-019",
       "type": "content",
       "image": "images/series1/ep01/slide-019.webp",
-      "text": "Gandhi is known by different names, such as Mahatma (a great soul), Bapu (father in the Gujarati language), and father of the nation",
+      "text": "Chhattisgarh played an important role under the leadership of Mahatma Gandhi in the campaigns being run against the slavery of the British in India. Gandhi infused a political, social , and economic consciousness within the entire state, the region of Chhattisgarh was not untouched by his efforts. In 1915, Mohandas Karamchand Gandhi returned to India from South Africa with a successful experiment of Satyagraha, initially , he was not eager to take part in the active struggle for independence.",
       "animation": {
         "type": "panRight",
         "duration": 15
       },
-      "emotion": "Warmth",
-      "visualDescription": "Collage of names in different scripts — Mahatma, Bapu, Father of the Nation — orbiting Gandhi's silhouette."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 19: Chhattisgarh played an important role under the leadership of Mahatma Gandhi in the campaigns being..."
     },
     {
       "id": "s1e01-020",
       "type": "content",
       "image": "images/series1/ep01/slide-020.webp",
-      "text": "In South Africa, Gandhi felt racial discrimination towards blacks and Indians. He faced humiliation on several occasions",
+      "text": "When he returned after traveling all over the country on the advice of Gopal Krishna Gokhale, he understood the plight of the people of the country and the ill effects of British slavery. Chhattisgarh was a part of the Central Provinces. In the second half of the 19th century, political, social, and cultural consciousness was awakened in this region.",
       "animation": {
-        "type": "zoomInPanRight",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Anger",
-      "visualDescription": "Gandhi being thrown off a train in South Africa. Dramatic angle, sense of injustice."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 20: When he returned after traveling all over the country on the advice of Gopal Krishna Gokhale, he und..."
     },
     {
       "id": "s1e01-021",
       "type": "content",
       "image": "images/series1/ep01/slide-021.webp",
-      "text": "he decided to fight racial discrimination... succeeded in establishing an organization called Indian National Congress in the year 1894",
+      "text": "Leaders like Madhavrao Sapre, Vamanrao Lakhe started anti-British awakening in their respective areas after coming back and attending the Congress party conventions. Sundarlal Sharma was active in the untouchable salvation program, writers like Rai Bahadur Hiralal, Madhav Rao Sapre, Padumalal Punnalal Bakshi, Jagannath Bhanu, and Thakur Jagmohan Singh were engaged in the service of Hindi language. After the death of Lokmanya Bal Gangadhar Tilak in 1920, Mahatma Gandhi emerged as the biggest leader of the Congress party, whose influence was also seen in Chhattisgarh.",
       "animation": {
-        "type": "panLeft",
+        "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Triumph",
-      "visualDescription": "Gandhi standing at podium with \"Indian National Congress\" banner in South Africa, crowd below."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 21: Leaders like Madhavrao Sapre, Vamanrao Lakhe started anti-British awakening in their respective area..."
     },
     {
       "id": "s1e01-022",
       "type": "content",
       "image": "images/series1/ep01/slide-022.webp",
-      "text": "He returned to India in the year 1915 after living in South Africa for 21 years",
+      "text": "When the non-cooperation movement started in India, under its influence, farmers in the Dhamtari region of Chhattisgarh protested against the tax imposed on the canal water of the British. Babu Chhotelal Srivastava had started the Kandel Satyagraha, which at the Congress party level, leaders like Pandit Sundarlal Sharma contributed to its widening. At the same time, in December 1920, the Congress session was to be held in Nagpur, sensing the situation, Pt.",
       "animation": {
-        "type": "panRight",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Hope",
-      "visualDescription": "Ship on ocean, Gandhi at the bow looking toward India. Sunrise on the horizon. Visual metaphor: homecoming."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 22: When the non-cooperation movement started in India, under its influence, farmers in the Dhamtari reg..."
     },
     {
       "id": "s1e01-023",
       "type": "content",
       "image": "images/series1/ep01/slide-023.webp",
-      "text": "Gopal Krishna Gokhale, a senior leader of the Indian National Congress, invited Gandhi to join India's struggle for independence against British rule",
+      "text": "Sundarlal Sharma went to Calcutta because Gandhi was about to come from Calcutta to Nagpur, Pt. Sharma informed Gandhi about the Kandel Satyagraha and accompanied him to Raipur. Bring it By this time Gandhi's personality had already had an impact on the British.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Purpose",
-      "visualDescription": "Gandhi meeting Gopal Krishna Gokhale — two men shaking hands, mutual respect."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 23: Sundarlal Sharma went to Calcutta because Gandhi was about to come from Calcutta to Nagpur, Pt. Shar..."
     },
     {
       "id": "s1e01-024",
       "type": "content",
       "image": "images/series1/ep01/slide-024.webp",
-      "text": "In the year 1915, Gandhi came to India and toured the villages of the country to prepare the strategy for the freedom struggle",
+      "text": "In 1917, in the same way, indigo farmers had agitated in Champaran, at that time a leader Rajkumar Shukla had brought Mahatma Gandhi from Calcutta to Champaran. When the British came to know that Gandhi was coming to support the farmers of Champaran, they immediately formed a committee to resolve it , and thus the Champaran peasant movement became successful, and the same happened in the case of Kandel Satyagraha in Chhattisgarh. The British accepted the demands of Kandel Satyagrahis even before Mahatma Gandhi reached Raipur.",
       "animation": {
-        "type": "panLeft",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Humility",
-      "visualDescription": "Gandhi walking barefoot through Indian villages, dusty roads, children following."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 24: In 1917, in the same way, indigo farmers had agitated in Champaran, at that time a leader Rajkumar S..."
     },
     {
       "id": "s1e01-025",
       "type": "content",
       "image": "images/series1/ep01/slide-025.webp",
-      "text": "Gandhi said that Satyagraha was like a banyan tree that has innumerable branches",
+      "text": "Thus Mohandas Karamchand Gandhi had his first stay in Chhattisgarh. After the Civil Disobedience Movement, Gandhi had made a complete agreement with Dr. Bhimrao Ambedkar, after this agreement, Mahatma Gandhi promised Dr.",
       "animation": {
         "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Wisdom",
-      "visualDescription": "A banyan tree with massive roots — visual metaphor for Satyagraha."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 25: Thus Mohandas Karamchand Gandhi had his first stay in Chhattisgarh. After the Civil Disobedience Mov..."
     },
     {
       "id": "s1e01-026",
       "type": "content",
       "image": "images/series1/ep01/slide-026.webp",
-      "text": "Gandhi gave the name of Satyagraha to his entire non-violent method of work. Satyagraha for him meant the exercise of pure self-force against all kinds of injustice, tyranny, and exploitation",
+      "text": "Ambedkar that he would make efforts throughout his life to eliminate the problem of untouchability in society. Then Sevagram near Wardha, the residence of Mahatma Gandhi on the Nagpur-Mumbai rail route, had become a battlefield of truth and non-violence. Gandhi started a nationwide journey to prepare the public against untouchability, it was a coincidence that his journey started from Chhattisgarh.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Philosophy",
-      "visualDescription": "Gandhi's spinning wheel (charkha) in close-up, thread being drawn — symbolizing self-reliance."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 26: Ambedkar that he would make efforts throughout his life to eliminate the problem of untouchability i..."
     },
     {
       "id": "s1e01-027",
       "type": "content",
       "image": "images/series1/ep01/slide-027.webp",
-      "text": "Gandhi said that Satyagraha can be adopted by anyone",
+      "text": "He reached Durg on 22 November, made Raipur his center, and took several meetings till 27 November at Dhamtari, Nawapara Rajim, Balodabazar , and Bilaspur. In every meeting, he called upon the people of every class to free them from the disgusting problem of untouchability from society. Wherever Gandhi went to see him, thousands of people gathered to see him, people were eager to see him, hear him and touch his feet, Gandhi also used to meet people with ease and made them aware of his thoughts and inspired them.",
       "animation": {
         "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Contrast",
-      "visualDescription": "Split panel: Left — soldiers with weapons. Right — unarmed people standing firm."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 27: He reached Durg on 22 November, made Raipur his center, and took several meetings till 27 November a..."
     },
     {
       "id": "s1e01-028",
       "type": "content",
       "image": "images/series1/ep01/slide-028.webp",
-      "text": "The great scientist Albert Einstein said of Gandhi that Future generations will find it difficult to believe that such a man made of flesh and blood ever came to earth",
+      "text": "In November 1933, Gandhi was engaged in the works of untouchable emancipation continuously for 5 days. He got the Harijans entered the temple of Jayatu Sav Math located in the old township of Raipur. He also visited a Satnami Samaj temple located at Moudapara, Raipur , and inaugurated an indigenous fair at Moti Bagh in Raipur, in which a crowd of one lakh people had gathered to see Gandhi.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Awe",
-      "visualDescription": "Einstein writing at desk, looking up with wonder. Quote floating beside him."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 28: In November 1933, Gandhi was engaged in the works of untouchable emancipation continuously for 5 day..."
     },
     {
       "id": "s1e01-029",
       "type": "content",
       "image": "images/series1/ep01/slide-029.webp",
-      "text": "Mahatma Gandhi inspired the world's great moral and political leaders such as Martin Luther King Jr., Nelson Mandela, and the Dalai Lama",
+      "text": "On the last day of his second visit, Gandhi gave his speech to the princes studying in Rajkumar College, Raipur. In this speech, Mahatma Gandhi had taught to build a welfare relationship between the king and the people, he had said that the children of kings start adopting the bad habits of the British away from the Indian language and culture, whereas in England the children of the king live like a common man. In our country, the goodness of the British is not adopted by the kings, while the bad habits of the British like drinking and gambling are easily adopted.",
       "animation": {
-        "type": "zoomOut",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Legacy",
-      "visualDescription": "World map with lines connecting India to South Africa, USA, Myanmar — showing Gandhi's global influence."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 29: On the last day of his second visit, Gandhi gave his speech to the princes studying in Rajkumar Coll..."
     },
     {
       "id": "s1e01-030",
       "type": "content",
       "image": "images/series1/ep01/slide-030.webp",
-      "text": "He often wore only a loincloth and shawl",
+      "text": "Gandhi had taught them to avoid them, after finishing the tour of Chhattisgarh, Gandhi went to Itarsi via Balaghat. Gandhi came to Chhattisgarh twice, the first time as Mohandas, the second time as a Mahatma, and during both these visits Gandhi influenced the society and every person of Chhattisgarh. Thousands of leaders like Pt.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Iconography",
-      "visualDescription": "Gandhi in loincloth and shawl, walking with his stick. Full-figure portrait, powerful simplicity."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 30: Gandhi had taught them to avoid them, after finishing the tour of Chhattisgarh, Gandhi went to Itars..."
     },
     {
       "id": "s1e01-031",
       "type": "content",
       "image": "images/series1/ep01/slide-031.webp",
-      "text": "Mahatma Gandhi in Chhattisgarh",
+      "text": "Ravi Shankar Shukla, Thakur Pyarelal Singh, Khubchand Baghel, Ghanshyam Singh Gupta, E. Raghavendra Rao, Babu Chhotelal Srivastava were influenced by Gandhi's personality and engaged in the service of the country for life. Early Era of Revolutionaries i n Chhattisgarh The First Upheaval Occurred i n Chhattisgarh Revo lt of Paralkot , and Veer Gaind Singh After ending the Halb a rebellion of 1774, the Maratha ruler Diwans and the British completely engulf the flags of their authority on the land of Bastar, and they started celebrating this victory by atrocities on the tribals of Chhattisgarh.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Transition",
-      "visualDescription": "Title card: \"Mahatma Gandhi in Chhattisgarh\" in dramatic typography over forest landscape."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 31: Ravi Shankar Shukla, Thakur Pyarelal Singh, Khubchand Baghel, Ghanshyam Singh Gupta, E. Raghavendra..."
     },
     {
       "id": "s1e01-032",
       "type": "content",
       "image": "images/series1/ep01/slide-032.webp",
-      "text": "Mahatma Gandhi is an indelible name, despite only two visits to Chhattisgarh",
+      "text": "Unlimited harvesting of forest woods, taking work from the people here, excessive unnecessary taxes were collected on them. The interference of these tribes in their home, the forest was not liked at all, but in 1779, the organization of Halba was completely broken after seeing the conspiracy of Ajmer Singh, the king of Dongar. The effect of the death of the king was that for many years no one thought it appropriate to blow the trumpet of rebellion in Dongar or the surrounding area.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Focus",
-      "visualDescription": "Map zooming into Chhattisgarh within India. The region glows as if awakening."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 32: Unlimited harvesting of forest woods, taking work from the people here, excessive unnecessary taxes..."
     },
     {
       "id": "s1e01-033",
       "type": "content",
       "image": "images/series1/ep01/slide-033.webp",
-      "text": "Chhattisgarh played an important role under the leadership of Mahatma Gandhi in the campaigns being run against the slavery of the British in India",
+      "text": "Seeing the ease of movement in the 1820s, the newly appointed Captain Pebe chose Paralkot as his stronghold, at that time he was Raja Mahipal Dev, who belonged to Ajmer Singh ' s lineage but was a supporter of the British. The Abhujmadi tribe was mainly in Paralkot, they could not tolerate the atrocities on them, eventually in 1824, Gaind Singh, leading all the Abhujmadis, called for British free Bastar, which was known as the Rebellion of Paralkot, whose original purpose was to be free Bastar from outsiders . There were 165 villages within the Paralkot Zamindari, and Paralkot was the headquarters of the Zamindari.",
       "animation": {
-        "type": "panRight",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Pride",
-      "visualDescription": "Chhattisgarh landscape with Congress flag being raised in a village square."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 33: Seeing the ease of movement in the 1820s, the newly appointed Captain Pebe chose Paralkot as his str..."
     },
     {
       "id": "s1e01-034",
       "type": "content",
       "image": "images/series1/ep01/slide-034.webp",
-      "text": "Gandhi infused a political, social, and economic consciousness within the entire state, the region of Chhattisgarh was not untouched by his efforts",
+      "text": "Paralkot, situated on the banks of river Kotri, is a forest - dwelling village near the Chandrapur district of Maharashtra, where three rivers meet. With the help of mountains and dense forests, the British were eluded for a year, which the British could not understand. The tribal forest became a strong weapon in front of the English guns.",
       "animation": {
-        "type": "zoomOut",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Inspiration",
-      "visualDescription": "A flame spreading from a single lamp to hundreds — visual metaphor for ideological spread."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 34: Paralkot, situated on the banks of river Kotri, is a forest - dwelling village near the Chandrapur d..."
     },
     {
       "id": "s1e01-035",
       "type": "content",
       "image": "images/series1/ep01/slide-035.webp",
-      "text": "Leaders like Madhavrao Sapre, Vamanrao Lakhe started anti-British awakening in their respective areas",
+      "text": "Thousands of forest dwellers started attacking by ambushing the English officers and Maratha employees with bows, arrows , and spears. Along with men, women were also participants in this rebellion, wherever the enemy could be seen, he would have been put to death. Their meeting was held in Ghotul where the strategies of rebellion were made.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Pioneer",
-      "visualDescription": "Portrait of Madhavrao Sapre at a printing press, first issue of \"Chhattisgarh Mitra\"."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 35: Thousands of forest dwellers started attacking by ambushing the English officers and Maratha employe..."
     },
     {
       "id": "s1e01-036",
       "type": "content",
       "image": "images/series1/ep01/slide-036.webp",
-      "text": "Pt. Sundarlal Sharma was active in the untouchable salvation program",
+      "text": "Abujhmadia used to come out in groups of five to five hundred. Some are led by women, some by men. And Gaind Singh kept leading them in a planned manner.",
       "animation": {
-        "type": "panLeft",
+        "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Courage",
-      "visualDescription": "Pt. Sundarlal Sharma entering a temple with people of all castes. Dramatic doorway light."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 36: Abujhmadia used to come out in groups of five to five hundred. Some are led by women, some by men. A..."
     },
     {
       "id": "s1e01-037",
       "type": "content",
       "image": "images/series1/ep01/slide-037.webp",
-      "text": "After the death of Lokmanya Bal Gangadhar Tilak in 1920, Mahatma Gandhi emerged as the biggest leader of the Congress party",
+      "text": "Gotul \" is a spacious tribal hut surrounded by earthen or wooden walls. It is an integral part of Gond and Muria tribal life in regions of Chhattisgarh and the neighboring areas in Madhya Pradesh, Maharashtra, and Andhra Pradesh in India. Abujhmad is made up of two words, \"˜ Abujh ' meaning \" that which cannot be understood ,\" and \"˜ Maad ' meaning \" mountain \" in Gondi.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Transition",
-      "visualDescription": "Portrait of Lokmanya Tilak, somber, with funeral pyre in background fading."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 37: Gotul ' is a spacious tribal hut surrounded by earthen or wooden walls. It is an integral part of G..."
     },
     {
       "id": "s1e01-038",
       "type": "content",
       "image": "images/series1/ep01/slide-038.webp",
-      "text": "farmers in the Dhamtari region of Chhattisgarh protested against the tax imposed on the canal water of the British",
+      "text": "The Zamindari of Paralkot (Bastar) used to come to the Abujhmad area of \"‹\"‹ Bastar. Angered by the presence of non-tribals in the tribal area and their arbitrariness, on January 4, 1825, after leaving the village, caves , and mountain range s, the tribals gathered at Paralkot. They were armed with their traditional weapons.",
       "animation": {
-        "type": "panRight",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Injustice",
-      "visualDescription": "Farmers of Dhamtari region standing in flooded paddy field, canal water flowing. British officer pointing."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 38: The Zamindari of Paralkot (Bastar) used to come to the Abujhmad area of '‹'‹ Bastar. Angered by the..."
     },
     {
       "id": "s1e01-039",
       "type": "content",
       "image": "images/series1/ep01/slide-039.webp",
-      "text": "Babu Chhotelal Srivastava had started the Kandel Satyagraha",
+      "text": "British superintendent of Chhattisgarh Agnew had to intervene directly. Despite all the atrocities, lack of weapons, Abhujmadi Gaind Singh did not consider it appropriate to bow down, Agnew called a large army from Chandrapur . T he combined forces of the British and the Marathas laid siege to Paralkot on 10 January 1825 and surrounded Paralkot from all sides , the traditional weapons of the Abujhmadis failed to withstand the modern weaponry.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Leadership",
-      "visualDescription": "Babu Chhotelal Srivastava standing firm before a group of farmers, fist raised."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 39: British superintendent of Chhattisgarh Agnew had to intervene directly. Despite all the atrocities,..."
     },
     {
       "id": "s1e01-040",
       "type": "content",
       "image": "images/series1/ep01/slide-040.webp",
-      "text": "Pt. Sundarlal Sharma went to Calcutta because Gandhi was about to come from Calcutta to Nagpur",
+      "text": "Gaind Singh was arrested and with his arrest , the agitation came to a halt. Ten days after his arrest, on January 20, 1825, Gaind Singh was hanged in front of the palace of Paralkot . Gaind Singh became immortal as the first martyr in the history of Chhattisgarh.",
       "animation": {
-        "type": "panLeft",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Mission",
-      "visualDescription": "Pt. Sundarlal Sharma boarding a train, determination on face. Destination: Calcutta."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 40: Gaind Singh was arrested and with his arrest , the agitation came to a halt. Ten days after his arre..."
     },
     {
       "id": "s1e01-041",
       "type": "content",
       "image": "images/series1/ep01/slide-041.webp",
-      "text": "Pt. Sharma informed Gandhi about the Kandel Satyagraha and accompanied him to Raipur",
+      "text": "But the soil of Dakshin Kosal, present-day Chhattisgarh, lit up with the blood of its first martyr son, and this light further set fire to the piles of dry leaves of the rebellions. When the Bhonsle dynasty of Nagpur was defeated by the East India Company in 1818. Then the state of Chhattisgarh passed into the hands of the British based on the treaty.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Connection",
-      "visualDescription": "Sharma speaking to Gandhi in a train compartment. Two figures, intimate conversation."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 41: But the soil of Dakshin Kosal, present-day Chhattisgarh, lit up with the blood of its first martyr s..."
     },
     {
       "id": "s1e01-042",
       "type": "content",
       "image": "images/series1/ep01/slide-042.webp",
-      "text": "By this time Gandhi's personality had already had an impact on the British",
+      "text": "With him, the British were lying in Chhattisgarh. Then they started looting the public by establishing their state system here. The Ahmadis who liked independence competed against him strongly.",
       "animation": {
-        "type": "zoomInPanRight",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Tension",
-      "visualDescription": "British official reading a telegram — face turning pale. \"Gandhi is coming.\" Visual tension."
+      "emotion": "building",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 42: With him, the British were lying in Chhattisgarh. Then they started looting the public by establishi..."
     },
     {
       "id": "s1e01-043",
       "type": "content",
       "image": "images/series1/ep01/slide-043.webp",
-      "text": "In 1917, in the same way, indigo farmers had agitated in Champaran",
+      "text": "Which was led by Zamindar Gaind S ingh of Parlakot. Abujhmadis have the distinction of fighting the British for the first time in the country. Their leader, the Zamindar of Parlakot, organized the army of Abujhmadis and tried to drive away from the British army.",
       "animation": {
-        "type": "panLeft",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Parallel",
-      "visualDescription": "Split scene: Champaran (indigo fields) on left, Kandel (canal/paddy) on right. Same pattern of resistance."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 43: Which was led by Zamindar Gaind S ingh of Parlakot. Abujhmadis have the distinction of fighting the..."
     },
     {
       "id": "s1e01-044",
       "type": "content",
       "image": "images/series1/ep01/slide-044.webp",
-      "text": "The British accepted the demands of Kandel Satyagrahis even before Mahatma Gandhi reached Raipur",
+      "text": "Hundreds of Abujhmadis sacrificed their lives, but in front of the modern weapons of the British, the native guns and arrows command of the Abujhmadis could not be effective. Their leader Balsingh was arrested . He was hanged on 20 January 1 825 in front of the palace of Parlakot.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Victory",
-      "visualDescription": "British officers hastily signing documents, withdrawing orders. Sweat on brows."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 44: Hundreds of Abujhmadis sacrificed their lives, but in front of the modern weapons of the British, th..."
     },
     {
       "id": "s1e01-045",
       "type": "content",
       "image": "images/series1/ep01/slide-045.webp",
-      "text": "Thus Mohandas Karamchand Gandhi had his first stay in Chhattisgarh",
+      "text": "While leading the first freedom struggle of Chhattisgarh, he laid down his life and sacrificed his life. Gaind Singh, the Zamindar of Paralkot, has the title of Shaheed Shiromani. The members of the Paralkot Zamindar family are leading a life of oblivion.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Arrival",
-      "visualDescription": "Gandhi stepping off train at Raipur platform. Crowd's POV — only his sandals visible at first."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 45: While leading the first freedom struggle of Chhattisgarh, he laid down his life and sacrificed his l..."
     },
     {
       "id": "s1e01-046",
       "type": "content",
       "image": "images/series1/ep01/slide-046.webp",
-      "text": "After the Civil Disobedience Movement, Gandhi had made a complete agreement with Dr. Bhimrao Ambedkar",
+      "text": "The area of \"‹\"‹ Bastar division which is adjacent to the border of Maharashtra and Madhya Pradesh is called Paralkot. In this area now the city of Pakhanjur, and there are villages of Bengalis who have migrated from Bangladesh. Tribal R e volts R evol t of Halba 1774-79 Revolt of Bhopalpatnam 1795 Revolt of Paralkot 1825 Revolt of Tarapur 1842-54 Revolt of Meria 1842-63 R e volt of Lingagiri 1856-57 Revolt of Koei ' s 1859 Revolt of Muria ' s 1876 Revolt of Queen Choris 1878-82 Revol t of Bhumkal 1910 In the context of Chhattisgarh, the tribal movement means the movement of the tribals of Bastar because Bastar is a tribal - dominated area and almost all the tribal movements have taken place in this region 's Parganas .",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Unity",
-      "visualDescription": "Gandhi and Dr. Ambedkar shaking hands. Solemn agreement."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 46: The area of '‹'‹ Bastar division which is adjacent to the border of Maharashtra and Madhya Pradesh i..."
     },
     {
       "id": "s1e01-047",
       "type": "content",
       "image": "images/series1/ep01/slide-047.webp",
-      "text": "Mahatma Gandhi promised Dr. Ambedkar that he would make efforts throughout his life to eliminate the problem of untouchability in society",
+      "text": "The rebellion movements were carried out by the tribals of Bastar. (Pargana: a group of villages or a subdivision of a district in India) Revolt of Halba 1774-79 , Ajmer Singh The Halba rebellion took place in the Dongar area (b y Halba tribes in Bastar Chhattisgarh) against British armies and the Marathas . The Chalukya rulers failed to stop him and he fell.",
       "animation": {
-        "type": "zoomInPanLeft",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Commitment",
-      "visualDescription": "Gandhi making a vow — one hand raised, one on heart. Light beam from above. Visual metaphor."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 47: The rebellion movements were carried out by the tribals of Bastar. (Pargana: a group of villages or..."
     },
     {
       "id": "s1e01-048",
       "type": "content",
       "image": "images/series1/ep01/slide-048.webp",
-      "text": "Sevagram near Wardha, the residence of Mahatma Gandhi on the Nagpur-Mumbai rail route, had become a battlefield of truth and non-violence",
+      "text": "They became subject to the Marathas due to the conspiracy of the Company government. Dongar was once an independent state of Halba which was later included in the princely state of Bastar. After that , the king of Bastar made it the vice-capital and appointed his sons as the governor there.",
       "animation": {
-        "type": "panRight",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Setting",
-      "visualDescription": "Sevagram ashram near Wardha — simple huts, spinning wheels, a battlefield of ideas."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 48: They became subject to the Marathas due to the conspiracy of the Company government. Dongar was once..."
     },
     {
       "id": "s1e01-049",
       "type": "content",
       "image": "images/series1/ep01/slide-049.webp",
-      "text": "He reached Durg on 22 November, made Raipur his center, and took several meetings till 27 November at Dhamtari, Nawapara Rajim, Balodabazar, and Bilaspur",
+      "text": "Raja Dalpat Singh of Bastar appointed his son Ajmer Singh as the governor of Dongar. In the year 1774, when Dariyavdev became the new king of Bastar, he grossly neglected the Dongar area and started putting pressure on Ajmer Singh out of enmity. In the same year, there was a severe famine in the Dongar area and there was chaos a t the same time, Daryavdev attacked Dongar , Kanker ' s army was deployed for security.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Journey",
-      "visualDescription": "Map showing Gandhi's 1933 route through Chhattisgarh — Durg, Raipur, Dhamtari, Bilaspur, marked with dots."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 49: Raja Dalpat Singh of Bastar appointed his son Ajmer Singh as the governor of Dongar. In the year 177..."
     },
     {
       "id": "s1e01-050",
       "type": "content",
       "image": "images/series1/ep01/slide-050.webp",
-      "text": "In every meeting, he called upon the people of every class to free them from the disgusting problem of untouchability from society",
+      "text": "A fierce battle ensued between the two armies. Daryavdev was defeated and fled to the capital Jagdalpur. The position of the rebels was strengthened.",
       "animation": {
-        "type": "panLeft",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Compassion",
-      "visualDescription": "Gandhi speaking to a mixed crowd — people of all castes sitting together. Some touching his feet."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 50: A fierce battle ensued between the two armies. Daryavdev was defeated and fled to the capital Jagdal..."
     },
     {
       "id": "s1e01-051",
       "type": "content",
       "image": "images/series1/ep01/slide-051.webp",
-      "text": "Wherever Gandhi went to see him, thousands of people gathered to see him, people were eager to see him, hear him and touch his feet",
+      "text": "They planned to capture Bastar. By doing this they wanted to stop the interference of the Company government in Jagdalpur. The rebels continued to advance and Daryavadev ' s army was defeated.",
       "animation": {
-        "type": "zoomOut",
+        "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Scale",
-      "visualDescription": "Massive crowd, overhead view — thousands gathered, a sea of humanity. Gandhi tiny at center."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 51: They planned to capture Bastar. By doing this they wanted to stop the interference of the Company go..."
     },
     {
       "id": "s1e01-052",
       "type": "content",
       "image": "images/series1/ep01/slide-052.webp",
-      "text": "He got the Harijans entered the temple of Jayatu Sav Math located in the old township of Raipur",
+      "text": "Daryavdev fled to the kingdom of Jaipur. Staying in Jaipur, Daryavadev tried to regain his lost power. Daryavadev made separate treaties with the Company Government, the Marathas , and the Raja of Jaipur and prepared a large army of 20,000 soldiers.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Breakthrough",
-      "visualDescription": "Gandhi entering the Jaitusav Math temple with Harijan families. Temple doors opening wide. Visual metaphor: barriers falling."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 52: Daryavdev fled to the kingdom of Jaipur. Staying in Jaipur, Daryavadev tried to regain his lost powe..."
     },
     {
       "id": "s1e01-053",
       "type": "content",
       "image": "images/series1/ep01/slide-053.webp",
-      "text": "inaugurated an indigenous fair at Moti Bagh in Raipur, in which a crowd of one lakh people had gathered to see Gandhi",
+      "text": "With the help of this army, he defeated the rebels at Jagdalpur. Establishing his authority in Jagdalpur, Dariyavdev attacked Dongar. Ajmer Singh was killed in the battle.",
       "animation": {
-        "type": "panRight",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Spectacle",
-      "visualDescription": "Moti Bagh fairground — one lakh people, flags, stalls, energy. Gandhi at center like a sun with rays."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 53: With the help of this army, he defeated the rebels at Jagdalpur. Establishing his authority in Jagda..."
     },
     {
       "id": "s1e01-054",
       "type": "content",
       "image": "images/series1/ep01/slide-054.webp",
-      "text": "On the last day of his second visit, Gandhi gave his speech to the princes studying in Rajkumar College, Raipur",
+      "text": "The Halba rebels were massacred on a large scale. Thus, the Halba rebellion came to an end. But due to this , the position of the Raja of Jagdalpur became very weak.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Wisdom",
-      "visualDescription": "Gandhi speaking to young princes at Rajkumar College. Boys in formal dress, Gandhi in dhoti. Contrast."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 54: The Halba rebels were massacred on a large scale. Thus, the Halba rebellion came to an end. But due..."
     },
     {
       "id": "s1e01-055",
       "type": "content",
       "image": "images/series1/ep01/slide-055.webp",
-      "text": "the children of kings start adopting the bad habits of the British away from the Indian language and culture, whereas in England the children of the king live like a common man",
+      "text": "Bastar fell under the Maratha Bhonslas and paved the way for the arrival of the British in the future. After the end of the rebellion, Raja Dariyavdev of Bastar signed a treaty on April 6, 1778, according to which he had to accept the subjugation of the Bhonsals. The Raj a of Jaipur had to give Kotpad P argana as a reward in return for his help.",
       "animation": {
-        "type": "panLeft",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Challenge",
-      "visualDescription": "Gandhi's words floating as text: \"the children of kings start adopting the bad habits of the British...\""
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 55: Bastar fell under the Maratha Bhonslas and paved the way for the arrival of the British in the futur..."
     },
     {
       "id": "s1e01-056",
       "type": "content",
       "image": "images/series1/ep01/slide-056.webp",
-      "text": "Gandhi came to Chhattisgarh twice, the first time as Mohandas, the second time as a Mahatma",
+      "text": "Revolt of Bhopalpatnam 1795 This struggle was limited and short-lived. In the year 1795, when the British traveler Captain JT Blunt reached the border of Bastar, the tribals did not allow him, opposing his entry into Jagdalpur. As a result, Blunt w as forced to return to Calcutta, it was a short - term struggle .",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Transformation",
-      "visualDescription": "Two silhouettes of Gandhi — young (1920) and older (1933) — walking toward each other, merging."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 56: Revolt of Bhopalpatnam 1795 This struggle was limited and short-lived. In the year 1795, when the Br..."
     },
     {
       "id": "s1e01-057",
       "type": "content",
       "image": "images/series1/ep01/slide-057.webp",
-      "text": "Thousands of leaders like Pt. Ravi Shankar Shukla, Thakur Pyarelal Singh, Khubchand Baghel, Ghanshyam Singh Gupta...",
+      "text": "Revolt of Paralkot 1825 , Gaind Singh The revolt of the Abujhmadis against the Marathas and British officers in the Paralkot Zamindari area is known as the \" Gaind Singh led this rebellion. Abujhmad rebels were armed with arrows, axes , etc.",
       "animation": {
-        "type": "panRight",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Honor",
-      "visualDescription": "Grid of portrait silhouettes — all the leaders influenced by Gandhi, named below."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 57: Revolt of Paralkot 1825 , Gaind Singh The revolt of the Abujhmadis against the Marathas and British..."
     },
     {
       "id": "s1e01-058",
       "type": "content",
       "image": "images/series1/ep01/slide-058.webp",
-      "text": "were influenced by Gandhi's personality and engaged in the service of the country for life",
+      "text": "They used to gather their comrades by playing the drums and attack the Marathas and British officers. They used the guerilla method of war. They were troubled by the presence and arbitrariness of non-tribals in this tribal area.",
       "animation": {
-        "type": "zoomOut",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Dedication",
-      "visualDescription": "Same leaders now shown walking into light, carrying India's flag."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 58: They used to gather their comrades by playing the drums and attack the Marathas and British officers..."
     },
     {
       "id": "s1e01-059",
       "type": "content",
       "image": "images/series1/ep01/slide-059.webp",
-      "text": "",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Reflection",
-      "visualDescription": "A charkha spinning — thread transforming into the Indian tricolor flag. Visual metaphor."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 59: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-060",
       "type": "content",
       "image": "images/series1/ep01/slide-060.webp",
-      "text": "From peasant movement to labor movement to litterateurs to artists, from students to teachers, from urban street commuters to forest dwellers",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "panLeft",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Foreshadow",
-      "visualDescription": "Chhattisgarh map with flames at multiple locations — representing all the movements to come."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 60: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-061",
       "type": "content",
       "image": "images/series1/ep01/slide-061.webp",
-      "text": "The workers of Rajnandgaon fought a long battle for their rights under the leadership of Thakur Pyarelal Singh",
+      "text": "So the non-tribals were their target.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Unity",
-      "visualDescription": "Women spinning charkha together, singing. Warm interior light."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 61: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-062",
       "type": "content",
       "image": "images/series1/ep01/slide-062.webp",
-      "text": "Ram Dayal Tiwari composed a book titled Gandhi Mimamsa",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "panRight",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Culture",
-      "visualDescription": "Books being written — pen on paper by lamplight. \"Gandhi Mimamsa\" visible."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 62: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-063",
       "type": "content",
       "image": "images/series1/ep01/slide-063.webp",
-      "text": "Maulana Abdul Rauf Khan was a pioneer in the work of communal unity",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Brotherhood",
-      "visualDescription": "Maulana Abdul Rauf Khan and Hindu leaders standing together. Hindu-Muslim unity."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 63: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-064",
       "type": "content",
       "image": "images/series1/ep01/slide-064.webp",
-      "text": "Dr. Radhabai played the trumpet of Nari Jagran",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "panLeft",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Courage",
-      "visualDescription": "Dr. Radhabai leading women through streets of Raipur. Tricolor in hand."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 64: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-065",
       "type": "content",
       "image": "images/series1/ep01/slide-065.webp",
-      "text": "Shikanal Shyamlal Som and Burhan Shah did the awakening of the awakening among the forest dwellers",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Reach",
-      "visualDescription": "Forest scene — tribals Shikanal Shyamlal Som speaking to villagers under a giant tree."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 65: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-066",
       "type": "content",
       "image": "images/series1/ep01/slide-066.webp",
-      "text": "Gandhi was sitting in the third-class compartment, the public ran on the same side",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "panRight",
+        "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Simplicity",
-      "visualDescription": "Gandhi on train — third class compartment — looking out window at passing Chhattisgarh landscape."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 66: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-067",
       "type": "content",
       "image": "images/series1/ep01/slide-067.webp",
-      "text": "seeing Gandhi going in the third class, the public got emotional after realizing his simplicity",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Emotion",
-      "visualDescription": "Crowd at railway platform, emotional faces watching Gandhi depart. Hands reaching."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 67: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-068",
       "type": "content",
       "image": "images/series1/ep01/slide-068.webp",
-      "text": "people became convinced that only Gandhi can lead the poor and downtrodden Indian people properly",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Conviction",
-      "visualDescription": "Quote card: \"people became convinced that only Gandhi can lead the poor and downtrodden Indian people properly\""
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 68: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-069",
       "type": "content",
       "image": "images/series1/ep01/slide-069.webp",
-      "text": "",
+      "text": "So the non-tribals were their target.",
       "animation": {
         "type": "panRight",
         "duration": 15
       },
-      "emotion": "Hope",
-      "visualDescription": "Sunrise over Chhattisgarh — new day dawning, fields turning golden."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 69: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-070",
       "type": "content",
       "image": "images/series1/ep01/slide-070.webp",
-      "text": "",
+      "text": "So the non-tribals were their target.",
       "animation": {
         "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Time",
-      "visualDescription": "Calendar pages flying: 1920... 1930... 1942... 1947. Fast montage of years."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 70: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-071",
       "type": "content",
       "image": "images/series1/ep01/slide-071.webp",
-      "text": "On August 15, the first Chief Minister of Madhya Pradesh and Berar, P. Ravi Shankar Shukla hoisted the tricolor at Sitabardi fort",
+      "text": "So the non-tribals were their target.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "Triumph",
-      "visualDescription": "Indian flag rising over Raipur — Aug 15, 1947. Pt. Vamanrao Lakhe hoisting."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 71: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-072",
       "type": "content",
       "image": "images/series1/ep01/slide-072.webp",
-      "text": "",
+      "text": "So the non-tribals were their target.",
       "animation": {
         "type": "panLeft",
         "duration": 15
       },
-      "emotion": "Continuity",
-      "visualDescription": "Modern Chhattisgarh skyline dissolving into the forest/village scene from slide 4. Past and present."
+      "emotion": "climax",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 72: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-073",
       "type": "content",
       "image": "images/series1/ep01/slide-073.webp",
-      "text": "during both these visits Gandhi influenced the society and every person of Chhattisgarh",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "Legacy",
-      "visualDescription": "Gandhi's walking stick planted in Chhattisgarh soil — a tree growing from it. Visual metaphor."
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 73: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-074",
       "type": "content",
       "image": "images/series1/ep01/slide-074.webp",
-      "text": "Next Episode: Blood of the First Martyr",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "Fade",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "Anticipation",
-      "visualDescription": "\"To be continued...\" over black. Gold text."
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 74: So the non-tribals were their target...."
     },
     {
       "id": "s1e01-075",
-      "type": "brand",
+      "type": "content",
       "image": "images/series1/ep01/slide-075.webp",
-      "text": "",
+      "text": "So the non-tribals were their target.",
       "animation": {
-        "type": "Fade in/out",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "Closure",
-      "visualDescription": "End card — JG logo + MF logo, \"A Meer Foundation Initiative\". Elegant, museum-quality."
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 75: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-076",
+      "type": "content",
+      "image": "images/series1/ep01/slide-076.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 76: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-077",
+      "type": "content",
+      "image": "images/series1/ep01/slide-077.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "panLeft",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 77: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-078",
+      "type": "content",
+      "image": "images/series1/ep01/slide-078.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "fadeIn",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 78: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-079",
+      "type": "content",
+      "image": "images/series1/ep01/slide-079.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "panRight",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 79: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-080",
+      "type": "content",
+      "image": "images/series1/ep01/slide-080.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "zoomOut",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 80: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-081",
+      "type": "content",
+      "image": "images/series1/ep01/slide-081.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 81: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-082",
+      "type": "content",
+      "image": "images/series1/ep01/slide-082.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "panLeft",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 82: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-083",
+      "type": "content",
+      "image": "images/series1/ep01/slide-083.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "fadeIn",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 83: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-084",
+      "type": "content",
+      "image": "images/series1/ep01/slide-084.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "panRight",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 84: So the non-tribals were their target...."
+    },
+    {
+      "id": "s1e01-085",
+      "type": "content",
+      "image": "images/series1/ep01/slide-085.webp",
+      "text": "So the non-tribals were their target.",
+      "animation": {
+        "type": "zoomOut",
+        "duration": 15
+      },
+      "emotion": "resolution",
+      "visualDescription": "Mahatma Gandhi portrait, ancient Chhattisgarh forts, the 36 garhs, tribal life, colonial era map of Central Provinces. Slide 85: So the non-tribals were their target...."
     }
   ]
 }

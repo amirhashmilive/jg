@@ -1,1029 +1,1029 @@
 {
   "series": 1,
   "episode": 9,
-  "title": "Episode 09",
+  "title": "The Day in Dhamtari",
   "duration": "~40 min",
   "slideCount": 85,
   "slides": [
     {
       "id": "s1e09-001",
-      "type": "content",
+      "type": "title",
       "image": "images/series1/ep09/slide-001.webp",
-      "text": "schools, colleges and markets were closed on 9th August 1942 in Raipur. Meanwhile Pt. Ravi Shankar Shukla, Barrister Chhedilal, Laxminarayan Das, Yati...",
+      "text": "Because of this grain was very cheap here. From 1861 to 1864, 40 ser of rice was available for one rupee and 56 ser wheat for one rupee. In 1921-24, 7 ser of rice or wheat started getting for one rupee.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 1"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 1: Because of this grain was very cheap here. From 1861 to 1864, 40 ser of rice was available for one r..."
     },
     {
       "id": "s1e09-002",
       "type": "content",
       "image": "images/series1/ep09/slide-002.webp",
-      "text": "Singh Gupta, Dwarka Prasad Mishra, Ram Gopal Tiwari, and Kunjbihari Agnihotri were already arrested at Malakpur on the border of the Central Provinces...",
+      "text": "One serving equals 933 grams. There were 300 markets in Raipur district. Gol Bazaar was developed by the Kalchuris.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 2"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 2: One serving equals 933 grams. There were 300 markets in Raipur district. Gol Bazaar was developed by..."
     },
     {
       "id": "s1e09-003",
       "type": "content",
       "image": "images/series1/ep09/slide-003.webp",
-      "text": "leaders of the congress were arrested, many people were put under house arrest in the \"Aga Khan Palace\". Around 3 pm in the afternoon, a huge crowd o...",
+      "text": "Here silk cloth and cotton cloth from Banaras and Buhranpur used to come from Nagpur, Kanpur and Rajnandgaon. Under the first settlement in 1868, an annual rent of three lakh rupees was fixed for the Raipur Khalsa area. Later in the second settlement in 1888, it was increased to five and a half lakh rupees.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 3"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 3: Here silk cloth and cotton cloth from Banaras and Buhranpur used to come from Nagpur, Kanpur and Raj..."
     },
     {
       "id": "s1e09-004",
       "type": "content",
       "image": "images/series1/ep09/slide-004.webp",
-      "text": "out of the National School in the form of a procession, passing through Tatyapara to Kankalipara, people gathered for the meeting at Gandhi Maidan at ...",
+      "text": "In 1925, it was increased to seven lakh 75 thousand rupees. First Deputy Commissioner of Chhattisgarh - Charles C. Elliott , Additional Deputy Assistant Commissioner - Gopalrao (Bilaspur), Mobin -ul-Hasan (Raipur) .",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 4"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 4: In 1925, it was increased to seven lakh 75 thousand rupees. First Deputy Commissioner of Chhattisgar..."
     },
     {
       "id": "s1e09-005",
       "type": "content",
       "image": "images/series1/ep09/slide-005.webp",
-      "text": "people gathered in the ground. The British police had surrounded the meeting place, the then city magistrate asked D eputy commissioner (Collector) RK...",
+      "text": "In 1858, Police manual implemented in Chhattisgarh . In 1862 , The p olice system started in Chhattisgarh . First Post Master was Smith in Raipur , and the Manuals for revenue matters - Dastur-ul-Amal .",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 5"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 5: In 1858, Police manual implemented in Chhattisgarh . In 1862 , The p olice system started in Chhatti..."
     },
     {
       "id": "s1e09-006",
       "type": "content",
       "image": "images/series1/ep09/slide-006.webp",
-      "text": "but seeing the peaceful procession, the collector refused. Influence d by this movement, the C ollector quit his job after a few days. D uring the mee...",
+      "text": "Tehsildar system The British government introduced the Tehsildar system to assist in the administrative work of the deputy commissioner. The Tehsildars were given civil and criminal rights. First three tehsils in Chhattisgarh Raipur Dhamtari Ratanpur District At the time of the formation of Madhya Pradesh in 1861, there were three districts of Chhattisgarh Sambalpur, Bilaspur, Raipur.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 6"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 6: Tehsildar system The British government introduced the Tehsildar system to assist in the administrat..."
     },
     {
       "id": "s1e09-007",
       "type": "content",
       "image": "images/series1/ep09/slide-007.webp",
-      "text": "soon as the name was called from the stage to preside over the meeting, the man would have been arrested even before he could reach the doys. In this ...",
+      "text": "Geographical Reorganization Sambalpur district was included in Odisha under the Bengal Partition of 1905. There were five princely states of Chhattisgarh Changbhakhar, Udaipur, Korea, Surguja, Jashpur. The D u r g District dates only from the 1 January 1906.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 7"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 7: Geographical Reorganization Sambalpur district was included in Odisha under the Bengal Partition of..."
     },
     {
       "id": "s1e09-008",
       "type": "content",
       "image": "images/series1/ep09/slide-008.webp",
-      "text": "52 people were arrested and sent to jail before reaching the stage. In view of this, people discussed among themselves and made a strategy to take the...",
+      "text": "Both the Raipur and Formation of the District . Bilaspur Districts, which together covered an area of 20000 square miles and contained a population of 2.5 million persons, had for some time been considered too large for effective management, and in 1902 proposals were drawn up by Mr. Carey, the Commissioner, for the constitution of a third District, comprising the western portions of Raipur and Bilaspur.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 8"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 8: Both the Raipur and Formation of the District . Bilaspur Districts, which together covered an area o..."
     },
     {
       "id": "s1e09-009",
       "type": "content",
       "image": "images/series1/ep09/slide-009.webp",
-      "text": "view of this, then Gopal Singh Nepali had said : \"Aaj desh ke neta peechhe, J anata aage-aage\" ( Today the leaders of the country a re behind, the peo...",
+      "text": "These finally took effect on the above date in the birth of the Drug District. From Raipur was taken the whole of the Drug tahsil with the portion of the Simga tahsil lying west of the Kharun and Seonath rivers, and the Sanjari and part of the Balod parganas of the Dbamtari tahsil with the Dondi-Lohara zamindari. This was the area which had been summarily settled by Khan Bahadur Aulad Husain in 1887; it was excluded from Mr.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 9"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 9: These finally took effect on the above date in the birth of the Drug District. From Raipur was taken..."
     },
     {
       "id": "s1e09-010",
       "type": "content",
       "image": "images/series1/ep09/slide-010.webp",
-      "text": "are ahead) Raipur Conspiracy Case Explosive materials were made under the leadership of Parasram Soni and B.B. Sur to support the revolutionaries in R...",
+      "text": "Carey's settlement of 1886-89, and was re-settled by Mr. Mughal Rule and the Elephants of Chhattisgarh In the medieval period, the elephants of Chhattisgarh were among the leading elephants of the Mughal army. On the strength of these elephants, they forced the famous Girimi kings to kneel o n the battlefield.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 10"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 10: Carey's settlement of 1886-89, and was re-settled by Mr. Mughal Rule and the Elephants of Chhattisga..."
     },
     {
       "id": "s1e09-011",
       "type": "content",
       "image": "images/series1/ep09/slide-011.webp",
-      "text": "are Premchandra Wasnik, Dr. Surmangal Mistry, Sudhir Mukherjee, Dashrath Choubey, Ranveer Singh Shastri, Girivar Damodar, Kantikumar Bharti. The revol...",
+      "text": "This can be attributed to the claims of history pages and the Forest Department, as Chhattisgarh was a stronghold of elephants, whom the royal Mahavat s of the Mughals used to train. After training, they used it in war and the construction of high-rise buildings. 500 years ago, their number was 3 to 4 thousand but gradually reduced. The reason behind this was that their ancestors made their hideouts in the border states of the state.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 11"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 11: This can be attributed to the claims of history pages and the Forest Department, as Chhattisgarh was..."
     },
     {
       "id": "s1e09-012",
       "type": "content",
       "image": "images/series1/ep09/slide-012.webp",
-      "text": "to information being given to the police by an informer named 'Shivanandan', and sentenced to 7 years. However, due to the efforts of Pt. Ravi Shankar...",
+      "text": "Some of the members of the team of Mughal elephants taken from here could not get hold of them. Due to the bravery and aggressiveness of the elephants of this party, they were named after kings and great sons in the years. But due to natural and climate change, their behavior is slowly changed.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 12"
+      "emotion": "establishing",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 12: Some of the members of the team of Mughal elephants taken from here could not get hold of them. Due..."
     },
     {
       "id": "s1e09-013",
       "type": "content",
       "image": "images/series1/ep09/slide-013.webp",
-      "text": "Raipur Dynamite Scandal To get the politicians out of Raipur jail, a plan was made to blow up the prison wall with dynamite under the leadership of Bi...",
+      "text": "Teams of elephants that infiltrate Chhattisgarh are also descendants of the elephants here. Because if a female elephant splits from her party, then the offspring that come s from it reach there once after many years. Such elephants are also presen t in Andhra Pradesh and Odisha.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 13"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 13: Teams of elephants that infiltrate Chhattisgarh are also descendants of the elephants here. Because..."
     },
     {
       "id": "s1e09-014",
       "type": "content",
       "image": "images/series1/ep09/slide-014.webp",
-      "text": "information about this scheme was conveyed to the police through Avinash Sangram. Due to which this plan failed. The police arrested Bilakhnarayan alo...",
+      "text": "Elephant parties were named after their nature. Elephants were in abundance in the forests of Chhattisgarh. In the pages of history and folk tales of Chhattisgarh, it is recorded in history that Mughals used elephants here to join their army.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 14"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 14: Elephant parties were named after their nature. Elephants were in abundance in the forests of Chhatt..."
     },
     {
       "id": "s1e09-015",
       "type": "content",
       "image": "images/series1/ep09/slide-015.webp",
-      "text": "Nagardas Bavaria. Durg's Arsons On 28 August 1942, Raghunandan Singraul set fire to Durg district court. The police arrested Raghunandan Singraul on t...",
+      "text": "Chhattisgarh Word In the 1973 Gazetteer, Chhattisgarh was reported. Lakshminidhi was the king of Khairagarh. The term Chhattisgarh was first used in the year 497 AD by Charan Kavi Dalram Rao of Raja Lakshminidhi Rai of Khairagarh Riyasat .",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 15"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 15: Chhattisgarh Word In the 1973 Gazetteer, Chhattisgarh was reported. Lakshminidhi was the king of Kha..."
     },
     {
       "id": "s1e09-016",
       "type": "content",
       "image": "images/series1/ep09/slide-016.webp",
-      "text": "due to lack of evidence. On 5 September 1942, Raghunandan Singraul along with Jaswant Singh set fire to the municipal building. The movement remained ...",
+      "text": "Lakhani Nidhi Raay Suno Chitt De, Garh Chhattis Me Na Yadhaiya Rahi \" Charan Kavi Dalram Rao The second use of the word Chhattisgarh was in 1746 , the first in a political context wa s by the court poet Gopal Mishra o f Raja Rajsimhadeva of Ratanpur, in his composition \" He addressed this area under the name \"˜ Chhattisgarh '. Apart from this, Babu Revaram in his treatise Vikramvilas in 1 896 had named this state \"",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 16"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 16: Lakhani Nidhi Raay Suno Chitt De, Garh Chhattis Me Na Yadhaiya Rahi ' Charan Kavi Dalram Rao The se..."
     },
     {
       "id": "s1e09-017",
       "type": "content",
       "image": "images/series1/ep09/slide-017.webp",
-      "text": "was hoisted in the High Court of Nagpur by a student named Thakur Ramakrishna, for which he was arrested. The youth used to try to break the jail wall...",
+      "text": "Babu Revaram has written the history of \" Tawarikh-e-Haihaivanshi \" and Ratanpur. Mythological significance In ancient times, South Kosala extended from Tripuri in the west to Sambalpur and Kalahandi in Odisha in the east.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 17"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 17: Babu Revaram has written the history of ' Tawarikh-e-Haihaivanshi ' and Ratanpur. Mythological sign..."
     },
     {
       "id": "s1e09-018",
       "type": "content",
       "image": "images/series1/ep09/slide-018.webp",
-      "text": "applying dynamide to free the people associated with the freedom struggle. The postbox was set on fire by pouring petrol to stop the letters of the Br...",
+      "text": "In the mythological period, this region was called the \" Kosala \" region, which in ti me was divided into two parts, Uttar Kosala and Dakshin Kosal, and Dakshin Kosala is the present-day Chhattisgarh. Mahanadi, a river in this region in ancient times, was named \"",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 18"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 18: In the mythological period, this region was called the ' Kosala ' region, which in ti me was divide..."
     },
     {
       "id": "s1e09-019",
       "type": "content",
       "image": "images/series1/ep09/slide-019.webp",
-      "text": "by vandalizing the government building. In 1947, Attainment of Independence On August 15, the first Chief Minister of Madhya Pradesh and Berar, P. Rav...",
+      "text": "Chitrotpala \" in that period. Which is mentioned in Malyapuran, Valmiki Ramayana, and the Bhishma festival of Mahabharata. There is a clear mention in Valmiki Ramayana that Shringi Rishi, who resides in the ashram of Sihawa Mountain located in this region, had performed a Dhyanishti Yagya in Ayodhya to get a son of King Dasharatha.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 19"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 19: Chitrotpala ' in that period. Which is mentioned in Malyapuran, Valmiki Ramayana, and the Bhishma f..."
     },
     {
       "id": "s1e09-020",
       "type": "content",
       "image": "images/series1/ep09/slide-020.webp",
-      "text": "Sitabardi fort in the then capital Nagpur, RK Patil in Raipur, Ghanshyam Singh Gupta in Durg and Ram Gopal Tiwari in Bilaspur. 1920: Mahatma Gandhi 's...",
+      "text": "Rama came to this region during the period of his exile. The famous forested province known as Dandakaranya was the center of the propagation of Indian culture at that time. In the solitary forests here, sages and monks lived and meditated.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 20"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 20: Rama came to this region during the period of his exile. The famous forested province known as Danda..."
     },
     {
       "id": "s1e09-021",
       "type": "content",
       "image": "images/series1/ep09/slide-021.webp",
-      "text": "Chhattisgarh The Kandel Canal Satyagraha December 20, Reached Raipur, addressed the general meeting, the place p re sently knows as Gandhi Chowk in Ra...",
+      "text": "Among them were Valmiki, Atri, Agastya, and Sutikarshan . Angusad Nikaya \" and the Jain work \" Bhagwati Sutta \" , there are 14 Mahajanapadas, one of which is \"",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 21"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 21: Among them were Valmiki, Atri, Agastya, and Sutikarshan . Angusad Nikaya ' and the Jain work ' Bhag..."
     },
     {
       "id": "s1e09-022",
       "type": "content",
       "image": "images/series1/ep09/slide-022.webp",
-      "text": "gave a speech regarding Kandel Satyagraha, thronged to welcome at Makai Chowk, returned from Dhamtari, and addressed the gathering at the ground next ...",
+      "text": "Kosal \" was divided i nto two parts, South and North. History of Formation In comparison, the tribal areas of Bastar and Chota Nagpur remained indifferent to it. That is why the Chhattisgarhi language became the form of Chhattisgarhi identity automatically.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 22"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 22: Kosal ' was divided i nto two parts, South and North. History of Formation In comparison, the triba..."
     },
     {
       "id": "s1e09-023",
       "type": "content",
       "image": "images/series1/ep09/slide-023.webp",
-      "text": "Addressed a gathering of women in Machi Bada, Tatyapara, Raipur, also went to the Jaitusav math. December 22, Left from Raipur for Nagpur by train. Ga...",
+      "text": "Khubchand Baghel had played the role of a separate Chhattisgarh state, expressing his opposition to this same image of Chhattisgarh. Ideals and Practices \" , he wrote - \"˜ When we look at our role, we find ourselves standing on the timid land of Chhattisgarh. People are simple, but what work can that simplicity do, when seeing their own life and property too looted, they cannot open their mouths, they cannot move in their hands and feet.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 23"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 23: Khubchand Baghel had played the role of a separate Chhattisgarh state, expressing his opposition to..."
     },
     {
       "id": "s1e09-024",
       "type": "content",
       "image": "images/series1/ep09/slide-024.webp",
-      "text": "who spent most of his life reaching different parts of the country and tried to know him and increased his intimate connection with the public. His Ch...",
+      "text": "I feel very uneasy seeing this only thing. It seems that the people of Chhattisgarh should tell the substance text of Sidhai in some measure in the true sense. Perhaps it is my boast but I say what I think.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 24"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 24: I feel very uneasy seeing this only thing. It seems that the people of Chhattisgarh should tell the..."
     },
     {
       "id": "s1e09-025",
       "type": "content",
       "image": "images/series1/ep09/slide-025.webp",
-      "text": "recorded in the indelible memories of history. In 1920, the farmers of Kandel, a small village in Dhamtari, about 70 km from Raipur, performed a water...",
+      "text": "This is also acknowledged by Dr. Pardeshiram Varma, a writer who works on the life and work of Dr. The worldliness o f Chhattisgarh has now expanded, b ut this is our miraculous region in Chhattisgarh where humiliation, defeat, neglect is necessary for Chhattisgarh, this philosophy is coined and coined.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 25"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 25: This is also acknowledged by Dr. Pardeshiram Varma, a writer who works on the life and work of Dr. T..."
     },
     {
       "id": "s1e09-026",
       "type": "content",
       "image": "images/series1/ep09/slide-026.webp",
-      "text": "decree of irrigation tax imposed by the British rule. Due to which Mahatma Gandhi was well impressed and joined the peasant movement in Dhamtari on 21...",
+      "text": "With full courage and skill, we also increase the value of this philosophy due to our humility, bravado, and perceptiveness.\" Thus the beginning separate Chhattisgarh movement developed in retaliation for neglect. At the center of this movement was the agricultural class of Chhattisgarh, whose representative was trying to honor it. Khubchand Baghel, saint-poet Pawan Diwan tried to take the movement of separate Chhattisgarh state to the next stage.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 26"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 26: With full courage and skill, we also increase the value of this philosophy due to our humility, brav..."
     },
     {
       "id": "s1e09-027",
       "type": "content",
       "image": "images/series1/ep09/slide-027.webp",
-      "text": "the farmers. Due to which the British were sweated, all the Gudhaan property which was confiscated by the British got it returned. The Kandel Canal Sa...",
+      "text": "Pawan Diwan ' s emphasis was also to give political color to the exploitation done by outsiders. He said - \"˜ Politics, journalism, business, jobs are all occupied by outsiders. Pardesiya people are striving for farming.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 27"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 27: Pawan Diwan ' s emphasis was also to give political color to the exploitation done by outsiders. He..."
     },
     {
       "id": "s1e09-028",
       "type": "content",
       "image": "images/series1/ep09/slide-028.webp",
-      "text": "very effective step against the British. On his return, Gandhi addressed a public meeting in Raipur. The place where Gandhi gave a speech is today kno...",
+      "text": "' 8 To give Chhattisgarh the status of an independent state apart from Madhya Pradesh, he formed a separate \" Chhattisgarh Party \" in 1983. The main demand of the party was to give Chhattisgarh the status of an independent state apart from Madhya Pradesh.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 28"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 28: ' 8 To give Chhattisgarh the status of an independent state apart from Madhya Pradesh, he formed a s..."
     },
     {
       "id": "s1e09-029",
       "type": "content",
       "image": "images/series1/ep09/slide-029.webp",
-      "text": "Raipur. Mahatma Gandhi's first visit to Chhattisgarh was in December 1920. Although not mentioned in Gandhi's history, there is enough information fro...",
+      "text": "To make this demand democratic successful, he also fielded his candidates in the 1985 Legislative Assembly elections, but not a single one of them could win. When the demand for an independent state of Chhattisgarh could not lead to political success, Pawan Diwan moved away from it, but he tried very hard to evoke the Chhattisgarhi sentiments through his poems. On April 6, 1992, the Chhattisgarh State Building All-Party Forum was formed, advancing the movement of Chhattisgarh state.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 29"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 29: To make this demand democratic successful, he also fielded his candidates in the 1985 Legislative As..."
     },
     {
       "id": "s1e09-030",
       "type": "content",
       "image": "images/series1/ep09/slide-030.webp",
-      "text": "Raipur in connection with the Kandel Canal Satyagraha and went to Dhamtari, Kurud. Bal G angadhar Tilak, who was conferred with the title of Lokmanya,...",
+      "text": "People from all political parties participated in it. While this platform inspired the people of Chhattisgarhi to the movement of a separate state, they tried to get the consent of a separate state within their respective parties. Many MLAs raised the issue of separate Chhattisgarh in the Madhya Pradesh Legislative Assembly on a personal level.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 30"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 30: People from all political parties participated in it. While this platform inspired the people of Chh..."
     },
     {
       "id": "s1e09-031",
       "type": "content",
       "image": "images/series1/ep09/slide-031.webp",
-      "text": "that era, died on 1 August 1920. Although Mahatma Gandhi's identity and his important place in Indian politics had already been established . But afte...",
+      "text": "The case of isolated Chhattisgarh had taken on enough emotional form in the ' 90s. In 1995, the 1000-day strike by the Azad Chhattisgarh Army proved to be an important factor in taking it further. As a result, the Bharatiya Janata Party in its national manifesto resolved to give Chhattisgarh the status of a separate state.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 31"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 31: The case of isolated Chhattisgarh had taken on enough emotional form in the ' 90s. In 1995, the 1000..."
     },
     {
       "id": "s1e09-032",
       "type": "content",
       "image": "images/series1/ep09/slide-032.webp",
-      "text": "he became the focal point not only of Congress but also of Indian politics. Congress took the reins of Mahatma Gandhi. Meanwhile, in the Kandel villag...",
+      "text": "As a result of all the above efforts, Madhya Pradesh Reorganization Commission was formed in 1998. As a result of special instructions from the President, a special session of the Madhya Pradesh Legislative Assembly was organized on August 31 and September 1, 1998. As a result of the debate in these sessions, a proposal was sent to the Central Government on 2 October 1998 agreeing to a separate Chhattisgarh state.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 32"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 32: As a result of all the above efforts, Madhya Pradesh Reorganization Commission was formed in 1998. A..."
     },
     {
       "id": "s1e09-033",
       "type": "content",
       "image": "images/series1/ep09/slide-033.webp",
-      "text": "Satyagraha of the farmers was going on under the leadership of Babu Chhotelal Srivastava. Pt. Sundarlal Sharma and Pt. Narayanrao Meghawale w as also ...",
+      "text": "On 31 July 2000, the proposal for the formation of Chhattisgarh state was approved in the Lok Sabha and the Rajya Sabha on 9 August. After publication in the Gazette of the Government of India on 4 September 2000, Chhattisgarh came into existence as the 26th state of the country on 1 November 2000 and the dream of ancestors came true. In the eighties and nineties, Chhattisgarhi was also used on a wide scale to demand a separate Chhattisgarh.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 33"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 33: On 31 July 2000, the proposal for the formation of Chhattisgarh state was approved in the Lok Sabha..."
     },
     {
       "id": "s1e09-034",
       "type": "content",
       "image": "images/series1/ep09/slide-034.webp",
-      "text": "irrigation department accused the farmers of Kandel of stealing water from the canal. It was the month of August; it was raining heavily. There was en...",
+      "text": "Even some purely caste-based organizations started showing interest in this. After the formation of the state of Chhattisgarh, the leadership politics was immediately activated and the slogan was given to put Chhattisgarhi as the official language - first Chhattisgarh, Past Chhattisgarh. In such a situation, the economic and social issues of backwardness continued to be left behind, the main issue being respect for language.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 34"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 34: Even some purely caste-based organizations started showing interest in this. After the formation of..."
     },
     {
       "id": "s1e09-035",
       "type": "content",
       "image": "images/series1/ep09/slide-035.webp",
-      "text": "Therefore, the charge of farmers stealing water from the canal was false. A policy of repression was adopted to collect forcible irrigation tax. The a...",
+      "text": "This whole case was related to the new class in the seventh-eighth decade of independent India, which was upset about its low presence in national politics. Consequently, he wanted to establish a limited, but strong presence in national politics by establishing his dominance in regional politics. With the decline of central power in Indian politics since the eighth decade, the process of inventing regional identities in new ways and creating new political equations from them had begun.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 35"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 35: This whole case was related to the new class in the seventh-eighth decade of independent India, whic..."
     },
     {
       "id": "s1e09-036",
       "type": "content",
       "image": "images/series1/ep09/slide-036.webp",
-      "text": "were also adamant about not paying tax. A fine of Rs 4030 was confiscated on their cattle during the farming period. Both sides were unswerving. There...",
+      "text": "In such a situation, regional identities also recognized new possibilities of their strength as a result of emotional upsurge. The issue of Chhattisgarh was part of this political project in the state of Chhattisgarh. In an article titled Language Dispute and Democratization, Dhiru Bhai Sheth has raised many important questions considering regional identity and regional interrelationships.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 36"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 36: In such a situation, regional identities also recognized new possibilities of their strength as a re..."
     },
     {
       "id": "s1e09-037",
       "type": "content",
       "image": "images/series1/ep09/slide-037.webp",
-      "text": "hand over the leadership of the movement to Gandhi. Pt. Sundarlal Sharma went to Calcutta on 2 December to pick up Gandhi. They reached Raipur on 20 D...",
+      "text": "Prabhuvarga became powerful around independence (or already emerged from it and now) because of English supremacy based on language and managed to keep itself at the top of power. The lukewarm national policy of Hindi could not destroy this lordly class and its linguistic domination. In the seventies, the new regional lord out of the process of democratization presented a challenge to the old lord of English at the regional level.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 37"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 37: Prabhuvarga became powerful around independence (or already emerged from it and now) because of Engl..."
     },
     {
       "id": "s1e09-038",
       "type": "content",
       "image": "images/series1/ep09/slide-038.webp",
-      "text": "them. Pt. Ravi Shankar Shukla, Thakur Pyarelal Singh, Sakharam Dubey , etc. welcomed him on the platform. Gandhi was lodged in the barrister Thakkar's...",
+      "text": "Since regional languages \"‹\"‹ played an important role in this sequence, regional languages \"‹\"‹ emerged as a strong carrier of regional identities. Since Hindi did not take any active part in their struggle, the Hindi opposition to regional identities first came to light and later came out in the open. In this way, the process of empowerment of new nationalities and sub-nationalities in independent India appears in the exact opposite order of colonial India.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 38"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 38: Since regional languages '‹'‹ played an important role in this sequence, regional languages '‹'‹ eme..."
     },
     {
       "id": "s1e09-039",
       "type": "content",
       "image": "images/series1/ep09/slide-039.webp",
-      "text": "by prominent leaders of the Khilafat Movement Shaukat Ali and his brother Muhammad Ali and mother of the Ali brothers. In the evening, Mahatma Gandhi ...",
+      "text": "However, it was the newly democratic action that succeeded in pushing the centrality of democracy towards decentralization. But the new supremacist powers that emerged in the above-mentioned process of decentralization were more aggressive rather aggressive than before. This newly emerged power treated others irrationally.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 39"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 39: However, it was the newly democratic action that succeeded in pushing the centrality of democracy to..."
     },
     {
       "id": "s1e09-040",
       "type": "content",
       "image": "images/series1/ep09/slide-040.webp",
-      "text": "That place is famous today as Gandhi Chowk in Raipur. On 21 December 1920, Gandhi left Abbas B hai's motor to Dhamtari in front of the Balasamaj libra...",
+      "text": "Interpretations of history and culture were also polarized anew. As a result of the polarization in Chhattisgarh, two different thinking arrays were created about separate Chhattisgarh. Democracy was only a convenience for the class which wanted to reach the top of power only through separate Chhattisgarh.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 40"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 40: Interpretations of history and culture were also polarized anew. As a result of the polarization in..."
     },
     {
       "id": "s1e09-041",
       "type": "content",
       "image": "images/series1/ep09/slide-041.webp",
-      "text": "Azad Chowk. On receiving the information about Gandhi's arrival, the irrigation officials swelled hands and withdrew the anti-farmer order. Returning ...",
+      "text": "He had no definite plan for public empowerment. As a result, he started promoting the language as a key element of local honor. S eparate Chhattisgarh state hood struggle In the history-writing of state-building, the seed-formula of the accepted identity of the state is hidden.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 41"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 41: He had no definite plan for public empowerment. As a result, he started promoting the language as a..."
     },
     {
       "id": "s1e09-042",
       "type": "content",
       "image": "images/series1/ep09/slide-042.webp",
-      "text": "the ground next to the Anand S amaja library in Kankalipara. There was a tennis court at that place. On the stage from which he addressed the meeting,...",
+      "text": "Through the analysis of which we can guess the political direction of a particular state. To understand this, it is necessary to look at the history of Chhattisgarh and the tendency of historiography. Chhattisgarh became the role of the state only after Chhattisgarh was given the status of provision in Central India.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 42"
+      "emotion": "building",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 42: Through the analysis of which we can guess the political direction of a particular state. To underst..."
     },
     {
       "id": "s1e09-043",
       "type": "content",
       "image": "images/series1/ep09/slide-043.webp",
-      "text": "called Bhishma Pitamah was played the night before. The play was acted by the people of Brahmanpara. After the meeting, those who had reverence for Ga...",
+      "text": "In colonial India, however, the strength of the awakened nationalities concerning the creation of a separate state did not show the same strength for Chhattisgarh. It may also be due to the tribal majority, who remained indifferent to the theoretical interpretation of the modern nation-state for a time. Nevertheless, after the formation of Chhattisgarh as a separate state, there is a frequent mention in the history of the formation of the state that the Raipur Congress Committee passed the proposal of independent Chhattisgarh in its meeting in 1924.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 43"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 43: In colonial India, however, the strength of the awakened nationalities concerning the creation of a..."
     },
     {
       "id": "s1e09-044",
       "type": "content",
       "image": "images/series1/ep09/slide-044.webp",
-      "text": "as a memento of the stage. Even the stage was not left intact. Mahatma Gandhi was collecting funds for the Tilak Swaraj Fund during his stay in Raipur...",
+      "text": "Later it was also placed in Tripura Congress. However, in the Tripura Congress drafts and Dr. There is no reference to this in the \"",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 44"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 44: Later it was also placed in Tripura Congress. However, in the Tripura Congress drafts and Dr. There..."
     },
     {
       "id": "s1e09-045",
       "type": "content",
       "image": "images/series1/ep09/slide-045.webp",
-      "text": "They received cash, gold , a nd silver jewelry as donations. On December 21, at 11 am, Gandhi reached Dhamtari with the Ali brothers. The crowd gather...",
+      "text": "History of Congress \" written by Pattabhi Sitaramaiya. This implies that Chhattisgarh ' s demand did not gain widespread support in British India. It may be a personal demand of the then Congress leadership of Chhattisgarh.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 45"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 45: History of Congress ' written by Pattabhi Sitaramaiya. This implies that Chhattisgarh ' s demand di..."
     },
     {
       "id": "s1e09-046",
       "type": "content",
       "image": "images/series1/ep09/slide-046.webp",
-      "text": "at Makai Chowk. The speech was arranged in the enclosure of Seth Hussain. It was impossible to reach the gathering place by the motor by crossing the ...",
+      "text": "In Colonial India, Pandit Sundarlal Sharma, Thakur Pyare Singh, Barrister Thakur Chhedilal, Ghanshyam Singh Gupta, etc. started a strong leadership at the level of Chhattisgarh. Although their influence was limited to central Chhattisgarh. In the context of the construction of Chhattisgarh, the role of these politicians was that they connected the Chhattisgarh region to the mainstream of politics.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 46"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 46: In Colonial India, Pandit Sundarlal Sharma, Thakur Pyare Singh, Barrister Thakur Chhedilal, Ghanshya..."
     },
     {
       "id": "s1e09-047",
       "type": "content",
       "image": "images/series1/ep09/slide-047.webp",
-      "text": "time, Omar Seth, a businessman from Gurur, lifted Gandhi on his shoulder and took him to the stage. Bajirao Kridatta prese nted a bag of Rs 501 to Gan...",
+      "text": "Without its leadership power in the mainstream of politics, no nation-leading or establishing a nation does not pay much respect to other regional nationalities. Nevertheless, as Chhattisgarhi was accepted as a dialect, it was kept under the sub-nationality of Hindi. In the new division of states after independence, the first C.P.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 47"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 47: Without its leadership power in the mainstream of politics, no nation-leading or establishing a nati..."
     },
     {
       "id": "s1e09-048",
       "type": "content",
       "image": "images/series1/ep09/slide-048.webp",
-      "text": "In his hour-long address, he referred to Chhotilal Babu, Narayan Rao Meghawale , and Pt. Sundarlal Sharma for the successful operation of the Kandel C...",
+      "text": "And Berar and later Chhattisgarh, which became part of Madhya Pradesh, felt many kinds of neglect. This feeling of neglect was deeply ingrained. On the one hand, the first Chief Minister of Madhya Pradesh was Pt.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 48"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 48: And Berar and later Chhattisgarh, which became part of Madhya Pradesh, felt many kinds of neglect. T..."
     },
     {
       "id": "s1e09-049",
       "type": "content",
       "image": "images/series1/ep09/slide-049.webp",
-      "text": "of a true, non-violence-based Satyagraha . The result of Gandhi's influence was that more than 500 activists from Dhamtari attended the Nagpur session...",
+      "text": "Ravi Shankar Shukla, who belonged to the Chhattisgarh region, on the other hand, the entire administrative structure was developed in such a way that no administrative center came withi n the boundary of Chhattisgarh. Eminent symbols like the Board of Education, High Court, Rajdhani were established outside Chhattisgarh. Chhattisgarh continued to develop as a resource replenishing region for Madhya Pradesh.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 49"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 49: Ravi Shankar Shukla, who belonged to the Chhattisgarh region, on the other hand, the entire administ..."
     },
     {
       "id": "s1e09-050",
       "type": "content",
       "image": "images/series1/ep09/slide-050.webp",
-      "text": "women's gathering at Machilabad in Tatyapara, Raipur. A large number of Muslim women attended the meeting. The women openly donated to the Tilak Fund....",
+      "text": "In such a situation, even the first Chief Minister of Madhya Pradesh from Chhattisgarh could not become a reason for satisfaction. One reason for the neglect which was felt within the Chhattisgarh was the low participation of \" Chhattisgarh \" despite the beginning and development of industrialization in then Chhattisgarh.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 50"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 50: In such a situation, even the first Chief Minister of Madhya Pradesh from Chhattisgarh could not bec..."
     },
     {
       "id": "s1e09-051",
       "type": "content",
       "image": "images/series1/ep09/slide-051.webp",
-      "text": "of the Non-Cooperation Movement in these meetings. The Ali brothers, while giving speeches on the Khilafat Movement, emphasized on Hindu-Muslim unity....",
+      "text": "Khubchand Baghel started giving aggressive form to this administrative and political neglect of Chhattisgarh. This aggression developed slowly . The political focus of Madhya Pradesh was not ready to accept the autonomy of Chhattisgarh or its independent existence.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 51"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 51: Khubchand Baghel started giving aggressive form to this administrative and political neglect of Chha..."
     },
     {
       "id": "s1e09-052",
       "type": "content",
       "image": "images/series1/ep09/slide-052.webp",
-      "text": "old settlement. Abbas Bhai soon got the punishment for taking Gandhi to Dhamtari by sitting in the motor. The license of his transport company Raipur ...",
+      "text": "Ramakrishna Singh, who was an MLA from the Raipur Legislative Assembly constituency, in the state assembly of Madhya Pradesh in 1955 demanded Chhattisgarh to be given the status of an independent state, his demand was considered completely unfair. Again after one year, a delegation under his leadership presented the report of Chhattisgarh separately, but it was not even considered. Khubchand Baghel Movement Dr.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 52"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 52: Ramakrishna Singh, who was an MLA from the Raipur Legislative Assembly constituency, in the state as..."
     },
     {
       "id": "s1e09-053",
       "type": "content",
       "image": "images/series1/ep09/slide-053.webp",
-      "text": "Gandhi went directly to Nagpur from Raipur. A Congress session was held there. Pandit Ravi Shankar Shukla, Barrister CM Thakkar, Thakur Pyarelal Singh...",
+      "text": "Khubchand Baghel was a member of Chief Minister Pt . Ravi Shankar Shukla ' s cabinet, b ut gradually his differences with Pt. The main reason for differences was the \"",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 53"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 53: Khubchand Baghel was a member of Chief Minister Pt . Ravi Shankar Shukla ' s cabinet, b ut gradually..."
     },
     {
       "id": "s1e09-054",
       "type": "content",
       "image": "images/series1/ep09/slide-054.webp",
-      "text": "went to Nagpur to hear the non-cooperation movement from Raipur. Dr. Khubchand Baghel was studying medic ine in Nagpur. He also attended the session a...",
+      "text": "Chhattisgarhi Mahasabha \" formed in 1956 by Dr. He finally resigned from the cabinet in 1958. After resigning, he wrote an article titled \"",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 54"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 54: Chhattisgarhi Mahasabha ' formed in 1956 by Dr. He finally resigned from the cabinet in 1958. After..."
     },
     {
       "id": "s1e09-055",
       "type": "content",
       "image": "images/series1/ep09/slide-055.webp",
-      "text": "Corps. Pt. Madhavrao Sapre was also present in Nagpur. They were touring across the state and were successful in making the convention successful. As ...",
+      "text": "Chintit Chhattisgarh \" (Anxious Chhattisgarh) , whose initial lines were Raipur, Bilaspur, and Durg these three districts and 14 Rajwadas joined by the recent merger are the areas of \"‹\"‹ Chhattisgarh. Its place in the politics of Madhya Pradesh is increasing steadily because about 70 people will be elected in the Vidhan Sabha in proportion to the population. The remaining 50 will be from Mahakaushal, 40 from Nagpur, and about 40 from Berar.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 55"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 55: Chintit Chhattisgarh ' (Anxious Chhattisgarh) , whose initial lines were Raipur, Bilaspur, and Durg..."
     },
     {
       "id": "s1e09-056",
       "type": "content",
       "image": "images/series1/ep09/slide-056.webp",
-      "text": "session, local leaders started campaigning for the non- cooperati ve movement. The lawyers left the advocacy among them Thakur Pyarelal Singh and Pt. ...",
+      "text": "In this way, there will be around 200 members in total. In such a situation, Chhattisgarh has become a very important place in front of the politicians who constantly think in terms of political power. On the other hand, the people here will contribute with one vote, surely that party will get a very powerful place in the governance of the province.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 56"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 56: In this way, there will be around 200 members in total. In such a situation, Chhattisgarh has become..."
     },
     {
       "id": "s1e09-057",
       "type": "content",
       "image": "images/series1/ep09/slide-057.webp",
-      "text": "a prominent leader of the Congress, continued his advocacy. District Council Chairman Yadav Rao Deshmukh resigned from the post. Raosaheb Vamanrao Lak...",
+      "text": "This is the reason why some politicians continue to worry about holding Chhattisgarh well in the clutches. Some opinionated people say that Chhattisgarh has therefore come to be called the nerve ce nter of provincial politics. It is clear that to gain political power in the Central Province, it was extremely important to increase our credibility and reach the peak of domination in the Chhattisgarh region, Just like it was necessary to maintain its hold in Uttar Pradesh to gain political power of the country.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 57"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 57: This is the reason why some politicians continue to worry about holding Chhattisgarh well in the clu..."
     },
     {
       "id": "s1e09-058",
       "type": "content",
       "image": "images/series1/ep09/slide-058.webp",
-      "text": "Shamsher Khan renounced their titles. The peo ple of Raipur conferred Vamanrao Lakhe with the title of Popular on the same day. Barrister Thakkar was ...",
+      "text": "But the political facilities that Uttar Pradesh had got in return, Chhattisgarh could not get those facilities in Madhya Pradesh. Baghel introduced himself as a person to worry about Chhattisgarh ' s backwardness. He believed that the erstwhile political power could not do well to the people of Chhattisgarh, but would imprison those who did selfless service to Chhattisgarh.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 58"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 58: But the political facilities that Uttar Pradesh had got in return, Chhattisgarh could not get those..."
     },
     {
       "id": "s1e09-059",
       "type": "content",
       "image": "images/series1/ep09/slide-059.webp",
-      "text": "elections, he boycotted the election. \"I am like an elephant and Gandhi is like a goat\" Speeches of Gandhi and Maulana Shaukat Ali were held in the m...",
+      "text": "Those who ruled in Madhya Pradesh called those who speak of the interest of Chhattisgarh as \"Enemies of the Country\". Baghel arrested those people as traitors and demanded a trial in court. Khubchand Baghel considered Chhattisgarh as the place of residence of those who consider the interest of Chhattisgarh as their interest.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 59"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 59: Those who ruled in Madhya Pradesh called those who speak of the interest of Chhattisgarh as 'Enemies..."
     },
     {
       "id": "s1e09-060",
       "type": "content",
       "image": "images/series1/ep09/slide-060.webp",
-      "text": "a crowd of about 1 5 thousand people , Gandhi gave the message of patriotism and was active in national programs to all. Shaukat Ali jocularly said, \"...",
+      "text": "But it later developed into a neglect of the Kurmi caste in Chhattisgarh. The caste-wise data of Raipur, Bilaspur, and Durg shows that the number of Kurmi caste is the highest in the said districts but the power was mainly with the Brahmins. Not only in the numerical form the Kurmi caste is the largest cultivator here but they also own most of the land.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 60"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 60: But it later developed into a neglect of the Kurmi caste in Chhattisgarh. The caste-wise data of Rai..."
     },
     {
       "id": "s1e09-061",
       "type": "content",
       "image": "images/series1/ep09/slide-061.webp",
-      "text": "an elephant and Gandhi is like a goat\", people laughed a lot at this. Then Maulana Shaukat Ali further said that, \"E ven if I die, it will not be...",
+      "text": "Despite being strong in terms of land and numbers, the low participation in power motivated him to join the separate Chhattisgarh movement. Chhattisgarhi Mahasabha \" in 1956 and became its president, he and his organization were not as aggressive about a separate Chhattisgarh. He was only dissatisfied with the politics of the time.",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 61"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 61: Despite being strong in terms of land and numbers, the low participation in power motivated him to j..."
     },
     {
       "id": "s1e09-062",
       "type": "content",
       "image": "images/series1/ep09/slide-062.webp",
-      "text": "of any use, but Gandhi is still useful for everyone, and will remain useful even after death \" . Then people understood the context of the elephant a...",
+      "text": "But gradually, this dissatisfaction became aggressive. Due to this many people went away from them. He called it a conspiracy of the ruling party.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 62"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 62: But gradually, this dissatisfaction became aggressive. Due to this many people went away from them...."
     },
     {
       "id": "s1e09-063",
       "type": "content",
       "image": "images/series1/ep09/slide-063.webp",
-      "text": "Raipur District Congress Committee In the 1920's visit, Gandhi stayed for only one day, but he had woven the dream of independent India in the people ...",
+      "text": "He has also mentioned it himself when he formed the \" Chhattisgarh Bhatru Sangh \" in 1967 - I see one thing clear that they want to use some people inside us as \" Through them, they seem to be imagining themselves and their bright future in cutting down the tree of hope of Chhattisgarh.",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 63"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 63: He has also mentioned it himself when he formed the ' Chhattisgarh Bhatru Sangh ' in 1967 - I see o..."
     },
     {
       "id": "s1e09-064",
       "type": "content",
       "image": "images/series1/ep09/slide-064.webp",
-      "text": "seeing the resentment among the people against the British, had awakened the spirit of patriotism into the people. At the same time the Raipur Distric...",
+      "text": "They want to use our Tyagi-ascetic and lifeless people unnaturally by putting various theories and seductive attractions under the cover of the screen. Analyzing the identity of Chhattisgarh, Dr. Hiralal Shukla has mentioned two images of it - self-image and paid-image.",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 64"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 64: They want to use our Tyagi-ascetic and lifeless people unnaturally by putting various theories and s..."
     },
     {
       "id": "s1e09-065",
       "type": "content",
       "image": "images/series1/ep09/slide-065.webp",
-      "text": "Pt. Ravi Shankar Shukla was made its first secretary. Gandhi traveling in the third class The way the people experienced Gandhi's personality in this ...",
+      "text": "There are two forms of Asmita of Chhattisgarh - one that Chhattisgarh develops about itself, it is called \" The second one, which is given by other cultures, is called the \"Paid Image\" . The image bestowed in the movement of Chhattisgarh state formation played a major role in awakening the self-image.",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 65"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 65: There are two forms of Asmita of Chhattisgarh - one that Chhattisgarh develops about itself, it is c..."
     },
     {
       "id": "s1e09-066",
       "type": "content",
       "image": "images/series1/ep09/slide-066.webp",
-      "text": "words of freedom fighter Prabhu Lal Kabra: \"I saw Gandhi on the platform of Raipur, in the same postal train, Dadasaheb Khapard, Dr. Munje, etc. were ...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 66"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 66: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-067",
       "type": "content",
       "image": "images/series1/ep09/slide-067.webp",
-      "text": "All these leaders got down from the first class or second class compartment on the platform but Gandhi was not visible in them and the eyes of the cro...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 67"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 67: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-068",
       "type": "content",
       "image": "images/series1/ep09/slide-068.webp",
-      "text": "looking for Gandhi. Someone told that he was sitting in the third-class compartment, the public ran on the same side and people saw that Gandhi, weari...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 68"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 68: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-069",
       "type": "content",
       "image": "images/series1/ep09/slide-069.webp",
-      "text": "Kurta , was standing at the door of the third-class compartment with folded hands, till then the train started moving. There was only one thing on the...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 69"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 69: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-070",
       "type": "content",
       "image": "images/series1/ep09/slide-070.webp",
-      "text": "people around, that seeing Gandhi going in the third class, the public got emotional after realizing his simplicity and people became convinced that o...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 70"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 70: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-071",
       "type": "content",
       "image": "images/series1/ep09/slide-071.webp",
-      "text": "downtrodden Indian people properly.\" The tilting point of Quit India was a quarter of a century away. Having partook in the South African civil right...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 71"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 71: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-072",
       "type": "content",
       "image": "images/series1/ep09/slide-072.webp",
-      "text": "-violently, in the heat of battle with his ambulance brotherhood, he was preparing for a peaceful assault on the jewel in the Crown. His earliest expe...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 72"
+      "emotion": "climax",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 72: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-073",
       "type": "content",
       "image": "images/series1/ep09/slide-073.webp",
-      "text": "Bharat darshan of the kind that a contemporary Gandhi hazards now and also, with indifferent results. Mohandas did it more totally, criss- crossing th...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 73"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 73: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-074",
       "type": "content",
       "image": "images/series1/ep09/slide-074.webp",
-      "text": "a half times. He spent between six and nine months of that time in third-class chambers, traveling from Karachi to Calcutta, from Lahore to Tranquebar...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 74"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 74: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-075",
       "type": "content",
       "image": "images/series1/ep09/slide-075.webp",
-      "text": "1919, at which the Khilafat Movement was endorsed and Non-Co-0pration was adopted as a political weapon, the District Conference was held at Raipur in...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 75"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 75: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-076",
       "type": "content",
       "image": "images/series1/ep09/slide-076.webp",
-      "text": "held on 17 March 1920 and a Khilafat sub-committee was formed. When Asgar Ali thanked the Hindu brethren for their sympathy for the Muslim cause, Ravi...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 76"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 76: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-077",
       "type": "content",
       "image": "images/series1/ep09/slide-077.webp",
-      "text": "are no more Hindu and Muslims, but Hindustanis in the strictest sense.\" Such was the spirit of those times. Those were the days of brisk and militant...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 77"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 77: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-078",
       "type": "content",
       "image": "images/series1/ep09/slide-078.webp",
-      "text": "before the Nagpur session of the Congress, Mahatma Gandhi visited Raipur, with the Ali brothers, on 20 December 1920 in connection with Tilak Fund and...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 78"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 78: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-079",
       "type": "content",
       "image": "images/series1/ep09/slide-079.webp",
-      "text": "and Kurud also, where people expressed their regard by a good deal of contribution to the Fund. It was in such an atmosphere that the Raipur District ...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 79"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 79: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-080",
       "type": "content",
       "image": "images/series1/ep09/slide-080.webp",
-      "text": "- Gazetteer of India, Madhya Pradesh, District Raipur, 1973 1933: Mahatma Gandhi's S econd Visit to Chhattisgarh Tilak &amp; Swaraj Fund November 22, ...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 80"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 80: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-081",
       "type": "content",
       "image": "images/series1/ep09/slide-081.webp",
-      "text": "in Durg, left for Raipur in the same night, a historic procession from Amapara to Budhapara, in Ra i pur. November 23, Visit Khadi and Swadeshi Exhibi...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
         "type": "zoomIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 81"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 81: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-082",
       "type": "content",
       "image": "images/series1/ep09/slide-082.webp",
-      "text": "(Motibagh), public meeting at Moudapara, visit Satnam Samaj Ashram and Orphanage. November 24, Public m eeting in Bilaspur, returned to Raipur by trai...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "panLeft",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 82"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 82: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-083",
       "type": "content",
       "image": "images/series1/ep09/slide-083.webp",
-      "text": "(present Sapre School) November 25, Public Meeting in Dhamtari . November 26, Visit to Saragaon, Kharora, Palari, Kanaki, Balodabazar, and Simga Novem...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "fadeIn",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 83"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 83: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-084",
       "type": "content",
       "image": "images/series1/ep09/slide-084.webp",
-      "text": "28, Left for Balaghat, from where he went to Katni. For the first time, a rush of people arriving from far and wide was visible in the urban areas. In...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "panRight",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 84"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 84: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     },
     {
       "id": "s1e09-085",
       "type": "content",
       "image": "images/series1/ep09/slide-085.webp",
-      "text": "the cities where Gandhi had meetings, people were arriving a week ago, either on foot or by Bailgadi (bull cart). Even before coming to the city, he w...",
+      "text": "From the time of Marathas to independent India, Chhattisgarh has been seen with different ne",
       "animation": {
-        "type": "zoomIn",
+        "type": "zoomOut",
         "duration": 15
       },
-      "emotion": "neutral",
-      "visualDescription": "Cinematic visualization for slide 85"
+      "emotion": "resolution",
+      "visualDescription": "Gandhi in Dhamtari December 21 1920, Kandel victory celebration, women freedom fighters gathering, Satyagraha success. Slide 85: From the time of Marathas to independent India, Chhattisgarh has been seen with different ne..."
     }
   ]
 }
