@@ -1,0 +1,263 @@
+/* ============================================
+   JOHAR GANDHI — Landing Page Styles
+   ============================================ */
+
+/* --- Hero Section --- */
+.landing-hero {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: var(--bg-primary);
+}
+
+.landing-hero__bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background: 
+    radial-gradient(ellipse at 50% 30%, rgba(200, 168, 92, 0.06) 0%, transparent 60%),
+    radial-gradient(ellipse at 50% 80%, rgba(212, 119, 44, 0.04) 0%, transparent 50%),
+    var(--bg-primary);
+}
+
+/* Animated grain texture */
+.landing-hero__grain {
+  position: absolute;
+  inset: 0;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* --- Logo Area --- */
+.landing-logo {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-lg);
+  animation: fadeInUp 1.2s var(--ease-dramatic) 0.3s both;
+}
+
+.landing-logo__image {
+  width: clamp(180px, 30vw, 320px);
+  height: auto;
+  filter: drop-shadow(0 0 40px rgba(200, 168, 92, 0.1));
+  transition: filter 0.6s var(--ease-smooth);
+}
+
+.landing-logo__image:hover {
+  filter: drop-shadow(0 0 60px rgba(200, 168, 92, 0.2));
+}
+
+.landing-tagline {
+  font-family: var(--font-display);
+  font-size: clamp(0.9rem, 1.8vw, 1.3rem);
+  font-weight: 400;
+  color: var(--text-secondary);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-align: center;
+  animation: fadeIn 1s var(--ease-smooth) 1s both;
+}
+
+.landing-subtitle {
+  font-family: var(--font-body);
+  font-size: clamp(0.8rem, 1.2vw, 1rem);
+  font-weight: 300;
+  color: var(--text-muted);
+  text-align: center;
+  max-width: 500px;
+  animation: fadeIn 1s var(--ease-smooth) 1.4s both;
+}
+
+/* --- Gold Divider --- */
+.gold-divider {
+  width: clamp(60px, 12vw, 120px);
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--accent-gold), transparent);
+  margin: var(--space-md) auto;
+  animation: goldLineExpand 1s var(--ease-dramatic) 0.8s both;
+}
+
+/* --- Series Cards --- */
+.series-section {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  gap: var(--space-xl);
+  margin-top: var(--space-2xl);
+  padding: 0 var(--space-lg);
+  animation: fadeInUp 1s var(--ease-dramatic) 1.8s both;
+}
+
+.series-card {
+  position: relative;
+  width: clamp(260px, 22vw, 360px);
+  padding: var(--space-xl) var(--space-lg);
+  background: var(--bg-card);
+  border: var(--border-subtle);
+  border-radius: var(--radius-lg);
+  text-align: center;
+  cursor: pointer;
+  overflow: hidden;
+  transition: 
+    transform var(--transition-medium),
+    border-color var(--transition-medium),
+    box-shadow var(--transition-medium);
+}
+
+.series-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(200, 168, 92, 0.0) 0%,
+    rgba(200, 168, 92, 0.03) 100%
+  );
+  opacity: 0;
+  transition: opacity var(--transition-medium);
+}
+
+.series-card:hover {
+  transform: translateY(-6px);
+  border-color: rgba(200, 168, 92, 0.4);
+  box-shadow: var(--shadow-glow-gold);
+}
+
+.series-card:hover::before {
+  opacity: 1;
+}
+
+.series-card__number {
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent-gold);
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  margin-bottom: var(--space-sm);
+}
+
+.series-card__title {
+  font-family: var(--font-display);
+  font-size: clamp(1.4rem, 2.5vw, 2rem);
+  font-weight: 800;
+  color: var(--text-primary);
+  margin-bottom: var(--space-sm);
+}
+
+.series-card__year {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: var(--accent-gold-dim);
+  margin-bottom: var(--space-md);
+}
+
+.series-card__desc {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 300;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.series-card__meta {
+  margin-top: var(--space-lg);
+  padding-top: var(--space-md);
+  border-top: var(--border-subtle);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+}
+
+/* --- Footer Brand --- */
+.landing-footer {
+  position: absolute;
+  bottom: var(--space-sm);
+  left: 0;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-md);
+  animation: fadeIn 1s var(--ease-smooth) 2.5s both;
+}
+
+.landing-footer__logo {
+  height: 28px;
+  width: auto;
+  opacity: 0.4;
+  transition: opacity var(--transition-fast);
+}
+
+.landing-footer__logo:hover {
+  opacity: 0.7;
+}
+
+.landing-footer__text {
+  font-size: 0.7rem;
+  color: var(--text-dim);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* --- Scroll Hint --- */
+.scroll-hint {
+  position: absolute;
+  bottom: calc(var(--space-lg) + 50px);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-xs);
+  animation: fadeIn 1s var(--ease-smooth) 3s both;
+}
+
+.scroll-hint__text {
+  font-size: 0.65rem;
+  color: var(--text-dim);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+@keyframes scrollBounce {
+  0%, 100% { transform: translateY(0); opacity: 0.4; }
+  50% { transform: translateY(6px); opacity: 0.8; }
+}
+
+.scroll-hint__arrow {
+  width: 16px;
+  height: 16px;
+  border-right: 1.5px solid var(--accent-gold-dim);
+  border-bottom: 1.5px solid var(--accent-gold-dim);
+  transform: rotate(45deg);
+  animation: scrollBounce 2s var(--ease-smooth) infinite;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .series-section {
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-lg);
+    margin-top: var(--space-2xl);
+  }
+
+  .series-card {
+    width: min(320px, 90vw);
+  }
+}

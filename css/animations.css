@@ -1,0 +1,177 @@
+/* ============================================
+   JOHAR GANDHI — Ken Burns & Slide Animations
+   ============================================ */
+
+/* --- Ken Burns Keyframes --- */
+@keyframes kb-zoomIn {
+  from { transform: scale(1.0); }
+  to   { transform: scale(1.25); }
+}
+
+@keyframes kb-zoomOut {
+  from { transform: scale(1.25); }
+  to   { transform: scale(1.0); }
+}
+
+@keyframes kb-panLeft {
+  from { transform: scale(1.1) translateX(0); }
+  to   { transform: scale(1.1) translateX(-8%); }
+}
+
+@keyframes kb-panRight {
+  from { transform: scale(1.1) translateX(-8%); }
+  to   { transform: scale(1.1) translateX(0); }
+}
+
+@keyframes kb-panUp {
+  from { transform: scale(1.1) translateY(0); }
+  to   { transform: scale(1.1) translateY(-6%); }
+}
+
+@keyframes kb-zoomInPanLeft {
+  from { transform: scale(1.0) translateX(0); }
+  to   { transform: scale(1.2) translateX(-5%); }
+}
+
+@keyframes kb-zoomInPanRight {
+  from { transform: scale(1.0) translateX(-5%); }
+  to   { transform: scale(1.2) translateX(0); }
+}
+
+/* --- Slide Image Container --- */
+.slide-image-wrap {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.slide-image-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  will-change: transform;
+  animation-play-state: paused;
+  animation-fill-mode: both;
+  animation-timing-function: linear;
+}
+
+/* Animation Classes — applied by JS */
+.slide-image-wrap img.kb-zoomIn       { animation-name: kb-zoomIn; }
+.slide-image-wrap img.kb-zoomOut      { animation-name: kb-zoomOut; }
+.slide-image-wrap img.kb-panLeft      { animation-name: kb-panLeft; }
+.slide-image-wrap img.kb-panRight     { animation-name: kb-panRight; }
+.slide-image-wrap img.kb-panUp        { animation-name: kb-panUp; }
+.slide-image-wrap img.kb-zoomInPanLeft  { animation-name: kb-zoomInPanLeft; }
+.slide-image-wrap img.kb-zoomInPanRight { animation-name: kb-zoomInPanRight; }
+
+/* Play animation when slide is active */
+.slide.active .slide-image-wrap img {
+  animation-play-state: running;
+}
+
+/* --- Slide Text Animations --- */
+@keyframes textReveal {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+    filter: blur(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+}
+
+.slide.active .slide-text {
+  animation: textReveal 0.8s var(--ease-dramatic) 0.3s both;
+}
+
+/* --- Title Card Animations --- */
+@keyframes titleTypeIn {
+  from {
+    clip-path: inset(0 100% 0 0);
+    opacity: 0.5;
+  }
+  to {
+    clip-path: inset(0 0% 0 0);
+    opacity: 1;
+  }
+}
+
+@keyframes goldLineExpand {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
+}
+
+.title-card .title-text {
+  animation: titleTypeIn 1.2s var(--ease-dramatic) 0.5s both;
+}
+
+.title-card .gold-line {
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent-gold), transparent);
+  transform-origin: center;
+  animation: goldLineExpand 1s var(--ease-dramatic) 0.3s both;
+}
+
+/* --- Episode Intro/Outro --- */
+@keyframes introFadeScale {
+  0%   { opacity: 0; transform: scale(0.92); }
+  40%  { opacity: 1; transform: scale(1); }
+  80%  { opacity: 1; transform: scale(1); }
+  100% { opacity: 0; transform: scale(1.04); }
+}
+
+.episode-intro {
+  animation: introFadeScale 4s var(--ease-dramatic) both;
+}
+
+/* --- Slide Transition (between slides) --- */
+@keyframes slideCrossfade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+.slide {
+  animation: slideCrossfade 0.5s var(--ease-smooth) both;
+}
+
+/* --- Progress Bar --- */
+@keyframes progressFill {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
+}
+
+.progress-bar-fill {
+  transform-origin: left;
+  background: linear-gradient(90deg, var(--accent-gold-dim), var(--accent-gold));
+  animation: progressFill var(--slide-duration, 12s) linear both;
+  animation-play-state: var(--progress-state, running);
+}
+
+/* --- Parallax Depth Layers (for layered slides) --- */
+.parallax-layer-back {
+  transform: translateZ(-2px) scale(3);
+}
+
+.parallax-layer-mid {
+  transform: translateZ(-1px) scale(2);
+}
+
+.parallax-layer-front {
+  transform: translateZ(0);
+}
+
+/* --- Reduced Motion --- */
+@media (prefers-reduced-motion: reduce) {
+  .slide-image-wrap img {
+    animation: none !important;
+    transform: scale(1.05) !important;
+  }
+  .slide.active .slide-text {
+    animation: none !important;
+    opacity: 1 !important;
+  }
+}
