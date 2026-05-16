@@ -1,16 +1,16 @@
 # Johar Gandhi – Build Progress
 
 ## Current Status
-- Phase: Phase 0 Setup
+- Phase: Phase 1 (Data Extraction)
 - Last Completed: 2026-05-16
-- Next Action: Proceed to Phase 1 (Data Extraction)
+- Next Action: Proceed to Phase 2 (JSON Structure Creation)
 - Current Episode: N/A
 
 ## Checkpoint Log
 | Checkpoint | Date | Status | Notes |
 |------------|------|--------|-------|
 | CP0 - Foundation | 2026-05-16 | COMPLETED | Folder structure, CSS files, index.html created |
-| CP1 - Book Data Extracted | - | NOT STARTED | - |
+| CP1 - Book Data Extracted | 2026-05-16 | COMPLETED | book_text.txt verified, encoding fixed |
 | CP2 - JSON Structure Created | - | NOT STARTED | - |
 | CP3 - S1 Images Generated | - | NOT STARTED | - |
 | CP4 - S2 Images Generated | - | NOT STARTED | - |
