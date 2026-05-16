@@ -1,1 +1,1029 @@
-﻿{ "series": 1, "episode": 8, "title": "Mohandas Arrives", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 1,
+  "episode": 8,
+  "title": "Episode 08",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s1e08-001",
+      "type": "content",
+      "image": "images/series1/ep08/slide-001.webp",
+      "text": "Before people could understand anything, on the orders of the Circle Inspector, the police force started beating everyone with sticks, and brutally be...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s1e08-002",
+      "type": "content",
+      "image": "images/series1/ep08/slide-002.webp",
+      "text": "landlord for an hour. People ran towards the forest after saving their lives, on the other hand the policemen entered the village, where only women an...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s1e08-003",
+      "type": "content",
+      "image": "images/series1/ep08/slide-003.webp",
+      "text": "soon as they entered the village, there was aerial fire. Women, apprehensive about the lives of men, left their homes with sticks. She stood before th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s1e08-004",
+      "type": "content",
+      "image": "images/series1/ep08/slide-004.webp",
+      "text": "to kill, while seeing the ruthless appearance of the women, the police and the landlord's goons thought it better to run away. The women also followed...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s1e08-005",
+      "type": "content",
+      "image": "images/series1/ep08/slide-005.webp",
+      "text": "distance, hearing the noise of which the men hiding in the forest also came out. The fleeing policemen were resting in Patparpayali, two miles away, w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s1e08-006",
+      "type": "content",
+      "image": "images/series1/ep08/slide-006.webp",
+      "text": "inspector with a stone. The police force ran back and arrested 28 people in this incident. On March 26, 1931, on the information of the incident, the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s1e08-007",
+      "type": "content",
+      "image": "images/series1/ep08/slide-007.webp",
+      "text": "Patparpayali, then on the pretext of a Congress meeting, gathered the villagers back, and the people were rewarded and the gifts of sweets and paan, b...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s1e08-008",
+      "type": "content",
+      "image": "images/series1/ep08/slide-008.webp",
+      "text": "knowing the truth of the hoax, people refused to accept sweets and paan-bidi. Urlu Kotwar was given a reward of Rs 75 and had the privilege of shaking...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s1e08-009",
+      "type": "content",
+      "image": "images/series1/ep08/slide-009.webp",
+      "text": "the Deputy Commissioner, who was no less than a king in the area during this period. It was Urlu Kotwar, through which the deputy commissioner of Patp...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s1e08-010",
+      "type": "content",
+      "image": "images/series1/ep08/slide-010.webp",
+      "text": "false a nnouncement of being a Congress meeting. After the Deputy Commissioner's court, a hundred policemen collected a fine of 300 to 400 rupees from...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s1e08-011",
+      "type": "content",
+      "image": "images/series1/ep08/slide-011.webp",
+      "text": "searched, money was extorted by showing people the fear of arrest, those who were unable to pay the money were arrested. And people were brutally beat...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s1e08-012",
+      "type": "content",
+      "image": "images/series1/ep08/slide-012.webp",
+      "text": "rice, pulses and ghee were looted by the police. Gandhi-Irwin Pact On 5 March 1931, the Satyagrahis were released according to the Gandhi-Irwin Pact. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s1e08-013",
+      "type": "content",
+      "image": "images/series1/ep08/slide-013.webp",
+      "text": "to village of the agreement. The volunteers undertook an intensive tour of 60 villages in 15 days, carrying a tricolor flag and wearing a Gandhi cap. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s1e08-014",
+      "type": "content",
+      "image": "images/series1/ep08/slide-014.webp",
+      "text": "was ingrained in the minds of the villagers that the Viceroy had to compromise before Gandhi bowing down, compromise is the victory of Mahatma Gandhi ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s1e08-015",
+      "type": "content",
+      "image": "images/series1/ep08/slide-015.webp",
+      "text": "Satyagraha in Chhattisgarh The then Viceroy Lord Linlithgow announced India ' s involvement in the Second World War on 3 September 1939. Before this a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s1e08-016",
+      "type": "content",
+      "image": "images/series1/ep08/slide-016.webp",
+      "text": "any political party. This left Congress dissatisfied. Mahatma Gandhi oppose s the British government ' s strategy. Non-violent personal Satyagrah was ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s1e08-017",
+      "type": "content",
+      "image": "images/series1/ep08/slide-017.webp",
+      "text": "individual Satyagrah. On October 17, 1940, the Father of the Nation, Mahatma Gandhi had chosen Acharya Vinoba Bhave as the first Satyagrahis to start ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s1e08-018",
+      "type": "content",
+      "image": "images/series1/ep08/slide-018.webp",
+      "text": "the second. The Vyaktigat Satyagraha (Personal Satyagrah) in Chhattisgarh was initiated by Pandit Ravi Shankar on 27 November 1940 in Raipur, Chhattis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s1e08-019",
+      "type": "content",
+      "image": "images/series1/ep08/slide-019.webp",
+      "text": "Provisions region. All the Satyagrahis arrested were released on 3 December 1941 In Raipur, Pt. Ravi Shankar Shukla was the first Satyagrahi of Chhatt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s1e08-020",
+      "type": "content",
+      "image": "images/series1/ep08/slide-020.webp",
+      "text": "one year. After his arrest, around 74 people performed Satyagraha. At this time itself, Raipur Congress Bhavan was constructed in 1940, which was inau...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s1e08-021",
+      "type": "content",
+      "image": "images/series1/ep08/slide-021.webp",
+      "text": "The chief Satyagrahis of Bilaspur were Yadunandan Prasad Srivastava, Jwala Prasad Mishra, Barrister Ghililal, Kishanchand Kayastha, R. K. P. Roy , and...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s1e08-022",
+      "type": "content",
+      "image": "images/series1/ep08/slide-022.webp",
+      "text": "the Durg were Satyagrahi, Ratnakar Jha, Ghanshyam Singh Gupta, Ramkumar Singraul, Y. S. Whey Tamaskar, and Mohanlal Bakaliwal. 1940, thousands of Saty...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s1e08-023",
+      "type": "content",
+      "image": "images/series1/ep08/slide-023.webp",
+      "text": "place o n this S atyagraha. Kajuram Verma, a freedom fighter from village Saragaon, traveled to Delhi, campaigning against British rule. He was charge...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s1e08-024",
+      "type": "content",
+      "image": "images/series1/ep08/slide-024.webp",
+      "text": "department soldier. He also used to walk along with him, taking reports of his speech. Gradually he too was impressed by his speech. People used to ca...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s1e08-025",
+      "type": "content",
+      "image": "images/series1/ep08/slide-025.webp",
+      "text": "Meanwhile, the festival of Bhai Dooj came. On that day Chhattisgarh goes to the sibling ' s house as per the custom of the region. The sister worships...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s1e08-026",
+      "type": "content",
+      "image": "images/series1/ep08/slide-026.webp",
+      "text": "offers her food and dhoti. The brother gives them according to his power. As Satyagrahi Kejuram Verma had to travel further towards Delhi, he could no...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s1e08-027",
+      "type": "content",
+      "image": "images/series1/ep08/slide-027.webp",
+      "text": "sister ' s village, then he became depressed in the memory of his sister. Reason for sadness the soldier of the intelligence department himself got sa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s1e08-028",
+      "type": "content",
+      "image": "images/series1/ep08/slide-028.webp",
+      "text": "should give the message of not being able to reach your sister? Kejuram Varma agreed. With your departure, my sister will get some satisfaction. The s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s1e08-029",
+      "type": "content",
+      "image": "images/series1/ep08/slide-029.webp",
+      "text": "the message of Kejuram ' s sister ' s village, promising to meet at the next stop. The sister got the message of her brother, and a feeling of brother...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s1e08-030",
+      "type": "content",
+      "image": "images/series1/ep08/slide-030.webp",
+      "text": "love was received and he was welcomed by the brother who h as substituted the brother, he fed him the sweets made for his brother and while departing,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s1e08-031",
+      "type": "content",
+      "image": "images/series1/ep08/slide-031.webp",
+      "text": "him the dhoti which he gave to the brother, which was of pure Khadi. The soldier came to the second stop and narrated the situation of the house of Ke...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s1e08-032",
+      "type": "content",
+      "image": "images/series1/ep08/slide-032.webp",
+      "text": "' s sister. At the same time, he also showed himself the dhoti of Khadi and sent it emotionally, brother, I have presented the dhoti of Khadi as a sis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s1e08-033",
+      "type": "content",
+      "image": "images/series1/ep08/slide-033.webp",
+      "text": "of Satyagrahi brother. I can no longer be a policeman. I too will join the personal S atyagraha and go to jail. At the same time, he resigned from his...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s1e08-034",
+      "type": "content",
+      "image": "images/series1/ep08/slide-034.webp",
+      "text": "government job and went to his place of residence in Muzaffarpur, Uttar Pradesh , and joined the personal Satyagrah, who later became the MLA in Uttar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s1e08-035",
+      "type": "content",
+      "image": "images/series1/ep08/slide-035.webp",
+      "text": "even further. Many government employees, influenced by the soldiers of the freedom struggle, also left the government service and participated in the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s1e08-036",
+      "type": "content",
+      "image": "images/series1/ep08/slide-036.webp",
+      "text": "he left his police department job to participate in the freedom struggle. While his departmental promotion was to take place at that time. In August 1...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s1e08-037",
+      "type": "content",
+      "image": "images/series1/ep08/slide-037.webp",
+      "text": "Karo Ya Maro \" (Do or die) Was widely circulated in Chhattisgarh on the call of. Nonviolent S atyagraha and revolution had merged, like the Ganga Jam...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s1e08-038",
+      "type": "content",
+      "image": "images/series1/ep08/slide-038.webp",
+      "text": "of Chhattisgarh were moving towards armed revolution with the inspiration of Krantikumar Bharti. On the other hand, most Satyagrahis headed for a non ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s1e08-039",
+      "type": "content",
+      "image": "images/series1/ep08/slide-039.webp",
+      "text": "way. Both groups were moving according to their ways. Armed revolutionaries had secretly set up a factory for making weapons in Raipur, whose center w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s1e08-040",
+      "type": "content",
+      "image": "images/series1/ep08/slide-040.webp",
+      "text": "to improve guns. The pistols made from Jahn were used to secretly reach the revolutionaries of Bengal. Mangal Mistry used to be his associate. The wor...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s1e08-041",
+      "type": "content",
+      "image": "images/series1/ep08/slide-041.webp",
+      "text": "by Parasram Soni and Govind Prasad Awadhiya. The bomb - making work was done by Parasram Soni. Govind Prasad Awadhiya had the responsibility to experi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s1e08-042",
+      "type": "content",
+      "image": "images/series1/ep08/slide-042.webp",
+      "text": "His weapon capacity was secretly measured. Pistol training was imparted. The bomb - making education was given by Sudhir Mukherjee, who was a student ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s1e08-043",
+      "type": "content",
+      "image": "images/series1/ep08/slide-043.webp",
+      "text": "pistols was given by Krantikumar Bharti. Further , all the companions were caught because of a whistleblower. He was prosecuted and jailed, the case i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s1e08-044",
+      "type": "content",
+      "image": "images/series1/ep08/slide-044.webp",
+      "text": "Conspiracy Case \" in the government records. One effort was active under the leadership of Ishwaricharan Shukla. They wanted to blow up the post offi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s1e08-045",
+      "type": "content",
+      "image": "images/series1/ep08/slide-045.webp",
+      "text": "with their colleagues before taking the form of the plan. Similarly, the third Yush Prof. Jayanaraban belonged to Pandey who wanted to liberate the fr...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s1e08-046",
+      "type": "content",
+      "image": "images/series1/ep08/slide-046.webp",
+      "text": "Jail Jail by bombing it. The wall of the jail was able to put the dynamite, but the wall did not break with it, only a crack cou ld occur....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s1e08-047",
+      "type": "content",
+      "image": "images/series1/ep08/slide-047.webp",
+      "text": "Jayanarayan Pandey was also caught. He was also prosecuted and jailed. Sheetal Prasad Mishra was caught cutting the telephone wires. Their effort was ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s1e08-048",
+      "type": "content",
+      "image": "images/series1/ep08/slide-048.webp",
+      "text": "the contact of rail and wire and declare it as Azad Nagar. The fourth attempt was to blow up the railway bridge near Rajnandgaon. After all the prepar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s1e08-049",
+      "type": "content",
+      "image": "images/series1/ep08/slide-049.webp",
+      "text": "could not fructify due to the ill-treatment of its chief Karnadhar Kasturchand Jain, in which his colleagues got jail sentence s . Non-violent revolut...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s1e08-050",
+      "type": "content",
+      "image": "images/series1/ep08/slide-050.webp",
+      "text": "experiment took place at Patan police station in Durg district. Acharya Ramdev, a Gandhian philosopher, had come from Gandhi ' s ashram to live here w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s1e08-051",
+      "type": "content",
+      "image": "images/series1/ep08/slide-051.webp",
+      "text": "to use his theory. They wanted to liberate the entire Patan region from British rule by occupying the police station without using weapons. He named t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s1e08-052",
+      "type": "content",
+      "image": "images/series1/ep08/slide-052.webp",
+      "text": "\" and started using it. Village volunteers went and prepared volunteers first. Give them training as per their plan. How to snatch the police weapon ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s1e08-053",
+      "type": "content",
+      "image": "images/series1/ep08/slide-053.webp",
+      "text": "how to defend themselves when fired, then how to take possession of the police station in front of them, the village was already promoted. Gandhi ' s ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s1e08-054",
+      "type": "content",
+      "image": "images/series1/ep08/slide-054.webp",
+      "text": "Maro \" (Do or Die ) , \" Angrezo Bharat Chhodo\" (\"British leave India\") \" Angrezi Poli ce Thana Chhoro \" ( British Police Quit Station s ), the cam...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s1e08-055",
+      "type": "content",
+      "image": "images/series1/ep08/slide-055.webp",
+      "text": "started. Patan ' s police station was engulfed in manpower. The police station and the policemen were stripped of their uniforms and handed over the p...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s1e08-056",
+      "type": "content",
+      "image": "images/series1/ep08/slide-056.webp",
+      "text": "The officers were informed about the status of the Patan police station. The entire Amla Maya military force of the entire district surrounded Patan. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s1e08-057",
+      "type": "content",
+      "image": "images/series1/ep08/slide-057.webp",
+      "text": "the occupation was scattered. Freedom fighters were arrested by marking them one by one from each village. On that day the \" Capture Program \" could ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s1e08-058",
+      "type": "content",
+      "image": "images/series1/ep08/slide-058.webp",
+      "text": "the planners were not disappointed by it, and tried again, by taking a meeting in Jamgaon. The gathering severely repressed the British government, th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s1e08-059",
+      "type": "content",
+      "image": "images/series1/ep08/slide-059.webp",
+      "text": "Mandal of Batang village came with the youth of his village carrying the tricolor flag. Sticks were settled on that procession, in which many voluntee...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s1e08-060",
+      "type": "content",
+      "image": "images/series1/ep08/slide-060.webp",
+      "text": "were arrested. The Ghasia Mandal, moving forward with the flag, was also attacked, but they did not let the flag fall. Stripped with gun blades, yet d...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s1e08-061",
+      "type": "content",
+      "image": "images/series1/ep08/slide-061.webp",
+      "text": "flag, only after falling unconscious did he release the flag from his hand, and he was arrested and lodged in an injured state in Raipur Jail, where h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s1e08-062",
+      "type": "content",
+      "image": "images/series1/ep08/slide-062.webp",
+      "text": "brave martyr of the Patan (Durg) region was written in the line of martyrs. The group of young men of Durg C ity wanted to show some courage in the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s1e08-063",
+      "type": "content",
+      "image": "images/series1/ep08/slide-063.webp",
+      "text": "freedom struggle. Which was led by Raghunandan Prasar Sirmaur, Ch andiprasad Gupta , and Sudhakar . H e desired to capture the district court, the eff...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s1e08-064",
+      "type": "content",
+      "image": "images/series1/ep08/slide-064.webp",
+      "text": "of the court were also burnt, the youth was beaten up, going to jail, the police wanted to confiscate all the youth, and get the life imprisonment and...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s1e08-065",
+      "type": "content",
+      "image": "images/series1/ep08/slide-065.webp",
+      "text": "fame. An attempt was made to confess them by brutal torture. One of them was Raghunandan Prasad Singraul, he was arrested and beaten, littered in snow...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s1e08-066",
+      "type": "content",
+      "image": "images/series1/ep08/slide-066.webp",
+      "text": "were tortured. The Linlithgow offer The August Offer was an offer made by Viceroy Linlithgow in 1940 promising the expansion of the chief Council of t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s1e08-067",
+      "type": "content",
+      "image": "images/series1/ep08/slide-067.webp",
+      "text": "incorporate more Indians, the establishment of an advisory war council, giving full weight to the minority opinion, and therefore the recognition of I...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s1e08-068",
+      "type": "content",
+      "image": "images/series1/ep08/slide-068.webp",
+      "text": "after the top of the war . In return, it had been hoped that each one part y and communities in India would cooperate in Britain ' s efforts in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s1e08-069",
+      "type": "content",
+      "image": "images/series1/ep08/slide-069.webp",
+      "text": "World War II. However , this proposal was rejected by Congress because the minorities, especially the Muslim League, were assured that no constitution...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s1e08-070",
+      "type": "content",
+      "image": "images/series1/ep08/slide-070.webp",
+      "text": "their agreement , i.e. providing a veto power to the Muslim League. Personal Satyagraha was started in 1940 by the Father of the Nation, Mahatma Gandh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s1e08-071",
+      "type": "content",
+      "image": "images/series1/ep08/slide-071.webp",
+      "text": "being satisfied with the August proposal, Congress completely rejected the August proposal and decided to have a personal S atyagraha under Gandhi ' s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s1e08-072",
+      "type": "content",
+      "image": "images/series1/ep08/slide-072.webp",
+      "text": "atyagraha was that in it Satyagrahi, chosen by Mahatma Gandhi, gave his arrest by giving a speech at a predetermined place. Before his speech, the Sat...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s1e08-073",
+      "type": "content",
+      "image": "images/series1/ep08/slide-073.webp",
+      "text": "District Magistrate about his S atyagraha. First Satyagrah Vinoba Bhave was chosen by Gandhi as the first individual Satyagrahi on 11 October 1940. Th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s1e08-074",
+      "type": "content",
+      "image": "images/series1/ep08/slide-074.webp",
+      "text": "on 17 October 1940 from the Pawanar Ashram in Maharashtra. Vinoba was arrested by the British government on 21 October. Jawaharlal Nehru was elected t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s1e08-075",
+      "type": "content",
+      "image": "images/series1/ep08/slide-075.webp",
+      "text": "third Satyagrahi. Second Stage Individual Satyagraha was postponed by Mahatma Gandhi on 17 December 1940. It was reintroduced in 1941. And the second ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s1e08-076",
+      "type": "content",
+      "image": "images/series1/ep08/slide-076.webp",
+      "text": "5 January 1941, in this movement, about 25 , 000 Satyagrahis were imprisoned. Speeches were made in the villages against the government and on 27 Apri...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s1e08-077",
+      "type": "content",
+      "image": "images/series1/ep08/slide-077.webp",
+      "text": "a departure towards Delhi, it is known as the \" Chalo Delhi \" ( let' s go to Delhi) movement. In 1942, Quit India Movement The Congress Working Commi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s1e08-078",
+      "type": "content",
+      "image": "images/series1/ep08/slide-078.webp",
+      "text": "Gandhi's historic \"Quit India Resolution\" on August 8, 1942, after some amendments, in a meeting held at the historic \"Gwalia Tank Maidan \" in Bomba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s1e08-079",
+      "type": "content",
+      "image": "images/series1/ep08/slide-079.webp",
+      "text": "the \"All India Congress\". From August the Quit India Movement aslso known as \" August Kranti \" ( August Revolution ) started all over India. In this...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s1e08-080",
+      "type": "content",
+      "image": "images/series1/ep08/slide-080.webp",
+      "text": "Bombay, P t . Ravi Shankar Shukla, Barrister Chhedilal, Laxminarayan Das, Yatiyatan Lal , Shivdas Daga, Maulana Abdul Rauf Khan, Ghanshyam Singh Gupta...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s1e08-081",
+      "type": "content",
+      "image": "images/series1/ep08/slide-081.webp",
+      "text": "and Kunjbihari Agnihotri were participated. While returning from Bombay, they were arrested at Malakpur on the border of the Central Provinces . In th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s1e08-082",
+      "type": "content",
+      "image": "images/series1/ep08/slide-082.webp",
+      "text": "represented by Pt. Ravi Shankar Shukla, Laxminarayan Das, Dwarka Prasad Mishra, Kunjbihari Abhinihotri, Y.V. Tamaskar. On August 9, 1942, there was a ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s1e08-083",
+      "type": "content",
+      "image": "images/series1/ep08/slide-083.webp",
+      "text": "evening a procession was taken out in Shahar, which was led by Ranveer Singh Shastri, which also had an impact in Chhattisgarh. The Quit India Movemen...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s1e08-084",
+      "type": "content",
+      "image": "images/series1/ep08/slide-084.webp",
+      "text": "leaders at different places in Chhattisgarh. S.No. Raipur Bilaspur Durg Bhagwati Charan Shukla Chintamani Ottalwar Raghunandan Prasad Singraul Jai Nar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s1e08-085",
+      "type": "content",
+      "image": "images/series1/ep08/slide-085.webp",
+      "text": "Prasad Singraul Malnarayan Sharma Barrister Chhedilal Narsingh Prasad Agrawal Tretanath Tripathi Yadunandan Prasad Srivastava Ramkrishna Thakur Major ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
