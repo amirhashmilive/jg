@@ -135,16 +135,12 @@ class SlideRenderer {
         slide.dataset.type = 'recap';
         slide.dataset.animation = JSON.stringify({ type: 'zoomOut', duration: 10 });
         
-        const imgWrap = document.createElement('div');
-        imgWrap.className = 'slide-image-wrap vignette placeholder-wrap';
-        
-        const promptBox = document.createElement('div');
-        promptBox.className = 'prompt-placeholder';
-        promptBox.innerHTML = `
-            <span class="prompt-label">RECAP SLIDE</span>
-            <p class="prompt-text">Cinematic recap card — image to be generated for this interstitial.</p>
-        `;
-        imgWrap.appendChild(promptBox);
+        // Small placeholder badge (top-right corner)
+        const placeholderBadge = document.createElement('div');
+        placeholderBadge.className = 'placeholder-badge';
+        placeholderBadge.title = 'Cinematic recap card — image to be generated for this interstitial.';
+        placeholderBadge.innerHTML = `<span class="badge-label">📷 Image TBD</span>`;
+        slide.appendChild(placeholderBadge);
         
         const textPanel = document.createElement('div');
         textPanel.className = 'slide-text-panel center-content';
