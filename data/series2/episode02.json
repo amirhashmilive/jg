@@ -1,1 +1,1029 @@
-﻿{ "series": 2, "episode": 2, "title": "The Fire of Tamora", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 2,
+  "episode": 2,
+  "title": "Episode 02",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s2e02-001",
+      "type": "content",
+      "image": "images/series2/ep02/slide-001.webp",
+      "text": "Chhattisgarh at the Grassroots Chhattisgarh at the grassroots Xuanzang in C hhattisgarh Chhattisgarh Word Mythological significance The thirty - six G...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s2e02-002",
+      "type": "content",
+      "image": "images/series2/ep02/slide-002.webp",
+      "text": "Dr. Khubchand Baghel Movement Chhattisgarh in historical chronology Chhattisgarh Mukti Morcha The official use of the word Chhattisgarh for the first ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s2e02-003",
+      "type": "content",
+      "image": "images/series2/ep02/slide-003.webp",
+      "text": "travelogue of 1795 in the Bilaspur Gazetteer. The ancient name of Chhattisgarh was \" Dakshin Kaushal \" , which later became \" Chhattisgarh \" due to ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s2e02-004",
+      "type": "content",
+      "image": "images/series2/ep02/slide-004.webp",
+      "text": "thirty-six (36) strongholds (Citadel). \" Ramayana \" and \" Mahabharata \" are the major local dynasties ruling here, with a branch of Dakatakas, Nal R...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s2e02-005",
+      "type": "content",
+      "image": "images/series2/ep02/slide-005.webp",
+      "text": "Chhindak Nagavansh (Bastar), and Somvansh. Nalavansh had a long struggle with his contemporary Vakataka. It was ruled by the Meghwansh (second century...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s2e02-006",
+      "type": "content",
+      "image": "images/series2/ep02/slide-006.webp",
+      "text": "Sharabhpuri dynasty, Pandu dynasty, Somvansh - Sirpur, Kakshti, Vakataka , and Pandu dynasty - Maikal dynasties. The citadel was an important unit in ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s2e02-007",
+      "type": "content",
+      "image": "images/series2/ep02/slide-007.webp",
+      "text": "thirty - six. Xuanzang, the prominent Chinese traveler, had also visited Chhattisgarh when he came to India in the year 639. It is written in his trav...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s2e02-008",
+      "type": "content",
+      "image": "images/series2/ep02/slide-008.webp",
+      "text": "capital of Dakshin-Kausal was Sirpur. Hiuensang stayed in Sirpur for a few days. The thirty - six Garh (Citadel) of Chhattisgarh The Garh (Citadel) wa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s2e02-009",
+      "type": "content",
+      "image": "images/series2/ep02/slide-009.webp",
+      "text": "rule. Chhattisgarh was divided into 36. Kalachuris had two branches in Chhattisgarh. It has two partitions between the Shivnath River (Ratanpur branch...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s2e02-010",
+      "type": "content",
+      "image": "images/series2/ep02/slide-010.webp",
+      "text": "the south. S.No. 18 Garh of Ratanpur 18 Garh of Raipur Ratanpur Raipur Uparoda Paatan Maaro Simga Vijayapur Singaarapur Kharaud Lawan Kotagadh Amir Na...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s2e02-011",
+      "type": "content",
+      "image": "images/series2/ep02/slide-011.webp",
+      "text": "Mohadee Semariya Khallaaree Madanapur Sirapur Kosagi Phingeshvar Karakatti Suvaramaal Laapha Raajim Kenda Singaaragadh Maatin Gadh Tenganaagad Penda A...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s2e02-012",
+      "type": "content",
+      "image": "images/series2/ep02/slide-012.webp",
+      "text": "or Praku-Kosal in (Dakshin Kosal) South Kosala and Mahabharata period. In the 15th century, the Charan poet Dalpatram Rao of Raja Lakshminidhi of Khai...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s2e02-013",
+      "type": "content",
+      "image": "images/series2/ep02/slide-013.webp",
+      "text": "literature, while the court poet Gopal of Kalchuri Naresh Raj Singh of Ratanpur used the word Chhattisgarh in his famous composition Khatamasha in the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s2e02-014",
+      "type": "content",
+      "image": "images/series2/ep02/slide-014.webp",
+      "text": "in Chhattisgarh. It has been the center of the development of various cultures since Vedic and mythological times. This region is also mentioned in an...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s2e02-015",
+      "type": "content",
+      "image": "images/series2/ep02/slide-015.webp",
+      "text": "and \" Mahabharata \" . The ancient temples and their ruins indicate that Vaishnavism, Shaivism, Shakta, Buddhist as well as many cultures influence in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s2e02-016",
+      "type": "content",
+      "image": "images/series2/ep02/slide-016.webp",
+      "text": "o f the year from 1165 AD to 1171 . The re was Maratha rule from 1171 to 1858 . Chhattisgarh was popular during the time of the Maratha Empire...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s2e02-017",
+      "type": "content",
+      "image": "images/series2/ep02/slide-017.webp",
+      "text": "and the word Chhattisgarh was first used in official docum ents in 1895 . The British rule and capital of Raipur were made in 1858. Sambalpur moved to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s2e02-018",
+      "type": "content",
+      "image": "images/series2/ep02/slide-018.webp",
+      "text": "1905 and Surguja. Chhattisgarh became part of Chhattisgarh. On 1 November 2000, Chhattisgarh became the 24th state of India. Modern History of Chhatti...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s2e02-019",
+      "type": "content",
+      "image": "images/series2/ep02/slide-019.webp",
+      "text": "the kingdom of Nagpur to the British Empire under the usurpation of which Chhattisgarh also joined the British Empire. During this time, Deputy Commis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s2e02-020",
+      "type": "content",
+      "image": "images/series2/ep02/slide-020.webp",
+      "text": "of Chhattisgarh. The British had divided the administration of Chhattisgarh into goods and civil divisions in two parts. The Deputy Commissioner was e...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s2e02-021",
+      "type": "content",
+      "image": "images/series2/ep02/slide-021.webp",
+      "text": "civil branch. During the British rule in Chhattisgarh, all taxes were levied. There were 14 princely states. Raipur was not under any princely state. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s2e02-022",
+      "type": "content",
+      "image": "images/series2/ep02/slide-022.webp",
+      "text": "the Deputy Commissioner of the British used to sit as an administrator. The British used to collect takoli (tribute, popular word for rent) from 14 ki...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s2e02-023",
+      "type": "content",
+      "image": "images/series2/ep02/slide-023.webp",
+      "text": "increased every 20 years. 20 thousand rupees were taken in the form of takoli from the princely states like Bastar etc. At the same time, the maximum ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s2e02-024",
+      "type": "content",
+      "image": "images/series2/ep02/slide-024.webp",
+      "text": "was taken from Rajnandgaon, a state created by the British. In every Dussehra, the zamindars came to the capital to meet the king. The ritual was to v...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s2e02-025",
+      "type": "content",
+      "image": "images/series2/ep02/slide-025.webp",
+      "text": "Along with one rupee, one tin of ghee and one goat were given as sacrifice. How much takoli the king would take from the zamindars, it was decided. Fo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s2e02-026",
+      "type": "content",
+      "image": "images/series2/ep02/slide-026.webp",
+      "text": "for the first time in 1887, a written agreement was made with the landlords. According to the book Raipur Rashmi published in the year 1925, Raipur di...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s2e02-027",
+      "type": "content",
+      "image": "images/series2/ep02/slide-027.webp",
+      "text": "9,824 square miles. At that time, two-thirds of the land was under paddy cultivation. Wheat was grown less. Urad, Moong, Dal etc. were also major crop...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s2e02-028",
+      "type": "content",
+      "image": "images/series2/ep02/slide-028.webp",
+      "text": "of Raipur district was 14 lakh , out of which 11 lakh people were engaged in agriculture. Whatever was produced at that time, it did not go out. Becau...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s2e02-029",
+      "type": "content",
+      "image": "images/series2/ep02/slide-029.webp",
+      "text": "this grain was very cheap here. From 1861 to 1864, 40 ser of rice was available for one rupee and 56 ser wheat for one rupee. In 1921-24, 7 ser...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s2e02-030",
+      "type": "content",
+      "image": "images/series2/ep02/slide-030.webp",
+      "text": "of rice or wheat started getting for one rupee. One serving equals 933 grams. There were 300 markets in Raipur district. Gol Bazaar was developed by t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s2e02-031",
+      "type": "content",
+      "image": "images/series2/ep02/slide-031.webp",
+      "text": "cloth and cotton cloth from Banaras and Buhranpur used to come from Nagpur, Kanpur and Rajnandgaon. Under the first settlement in 1868, an annual rent...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s2e02-032",
+      "type": "content",
+      "image": "images/series2/ep02/slide-032.webp",
+      "text": "fixed for the Raipur Khalsa area. Later in the second settlement in 1888, it was increased to five and a half lakh rupees. In 1925, it was increased t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s2e02-033",
+      "type": "content",
+      "image": "images/series2/ep02/slide-033.webp",
+      "text": "lakh 75 thousand rupees. First Deputy Commissioner of Chhattisgarh - Charles C. Elliott , Additional Deputy Assistant Commissioner - Gopalrao (Bilaspu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s2e02-034",
+      "type": "content",
+      "image": "images/series2/ep02/slide-034.webp",
+      "text": "in Chhattisgarh . In 1862 , The p olice system started in Chhattisgarh . First Post Master was Smith in Raipur , and the Manuals for revenue matters -...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s2e02-035",
+      "type": "content",
+      "image": "images/series2/ep02/slide-035.webp",
+      "text": ". Tehsildar system The British government introduced the Tehsildar system to assist in the administrative work of the deputy commissioner. The Tehsild...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s2e02-036",
+      "type": "content",
+      "image": "images/series2/ep02/slide-036.webp",
+      "text": "tehsils in Chhattisgarh Raipur Dhamtari Ratanpur District At the time of the formation of Madhya Pradesh in 1861, there were three districts of Chhatt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s2e02-037",
+      "type": "content",
+      "image": "images/series2/ep02/slide-037.webp",
+      "text": "district was included in Odisha under the Bengal Partition of 1905. There were five princely states of Chhattisgarh Changbhakhar, Udaipur, Korea, Surg...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s2e02-038",
+      "type": "content",
+      "image": "images/series2/ep02/slide-038.webp",
+      "text": "only from the 1 January 1906. Both the Raipur and Formation of the District . Bilaspur Districts, which together covered an area of 20000 square miles...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s2e02-039",
+      "type": "content",
+      "image": "images/series2/ep02/slide-039.webp",
+      "text": "of 2.5 million persons, had for some time been considered too large for effective management, and in 1902 proposals were drawn up by Mr. L. S. Carey, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s2e02-040",
+      "type": "content",
+      "image": "images/series2/ep02/slide-040.webp",
+      "text": "the constitution of a third District, comprising the western portions of Raipur and Bilaspur. These finally took effect on the above date in the birth...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s2e02-041",
+      "type": "content",
+      "image": "images/series2/ep02/slide-041.webp",
+      "text": "Raipur was taken the whole of the Drug tahsil with the portion of the Simga tahsil lying west of the Kharun and Seonath rivers, and the Sanjari and pa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s2e02-042",
+      "type": "content",
+      "image": "images/series2/ep02/slide-042.webp",
+      "text": "the Balod parganas of the Dbamtari tahsil with the Dondi-Lohara zamindari. This was the area which had been summarily settled by Khan Bahadur Aulad Hu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s2e02-043",
+      "type": "content",
+      "image": "images/series2/ep02/slide-043.webp",
+      "text": "from Mr. Carey's settlement of 1886-89, and was re-settled by Mr. Blenkinsop in 1901-03. Mughal Rule and the Elephants of Chhattisgarh In the medieval...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s2e02-044",
+      "type": "content",
+      "image": "images/series2/ep02/slide-044.webp",
+      "text": "among the leading elephants of the Mughal army. On the strength of these elephants, they forced the famous Girimi kings to kneel o n the battlefield. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s2e02-045",
+      "type": "content",
+      "image": "images/series2/ep02/slide-045.webp",
+      "text": "to the claims of history pages and the Forest Department, as Chhattisgarh was a stronghold of elephants, whom the royal Mahavat s of the Mughals used ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s2e02-046",
+      "type": "content",
+      "image": "images/series2/ep02/slide-046.webp",
+      "text": "they used it in war and the construction of high-rise buildings. 500 years ago, their number was 3 to 4 thousand but gradually reduced. The reason beh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s2e02-047",
+      "type": "content",
+      "image": "images/series2/ep02/slide-047.webp",
+      "text": "their ancestors made their hideouts in the border states of the state. Some of the members of the team of Mughal elephants taken from here could not g...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s2e02-048",
+      "type": "content",
+      "image": "images/series2/ep02/slide-048.webp",
+      "text": "them. Due to the bravery and aggressiveness of the elephants of this party, they were named after kings and great sons in the years. But due to natura...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s2e02-049",
+      "type": "content",
+      "image": "images/series2/ep02/slide-049.webp",
+      "text": "change, their behavior is slowly changed. Teams of elephants that infiltrate Chhattisgarh are also descendants of the elephants here. Because if a fem...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s2e02-050",
+      "type": "content",
+      "image": "images/series2/ep02/slide-050.webp",
+      "text": "offspring that come s from it reach there once after many years. Such elephants are also presen t in Andhra Pradesh and Odisha. Elephant parties were ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s2e02-051",
+      "type": "content",
+      "image": "images/series2/ep02/slide-051.webp",
+      "text": "Elephants were in abundance in the forests of Chhattisgarh. In the pages of history and folk tales of Chhattisgarh, it is recorded in history that Mug...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s2e02-052",
+      "type": "content",
+      "image": "images/series2/ep02/slide-052.webp",
+      "text": "join their army. Chhattisgarh Word In the 1973 Gazetteer, Chhattisgarh was reported. Lakshminidhi was the king of Khairagarh. The term Chhattisgarh wa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s2e02-053",
+      "type": "content",
+      "image": "images/series2/ep02/slide-053.webp",
+      "text": "Charan Kavi Dalram Rao of Raja Lakshminidhi Rai of Khairagarh Riyasat . \" Lakhani Nidhi Raay Suno Chitt De, Garh Chhattis Me Na Yadhaiya Rahi \" Chara...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s2e02-054",
+      "type": "content",
+      "image": "images/series2/ep02/slide-054.webp",
+      "text": "The second use of the word Chhattisgarh was in 1746 , the first in a political context wa s by the court poet Gopal Mishra o f Raja Rajsimhadeva of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s2e02-055",
+      "type": "content",
+      "image": "images/series2/ep02/slide-055.webp",
+      "text": "Ratanpur, in his composition \" Khoob Tamasha \" . He addressed this area under the name \"˜ Chhattisgarh '. Apart from this, Babu Revaram in his treati...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s2e02-056",
+      "type": "content",
+      "image": "images/series2/ep02/slide-056.webp",
+      "text": "896 had named this state \" Chhattisgarh \" . Babu Revaram has written the history of \" Tawarikh-e-Haihaivanshi \" and Ratanpur. Mythological significa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s2e02-057",
+      "type": "content",
+      "image": "images/series2/ep02/slide-057.webp",
+      "text": "Tripuri in the west to Sambalpur and Kalahandi in Odisha in the east. In the mythological period, this region was called the \" Kosala \" region, which...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s2e02-058",
+      "type": "content",
+      "image": "images/series2/ep02/slide-058.webp",
+      "text": "was divided into two parts, Uttar Kosala and Dakshin Kosal, and Dakshin Kosala is the present-day Chhattisgarh. Mahanadi, a river in this region in an...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s2e02-059",
+      "type": "content",
+      "image": "images/series2/ep02/slide-059.webp",
+      "text": "\" in that period. Which is mentioned in Malyapuran, Valmiki Ramayana, and the Bhishma festival of Mahabharata. There is a clear mention in Valmiki Ra...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s2e02-060",
+      "type": "content",
+      "image": "images/series2/ep02/slide-060.webp",
+      "text": "in the ashram of Sihawa Mountain located in this region, had performed a Dhyanishti Yagya in Ayodhya to get a son of King Dasharatha. Rama came to thi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s2e02-061",
+      "type": "content",
+      "image": "images/series2/ep02/slide-061.webp",
+      "text": "the period of his exile. The famous forested province known as Dandakaranya was the center of the propagation of Indian culture at that time. In the s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s2e02-062",
+      "type": "content",
+      "image": "images/series2/ep02/slide-062.webp",
+      "text": "and monks lived and meditated. Among them were Valmiki, Atri, Agastya, and Sutikarshan . In the Buddhist work \" Angusad Nikaya \" and the Jain work \" ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s2e02-063",
+      "type": "content",
+      "image": "images/series2/ep02/slide-063.webp",
+      "text": ", there are 14 Mahajanapadas, one of which is \" Kosal \" . \" Kosal \" was divided i nto two parts, South and North. History of Formation In comparison...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s2e02-064",
+      "type": "content",
+      "image": "images/series2/ep02/slide-064.webp",
+      "text": "the tribal areas of Bastar and Chota Nagpur remained indifferent to it. That is why the Chhattisgarhi language became the form of Chhattisgarhi identi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s2e02-065",
+      "type": "content",
+      "image": "images/series2/ep02/slide-065.webp",
+      "text": "the role of a separate Chhattisgarh state, expressing his opposition to this same image of Chhattisgarh. In one of his articles, \" Ideals and Practice...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s2e02-066",
+      "type": "content",
+      "image": "images/series2/ep02/slide-066.webp",
+      "text": "\"˜ When we look at our role, we find ourselves standing on the timid land of Chhattisgarh. People are simple, but what work can that simplicity do, wh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s2e02-067",
+      "type": "content",
+      "image": "images/series2/ep02/slide-067.webp",
+      "text": "own life and property too looted, they cannot open their mouths, they cannot move in their hands and feet. I feel very uneasy seeing this only thing. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s2e02-068",
+      "type": "content",
+      "image": "images/series2/ep02/slide-068.webp",
+      "text": "the people of Chhattisgarh should tell the substance text of Sidhai in some measure in the true sense. Perhaps it is my boast but I say what I think. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s2e02-069",
+      "type": "content",
+      "image": "images/series2/ep02/slide-069.webp",
+      "text": "is also acknowledged by Dr. Pardeshiram Varma, a writer who works on the life and work of Dr. Khubchand Baghel quote \" The worldliness o f Chhattisgar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s2e02-070",
+      "type": "content",
+      "image": "images/series2/ep02/slide-070.webp",
+      "text": "b ut this is our miraculous region in Chhattisgarh where humiliation, defeat, neglect is necessary for Chhattisgarh, this philosophy is coined and coi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s2e02-071",
+      "type": "content",
+      "image": "images/series2/ep02/slide-071.webp",
+      "text": "increase the value of this philosophy due to our humility, bravado, and perceptiveness.\" Thus the beginning separate Chhattisgarh movement developed ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s2e02-072",
+      "type": "content",
+      "image": "images/series2/ep02/slide-072.webp",
+      "text": "was the agricultural class of Chhattisgarh, whose representative was trying to honor it. After the death of Dr. Khubchand Baghel, saint-poet Pawan Diw...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s2e02-073",
+      "type": "content",
+      "image": "images/series2/ep02/slide-073.webp",
+      "text": "Chhattisgarh state to the next stage. Pawan Diwan ' s emphasis was also to give political color to the exploitation done by outsiders. He said - \"˜ Po...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s2e02-074",
+      "type": "content",
+      "image": "images/series2/ep02/slide-074.webp",
+      "text": "jobs are all occupied by outsiders. ' Farming survived. Pardesiya people are striving for farming. ' 8 To give Chhattisgarh the status of an independe...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s2e02-075",
+      "type": "content",
+      "image": "images/series2/ep02/slide-075.webp",
+      "text": "he formed a separate \" Chhattisgarh Party \" in 1983. The main demand of the party was to give Chhattisgarh the status of an independent state apart f...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s2e02-076",
+      "type": "content",
+      "image": "images/series2/ep02/slide-076.webp",
+      "text": "To make this demand democratic successful, he also fielded his candidates in the 1985 Legislative Assembly elections, but not a single one of them cou...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s2e02-077",
+      "type": "content",
+      "image": "images/series2/ep02/slide-077.webp",
+      "text": "an independent state of Chhattisgarh could not lead to political success, Pawan Diwan moved away from it, but he tried very hard to evoke the Chhattis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s2e02-078",
+      "type": "content",
+      "image": "images/series2/ep02/slide-078.webp",
+      "text": "On April 6, 1992, the Chhattisgarh State Building All-Party Forum was formed, advancing the movement of Chhattisgarh state. People from all political ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s2e02-079",
+      "type": "content",
+      "image": "images/series2/ep02/slide-079.webp",
+      "text": "the people of Chhattisgarhi to the movement of a separate state, they tried to get the consent of a separate state within their respective parties. Ma...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s2e02-080",
+      "type": "content",
+      "image": "images/series2/ep02/slide-080.webp",
+      "text": "of separate Chhattisgarh in the Madhya Pradesh Legislative Assembly on a personal level. The case of isolated Chhattisgarh had taken on enough emotion...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s2e02-081",
+      "type": "content",
+      "image": "images/series2/ep02/slide-081.webp",
+      "text": "the 1000-day strike by the Azad Chhattisgarh Army proved to be an important factor in taking it further. As a result, the Bharatiya Janata Party in it...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s2e02-082",
+      "type": "content",
+      "image": "images/series2/ep02/slide-082.webp",
+      "text": "to give Chhattisgarh the status of a separate state. As a result of all the above efforts, Madhya Pradesh Reorganization Commission was formed in 1998...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s2e02-083",
+      "type": "content",
+      "image": "images/series2/ep02/slide-083.webp",
+      "text": "instructions from the President, a special session of the Madhya Pradesh Legislative Assembly was organized on August 31 and September 1, 1998. As a r...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s2e02-084",
+      "type": "content",
+      "image": "images/series2/ep02/slide-084.webp",
+      "text": "sessions, a proposal was sent to the Central Government on 2 October 1998 agreeing to a separate Chhattisgarh state. On 31 July 2000, the proposal for...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s2e02-085",
+      "type": "content",
+      "image": "images/series2/ep02/slide-085.webp",
+      "text": "state was approved in the Lok Sabha and the Rajya Sabha on 9 August. After publication in the Gazette of the Government of India on 4 September 2000, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
