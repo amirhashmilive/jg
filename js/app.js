@@ -3,9 +3,9 @@
  * Coordinates slide rendering, scroll engine, and state.
  */
 
-import slideRenderer from './slide-renderer.js';
-import scrollEngine from './scroll-engine.js';
-import brandEngine from './brand-engine.js';
+import slideRenderer from './slide-renderer.js?v=6';
+import scrollEngine from './scroll-engine.js?v=6';
+import brandEngine from './brand-engine.js?v=6';
 
 
 class App {
@@ -121,24 +121,10 @@ class App {
 
     registerServiceWorker() {
         if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('../sw.js').then(registration => {
-                    console.log('SW registered: ', registration);
-                    
-                    // Send message to cache current episode
-                    if (registration.active && this.episodeData) {
-                        registration.active.postMessage({
-                            type: 'CACHE_EPISODE',
-                            payload: {
-                                series: this.currentSeries,
-                                episode: this.currentEpisode,
-                                images: this.episodeData.slides.map(s => s.image)
-                            }
-                        });
-                    }
-                }).catch(registrationError => {
-                    console.log('SW registration failed: ', registrationError);
-                });
+            navigator.serviceWorker.getRegistrations().then(registrations => {
+                for (let registration of registrations) {
+                    registration.unregister();
+                }
             });
         }
     }
