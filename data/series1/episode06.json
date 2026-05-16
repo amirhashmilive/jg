@@ -1,1 +1,1029 @@
-﻿{ "series": 1, "episode": 6, "title": "The Water and the Tax", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 1,
+  "episode": 6,
+  "title": "Episode 06",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s1e06-001",
+      "type": "content",
+      "image": "images/series1/ep06/slide-001.webp",
+      "text": "and Mahasamud to popularize the movement, in which Pyarelal Singh, Shivlal Master , and Shankarlal Khare together started the Swadeshi movement with t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s1e06-002",
+      "type": "content",
+      "image": "images/series1/ep06/slide-002.webp",
+      "text": "Conference In the year 1907 on 26 March, a political session of Congress leaders and activists of Madhya Pradesh and Berar was held in Raipur C ity, t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s1e06-003",
+      "type": "content",
+      "image": "images/series1/ep06/slide-003.webp",
+      "text": "was presided over by Kelkar and was welcomed by President Harisingh Gaur. The effect of the Surat session of 1907 was visible in this session even her...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s1e06-004",
+      "type": "content",
+      "image": "images/series1/ep06/slide-004.webp",
+      "text": "divided into two parts. It split into two faction s , Extremists (Garam Dal) led by Bal Gang a dhar Tilak and Moderates (Naram Dal) led by Gopal Krish...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s1e06-005",
+      "type": "content",
+      "image": "images/series1/ep06/slide-005.webp",
+      "text": "They were termed so because of their attitude towards British rule. S.No. Leaders of the Naram Dal from Chhattisgarh Leaders of Garam Dal from Chhatti...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s1e06-006",
+      "type": "content",
+      "image": "images/series1/ep06/slide-006.webp",
+      "text": "Ravishankar Shukla Babu Harisingh Gaur Madhavrao Sapre Dr. Madholkar Dadasaheb Khaparde Dr. Munje Barrister Chhedilal Kelkar E. Raghvendra Rao Vamanra...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s1e06-007",
+      "type": "content",
+      "image": "images/series1/ep06/slide-007.webp",
+      "text": "start the proceedings of the session, but Dr. Harisingh Gaur and Dr. Munje did not agree as Pandit Ravi Shankar Shukla was a hot ideologue and request...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s1e06-008",
+      "type": "content",
+      "image": "images/series1/ep06/slide-008.webp",
+      "text": "accept Khaparde ' s proposal, hence Khaparde After the proposal was accepted, Dada Saheb Khaparde addressed the public meeting near the Tatya Para Han...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s1e06-009",
+      "type": "content",
+      "image": "images/series1/ep06/slide-009.webp",
+      "text": "Swadeshi and foreigner. Dada Saheb Khaparde and his colleagues shouted slogans of Vande Mataram. In 1917, Home Rule Movement in Chhattisgarh Lokmanya ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s1e06-010",
+      "type": "content",
+      "image": "images/series1/ep06/slide-010.webp",
+      "text": "the branches of the Home Rule League in Madhya Pradesh. The activists and young men of Chhattisgarh also organized the movement by establishing Homero...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s1e06-011",
+      "type": "content",
+      "image": "images/series1/ep06/slide-011.webp",
+      "text": "in Raipur by Pt. Ravi Shankar Shukla, his associates were Laxman Rao Udgikar, Moolchand Bagdi, and Pt. Madhavrao Sapre. Similarly, a branch of Home Ru...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s1e06-012",
+      "type": "content",
+      "image": "images/series1/ep06/slide-012.webp",
+      "text": "active activist E. Raghavendra Rao, Thakur Pyarelal Singh in Rajnandgaon , and Ghanshyam Singh Gupta in Durg opened its branches and started the Home ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s1e06-013",
+      "type": "content",
+      "image": "images/series1/ep06/slide-013.webp",
+      "text": "of members of the Tilakist Swaraj Union was 99 in Chhattisgarh. In which 18 representatives from Raipur, 11 from Durg , and 70 representatives from Bi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s1e06-014",
+      "type": "content",
+      "image": "images/series1/ep06/slide-014.webp",
+      "text": "1918, Provincial Political Conference On 30 - 31 March 1918, the Sixth Provincial Conference was held in Raipur. The conf erence was presided over by ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s1e06-015",
+      "type": "content",
+      "image": "images/series1/ep06/slide-015.webp",
+      "text": "welcomed by D. N. Chaudhary was. Raibahadur D . N . Chaudhary, Pt. Ravi Shankar Shukla, Pt. Madhavrao Sapre , and Vamanrao Lakhe had notable contribut...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s1e06-016",
+      "type": "content",
+      "image": "images/series1/ep06/slide-016.webp",
+      "text": "All India Congress Committee The session of the Indian National Congress was held in Delhi on 26 January 1918 under the chairmanship of Pt. Madan Moha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s1e06-017",
+      "type": "content",
+      "image": "images/series1/ep06/slide-017.webp",
+      "text": ", E. Raghavendra Rao and C. M. Thakkar participated. In the All India Congress Committee, 12 members from Madhya Pradesh went to participate in this, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s1e06-018",
+      "type": "content",
+      "image": "images/series1/ep06/slide-018.webp",
+      "text": "politicians of Chhattisgarh, E. Raghavendra Rao , and C. M. Thakkar was included as a member. In 1918, Pt. Sundarlal Sharma ' s ' Movement for Untouch...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s1e06-019",
+      "type": "content",
+      "image": "images/series1/ep06/slide-019.webp",
+      "text": "Pt. Sundarlal Sharma launched a movement for untouchability in Chhattisgarh. In which Chhabilal Chaubey, Thakur Pyarelal , and Ghanshyam Singh were hi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s1e06-020",
+      "type": "content",
+      "image": "images/series1/ep06/slide-020.webp",
+      "text": "21 days in protest against untouchability. Pt. Sundarlal Sharma made victim caste wear \" Janeu \" under this movement . The Janeu is one of the tradit...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s1e06-021",
+      "type": "content",
+      "image": "images/series1/ep06/slide-021.webp",
+      "text": "that marked the acceptance of a student by a guru and an individual's e ntrance to a school in Hinduism . Satnam Ashram, S atyagraha Ashram, Harijan d...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s1e06-022",
+      "type": "content",
+      "image": "images/series1/ep06/slide-022.webp",
+      "text": ", and library, etc. were established in Raipur due to the efforts of Pt. Sundarlal Sharma. In 1919, the Establishment of Saraswati Library In 1909, Th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s1e06-023",
+      "type": "content",
+      "image": "images/series1/ep06/slide-023.webp",
+      "text": "Saraswati Library to inspire national sentiment among the residents of Rajnadgaon. Pt. Raju Lal Sharma, Pt. Chhabi Lal Choubey contributed to this imp...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s1e06-024",
+      "type": "content",
+      "image": "images/series1/ep06/slide-024.webp",
+      "text": "an important contribution in awakening the feeling of nationalism. This was such an institution where there was a gathering of educated people, from h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s1e06-025",
+      "type": "content",
+      "image": "images/series1/ep06/slide-025.webp",
+      "text": "affected. In 1919, Opposition to the Rowlett Act In 1919, there was a nationwide strike in protest against the Rowlett Act. The effect of this in Chha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s1e06-026",
+      "type": "content",
+      "image": "images/series1/ep06/slide-026.webp",
+      "text": "in Raipur, Dhamtari, Bilaspur, Janjgir, Durg, and Rajnadgaon . It was decided to celebr ate Black Day on 30 March 1919. A general strike was held on 3...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s1e06-027",
+      "type": "content",
+      "image": "images/series1/ep06/slide-027.webp",
+      "text": "in Chhattisgarh. Vamnrao Lakhe, Dr. Shiv Dulare, Yadunandan Prasad Srivastava, Thakur Chedilal organized a general strike from Bilaspur. In 1920, Khil...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s1e06-028",
+      "type": "content",
+      "image": "images/series1/ep06/slide-028.webp",
+      "text": "the principal movements in India's efforts to break the chains of British rule. The Khilafat movement under the leadership of Maulana Muhammad Ali and...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s1e06-029",
+      "type": "content",
+      "image": "images/series1/ep06/slide-029.webp",
+      "text": "over South Asia. Th is movement demanded that all Islamic holy places in the erstwhile Ottoman Empire remain under the control of the Turkish Sultan o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s1e06-030",
+      "type": "content",
+      "image": "images/series1/ep06/slide-030.webp",
+      "text": "Syria, Iraq, Palestine) should be under Islamic sovereignty and the Caliph should have enough territory to be able to secure the Islamic faith. The Kh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s1e06-031",
+      "type": "content",
+      "image": "images/series1/ep06/slide-031.webp",
+      "text": "the year 1915 to 1924. In this movement , the Muslim community of erstwhile British India united and agitated against the colonialists at the national...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s1e06-032",
+      "type": "content",
+      "image": "images/series1/ep06/slide-032.webp",
+      "text": "strength when Mahatma Gandhi combined the non-cooperation movement against colonialism with the Khilafat movement. Hindus and Muslims unitedly opposed...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s1e06-033",
+      "type": "content",
+      "image": "images/series1/ep06/slide-033.webp",
+      "text": "In this way , the Hindus and Muslims of India stood unitedly against the colonialists. In 1920, the Khila f at movement started in every corner of Ind...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s1e06-034",
+      "type": "content",
+      "image": "images/series1/ep06/slide-034.webp",
+      "text": "could not remain unaffected by this movement. As the then powerful leaders and mass leaders in the country, it was mostly Muslims, who were fighting f...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s1e06-035",
+      "type": "content",
+      "image": "images/series1/ep06/slide-035.webp",
+      "text": "their level, but all the battles before Gandhi were violent and incestuous. Gandhi , quoting the Islamic festival Muharram, appealed to the Muslims \" ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s1e06-036",
+      "type": "content",
+      "image": "images/series1/ep06/slide-036.webp",
+      "text": "win during the oppression \" and gained the support of the Muslims by supporting the Khilafat movement. In the small and big cities and villages acros...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s1e06-037",
+      "type": "content",
+      "image": "images/series1/ep06/slide-037.webp",
+      "text": "took part in the Non-Cooperation Movement on the call of Gandhi and left thousands of acres of Malguzari and Zamindaris to go to jail. S.No. Location ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s1e06-038",
+      "type": "content",
+      "image": "images/series1/ep06/slide-038.webp",
+      "text": "Ali Bilaspur Wajir khan, Akbar Khan and Hakim Khan Balod Mohammad Yunus Zakariya In Chhattisgarh, from Raipur, Muslim leader Asghar Ali led this movem...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s1e06-039",
+      "type": "content",
+      "image": "images/series1/ep06/slide-039.webp",
+      "text": "kha n , Akbar Khan , and Hakim Khan led this. Many independent Malguzars and Zami n dars were sacrifices their land and life in the movement, Mohammad...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s1e06-040",
+      "type": "content",
+      "image": "images/series1/ep06/slide-040.webp",
+      "text": "n dar of Balod was sent to jail directly from the court after he was evicted from his owned 17 village zamidaris for the non-cooper ation movement by ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s1e06-041",
+      "type": "content",
+      "image": "images/series1/ep06/slide-041.webp",
+      "text": "ting tax. During the Kandel Satyagram Movement, Gandhi was accompanied by prominent leaders of the Khilafat Movement Shaukat Ali and Muhammad Ali. Aft...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s1e06-042",
+      "type": "content",
+      "image": "images/series1/ep06/slide-042.webp",
+      "text": "when Gandhi was in other discussions, at the same time, the Ali brothers held meetings in Muslim social institutions, madrasas , and Yateemkhana (orph...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s1e06-043",
+      "type": "content",
+      "image": "images/series1/ep06/slide-043.webp",
+      "text": "and other Zamindars of the city to join the movement of Mahatma Gandhi. Through Yatimkhana and Madrasas, Gandhi ' s direct message was sent to the maj...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s1e06-044",
+      "type": "content",
+      "image": "images/series1/ep06/slide-044.webp",
+      "text": "and big zamindars of Chhattisgarh, which resulted in the fact that the Muslims of Chhattisgarh also joined this movement. On 21 st December 1920, Shau...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s1e06-045",
+      "type": "content",
+      "image": "images/series1/ep06/slide-045.webp",
+      "text": "a meeting of Muslim gathering at Yateemkhana, Dhamtari. Excerpts from the Gazetteer of India, Madhya Pradesh, District Raipur, 1973 : \" Following the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s1e06-046",
+      "type": "content",
+      "image": "images/series1/ep06/slide-046.webp",
+      "text": "Khil a fat Movement was endorsed and Non-Co-0pration was adopted as a political weapon, the District Conference was held at Raipur in the year1920. A ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s1e06-047",
+      "type": "content",
+      "image": "images/series1/ep06/slide-047.webp",
+      "text": "17 March 1920 and a Khilafat sub-committee was formed. When Asgar Ali thanked the Hindu brethren for their sympathy for the Muslim cause, Ravi Shankar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s1e06-048",
+      "type": "content",
+      "image": "images/series1/ep06/slide-048.webp",
+      "text": "more Hindu and Muslims, but Hindustanis in the strictest sense.\" Such was the spirit of those times. \" Those were the days of brisk and militant pol...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s1e06-049",
+      "type": "content",
+      "image": "images/series1/ep06/slide-049.webp",
+      "text": "the Nagpur session of the Congress, Mahatma Gandhi visited Raipur, with the Ali brothers, on 20 December 1920in connection with Tilak Fund and Swarajy...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s1e06-050",
+      "type": "content",
+      "image": "images/series1/ep06/slide-050.webp",
+      "text": "also, where people express their regards by a good deal of contribution to the Fund. It was in such an atmosphere that the Raipur District Committee w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s1e06-051",
+      "type": "content",
+      "image": "images/series1/ep06/slide-051.webp",
+      "text": "Bengal Nagpur Cotton Mill Mazdoor Strike Raja Balaram Das of Rajnandgaon in 1894 C. P. Mill L td. A textile mill was established by the name CP Mills ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s1e06-052",
+      "type": "content",
+      "image": "images/series1/ep06/slide-052.webp",
+      "text": "bought by Sha Wallish Company and named it The Bengal Cotton Mill. The struggle of the workers in India started with the mill labor movement in Ahmeda...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s1e06-053",
+      "type": "content",
+      "image": "images/series1/ep06/slide-053.webp",
+      "text": "1919 and 1920, this struggle had reached the top of its development. And the workers agitated at various places in India. These movements also took ef...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s1e06-054",
+      "type": "content",
+      "image": "images/series1/ep06/slide-054.webp",
+      "text": "Thakur Pyarelal united the laborers of B.N.C. (Bengal Nagpur Cotton Mill) at Rajnandgaon, and in April 1920 the first long successful movement of the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s1e06-055",
+      "type": "content",
+      "image": "images/series1/ep06/slide-055.webp",
+      "text": "1937, there were three labor movements in the state. In 1920, the f irst Labor M ovement In 1920, Thakur Pyarelal led the first long and successful mo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s1e06-056",
+      "type": "content",
+      "image": "images/series1/ep06/slide-056.webp",
+      "text": "state. He was supported by Shankar Khare and Shivlal Master in this movement. This movement lasted for 36 days. Labor leader V. V. Giri arrived in Raj...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s1e06-057",
+      "type": "content",
+      "image": "images/series1/ep06/slide-057.webp",
+      "text": "this movement. Th is movement demanded that the working period of laborers should be fixed for 8 hours, along with an improvement in working condition...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s1e06-058",
+      "type": "content",
+      "image": "images/series1/ep06/slide-058.webp",
+      "text": "Another follow major labor movement was held in 1924 and 1937. In 1924 , The Second la bor movement; the success of the first labor movement raised th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s1e06-059",
+      "type": "content",
+      "image": "images/series1/ep06/slide-059.webp",
+      "text": "the workers and in 1924 a second movement took place under the leadership of Thakur Pyarelal . During the supper, a soldier came wearing shoes and kic...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s1e06-060",
+      "type": "content",
+      "image": "images/series1/ep06/slide-060.webp",
+      "text": "the workers to furious, and also slapped a man who came with the soldier, on which the police took action and arrested about 13 labor leaders. Gaya, 1...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s1e06-061",
+      "type": "content",
+      "image": "images/series1/ep06/slide-061.webp",
+      "text": "and 2 were injured in this whole incident. Due to this movement, the British formed the Jackson Commission to consider the demands of the workers. The...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s1e06-062",
+      "type": "content",
+      "image": "images/series1/ep06/slide-062.webp",
+      "text": "; on 16 November 1936, Thakur Pyarelal, the leader of the laborers, was banned from entering the princely state by the Diwan of the Rajnandgaon prince...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s1e06-063",
+      "type": "content",
+      "image": "images/series1/ep06/slide-063.webp",
+      "text": "tried to break the unity of the workers and reduced the wages by 10%. Pyarelal could not come to the princely state, so he distributed leaflets and re...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s1e06-064",
+      "type": "content",
+      "image": "images/series1/ep06/slide-064.webp",
+      "text": "through his talks and continued the strike. The mill owners eventually succumbed and the movement was successful. During the Third Labor Movement, the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s1e06-065",
+      "type": "content",
+      "image": "images/series1/ep06/slide-065.webp",
+      "text": "Congress on 1 August 1938. In 1922, Nagari- Sihawa Jungle Satyagraha During the British Raj, forest production was declared offic ial by the British g...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s1e06-066",
+      "type": "content",
+      "image": "images/series1/ep06/slide-066.webp",
+      "text": "the traditional rights of the tribals. Even the firewood obtained from the forest was banned, if the cattle of the tribals entered the forest, the cat...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s1e06-067",
+      "type": "content",
+      "image": "images/series1/ep06/slide-067.webp",
+      "text": "At that time the tribals were dependent on the forest, and even today most of the tribal class is dependent on the forest. Along with the ban on fores...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s1e06-068",
+      "type": "content",
+      "image": "images/series1/ep06/slide-068.webp",
+      "text": "the officials there used to take wages from the tribals at a lower rate and forced labor from them. For their small needs, the tribals started stumbli...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s1e06-069",
+      "type": "content",
+      "image": "images/series1/ep06/slide-069.webp",
+      "text": "The tribal community, whose right on the forest is the first, was evicted from their own right. On January 21, 1922, the tribal community entered the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s1e06-070",
+      "type": "content",
+      "image": "images/series1/ep06/slide-070.webp",
+      "text": "protest brought wood from the reserved forest and started the Sihawa-Nagri Jungle Satyagraha. The information of the movement reached the officers of ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s1e06-071",
+      "type": "content",
+      "image": "images/series1/ep06/slide-071.webp",
+      "text": "officers took armed police with them to suppress the Sihawa Nagari Satyagraha. Searches were conducted in the houses of the people and many agitators ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s1e06-072",
+      "type": "content",
+      "image": "images/series1/ep06/slide-072.webp",
+      "text": "A court was held in the village itself and 39 people were sentenced. The British officials told the agitators that they would be released if they apol...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s1e06-073",
+      "type": "content",
+      "image": "images/series1/ep06/slide-073.webp",
+      "text": "the agitators apologized to the British government. The agitators were beaten up and sentenced to harsh punishment, 33 people were sentenced to 3 mont...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s1e06-074",
+      "type": "content",
+      "image": "images/series1/ep06/slide-074.webp",
+      "text": "5 months with fine. At the time when all this was happening, the leaders of the freedom struggle of the state had gone to Ahmedabad for the 37th sessi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s1e06-075",
+      "type": "content",
+      "image": "images/series1/ep06/slide-075.webp",
+      "text": "the Congress. When these leaders returned and came to know about this Satyagraha and arrests, all the leaders immediately reached the city with a part...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s1e06-076",
+      "type": "content",
+      "image": "images/series1/ep06/slide-076.webp",
+      "text": "The team of leaders included Pt. Sundarlal Sharma, Babu Chhotelal Srivastava and others. The leaders explained to the satyagrahis that the approval of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s1e06-077",
+      "type": "content",
+      "image": "images/series1/ep06/slide-077.webp",
+      "text": "Provincial Congress Committee had not been taken for their satyagraha. So the movement should be postponed until the approval of these two committees ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s1e06-078",
+      "type": "content",
+      "image": "images/series1/ep06/slide-078.webp",
+      "text": "Sihawa Satyagraha was postponed, but after the movement was adjourned, a public meeting was organized in Nagri Sihawa, in which Pt. Sundarlal Sharma a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s1e06-079",
+      "type": "content",
+      "image": "images/series1/ep06/slide-079.webp",
+      "text": "government in their speeches. In the meantime, the forest department officials agreed to provide minimum wages and forced labor was stopped, after whi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s1e06-080",
+      "type": "content",
+      "image": "images/series1/ep06/slide-080.webp",
+      "text": "was a significant success of the movement. During the British rule in the state of Chhattisgarh there were many agitations. Jungle Satyagraha also too...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s1e06-081",
+      "type": "content",
+      "image": "images/series1/ep06/slide-081.webp",
+      "text": "Jungle Satyagraha was the worst Satyagraha. A person named Mintu Kumhar was killed by the police. After the arrest of Sundarlal Sharma, Narayan Rao, a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s1e06-082",
+      "type": "content",
+      "image": "images/series1/ep06/slide-082.webp",
+      "text": "the first group, Chhotelal Srivastava, led the movement. Date Name Location Led by January 1922 Sihava Jungle Satyagraha Sihawa (Dhamtari) Protest sta...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s1e06-083",
+      "type": "content",
+      "image": "images/series1/ep06/slide-083.webp",
+      "text": "Vishambhar Patel. Latter Satyagrah led by Babu Chhotelal Srivastava, Sundarlal Sharma. June 1930 Gatta Silli Jungle Satyagraha Gatta Silli (Dhamtari) ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s1e06-084",
+      "type": "content",
+      "image": "images/series1/ep06/slide-084.webp",
+      "text": "(Durg) Narsingh Agarwal August 1930 Podigram Jungle Satyagraha Pondigram Sipat (Bilaspur) Ramadhar Dubey August 1930 Rudri Navagaon Jungle Satyagraha ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s1e06-085",
+      "type": "content",
+      "image": "images/series1/ep06/slide-085.webp",
+      "text": "During the freedom struggle of India, there was a peaceful civil disobedience movement in which people were hoisting flags everywhere under their righ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
