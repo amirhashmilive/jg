@@ -156,8 +156,8 @@ class SlideRenderer {
         const promptBox = document.createElement('div');
         promptBox.className = 'prompt-placeholder';
         promptBox.innerHTML = `
-            <span class="prompt-label">IMAGE PLACEHOLDER</span>
-            <p class="prompt-text">${data.visualDescription || 'No description provided.'}</p>
+            <span class="prompt-label">RECAP SLIDE</span>
+            <p class="prompt-text">Cinematic recap card — image to be generated for this interstitial.</p>
         `;
         imgWrap.appendChild(promptBox);
         
