@@ -1,4 +1,4 @@
-const CACHE_NAME = 'jg-cache-v2';
+const CACHE_NAME = 'jg-cache-v3';
 
 self.addEventListener('install', (event) => {
     event.waitUntil(
