@@ -1,1 +1,1029 @@
-﻿{ "series": 1, "episode": 4, "title": "The Cannon at Jaistambh", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 1,
+  "episode": 4,
+  "title": "Episode 04",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s1e04-001",
+      "type": "content",
+      "image": "images/series1/ep04/slide-001.webp",
+      "text": "finds a place on the pages of history in context, even though it was an independent movement. The Jungle Satyagraha in Nawapara-Tawwat, Tamora , and K...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s1e04-002",
+      "type": "content",
+      "image": "images/series1/ep04/slide-002.webp",
+      "text": "tehsil is also mentioned in the context. In these places, the British administration had presented such a horrific scene of repression that in 1931 th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s1e04-003",
+      "type": "content",
+      "image": "images/series1/ep04/slide-003.webp",
+      "text": "ask the Raipur District Congress Committee to investigate the matter. Thakur Pyarelal Singh was then a minister of the Mahakoshal Congress Committee. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s1e04-004",
+      "type": "content",
+      "image": "images/series1/ep04/slide-004.webp",
+      "text": ", and Maulana Abdul Rauf Khan visited some of the affected villages and recorded the statements of the victims. The investigation team had only 4 - 5 ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s1e04-005",
+      "type": "content",
+      "image": "images/series1/ep04/slide-005.webp",
+      "text": "Tha kur Pyarelal Singh has admitted that he did not get enough time to investigate and make a report. But from the statements of more than a hundred v...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s1e04-006",
+      "type": "content",
+      "image": "images/series1/ep04/slide-006.webp",
+      "text": "can only be estimated how m any atrocities were committed in Mahasamund Tehsil. If such atrocities had been committed in the villages near Raipur, the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s1e04-007",
+      "type": "content",
+      "image": "images/series1/ep04/slide-007.webp",
+      "text": "reaction, no doubt. Headless villagers faced the British administration with great courage. People were beaten up, heavy fines were levied, and cash a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s1e04-008",
+      "type": "content",
+      "image": "images/series1/ep04/slide-008.webp",
+      "text": "rice, ghee, vegetables, goats, poultry, cow , and bulls were also taken away. Not only this, agricultural implements like Rampa, K u dari, Tangia, Bas...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s1e04-009",
+      "type": "content",
+      "image": "images/series1/ep04/slide-009.webp",
+      "text": "discarded. In the Jungle Satyagraha at Mahasamund, women showed courage compared to men. On many occasions, the men of the village used to run away an...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s1e04-010",
+      "type": "content",
+      "image": "images/series1/ep04/slide-010.webp",
+      "text": "to avoid being beaten. Then women would go ahead and stand on the front, many times even the administration ' s officers had to run away with pressure...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s1e04-011",
+      "type": "content",
+      "image": "images/series1/ep04/slide-011.webp",
+      "text": "Tamora presented a unique example of bravery and courage. Dayawati dared to stand in front of the soldier who threatened to fire the bullets and put t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s1e04-012",
+      "type": "content",
+      "image": "images/series1/ep04/slide-012.webp",
+      "text": "chest. Such examples will rarely be found in cities. If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we wo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s1e04-013",
+      "type": "content",
+      "image": "images/series1/ep04/slide-013.webp",
+      "text": "the history of Chhattisgarh in some way today. Ironically, the then leadership of Chhattisgarh also showed deep indifference to that struggle. We are ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s1e04-014",
+      "type": "content",
+      "image": "images/series1/ep04/slide-014.webp",
+      "text": "Remembering 1857, one remembers Meerut and Mangal Pandey. But before that in 1810, the planned revolution by the tribals of Bastar had paralyzed the B...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s1e04-015",
+      "type": "content",
+      "image": "images/series1/ep04/slide-015.webp",
+      "text": "The Rebellion o f Bastar \" and it is included in a few rows. Even though the war of the land could not get respect in national history, it is...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s1e04-016",
+      "type": "content",
+      "image": "images/series1/ep04/slide-016.webp",
+      "text": "still immortal in folk songs. The hero of Bhumkal is the hero of Gundadhur folklore. The people of Bastar are still waiting for Gundadhur. The words r...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s1e04-017",
+      "type": "content",
+      "image": "images/series1/ep04/slide-017.webp",
+      "text": "of history may be blurred but the words inscribed in the mind, mind , and heart of the people are indelible. Reduce thick black may even block sunligh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s1e04-018",
+      "type": "content",
+      "image": "images/series1/ep04/slide-018.webp",
+      "text": "few moments, but when the sun reappears, its intensity shines, becoming brighter and more glowing. There is a belief that as the history of Chhattisga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s1e04-019",
+      "type": "content",
+      "image": "images/series1/ep04/slide-019.webp",
+      "text": "general public, it will also be present in the brightest form. In 1929, demand for full Swaraj came during the Lahore session under the c hairmanship ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s1e04-020",
+      "type": "content",
+      "image": "images/series1/ep04/slide-020.webp",
+      "text": "The British Govt. had rejected the Nehru report of 1928, thus, in Lahore S ession Congress passed the resolution of complete Independence. On 31 Augus...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s1e04-021",
+      "type": "content",
+      "image": "images/series1/ep04/slide-021.webp",
+      "text": "National Flag and Congress Committee was authorized to begin the Civil Disobedience Movement in the country. It was also decided that every year on 26...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s1e04-022",
+      "type": "content",
+      "image": "images/series1/ep04/slide-022.webp",
+      "text": "observed and the First Independence Day was observed on 31 August 1930. In connection with the movement , it was declared that to celebrate First Inde...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s1e04-023",
+      "type": "content",
+      "image": "images/series1/ep04/slide-023.webp",
+      "text": "of Chhattisgarh. It was stated by Dr. Shobharam Dewangan, that on 26 Jan. 1930, First Independence Day was celebrated in Dhamtari tahsil. It was celeb...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s1e04-024",
+      "type": "content",
+      "image": "images/series1/ep04/slide-024.webp",
+      "text": "At the Dhamtari, a flag hostage was by Babu Chhotelal Srivastava , in front of the house of Babu Chhotelal Srivastava in Dhamtari (Currently in Koshta...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s1e04-025",
+      "type": "content",
+      "image": "images/series1/ep04/slide-025.webp",
+      "text": "patriotic speech was delivered. After Lahore congress Ga ndhi put before the Govt., a number of demands warning it that non-acceptance of these would ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s1e04-026",
+      "type": "content",
+      "image": "images/series1/ep04/slide-026.webp",
+      "text": "movement. As the government didn't respond to his overtures he started the Civil Disobedience Movement with the program of no tax to the British Govt....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s1e04-027",
+      "type": "content",
+      "image": "images/series1/ep04/slide-027.webp",
+      "text": "and protest against military expenditure. On 12th March 1930, Gandhi proceeded towards the Sea in Gujarat along with his 79 colleagues to Dandi to bre...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s1e04-028",
+      "type": "content",
+      "image": "images/series1/ep04/slide-028.webp",
+      "text": "200 miles away from Sabarmati Ashram and on foot; it took 24 days to reach Dandi. In this journey Sardar Patel accompanied Gandhi . On 5th April 1930,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s1e04-029",
+      "type": "content",
+      "image": "images/series1/ep04/slide-029.webp",
+      "text": "there , and after the Morning Prayer on 6th April 1930, he start ed making salt on the Seashore. Gandhi was arrested on 5th May 1930. The agitators in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s1e04-030",
+      "type": "content",
+      "image": "images/series1/ep04/slide-030.webp",
+      "text": "no - tax campaign in the program. The movement had a great impact especially in the Dhamtari tahsil of Raipur district. It was a nationwide movement a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s1e04-031",
+      "type": "content",
+      "image": "images/series1/ep04/slide-031.webp",
+      "text": "participated in it. As soon as the fire of the movement spread in other parts of the nation, thus it affected most of the famous places of Chhattisgar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s1e04-032",
+      "type": "content",
+      "image": "images/series1/ep04/slide-032.webp",
+      "text": "the movement was led by Pt. Ravishankar Shukla, in Dhamtari led by Babu Chhotelal Shrivastava, in Mahasamund by Shankar Rao Ganodwale, in Bilaspur by ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s1e04-033",
+      "type": "content",
+      "image": "images/series1/ep04/slide-033.webp",
+      "text": "Tiwari, Gajadhar Sao , and Kalicharan , etc.; as well in Durg by Balodwale Narsingh Prasad Agrawal and finally, the movement left a tremendous impact ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s1e04-034",
+      "type": "content",
+      "image": "images/series1/ep04/slide-034.webp",
+      "text": "as on 5th April 1930, Gandhi inaugurated salt Satyagraha, it affected especially in the Dhamtari tahsil. Regarding the making of salt with soil especi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s1e04-035",
+      "type": "content",
+      "image": "images/series1/ep04/slide-035.webp",
+      "text": "crowd Pt. Narayan Rao Medhawale made salt and thus, here too broke the salt law. He made salt through the ancient method out of the soil. Thus, he mad...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s1e04-036",
+      "type": "content",
+      "image": "images/series1/ep04/slide-036.webp",
+      "text": "grams of salt and which was bought by Karan C. Tejpal a man from Dhamtari tahsil for 61/ - rupees. By making salt in Dhamtari Nagar, the movement was ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s1e04-037",
+      "type": "content",
+      "image": "images/series1/ep04/slide-037.webp",
+      "text": "ed by Ganesh Narayan Rao Medhawale. T o provid e training to the Swayam Sevak Medhawale opened a Satyagraha Ashram, where all the Swayam Sevak got fre...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s1e04-038",
+      "type": "content",
+      "image": "images/series1/ep04/slide-038.webp",
+      "text": "etc. Pt. Sundarlal Sharma was the chief organizer of the Ashram. Swayam Sevak got the lesson of honesty and moral education. Each Swayam Sevak had to ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s1e04-039",
+      "type": "content",
+      "image": "images/series1/ep04/slide-039.webp",
+      "text": "main work was to go out to spread national consciousness by wearing Gandhi ' s cap, national flag , and carrying a bag. Swami Dayanand Saraswati arriv...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s1e04-040",
+      "type": "content",
+      "image": "images/series1/ep04/slide-040.webp",
+      "text": "during his lifetime, his social reform movement was widely affected in Chhattisgarh. He was so deep-rooted that he influenced people of all religions,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s1e04-041",
+      "type": "content",
+      "image": "images/series1/ep04/slide-041.webp",
+      "text": "was established in Raipur C ity during his lifetime, under whose leadership social reform movements like prevention of untouchability, cow protection,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s1e04-042",
+      "type": "content",
+      "image": "images/series1/ep04/slide-042.webp",
+      "text": "the marriage of old m e n started. Leading leaders of the time were Dau Tularam Parganiha, Dau Gaind Singh Gupta, Maghavarasapre, Jagannathrao Dani, R...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s1e04-043",
+      "type": "content",
+      "image": "images/series1/ep04/slide-043.webp",
+      "text": "Ghanshyam Singh Gupta, Gajadhar Saw, Shobharam Sahu, Madan Thethwar, Wali Mohammad, Saye d Amir Ali Meer , etc. The movement of cow protection organiz...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s1e04-044",
+      "type": "content",
+      "image": "images/series1/ep04/slide-044.webp",
+      "text": "support of people of all religions and all sides in Chhattisgarh. Song of Goraksha (Cow protection) \"Gaiyya roi, roi karat pukaar, More praan bacha lo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s1e04-045",
+      "type": "content",
+      "image": "images/series1/ep04/slide-045.webp",
+      "text": "Jara nahin darat chandaal, Khuj ho-ho kheenche khaal, More praan bacha lav hari.\" Written by Wali Mohammad Chhattisgarh is the first place in the cou...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s1e04-046",
+      "type": "content",
+      "image": "images/series1/ep04/slide-046.webp",
+      "text": "Karmandih and village Ghobani were closed in the year 1914 only through a mass movement. Which was headed by Rajmahant Nayandas Mahlang Saloni Basle a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s1e04-047",
+      "type": "content",
+      "image": "images/series1/ep04/slide-047.webp",
+      "text": "later became the main leaders of the national independence movement? Similarly , in 1998, cow slaughter was banned under the boundary of Raipur Munici...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s1e04-048",
+      "type": "content",
+      "image": "images/series1/ep04/slide-048.webp",
+      "text": "Raviskar Shukla and supporter Azizuddin Saheb. All this was the effect of the movement of the Arya Samaj, which affected both Hindus and Muslims. Maul...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s1e04-049",
+      "type": "content",
+      "image": "images/series1/ep04/slide-049.webp",
+      "text": "Vaishnavadas Dudhaghari Math were among those who supported it. The success of the Goraksha campaign led to the Yagyopaveet movement. It was accepted ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s1e04-050",
+      "type": "content",
+      "image": "images/series1/ep04/slide-050.webp",
+      "text": "sacred life. Achieved complete success amidst resistance and support. Before this, only Brahmins, Kshatriyas , and Vaniks had the right to Yajnopaveet...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s1e04-051",
+      "type": "content",
+      "image": "images/series1/ep04/slide-051.webp",
+      "text": "to wear the yagnopavit of all varnas and castes. His great supporters were Pt. Sundarla l Sharma and Guru Gosai Agamdas . At the Kanpur session of the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s1e04-052",
+      "type": "content",
+      "image": "images/series1/ep04/slide-052.webp",
+      "text": "Shraddhanand, Pt. Madan Mohan Malaviya, Dr. Munje, Lala Lajpat Rai , and Mahatma Gandhi duly wore Yagyopavit at the Kanpur session of the Congress. Th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s1e04-053",
+      "type": "content",
+      "image": "images/series1/ep04/slide-053.webp",
+      "text": "rituals of law, Rajmahat Nayandas Mahila Ranam Mahant Anjordas Konsale, Ratiram Gautia, Rajmahant Vishal Das, this movement spread widely in Chhattisg...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s1e04-054",
+      "type": "content",
+      "image": "images/series1/ep04/slide-054.webp",
+      "text": "from the huge contribution of the Arya &amp; Muslim community, the Gond, Nishad, Satnam , Kurmi, Sahu , and Chauhan communit ies of Chhattisgarh also ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s1e04-055",
+      "type": "content",
+      "image": "images/series1/ep04/slide-055.webp",
+      "text": "forests of remote Bastar , e ach society was divided into two classes. Those wearing yajnopavit and not wearing it according to the old tradition had ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s1e04-056",
+      "type": "content",
+      "image": "images/series1/ep04/slide-056.webp",
+      "text": "long time the caste boycott. In which there was the family of Ghanshyam Singh Gupta, Dr. Khubchand Baghel, Seth Anantram Bachhiya, Premathirtha Baghel...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s1e04-057",
+      "type": "content",
+      "image": "images/series1/ep04/slide-057.webp",
+      "text": "interest in higher education is also the result of Arya Samaj. Dau Tularam Parganiha was the first graduate of this zone and Daulatram Mishra became t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s1e04-058",
+      "type": "content",
+      "image": "images/series1/ep04/slide-058.webp",
+      "text": "had to go through social harassment. Women ' s education was started by Shobharam Sahu Saragaon. He sent his first daughter to Gurukul Jalandhar and t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s1e04-059",
+      "type": "content",
+      "image": "images/series1/ep04/slide-059.webp",
+      "text": "is the first MA of this region. Dulari Bai Mishra Premathirtha Baghel of Dhamtari was also a tax lecturer and was a student of Gurukul Kangri. Seth An...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s1e04-060",
+      "type": "content",
+      "image": "images/series1/ep04/slide-060.webp",
+      "text": "remained excluded for years due to being an Arya Samaj. All these were leading leaders of the freedom struggle. Pt. Madhavrao Sapre was the first to i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s1e04-061",
+      "type": "content",
+      "image": "images/series1/ep04/slide-061.webp",
+      "text": "national awakening of Chhattisgarh. He started publishing a monthly magazine called \" Chhattisgarh Mitra \" in the year 1 900 for the all- a round dev...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s1e04-062",
+      "type": "content",
+      "image": "images/series1/ep04/slide-062.webp",
+      "text": "the first prisoner of freedom fighters after 857. He was published by Lokmanya Tilak titled \"Keshari? He was arrested and sent to jail for publishing ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s1e04-063",
+      "type": "content",
+      "image": "images/series1/ep04/slide-063.webp",
+      "text": "magazine. He was also the focal point of literary activities. In 1907, the movement that emerged against Bang-Bhang (Partition of Bengal) also had an ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s1e04-064",
+      "type": "content",
+      "image": "images/series1/ep04/slide-064.webp",
+      "text": "by Pt. Sundarlal Sharma, Maulana Abdul Rauf Khan , and Maulana Hamid Ali, whose center was Dhamtari. His principal allies were Babu Chhotelal Shrivast...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s1e04-065",
+      "type": "content",
+      "image": "images/series1/ep04/slide-065.webp",
+      "text": "Ramdayal Tiwari of Raipur, Bhagwatiprasad Mishra of Bemetara Andhiyar Khor, Ghanshyam Singh Gupt of Durg, Rajmahant Jayandas Mahilang of Balodabazar, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s1e04-066",
+      "type": "content",
+      "image": "images/series1/ep04/slide-066.webp",
+      "text": "of Magarlod Rajmant Anjordan Sonwani of Deori Mungeli, Sitaram Gauntia, Guru Gosai Agamdas , Thakur Burhan Shah, Thakur Pya relal Singh of Nandgaon, S...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s1e04-067",
+      "type": "content",
+      "image": "images/series1/ep04/slide-067.webp",
+      "text": "His work ranged from Bastar-Sarguja to Balaghat Mandla. They considered that zone as the boundary of Chhattisgarh. Pandit Sundarlal Sharma, Maulana Ab...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s1e04-068",
+      "type": "content",
+      "image": "images/series1/ep04/slide-068.webp",
+      "text": "Swadeshi shop, cow protection, prevention of untouchability, Jungle S atyagraha, Jhanda Satyagraha, the establishment of national school, and women ' ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s1e04-069",
+      "type": "content",
+      "image": "images/series1/ep04/slide-069.webp",
+      "text": "entrance, Yajnopavit Dharan, Brahmacharya Ashram, Lila Mandali, Janboli the first Chhattisgarhi poet, and was the source of inspiration for advanced f...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s1e04-070",
+      "type": "content",
+      "image": "images/series1/ep04/slide-070.webp",
+      "text": "three were big zamindar, they included the entire outline of Mahatma Gandhi ' s visit to Chhattisgarh and prepared and managed the expenditure. The ma...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s1e04-071",
+      "type": "content",
+      "image": "images/series1/ep04/slide-071.webp",
+      "text": "against the British Sultanate in Chhattisgarh was the Bastar rebellion in 1910 under the leadership of Gundadhur. At that time, while Kanker, Bastar ,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s1e04-072",
+      "type": "content",
+      "image": "images/series1/ep04/slide-072.webp",
+      "text": "as agents of the British, keeping themselves safe, and recovering Lagaan with full vigor and vigorously, on the other hand, the participation of the g...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s1e04-073",
+      "type": "content",
+      "image": "images/series1/ep04/slide-073.webp",
+      "text": "leadership turned it into a major uprising. Hundreds of people were martyred with Gundadhur. The martyrdom of Lal Lokendra Singh and Rani Sumran Kunwa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s1e04-074",
+      "type": "content",
+      "image": "images/series1/ep04/slide-074.webp",
+      "text": "names that could be known were Mangtu Mahara, Dhaniram Halba, Dandi Penda, Sitaram Mahara, Kodra, Jagdeo Marar, Gadba, Hari, Balki, Bilav Dhakad, Kond...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s1e04-075",
+      "type": "content",
+      "image": "images/series1/ep04/slide-075.webp",
+      "text": "Jai Singh, Jogi, Korea Manjhi, Jagra Penda etc. Among the revolutionaries who were prosecuted and punished were Dinda alias Hind Penda, Donda Penda, M...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s1e04-076",
+      "type": "content",
+      "image": "images/series1/ep04/slide-076.webp",
+      "text": "Penda , etc. 78 of whom 26 died in Raipur Jail. All of them were sentenced to life imprisonment by the torture of the British prison. The names of tho...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s1e04-077",
+      "type": "content",
+      "image": "images/series1/ep04/slide-077.webp",
+      "text": "martyrs who died in Raipur Jail are Asu, Kidariya, Korli, Kola, Chandu, Jogi, Tiharu, Donda Ponda, Dolam, Narasimha, Pandu, Balaya, Badhru, Budhsen, F...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s1e04-078",
+      "type": "content",
+      "image": "images/series1/ep04/slide-078.webp",
+      "text": "in the Elichpur jail, which was located north of Amravati in Berar district of Maharashtra, and Rani Sumran Kunwar died in Raipur jail. In this way, t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s1e04-079",
+      "type": "content",
+      "image": "images/series1/ep04/slide-079.webp",
+      "text": "the Bastar region sacrificed their lives in the sacrifice of freedom struggle. The third round of the national movement in Chhattisgarh begins in 1920...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s1e04-080",
+      "type": "content",
+      "image": "images/series1/ep04/slide-080.webp",
+      "text": "Gandhi. By the way, his arrival was for the movement of the farmers of Kandel village near Dhamtari. The then British rule imposed forced canal tax. F...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s1e04-081",
+      "type": "content",
+      "image": "images/series1/ep04/slide-081.webp",
+      "text": "the farmers of that village were fined Rs 4030. The villagers started a S atyagraha against him. At the same time, the farmers of Bihar, under the lea...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s1e04-082",
+      "type": "content",
+      "image": "images/series1/ep04/slide-082.webp",
+      "text": ", were doing Satyagraha against the British feudal for not cultivating indigo. Impressed by this, Gandhi was invited to lead the Canal Satyagraha. As ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s1e04-083",
+      "type": "content",
+      "image": "images/series1/ep04/slide-083.webp",
+      "text": "became successful. The arrival of Mahatma Gandhi created a wave of awakening in Chhattisgarh. At that time there was a wave of the non-cooperation mov...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s1e04-084",
+      "type": "content",
+      "image": "images/series1/ep04/slide-084.webp",
+      "text": "leaving government degrees, government jobs, government schools. In Chha ttisgarh too, Vamanrao Lakhse left the title of Ra isahab, Thakur Pyarelal Si...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s1e04-085",
+      "type": "content",
+      "image": "images/series1/ep04/slide-085.webp",
+      "text": "law. Nandkumar Dani, Madhav Prasad Tiwari, Madhav Prasad Parganiha left government jobs and many students left government schools. National schools we...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
