@@ -1,1 +1,1029 @@
-﻿{ "series": 1, "episode": 3, "title": "The Earthquake of Bastar", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 1,
+  "episode": 3,
+  "title": "Episode 03",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s1e03-001",
+      "type": "content",
+      "image": "images/series1/ep03/slide-001.webp",
+      "text": "1859, the landlords of Kotapalli and Fotkel collectively decided that in the future the Sal tree would not be allowed to be cut in Bastar. Accepting t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s1e03-002",
+      "type": "content",
+      "image": "images/series1/ep03/slide-002.webp",
+      "text": "the British government sent gunmen along with the workers. On hearing this information, some tribals got enraged and ran towards the forests with thei...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s1e03-003",
+      "type": "content",
+      "image": "images/series1/ep03/slide-003.webp",
+      "text": "wo odcutters , and raised the slogan \"E k saal vriksh ke pichhe, ek vyakti ka sir\" ( In revenge for a tree of Sal , a person's head )...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s1e03-004",
+      "type": "content",
+      "image": "images/series1/ep03/slide-004.webp",
+      "text": "Many contractors were killed in this rebellion. The rebellion was led by Jugga, Jumma, Raju, Dora, Pam Bhoi , etc. In the end, the British were forced...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s1e03-005",
+      "type": "content",
+      "image": "images/series1/ep03/slide-005.webp",
+      "text": "contracting system. Against the cutting of the Sal tree, this rebellion was led by Nangul Dorla. Revolt of Muria 1876 , Jhada Sirha In the year 1876, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s1e03-006",
+      "type": "content",
+      "image": "images/series1/ep03/slide-006.webp",
+      "text": "the Muria tribesmen against the atrocities of the King of Bastar, especially his Diwan and Munshi and the exploitative policy of the British, is calle...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s1e03-007",
+      "type": "content",
+      "image": "images/series1/ep03/slide-007.webp",
+      "text": "or \" Revolt of 1876 \" . The British government, like the kings of other princely states of India, ordered Raja Bhairamdev of Bastar to attend the Del...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s1e03-008",
+      "type": "content",
+      "image": "images/series1/ep03/slide-008.webp",
+      "text": "in honor of the Prince of Wales. According to the British orders, when King Bhairamdev of Bastar reached Marenga on his way to Delhi, Muria tribesmen ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s1e03-009",
+      "type": "content",
+      "image": "images/series1/ep03/slide-009.webp",
+      "text": "go to Delhi. The Muria tribesmen feared that in the absence of the king, the atrocities of Diwan Gopinath and Munshi Adil Prasad would increase. There...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s1e03-010",
+      "type": "content",
+      "image": "images/series1/ep03/slide-010.webp",
+      "text": "the king and requested him to return to Bastar. Seeing the situation deteriorating, Diwan Gopinath opened fire on the crowd in which some people were ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s1e03-011",
+      "type": "content",
+      "image": "images/series1/ep03/slide-011.webp",
+      "text": "The king was forced to return to Bastar. Diwan Gopinath started the cycle of repression. Frustrated by this, the Muria tribesmen decided to revolt und...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s1e03-012",
+      "type": "content",
+      "image": "images/series1/ep03/slide-012.webp",
+      "text": "He started sending an arrow to each village. Around 700 rebels gathered at a place called Arapur and started gathering arms. On coming to know about t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s1e03-013",
+      "type": "content",
+      "image": "images/series1/ep03/slide-013.webp",
+      "text": "rebel, the king himself reached to pacify and explain them. But there was no result. The rebels attacked the security forces. A battle ensued between ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s1e03-014",
+      "type": "content",
+      "image": "images/series1/ep03/slide-014.webp",
+      "text": "and the rebels in which six rebels were killed. When the king ' s elephant soldiers arrived, the rebels laid down their arms and fled from Arapur. The...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s1e03-015",
+      "type": "content",
+      "image": "images/series1/ep03/slide-015.webp",
+      "text": "the Diwan returned to the capital Jagdalpur. They secured the fort from all sides as they feared the attack of the rebels. His guess turned out to be ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s1e03-016",
+      "type": "content",
+      "image": "images/series1/ep03/slide-016.webp",
+      "text": "rebels under the leadership of Jhada Sirha surrounded the palace on March 2, 1876. To get rid of this, the king requested the British officer. The res...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s1e03-017",
+      "type": "content",
+      "image": "images/series1/ep03/slide-017.webp",
+      "text": "administration of Bastar was entrusted to the Deputy Commissioner, Sironcha. The Deputy Commissioner sent a British army under the leadership of Make ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s1e03-018",
+      "type": "content",
+      "image": "images/series1/ep03/slide-018.webp",
+      "text": "tried to find out from the rebels was the reason for the rebellion. The rebels told that their fight is not with the king but with the Diwan and Munsh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s1e03-019",
+      "type": "content",
+      "image": "images/series1/ep03/slide-019.webp",
+      "text": "The rebel tribals put their one-point demand before the administration that Dewan Gopinath and Munshi Adil Prasad should be expelled from Bastar. Mc G...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s1e03-020",
+      "type": "content",
+      "image": "images/series1/ep03/slide-020.webp",
+      "text": "8, 1876, and instructed according to the demand of the rebels. As soon as the demand was met, the rebellious tribals lifted their siege. Thus, the Mur...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s1e03-021",
+      "type": "content",
+      "image": "images/series1/ep03/slide-021.webp",
+      "text": "success. Revolt of Rani (Queen) Choris 1878-82 , Jugraj Kunwar Queen ' s rebellion was limited and short-lived. It is also known as \" Rani Ka Kop \" (...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s1e03-022",
+      "type": "content",
+      "image": "images/series1/ep03/slide-022.webp",
+      "text": "s wrath). The queen of Bastar, Jugraj Kunwar, revolted against the wrong actions of her husband Bhairamdev. In favor of the queen and the king, two co...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s1e03-023",
+      "type": "content",
+      "image": "images/series1/ep03/slide-023.webp",
+      "text": "were formed, which became enemies of each other. The British conspiracy was suspected behind this. Ultimately the queen won and the king was back on t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s1e03-024",
+      "type": "content",
+      "image": "images/series1/ep03/slide-024.webp",
+      "text": "Bhumkal 1910 , Gundadhur Bhumak or Bhumkal means earthquake or vibration of the land. The tribal movement in Bastar in the year 1910 was large and wid...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s1e03-025",
+      "type": "content",
+      "image": "images/series1/ep03/slide-025.webp",
+      "text": "why it is called the \" Mahan Bhumkal \" . The prominent leaders who participated in this movement were Gundadhur, Kunwar Bahadur Singh, Bala Prasad, D...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s1e03-026",
+      "type": "content",
+      "image": "images/series1/ep03/slide-026.webp",
+      "text": "Another literal meaning of Bhumkal is to fight for one's land. In this battle, the entire community of tribals unitedly fought against the British rul...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s1e03-027",
+      "type": "content",
+      "image": "images/series1/ep03/slide-027.webp",
+      "text": "tribals of Bastar fought a war for their water, forest and land. The tribals had waged war against the British rule and their exploiting class and fac...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s1e03-028",
+      "type": "content",
+      "image": "images/series1/ep03/slide-028.webp",
+      "text": "traditional weapons. Due to this war the tribals of Bastar had to suffer a lot. Many tribals lost their lives during the fighting. The tribals faced t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s1e03-029",
+      "type": "content",
+      "image": "images/series1/ep03/slide-029.webp",
+      "text": "the British rule with their traditional weapons. Gundadhur is considered the lionheart of Bhumkal . Gundadhur fought a long battle to rid the tribals ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s1e03-030",
+      "type": "content",
+      "image": "images/series1/ep03/slide-030.webp",
+      "text": "and during this he became a martyr. The then king of Bastar princely state, Praveen Chand, was assassinated by the British in the la nd itself. Even t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s1e03-031",
+      "type": "content",
+      "image": "images/series1/ep03/slide-031.webp",
+      "text": "is celebrated on 10 February every year in Bastar. The Indian Rebellion of 1857 i n Chhattisgarh Second Era of the F reedom Struggle Veer Narayan Sing...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s1e03-032",
+      "type": "content",
+      "image": "images/series1/ep03/slide-032.webp",
+      "text": "Ra ipur Military Mutiny and the 18 Rebellions Revolt of Sambalpur &amp; Saranggarh On May 10, 1857, a troop of soldiers, filled with passion for indep...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s1e03-033",
+      "type": "content",
+      "image": "images/series1/ep03/slide-033.webp",
+      "text": "11 , revolting from Meerut, Convincing him in the 17th and last Mughal Emperor of India, Mirza Abu Zafar Siraj-ud-din Mohammad Bahadur Shah Zafar know...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s1e03-034",
+      "type": "content",
+      "image": "images/series1/ep03/slide-034.webp",
+      "text": "elected him his leader, and crowned him again. Till then the helpless Zafar aged 82 lost his rule at the hands of the British since the vicious Britis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s1e03-035",
+      "type": "content",
+      "image": "images/series1/ep03/slide-035.webp",
+      "text": "their power to the Red Fort, asking these soldiers where they had the treasure they would pay them, the soldiers like . They have already come up thin...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s1e03-036",
+      "type": "content",
+      "image": "images/series1/ep03/slide-036.webp",
+      "text": "answer to this question, promised that they will bring all their treasures looted by the British again , and put it in their footsteps. The news of Ba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s1e03-037",
+      "type": "content",
+      "image": "images/series1/ep03/slide-037.webp",
+      "text": "being proclaimed e mperor spread like a current across the country, the slogans of \" Bahadur Shah Zafar Zindabad \" e rupted all over the country and ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s1e03-038",
+      "type": "content",
+      "image": "images/series1/ep03/slide-038.webp",
+      "text": "Indian Rebellion of 1857 was a major, but ultimately unsuccessful, uprising in India in 18 57- 58 against the rule of the British East India Company, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s1e03-039",
+      "type": "content",
+      "image": "images/series1/ep03/slide-039.webp",
+      "text": "sovereign power on behalf of the British Crown. Revolt of 1857 in Chhattisgarh, and Veer Narayan Singh Veer Narayan Singh challenged the British polic...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s1e03-040",
+      "type": "content",
+      "image": "images/series1/ep03/slide-040.webp",
+      "text": "1857. When there was a famine in Sonakhan in 1856, he sought help from the moneylender and assured that his grain would be returned when the harvest w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s1e03-041",
+      "type": "content",
+      "image": "images/series1/ep03/slide-041.webp",
+      "text": "the moneylender refused to give food grains, he broke the godown and distributed the grains to the public. The incident was reported to Deputy Commiss...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s1e03-042",
+      "type": "content",
+      "image": "images/series1/ep03/slide-042.webp",
+      "text": "N arayan Singh took notice of the complaint and made Karurupat Dongri his shelter. W ith the help of the landlord of Deori, who was Narayan Singh ' s ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s1e03-043",
+      "type": "content",
+      "image": "images/series1/ep03/slide-043.webp",
+      "text": "took him captive by making allegations of traitor s a nd robber s , some false cases were also run by the British rule so that this revolutionary coul...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s1e03-044",
+      "type": "content",
+      "image": "images/series1/ep03/slide-044.webp",
+      "text": "stopped, which the British were successful. In 1857, as the news of Bahadur Shah Zafar ' s overthrow, the independence of the rebellion intensified, i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s1e03-045",
+      "type": "content",
+      "image": "images/series1/ep03/slide-045.webp",
+      "text": "of Chhattisgarh accepted the jailed Veer Narayan Singh as their leader and joined in the rebel . He was determined to revolt against the gro wing atro...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s1e03-046",
+      "type": "content",
+      "image": "images/series1/ep03/slide-046.webp",
+      "text": "W ith the help of the soldiers of the British Army at Raipur, Veer Narayan Singh escaped from the prison. He reached Sonakhan and formed an army of 50...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s1e03-047",
+      "type": "content",
+      "image": "images/series1/ep03/slide-047.webp",
+      "text": "A powerful British army was dispatc hed to crush the Sonakhan army, u nder the leadership of Smith, which crushed the Sonakhan revolt and apprehend s ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s1e03-048",
+      "type": "content",
+      "image": "images/series1/ep03/slide-048.webp",
+      "text": "Narayan was prosecuted and was blown up in the middle of Raipur C ity on the charge of rebelling against the British Raj . The place where Veer Naraya...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s1e03-049",
+      "type": "content",
+      "image": "images/series1/ep03/slide-049.webp",
+      "text": "martyred is currently known as Jaistambh Chowk in Raipur near the Kaiser-e-Hind Darwaza . Raipur Military Mutiny of 1858 , and the 18 Rebellions On De...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s1e03-050",
+      "type": "content",
+      "image": "images/series1/ep03/slide-050.webp",
+      "text": "Zamindar of Sonakhan, Veer Narayan Singh, was martyred by the British Raj at the intersection of Raipur in the crime of sedition. All the soldiers of ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s1e03-051",
+      "type": "content",
+      "image": "images/series1/ep03/slide-051.webp",
+      "text": "be present to see this. This was done so that the people became terrorized and did not dare to raise their heads against the British. But 39 days late...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s1e03-052",
+      "type": "content",
+      "image": "images/series1/ep03/slide-052.webp",
+      "text": "January 18, 1858, a group of soldiers revolted against the British. Although this rebellion lasted only for 6 - 7 hours, the 17 soldiers and gunmen wh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s1e03-053",
+      "type": "content",
+      "image": "images/series1/ep03/slide-053.webp",
+      "text": "had to bear the punishment by giving their lives. At that time there was a military cantonment in Raipur. It was called the Third Regular Regiment. So...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s1e03-054",
+      "type": "content",
+      "image": "images/series1/ep03/slide-054.webp",
+      "text": "armed attack on the night of January 18, 1858, at 7 : 30 p . m. Sergeant Major Sidbell of the Third Regiment of the Native Infantry was at that...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s1e03-055",
+      "type": "content",
+      "image": "images/series1/ep03/slide-055.webp",
+      "text": "time resting alone in his room. One of these soldiers, Soldier Hanuman Singh, inflicted several fatal blows on Sergeant Major Sidbell of the Third Reg...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s1e03-056",
+      "type": "content",
+      "image": "images/series1/ep03/slide-056.webp",
+      "text": "was at that time resting alone in his chamber, killing him in a short time. This 18-man contingent reached the camp after the killing of Sergeant Majo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s1e03-057",
+      "type": "content",
+      "image": "images/series1/ep03/slide-057.webp",
+      "text": "invited other soldiers to join the rebellion. The other soldiers did not agree with the killing of Sergeant Major Sidbell, and by the time the news of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s1e03-058",
+      "type": "content",
+      "image": "images/series1/ep03/slide-058.webp",
+      "text": "Sergeant Major had spread, the British officers were alert, they surrounded all these 18 soldiers from all sides. After firing that lasted for about 6...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s1e03-059",
+      "type": "content",
+      "image": "images/series1/ep03/slide-059.webp",
+      "text": "soldiers ran out of cartridges. Meanwhile, Hanuman Singh, the main accused in the murder of Sergeant Major Sidbell, escaped, but all the other 17 acco...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s1e03-060",
+      "type": "content",
+      "image": "images/series1/ep03/slide-060.webp",
+      "text": "Those who were tried and all were sentenced to death for the crime of rebellion. He was hanged on 22 February 1858 in the presence of all the soldiers...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s1e03-061",
+      "type": "content",
+      "image": "images/series1/ep03/slide-061.webp",
+      "text": "the army. People of all castes and religions were among the seventeen martyrs of the rebellion led by Hanuman Singh, which is a symbol of the great se...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s1e03-062",
+      "type": "content",
+      "image": "images/series1/ep03/slide-062.webp",
+      "text": "interest instilled in the people of this region. It seems from Captain Smith ' s statement that Hanuman Singh had also tried to attack the bungalow of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s1e03-063",
+      "type": "content",
+      "image": "images/series1/ep03/slide-063.webp",
+      "text": "of Chhattisgarh on the night of 20 January 1858, two days after the rebellion in the cantonment. At that time several prominent senior officers of the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s1e03-064",
+      "type": "content",
+      "image": "images/series1/ep03/slide-064.webp",
+      "text": "the bungalow. Captain Smith was appointed to protect these officers. Hanuman Singh had to run away after Smith and his companions woke up at the right...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s1e03-065",
+      "type": "content",
+      "image": "images/series1/ep03/slide-065.webp",
+      "text": "had announced a cash reward of Rs 500 for his arrest. Despite the lure of such a huge amount, he could not be arrested. After this incident of the esc...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s1e03-066",
+      "type": "content",
+      "image": "images/series1/ep03/slide-066.webp",
+      "text": "of Hanuman Singh, no details of him were received, he never came back. The 17 Rebellions Those Martyrs S.No. Names Ghazi Khan Havaldar Badlu Hayat Gol...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s1e03-067",
+      "type": "content",
+      "image": "images/series1/ep03/slide-067.webp",
+      "text": "Pannalal Golanadaj M a atadin Golanadaj Bukaram Golanadaj Bilhu Golanadaj Akbar Hussain Golanadaj Lalsingh Golandaj Bablu Golandaj Paranand Golandaj S...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s1e03-068",
+      "type": "content",
+      "image": "images/series1/ep03/slide-068.webp",
+      "text": "Revolt of Sambalpur in Chhattisgarh, and Surendra Sai Surendra Sai, a freedom fighter of 1857, was a zamindar of Sambalpur , Or is sa . Narayan Singh,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s1e03-069",
+      "type": "content",
+      "image": "images/series1/ep03/slide-069.webp",
+      "text": "Sai supported this rebellion started by Surendra Sai . This rebellion gradually spread to many places in Chhattisgarh. Chauhan Raja Maharaj Sai of Sam...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s1e03-070",
+      "type": "content",
+      "image": "images/series1/ep03/slide-070.webp",
+      "text": "no heir (progeny). According to the Chauhan dynasty tradition, despite being the rightful heir of the princely state of Sambalpur, the King ' s widow ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s1e03-071",
+      "type": "content",
+      "image": "images/series1/ep03/slide-071.webp",
+      "text": "the throne by the British in place of Surendra Sai. Later, due to dissatisfaction, Narayan Singh (Prince of Chauhan Zamindar family of Barpali) was ma...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s1e03-072",
+      "type": "content",
+      "image": "images/series1/ep03/slide-072.webp",
+      "text": "Surendra Sai and his six brothers revolted. Surendra Sai troubled the British a lot in the revolt of 1857. Their activity was spread from Sambalpur to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s1e03-073",
+      "type": "content",
+      "image": "images/series1/ep03/slide-073.webp",
+      "text": "handi. Surendra Sai was arrested from his house on 13 January 1862. He was sent from Raipur Jail to Nagpur Jail and then to Asirgarh Fort. Surendra Sa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s1e03-074",
+      "type": "content",
+      "image": "images/series1/ep03/slide-074.webp",
+      "text": "natural death on 23 May 1884 in Asirgarh. At last , he went blind. Although Veer Surendra Sai died a natural death, in honor of his valor, people call...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s1e03-075",
+      "type": "content",
+      "image": "images/series1/ep03/slide-075.webp",
+      "text": "The Last Martyr of the Revolt o f 1857 . Revolt of Sarangarh, and Kamal Singh In the revolu tion of 1857, the king of Saran garh supported the British...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s1e03-076",
+      "type": "content",
+      "image": "images/series1/ep03/slide-076.webp",
+      "text": "government. And the revolutionary named Kamal Singh was tricked and handed over to the British and in 1867, Kamal Singh was hanged. According to the B...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s1e03-077",
+      "type": "content",
+      "image": "images/series1/ep03/slide-077.webp",
+      "text": "struggle of 1 857 was crushed but the fire of freedom never extinguished in this region. As a spark within the pile of ashes, it kept smoldering. It e...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s1e03-078",
+      "type": "content",
+      "image": "images/series1/ep03/slide-078.webp",
+      "text": "as time passed, sometimes in the Rajnandgaon Riyasat under the leadership of Sevata Thakur, sometimes in Sarguja under the leadership of the Bagud Ban...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s1e03-079",
+      "type": "content",
+      "image": "images/series1/ep03/slide-079.webp",
+      "text": "under the leadership of Ganpatlal Chandravanshi, and sometimes in Bastar under the leadership of Gundadhur . They al l became revolutionary martyrs. I...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s1e03-080",
+      "type": "content",
+      "image": "images/series1/ep03/slide-080.webp",
+      "text": "in effect and they were led by the freedom fighters of the state, they started with the revolution of 1857 which continued till the attainment of inde...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s1e03-081",
+      "type": "content",
+      "image": "images/series1/ep03/slide-081.webp",
+      "text": "here was a substantial revolution against the British Empire, as a result of this revolution in Chhattisgarh, there were rebellions in many areas agai...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s1e03-082",
+      "type": "content",
+      "image": "images/series1/ep03/slide-082.webp",
+      "text": "Gandhian Independence Movement i n Chhattisgarh Third Era o f the Final Solution to the Freedom Mahatma Gandhi had taken a stand - in Chhattisgarh to ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s1e03-083",
+      "type": "content",
+      "image": "images/series1/ep03/slide-083.webp",
+      "text": "\"˜ Non-Cooperation Movement ' which is the Congress was still contemplating how to do, but in a small village in Chhattisgarh h ad already started thi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s1e03-084",
+      "type": "content",
+      "image": "images/series1/ep03/slide-084.webp",
+      "text": "Shrivastava , which became the pave way of non-cooperation movements in subsequent movements. The Kandel Canal Satyagraha, the Jungle Satyagraha of Na...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s1e03-085",
+      "type": "content",
+      "image": "images/series1/ep03/slide-085.webp",
+      "text": "Jungle Satyagraha of Badratola w as the result of the colonial law of the British administration. The manner in which the British Indian forces presen...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
