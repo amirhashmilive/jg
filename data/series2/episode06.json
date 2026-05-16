@@ -1,1 +1,1029 @@
-﻿{ "series": 2, "episode": 6, "title": "The Broken Wall", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 2,
+  "episode": 6,
+  "title": "Episode 06",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s2e06-001",
+      "type": "content",
+      "image": "images/series2/ep06/slide-001.webp",
+      "text": "Charkha to Dada Indru Kewat. They say that behind this tricolor, thousands of people used to agitate following the path of Gandhi. Gandhian Heritage i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s2e06-002",
+      "type": "content",
+      "image": "images/series2/ep06/slide-002.webp",
+      "text": "known as \"Tamora Jungle Satyagraha\" took place at this place from 8 September to 24 September 1930. In this movement, nearby tribals actively partici...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s2e06-003",
+      "type": "content",
+      "image": "images/series2/ep06/slide-003.webp",
+      "text": "when the police used force on the male protesters by the British, the women here took over the leadership of the movement. The British enacted the For...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s2e06-004",
+      "type": "content",
+      "image": "images/series2/ep06/slide-004.webp",
+      "text": "residents were prohibited from entering the forest. Tamora's Satyagraha happened to break this law, was part of Gandhi's Civil disobedience movement, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s2e06-005",
+      "type": "content",
+      "image": "images/series2/ep06/slide-005.webp",
+      "text": "this movement, Raghuvar Singh Dewan, a resident of Tamora, was sentenced to three months' imprisonment and a fine of Rs 200 for this Satyagraha and wa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s2e06-006",
+      "type": "content",
+      "image": "images/series2/ep06/slide-006.webp",
+      "text": "Jail, Raipur, and as per the villages from Tamora, Raghuvar Singh Dewan's niece Dayavati had slapped the then British government official during the l...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s2e06-007",
+      "type": "content",
+      "image": "images/series2/ep06/slide-007.webp",
+      "text": "in 1933 after hearing about this Satyagraha. Since then the identity of the village was associated with Gandhi, and the village came to be known as \"G...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s2e06-008",
+      "type": "content",
+      "image": "images/series2/ep06/slide-008.webp",
+      "text": "of Chhattisgarh Pt. Ravi Shankar Shukla Babu Chhotelal Srivastava Dr. Khubchand Baghel Pt. Sundarlal Sharma E. Raghavendra Rao Barrister Chhedilal Yet...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s2e06-009",
+      "type": "content",
+      "image": "images/series2/ep06/slide-009.webp",
+      "text": "Mahant Laxmi Narayan Das Maulana Abdul Rauf Khan Shivdas Daga Dr. Radhabai Rohini Bai Parganiha Kekti Bai Baghel Bela Bai Phulkuwar Bhai Meenakshi Dev...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s2e06-010",
+      "type": "content",
+      "image": "images/series2/ep06/slide-010.webp",
+      "text": "In the last successful and non - violent freedom struggle of Chhattisgarh, the name of Pandit Ravi Shankar Shukla is at the first position, He was the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s2e06-011",
+      "type": "content",
+      "image": "images/series2/ep06/slide-011.webp",
+      "text": "and was the most powerful freedom f ighter in the Central Provinces. From Jabalpur to the border of Hyderabad State, and from Chhattisgarh to the last...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s2e06-012",
+      "type": "content",
+      "image": "images/series2/ep06/slide-012.webp",
+      "text": "Central Provinces, he had a huge support of the people. Pandit Ravi Shankar Shukla is remembered as the \" Founder of Madhya Pradesh \" . He played an ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s2e06-013",
+      "type": "content",
+      "image": "images/series2/ep06/slide-013.webp",
+      "text": "in the national movement, promoted Swadeshi Khadi, national education , and played seventy roles in the non-cooperation, civil disobedience , and Quit...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s2e06-014",
+      "type": "content",
+      "image": "images/series2/ep06/slide-014.webp",
+      "text": "held at Nagp ur in 1923. On July 4, 1937, Khare ' s first Congressman Joined the cabinet as education minister and implemented Vidya Mandir schemes. H...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s2e06-015",
+      "type": "content",
+      "image": "images/series2/ep06/slide-015.webp",
+      "text": "Minister of Madhya Pradesh on 15 August 1947 and remained in this post till 1956. On November 1, 1956, he had the distinction of becoming the first fo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s2e06-016",
+      "type": "content",
+      "image": "images/series2/ep06/slide-016.webp",
+      "text": "of the new Madhya Pradesh. Pandit Ravi Shankar Shukla was a famous leader of the Indian National Congress and a freedom fighter. In 1937, he was appoi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s2e06-017",
+      "type": "content",
+      "image": "images/series2/ep06/slide-017.webp",
+      "text": "Minister (Chief Minister of the state) of the new state of Madhya Pradesh. For almost a decade, the Chief Ministers of the states were called the Prim...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s2e06-018",
+      "type": "content",
+      "image": "images/series2/ep06/slide-018.webp",
+      "text": "in 1937 when the British government conducted elections for the Central and Provincial Councils, then they were called Dhara Sabha. He died of a hea r...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s2e06-019",
+      "type": "content",
+      "image": "images/series2/ep06/slide-019.webp",
+      "text": "1956. Babu Chhotelal Srivastava Babu Chhotelal Srivastava was a symbol of perseverance and determination. He was the architect of Kandel Canal Satyagr...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s2e06-020",
+      "type": "content",
+      "image": "images/series2/ep06/slide-020.webp",
+      "text": "Chhotelal Srivastava was born on 28 February 1889 in an affluent family of Kandel. Coming in contact with Pt. Sundarlal Sharma started participating i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s2e06-021",
+      "type": "content",
+      "image": "images/series2/ep06/slide-021.webp",
+      "text": "he established the Srivastava Library. Here all the major newspapers and magazines of the country filled with national sentiments were called. Later o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s2e06-022",
+      "type": "content",
+      "image": "images/series2/ep06/slide-022.webp",
+      "text": "center of the freedom struggle. He was one of the main organizers of the Dhamtari Tehsil Political Council in the year 1918. Srivastava got the most f...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s2e06-023",
+      "type": "content",
+      "image": "images/series2/ep06/slide-023.webp",
+      "text": "Satyagraha. He organized the peasants against the tyranny of the British government. In the year 1921, he established the Khadi Production Center for ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s2e06-024",
+      "type": "content",
+      "image": "images/series2/ep06/slide-024.webp",
+      "text": "1922, Jungl e Satyagraha was held in Sihawa, where Srivastava gave full cooperation in that Satyagraha. When the decision of Jungle Satyagraha was tak...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s2e06-025",
+      "type": "content",
+      "image": "images/series2/ep06/slide-025.webp",
+      "text": "year 1 930, Srivastava played an active role in it. He was arrested and sent to jail. He was severely tortured in prison. In the year 1933, Gandhi aga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s2e06-026",
+      "type": "content",
+      "image": "images/series2/ep06/slide-026.webp",
+      "text": "Chhattisgarh. He went to Dhamtari. There he praised the leadership of Chhotelal Babu. In the year 1937, Shrivastava was elected the President of Dhamt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s2e06-027",
+      "type": "content",
+      "image": "images/series2/ep06/slide-027.webp",
+      "text": "an active role in the Quit India Movement of 1942. He was arrested. He died on 18 July 1976 in the great Tirtha Kandel of the freedom struggle. Dr. Kh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s2e06-028",
+      "type": "content",
+      "image": "images/series2/ep06/slide-028.webp",
+      "text": "Baghel Dr. Khubchand Baghel was influenced by Mahatma Gandhi. In 1930, Jungle Satyagraha of Gandhi started, Dr. Khubchand resigned from government ser...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s2e06-029",
+      "type": "content",
+      "image": "images/series2/ep06/slide-029.webp",
+      "text": "of Congress. In April 1930, Dr. Baghel also participated in the session of Raipur Mahakaushal Political Council, in 1931, Dr. Baghel was appointed as ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s2e06-030",
+      "type": "content",
+      "image": "images/series2/ep06/slide-030.webp",
+      "text": "later the eighth Dictator of the state. While holding the post of District Dictator, Dr. Baghel should also be aware of social reforms. Worked as the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s2e06-031",
+      "type": "content",
+      "image": "images/series2/ep06/slide-031.webp",
+      "text": "the historic Congress session of Tripuri in 1939. He was also arrested in the Quit India Movement in 1942. Along with Dr. Baghel, his wife Rajkunwar D...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s2e06-032",
+      "type": "content",
+      "image": "images/series2/ep06/slide-032.webp",
+      "text": "jail for 6 months. Dr. Khubchand had to go to jail several times during his agitations. He was arrested in 1942 under the Quit India Movement. In the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s2e06-033",
+      "type": "content",
+      "image": "images/series2/ep06/slide-033.webp",
+      "text": "elections from Raipur Tehsil, Dr. Baghel was elected unopposed. In this way, in 1946, Dr. Baghel was nominated as the President of the Tehsil Office E...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s2e06-034",
+      "type": "content",
+      "image": "images/series2/ep06/slide-034.webp",
+      "text": "of the Provincial Executive. After independence, he was appointed parliamentary secretary by the provincial government. In 1950, on the call of Achary...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s2e06-035",
+      "type": "content",
+      "image": "images/series2/ep06/slide-035.webp",
+      "text": "\" . After 1951, he was elected from the party to the assembly in the general elections. He was a member of the Legislative Assembly till 1965. Electe...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s2e06-036",
+      "type": "content",
+      "image": "images/series2/ep06/slide-036.webp",
+      "text": "Sabha in 1965, associated with politics till 1968 In the year 1952, Satyagraha in village Mahuda (Tarp ongi), currently situated at Tilda block in Rai...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s2e06-037",
+      "type": "content",
+      "image": "images/series2/ep06/slide-037.webp",
+      "text": "a organized during the Holi festival was completely successful. \" Kisbin N acha \" in which prostitutes used to dance with the feudal lords in village...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s2e06-038",
+      "type": "content",
+      "image": "images/series2/ep06/slide-038.webp",
+      "text": "the Devadasi or Medni system, which continues even today in other places in C hhattisgarh. He started the \"Pankti Todo\" ( Break the Row ) movement, t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s2e06-039",
+      "type": "content",
+      "image": "images/series2/ep06/slide-039.webp",
+      "text": "can have food with anyone sitting in a row. There should not be a row based on caste. He was successful in the Pankti Todo movement. Dr. Khubchand Bag...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s2e06-040",
+      "type": "content",
+      "image": "images/series2/ep06/slide-040.webp",
+      "text": "on 22 February 1969 in Delhi. Khubchand Baghel was a Rajya Sabha member at that time and lived in Delhi. After his death, his body was sent by goods t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s2e06-041",
+      "type": "content",
+      "image": "images/series2/ep06/slide-041.webp",
+      "text": "Which was opposed all over Chhattisgarh and only after that it was decided that the mortal remains of any politician would be sent by plane only. Pt. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s2e06-042",
+      "type": "content",
+      "image": "images/series2/ep06/slide-042.webp",
+      "text": "is a village near Rajim whose name is Chamsur. Pt. Sundarlal Sharma was born in the same Chamsur village. He was born on Paush Krishna Amavasya i.e. 1...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s2e06-043",
+      "type": "content",
+      "image": "images/series2/ep06/slide-043.webp",
+      "text": "Vikram Samvat 1938. His father was Pt. Jayalal Tiwari who was a legal advisor in the princely state of Kanker, his mother was Devmati Devi. Pt. Jayala...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s2e06-044",
+      "type": "content",
+      "image": "images/series2/ep06/slide-044.webp",
+      "text": "very knowledgeable and gentle person. The Kanker king had given him 18 villages. Pt. Jayalal Tiwari was a very good poet and had a keen interest in mu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s2e06-045",
+      "type": "content",
+      "image": "images/series2/ep06/slide-045.webp",
+      "text": "Sharma was brought up in this progressive family. Sundarlal was educated till the middle school of Chamsur village. After that , he had his studies at...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s2e06-046",
+      "type": "content",
+      "image": "images/series2/ep06/slide-046.webp",
+      "text": "arranged for his higher education very well at home. Teachers used to come and Sundarlal Sharma studied English, Bangla, Oriya, Marathi language at ho...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s2e06-047",
+      "type": "content",
+      "image": "images/series2/ep06/slide-047.webp",
+      "text": "magazines used to come to his house s , such as Kesari whos e editor was Lokmanya Tilak and Maratha. Sundarlal Sharma ' s thinking ability increased t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s2e06-048",
+      "type": "content",
+      "image": "images/series2/ep06/slide-048.webp",
+      "text": "started adopting any ideology only after examining them thoroughly. He started writing himself. Started writing poems. His poems also began to be publ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s2e06-049",
+      "type": "content",
+      "image": "images/series2/ep06/slide-049.webp",
+      "text": "Rasik Mitra. Sundarlal was not only a poet but also a painter. Apart from being a painter, he was also a sculptor. He also wrote plays. He had a keen...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s2e06-050",
+      "type": "content",
+      "image": "images/series2/ep06/slide-050.webp",
+      "text": "interest in theatre. He used to say that change can be brought in to society through drama. The fact that the country is under control used to give th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s2e06-051",
+      "type": "content",
+      "image": "images/series2/ep06/slide-051.webp",
+      "text": "lot of trouble. So in 1906 , he reached Surat where he attended the Congress session. There Tilak was leading the Ugra (Garam) party. Those who were w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s2e06-052",
+      "type": "content",
+      "image": "images/series2/ep06/slide-052.webp",
+      "text": "opposing Tilak on behalf of the moderate party. Sundarlal Sharma and his companions Pt Narayan Rao Medhawale and Dr. Shivram Gunje were with Tilakji. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s2e06-053",
+      "type": "content",
+      "image": "images/series2/ep06/slide-053.webp",
+      "text": "Surat Congress, opened shops of indigenous goods with his colleagues. These shops were opened in Rajim, Dhamtari , and Raipur. Through these shops , t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s2e06-054",
+      "type": "content",
+      "image": "images/series2/ep06/slide-054.webp",
+      "text": "who came to buy were told that they should boycott foreign goods, but in 1911 these shops were closed after a loss of thousands of rupees. Sundarlal S...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s2e06-055",
+      "type": "content",
+      "image": "images/series2/ep06/slide-055.webp",
+      "text": "associates got a debt of thousands of rupees. Bodhni Bai, wife of Pt. Sundarlal Sharma kept quietly facing every trouble with her husband. They had tw...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s2e06-056",
+      "type": "content",
+      "image": "images/series2/ep06/slide-056.webp",
+      "text": "Vidyabhushan. Neelamani received education from Banaras. It is said that he was the true heir to the qualities of his father. He died in the year 1918...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s2e06-057",
+      "type": "content",
+      "image": "images/series2/ep06/slide-057.webp",
+      "text": "sorrow broke on the life of Pt. Sundarlal Sharma, but after taking care of himself, he again jumped into the work of the society. The social varna sys...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s2e06-058",
+      "type": "content",
+      "image": "images/series2/ep06/slide-058.webp",
+      "text": "torment his mind a lot. In the year 1918, he made the Satnamis wear Janeu and gave them equal status to the upper castes in society. After this , the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s2e06-059",
+      "type": "content",
+      "image": "images/series2/ep06/slide-059.webp",
+      "text": "Brahmin class started opposing him. But Pt. Sundarlal Sharma went on his way with his head held high, when people were not allowed to enter the temple...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s2e06-060",
+      "type": "content",
+      "image": "images/series2/ep06/slide-060.webp",
+      "text": "of untouchability, then Sundarlal Sharma would get very upset. He started a movement against it. The movement to get the Kahars admitted in Rajim ' s ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s2e06-061",
+      "type": "content",
+      "image": "images/series2/ep06/slide-061.webp",
+      "text": "started in the year 1918. In 1925, he entered the Ramchandra temple in Rajim with the Harijans. Pt. Sundarlal Sharma always used to say that we should...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s2e06-062",
+      "type": "content",
+      "image": "images/series2/ep06/slide-062.webp",
+      "text": "the evils of society as soon as possible. He said that from childhood, the habit of reading books should be made. In 1914, he established a library in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s2e06-063",
+      "type": "content",
+      "image": "images/series2/ep06/slide-063.webp",
+      "text": "Gandhi came to Chhattisgarh in 1920. The credit for bringing him to Chhattisgarh for the first time goes to Sundarlal Sharma. At that time canal satya...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s2e06-064",
+      "type": "content",
+      "image": "images/series2/ep06/slide-064.webp",
+      "text": "village under the leadership of Chhotelal Babu. In this context, Sundarlal Sharma went to take Gandhi so that the canal satyagraha would be more effec...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s2e06-065",
+      "type": "content",
+      "image": "images/series2/ep06/slide-065.webp",
+      "text": "soon as this news reached, the officials of the canal department accepted the words of the agitators. In 1922, it was decided that Satyagraha should b...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s2e06-066",
+      "type": "content",
+      "image": "images/series2/ep06/slide-066.webp",
+      "text": "from the jungle and violating the law. In this context Pt. Sundarlal Sharma and Narayan Rao Medhawale were arrested in Sihawa. Both were sentenced to ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s2e06-067",
+      "type": "content",
+      "image": "images/series2/ep06/slide-067.webp",
+      "text": "Raipur Jail. There was a complete strike in Raipur and Dhamtari on the day the sentence was handed down. After his release from jail in 1923, Sundarla...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s2e06-068",
+      "type": "content",
+      "image": "images/series2/ep06/slide-068.webp",
+      "text": "associates left for the Kakinada Congress session. This hiking was 700 miles, which he did through the ravin es of the jungles. During this P adyatra ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s2e06-069",
+      "type": "content",
+      "image": "images/series2/ep06/slide-069.webp",
+      "text": "grow very close to the tribals. He continued to attend the Congress session every year and was a member of the Provincial Congress Committee. In 1930,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s2e06-070",
+      "type": "content",
+      "image": "images/series2/ep06/slide-070.webp",
+      "text": "a harsh sentence of one year - this was in the context of Jungle Satyagraha in Dhamtari Tehsil. After that in 1932 , he was sentenced to 6 months. He...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s2e06-071",
+      "type": "content",
+      "image": "images/series2/ep06/slide-071.webp",
+      "text": "was arrested while picketing at a shop in Raipur. In 1933, when Gandhi set out on Harijnodhar, he had described Pt. Sundarlal Sharma i s a pioneer in ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s2e06-072",
+      "type": "content",
+      "image": "images/series2/ep06/slide-072.webp",
+      "text": "Pt. Sundarlal Sharma had established Satnami Ashram in Raipur, Brahmacharyashram in Rajim , and an orphanage in Dhamtari. His contribution in the fiel...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s2e06-073",
+      "type": "content",
+      "image": "images/series2/ep06/slide-073.webp",
+      "text": "about 20 texts in which there are 4 plays, 2 novels , and poetry works. His \" Chhattisgarhi Da a nlila \" is very popular in this area. It is...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s2e06-074",
+      "type": "content",
+      "image": "images/series2/ep06/slide-074.webp",
+      "text": "said that this is the first poem in Chhattisgarhi. Bodhni Bai, the wife of Pt. Sundarlal Sharma died in 1929. Pt. Sundarlal Sharma died on 28 December...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s2e06-075",
+      "type": "content",
+      "image": "images/series2/ep06/slide-075.webp",
+      "text": "Rao In the Nagpur Congress session of 1915, Dr. E. Raghavendra Rao led the joint leadership of the Moderate Dal and the Extremist, although there was ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s2e06-076",
+      "type": "content",
+      "image": "images/series2/ep06/slide-076.webp",
+      "text": "two parties then, Rao acted as a bridge for both the parties, which was more necessary for the freedom struggle than the differences between the two g...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s2e06-077",
+      "type": "content",
+      "image": "images/series2/ep06/slide-077.webp",
+      "text": "the President of Bilaspur Municipality and District Council and was completely immersed in public service. In the Lucknow session of 1916, Rao led the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s2e06-078",
+      "type": "content",
+      "image": "images/series2/ep06/slide-078.webp",
+      "text": "Congress leaders of Chhattisgarh. Represented the Central Provincial Political Conference held in Khandwa in 1919. Be involved in organizing the confe...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s2e06-079",
+      "type": "content",
+      "image": "images/series2/ep06/slide-079.webp",
+      "text": "that Gandhian non-violence ideology can be communicated in the Bilaspur area and people can actively join the freedom struggle. In 1921, Ratanpur Parg...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s2e06-080",
+      "type": "content",
+      "image": "images/series2/ep06/slide-080.webp",
+      "text": "session and presided over the conference. Rao worked to connect the people of Chhattisgarh with the Swaraj Party formed by Motilal Nehru in 1923, Rao ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s2e06-081",
+      "type": "content",
+      "image": "images/series2/ep06/slide-081.webp",
+      "text": "the Swaraj Party of Chhattisgarh. After the resignation of Rama Rao Deshmukh in 1928, Rao was invited by the Governor to constitute the Council of Min...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s2e06-082",
+      "type": "content",
+      "image": "images/series2/ep06/slide-082.webp",
+      "text": "the Chief Minister of the Central Provinces. In 1936 he was posted as interim Governor of Madhya Pradesh, Raghavendra Rao Saheb was nominated as a mem...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s2e06-083",
+      "type": "content",
+      "image": "images/series2/ep06/slide-083.webp",
+      "text": "' s Executive Committee and also held the post of Defense Minister. Rao did not participate directly in the freedom struggle and used the government p...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s2e06-084",
+      "type": "content",
+      "image": "images/series2/ep06/slide-084.webp",
+      "text": "Barrister Chhedilal Barrister went to Oxford for higher studies after completing his Intermediate from Muir College, Prayag in Chhedilal. There he did...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s2e06-085",
+      "type": "content",
+      "image": "images/series2/ep06/slide-085.webp",
+      "text": "the title of Bar-at-Law. He was very proficient in the languages \"‹\"‹ of Hindi, English, Urdu , and Sanskrit. He was born in 1886 in a zamindar family...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
