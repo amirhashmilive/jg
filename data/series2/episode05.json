@@ -1,1 +1,1029 @@
-﻿{ "series": 2, "episode": 5, "title": "The Procession of Lamps", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 2,
+  "episode": 5,
+  "title": "Episode 05",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s2e05-001",
+      "type": "content",
+      "image": "images/series2/ep05/slide-001.webp",
+      "text": "(Chhattisgarh Online Information for Citizens Empowerment). Chhattisgarh got the United Nations Development Programme (UNDP) Award for its Human Devel...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s2e05-002",
+      "type": "content",
+      "image": "images/series2/ep05/slide-002.webp",
+      "text": "as a top tourist hub, Chhattisgarh has a strong network of roadways, though the quality of these roads needs to be upgraded to the desired level. The ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s2e05-003",
+      "type": "content",
+      "image": "images/series2/ep05/slide-003.webp",
+      "text": "connected to all major cities of neighboring states with adequate bus services. Besides, several private operators run non-stop services to district t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s2e05-004",
+      "type": "content",
+      "image": "images/series2/ep05/slide-004.webp",
+      "text": "development schemes of the government by ensuring effective connectivity within the state. The a irport in Raipur offers air connectivity to Chhattisg...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s2e05-005",
+      "type": "content",
+      "image": "images/series2/ep05/slide-005.webp",
+      "text": "its industrial base. Multiple flights daily are operated to link all the major metros of the country. Tourist Centers Chhattisgarh situated in the hea...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s2e05-006",
+      "type": "content",
+      "image": "images/series2/ep05/slide-006.webp",
+      "text": "rich cultural heritage and attractive natural diversity. The State is full of ancient monuments, rare wildlife species, carved temples, Buddhist sites...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s2e05-007",
+      "type": "content",
+      "image": "images/series2/ep05/slide-007.webp",
+      "text": "with its unique cultural and ecological identity; Chitrakote Falls, a spot where the river Indravati has an abrupt fall of 96 ft.; Tirathgarh Falls, t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s2e05-008",
+      "type": "content",
+      "image": "images/series2/ep05/slide-008.webp",
+      "text": "from a height of 100 ft. in the form of steps; Keshkal valley; Kanger Ghati National Park; Kailash caves; Sita Bongara and Kutumbsar caves are rich in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s2e05-009",
+      "type": "content",
+      "image": "images/series2/ep05/slide-009.webp",
+      "text": "Bilaspur, Mahamaya temple at Ratanpur, Dargah of Baba Sayed Insan Ali Shah at Luthra S harif , Bambleshwari Devi Temple at Dongargarh, Danteshwari Dev...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s2e05-010",
+      "type": "content",
+      "image": "images/series2/ep05/slide-010.webp",
+      "text": "center of Buddhism from 6 - 10th century, Champaran the birthplace of Mahaprabhu Vallabhacharaya, Khutaghat waterfall, Dindneswari Devi Temple of Malh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s2e05-011",
+      "type": "content",
+      "image": "images/series2/ep05/slide-011.webp",
+      "text": "Baba , a shrine of a Muslim Saint Hazrat Burhan Shah in Raipur and the Achanakmar sanctuary, Udanti sanctuary near Raipur, Pali and Kendai waterfall o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s2e05-012",
+      "type": "content",
+      "image": "images/series2/ep05/slide-012.webp",
+      "text": "places of tourist interest. The Sabari temple of Kharaud Janjgir-Champa; Nar Narayan temple of Shivrinarayan; Vishnu Temple of Janjgir are important r...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s2e05-013",
+      "type": "content",
+      "image": "images/series2/ep05/slide-013.webp",
+      "text": "Tourism Promoting Board as the nodal agency for the sustained development of interrelated sectors in tourism. Gandhian Heritages in Chhattisgarh Anand...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s2e05-014",
+      "type": "content",
+      "image": "images/series2/ep05/slide-014.webp",
+      "text": "Aga Khan Palace, Raipur Jaani Hussain ka Baada, Dhamtari Babu Chhotelal Srivastava' s Kothi at Dhamtari Babu Chhotelal Shrivastava Library, Dhamtari P...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s2e05-015",
+      "type": "content",
+      "image": "images/series2/ep05/slide-015.webp",
+      "text": "Flag, Kanker Gandhian Heritage in Raipur During the British rule in Chhattisgarh, all taxes were levied. There were 14 princely states. Raipur was not...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s2e05-016",
+      "type": "content",
+      "image": "images/series2/ep05/slide-016.webp",
+      "text": "called \"˜Khalsa Kshetra' . Here the Deputy Commissioner of the British used to sit as an administrator. Anand Samaj Library, and th e Bara Bhai Organi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s2e05-017",
+      "type": "content",
+      "image": "images/series2/ep05/slide-017.webp",
+      "text": "first independence revolution of 1857, the enlightened citizens of the city formed \" Bara Bhai Sanstha \" on 13 January 1899 in Raipur. The aim was to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s2e05-018",
+      "type": "content",
+      "image": "images/series2/ep05/slide-018.webp",
+      "text": "happening in the world to Raipur at that time. The aim of this institution was social consciousness awareness through modern knowledge. Later, the \" B...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s2e05-019",
+      "type": "content",
+      "image": "images/series2/ep05/slide-019.webp",
+      "text": "be known as the \" Anand Samaj Sanstha \" . In 1900, members of the institution donated and ordered books, some donors also donated the books to the li...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s2e05-020",
+      "type": "content",
+      "image": "images/series2/ep05/slide-020.webp",
+      "text": "1908, Bairamji Peston extended its building with financial assistance. In 1899, people used to form a strategy for freedom while sitting in the house ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s2e05-021",
+      "type": "content",
+      "image": "images/series2/ep05/slide-021.webp",
+      "text": "reading letters and magazines. These people of Bara Bhai Organization together formed Anand Samaj. Anand Samaj Library was built in 1908. When the rev...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s2e05-022",
+      "type": "content",
+      "image": "images/series2/ep05/slide-022.webp",
+      "text": "also erupted in Chhattisgarh. Due to being located in the middle of the city, many freedom fighters used to gather here. It was the only place where n...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s2e05-023",
+      "type": "content",
+      "image": "images/series2/ep05/slide-023.webp",
+      "text": "come, it would give information about the movements of the country, based on this, and freedom fighters of the capital Raipur used to raise their voic...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s2e05-024",
+      "type": "content",
+      "image": "images/series2/ep05/slide-024.webp",
+      "text": "h ere Pt. Ravi Shankar Shukla, Thakur Pyarelal , and Prof. Many freedom fighters like Jayanarayan Tiwari, Madhavrao Sapre devised strategies. This lib...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s2e05-025",
+      "type": "content",
+      "image": "images/series2/ep05/slide-025.webp",
+      "text": "Due to the city ' s only library, all the news of the country was known from the newspapers. Anand Samaj Library located in Raipur is an inspirational...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s2e05-026",
+      "type": "content",
+      "image": "images/series2/ep05/slide-026.webp",
+      "text": "with history. This well-known organization has been the center of thought of eminent writers, litterateurs, freedom fighters , and readers of Chhattis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s2e05-027",
+      "type": "content",
+      "image": "images/series2/ep05/slide-027.webp",
+      "text": "Father of the Nation, Mahatma Gandhi. Freedom fighters had a close relati onship with this institution, they used to come to the library every evening...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s2e05-028",
+      "type": "content",
+      "image": "images/series2/ep05/slide-028.webp",
+      "text": "four hours. Discussed national problems and gave directions to the youth. Gradually the Anand Samaj Library became a training center for social servic...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s2e05-029",
+      "type": "content",
+      "image": "images/series2/ep05/slide-029.webp",
+      "text": "courtyard of the library was a center of the cultural, literary , and political consciousness of the city. Chhattisgarh ' s first monthly magazine \" C...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s2e05-030",
+      "type": "content",
+      "image": "images/series2/ep05/slide-030.webp",
+      "text": "the year 1900 under the editorship of Pt. Madhavrao Sapre, his activism remained from this library till his death. On 20 December 1920, Mahatma Gandhi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s2e05-031",
+      "type": "content",
+      "image": "images/series2/ep05/slide-031.webp",
+      "text": "a public meeting in a field situated in the south direction adjoining the Anand Samaj Library. Now known as the \" Gandhi Maidan \" till now after the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s2e05-032",
+      "type": "content",
+      "image": "images/series2/ep05/slide-032.webp",
+      "text": "of Gandhi, this was Gandhi ' s first public meeting in Chhattisgarh. Anand Samaj Library was not just a library, it remained the center of national ac...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s2e05-033",
+      "type": "content",
+      "image": "images/series2/ep05/slide-033.webp",
+      "text": "the agitating youth used to gather here and determine the plans of the movement. Even today, this historical library has a collection of many rare boo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s2e05-034",
+      "type": "content",
+      "image": "images/series2/ep05/slide-034.webp",
+      "text": "Pandit Nehru ' s book Discovery of India The Anand Samaj Library also holds the legacy of Pandit Jawaharlal Nehru, the first Prime Minister of the cou...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s2e05-035",
+      "type": "content",
+      "image": "images/series2/ep05/slide-035.webp",
+      "text": "first collection of his book Discovery of India. Rare books, theses , and articles are also stored in the library. It is a collection of books by Gand...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s2e05-036",
+      "type": "content",
+      "image": "images/series2/ep05/slide-036.webp",
+      "text": "Gandhi Wangmay also mentions Bapu ' s arrival in Raipur. Queen Victoria ' s books Anand Samaj Vachanalaya has a unique collection of books of Queen Vi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s2e05-037",
+      "type": "content",
+      "image": "images/series2/ep05/slide-037.webp",
+      "text": "published in 1930. In eight parts, the book contains a collection of accounts written by Queen Victoria from 1886 to 1890, which she wrote to the emin...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s2e05-038",
+      "type": "content",
+      "image": "images/series2/ep05/slide-038.webp",
+      "text": "period, especially the people of most of the royalty of the time. Gandhi Maidan Gandhi Maidan in Raipur was marked by the British for the arrest of th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s2e05-039",
+      "type": "content",
+      "image": "images/series2/ep05/slide-039.webp",
+      "text": "for independence. Whereas what is known as Sapre Maidan, was called Lawrie High School Ground during the British period. This name was given by the Br...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s2e05-040",
+      "type": "content",
+      "image": "images/series2/ep05/slide-040.webp",
+      "text": "was used for meetings by well-known freedom fighters of the country who fought for freedom. The British did not raid schools, nor were there any arres...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s2e05-041",
+      "type": "content",
+      "image": "images/series2/ep05/slide-041.webp",
+      "text": ", and dargahs, monasteries , and schools. That is why the meetings of revolutionary leaders were held here. Then Gandhi Maidan was the biggest ground ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s2e05-042",
+      "type": "content",
+      "image": "images/series2/ep05/slide-042.webp",
+      "text": "of Mahatma Gandhi and the Khilafat movement, a meeting of Mahatma Gandhi took place at this place in the freedom movement. And thousands of Hindus-Mus...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s2e05-043",
+      "type": "content",
+      "image": "images/series2/ep05/slide-043.webp",
+      "text": "gathering, and from this Gandhi gave his first address in Chhattisgarh. After this, apart from Pandit Jawaharlal Nehru, non - violent revolutionaries ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s2e05-044",
+      "type": "content",
+      "image": "images/series2/ep05/slide-044.webp",
+      "text": "Ambedkar , etc. came and addressed the people. Laurie Maidan Presently known as Sapre Maidan, it was known as Laurie Maidan. In this area , the doctor...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s2e05-045",
+      "type": "content",
+      "image": "images/series2/ep05/slide-045.webp",
+      "text": "English commissioner Lorry , and the T own Inspector of the police station had their residence. In the British era, the British police used to keep th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s2e05-046",
+      "type": "content",
+      "image": "images/series2/ep05/slide-046.webp",
+      "text": "lockup of the Kotwali. Because the y' re used to be a police post near Azad Chowk. There was no lockup in it. Therefore, those who were arrested were ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s2e05-047",
+      "type": "content",
+      "image": "images/series2/ep05/slide-047.webp",
+      "text": "here and kept. Therefore, the British police officers were given the facility to stay in this area. Because of this, more forces were deployed from Ko...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s2e05-048",
+      "type": "content",
+      "image": "images/series2/ep05/slide-048.webp",
+      "text": "itself. In the Kotwali police station itself, there was a lockup facility during the British era. Gandhian Heritage in Dhamtari Babu Chhotelal Srivast...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s2e05-049",
+      "type": "content",
+      "image": "images/series2/ep05/slide-049.webp",
+      "text": "for full Swaraj came during the Lahore session under the c hairmanship of Jawaharlal Nehru . The British Govt. had rejected the Nehru report of 1928, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s2e05-050",
+      "type": "content",
+      "image": "images/series2/ep05/slide-050.webp",
+      "text": "ession Congress passed the resolution of complete Independence. On 31 August 1930 , Congress unfurled the National Flag and Congress Committee was aut...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s2e05-051",
+      "type": "content",
+      "image": "images/series2/ep05/slide-051.webp",
+      "text": "the country. It was also decided that every year on 26th January, Independence Day should be observed and the First Independence Day was observed on 3...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s2e05-052",
+      "type": "content",
+      "image": "images/series2/ep05/slide-052.webp",
+      "text": "was declared that to celebrate First Independence Day in various parts of Chhattisgarh. It was on 26 January 1930, First Independence Day in Chhattisg...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s2e05-053",
+      "type": "content",
+      "image": "images/series2/ep05/slide-053.webp",
+      "text": "of the house of Babu Chhotelal Srivastava c urrently situated at Koshtapara, Dhamtari , a flag was hostage by Babu Chhotelal Srivastava, as well patri...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s2e05-054",
+      "type": "content",
+      "image": "images/series2/ep05/slide-054.webp",
+      "text": "Srivastava became widely known for his Kandel Satyagraha, he also has a house in Kandel village, but his original abode was his Kothi at present-day K...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s2e05-055",
+      "type": "content",
+      "image": "images/series2/ep05/slide-055.webp",
+      "text": "to be the den of freedom fighters. Babu Chhotelal Srivastava was a versatile genius, he used to treat patients free of cost in Ayurvedic Color Therapy...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s2e05-056",
+      "type": "content",
+      "image": "images/series2/ep05/slide-056.webp",
+      "text": "in colored glass vials, and Srivastava also treated leprosy patients through the book of Homeopathy. Whether to selflessly treat people with Ayurvedic...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s2e05-057",
+      "type": "content",
+      "image": "images/series2/ep05/slide-057.webp",
+      "text": "to implement the plans of the freedom struggle, the Kothi located in the present Kostapara , Dhamtari used to be their abode. Jani Hussain ka Baada Ma...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s2e05-058",
+      "type": "content",
+      "image": "images/series2/ep05/slide-058.webp",
+      "text": "a peregrination of Bengal during the Kandel Satyagraha in 1920. Pandit Sundarlal Sharma reached Calcutta and invited Gandhi to come to Chhattisgarh to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s2e05-059",
+      "type": "content",
+      "image": "images/series2/ep05/slide-059.webp",
+      "text": "Satyagraha and give strength to the Canal Satyagrah, to which he gladly accepted. On 20 December, Gandhi reached Raipur by train with Maulana Shaukat ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s2e05-060",
+      "type": "content",
+      "image": "images/series2/ep05/slide-060.webp",
+      "text": "movement, Shaukat Ali ' s brother Mohammad Ali and his mother also accompanied him. On the second day of Mahatma Gandhi ' s first visit to Chhattisgar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s2e05-061",
+      "type": "content",
+      "image": "images/series2/ep05/slide-061.webp",
+      "text": "1920, Gandhi reached Dhamtari with Maulana Shaukat Ali by car at 11:00 am, there was a huge gathering in Dhamtari, in which a large number of tribals,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s2e05-062",
+      "type": "content",
+      "image": "images/series2/ep05/slide-062.webp",
+      "text": "People from all other societies stood in a huge reception, people had come from far and wide for Gandhi. The venue for the mee ting was fixed at Jaani...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s2e05-063",
+      "type": "content",
+      "image": "images/series2/ep05/slide-063.webp",
+      "text": "Ba a da (Barn) , currently situated at S alhewara para . Gandhi walked through the streets of Amapara towards Jan i Hussain ka B aada , on the way...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s2e05-064",
+      "type": "content",
+      "image": "images/series2/ep05/slide-064.webp",
+      "text": "people were greeting him from their home s. Mee r Syed Mehboob Ali stopped the conv o y by pointing to Maulana Shaukat Ali and expressed his desire to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s2e05-065",
+      "type": "content",
+      "image": "images/series2/ep05/slide-065.webp",
+      "text": ", because Gandhi himself was there in the convoy, then listening to the words of Maulana Shaukat and M ehboob Ali, Gandhi also stopped. Mehboob Ali to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s2e05-066",
+      "type": "content",
+      "image": "images/series2/ep05/slide-066.webp",
+      "text": "his house , gave the closed bag to Maulana Shaukat Ali. Gandhi accepted this donation, and greeted Meer S a yed Mehboob Ali , and proceeded towards Ja...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s2e05-067",
+      "type": "content",
+      "image": "images/series2/ep05/slide-067.webp",
+      "text": "s barn . Gandhi was accorded a historic welcome upon reaching Jani Hussain ' s Bada, when he got down from the open car, a large crowd gathered to see...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s2e05-068",
+      "type": "content",
+      "image": "images/series2/ep05/slide-068.webp",
+      "text": "him closely, in such a situation Umar Seth, a businessman from Gurur, m ade Gandhi sit on his shoulders, and took them to the stage. After reaching th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s2e05-069",
+      "type": "content",
+      "image": "images/series2/ep05/slide-069.webp",
+      "text": "Jani Hussain's B aada , another donation of Rs 501 collected in the bag on behalf of the villagers, was presented by Baji rab Kridutt. Gandhian Herita...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s2e05-070",
+      "type": "content",
+      "image": "images/series2/ep05/slide-070.webp",
+      "text": "Gandhi had a deep connection with Chhattisgarh. When Bapu was on a tour of Chhattisgarh, he had also reached the Durg. Many of the signs used by him i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s2e05-071",
+      "type": "content",
+      "image": "images/series2/ep05/slide-071.webp",
+      "text": "Durg are still safe, one of which is a wooden chair, which is the self. It is still present at the residence of Ghanshyam Singh Gupta in the Durg. In...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s2e05-072",
+      "type": "content",
+      "image": "images/series2/ep05/slide-072.webp",
+      "text": "November 1933, Gandhi announced a visit to India for the salvation of Harijans. It is a matter of pride for Chhattisgarh that he started the nationwid...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s2e05-073",
+      "type": "content",
+      "image": "images/series2/ep05/slide-073.webp",
+      "text": "journey started from Durg Nagar. On 22 November Gandhi reached the Durg and stayed at the residence of Ghanshyam Singh Gupta on Chandi Mandir Marg. Gu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s2e05-074",
+      "type": "content",
+      "image": "images/series2/ep05/slide-074.webp",
+      "text": "leader of the Congress. Dr. Raghvendra Singh Gupta, the grandson of Ghanshyam Singh Gupta, has saved the memories related to Gandhi, when Gandhi came ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s2e05-075",
+      "type": "content",
+      "image": "images/series2/ep05/slide-075.webp",
+      "text": "he used to sit and discuss has been kept even today. Gandhi also reached Harijan Mohalla during his Durg tour. Which is known today as Siddharth Nagar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s2e05-076",
+      "type": "content",
+      "image": "images/series2/ep05/slide-076.webp",
+      "text": "here he taught the lesson of cleanliness, as well as eradicating the discrimination of untouchables and untouchables, Gandhi took Harijans with him an...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s2e05-077",
+      "type": "content",
+      "image": "images/series2/ep05/slide-077.webp",
+      "text": "Jani Lal Banchore of Harijan locality while walking up to Shivnath River in Durg, after Gandhi Chowk, Baithad School also visited there. Whenever ther...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s2e05-078",
+      "type": "content",
+      "image": "images/series2/ep05/slide-078.webp",
+      "text": "the Durg, then the Baithd School was discussed with the school children for some time. Had to go. The busiest of the Durg is Sadar Bazar, the main squ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s2e05-079",
+      "type": "content",
+      "image": "images/series2/ep05/slide-079.webp",
+      "text": "is Gandhi Chowk, which was once named Panch Kandil. At this place, the agit ators gathered and started the P adyatra ( hiking ) after hoisting the fla...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s2e05-080",
+      "type": "content",
+      "image": "images/series2/ep05/slide-080.webp",
+      "text": "the gathering at this place too. Many memories of Gandhi are associated with the Durg, including the name of Mohan Lal Bakliwal, the first MP of Durg ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s2e05-081",
+      "type": "content",
+      "image": "images/series2/ep05/slide-081.webp",
+      "text": "with time, the memories have remained only in the memories, the pictures which were there have been spoiled. Even after a hundred years of Gandhi ' s ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s2e05-082",
+      "type": "content",
+      "image": "images/series2/ep05/slide-082.webp",
+      "text": "Durg, the families of his followers say that even today there is a feeling of Gandhi ' s arrival at these places of the Durg. Gandhian Heritage in Kan...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s2e05-083",
+      "type": "content",
+      "image": "images/series2/ep05/slide-083.webp",
+      "text": "t radition of saving Gandhi ' s flag The Suraji Jhanda ( Swaraj flag ) given by Bapu is still preserved by this family of the freedom fighter. Due to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s2e05-084",
+      "type": "content",
+      "image": "images/series2/ep05/slide-084.webp",
+      "text": "being old, it is in a state of deterioration, so it is taken out only on a particular day. Indru Kewat ' s grandson tells that it has been preserved...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s2e05-085",
+      "type": "content",
+      "image": "images/series2/ep05/slide-085.webp",
+      "text": "from the beginning. Earlier, Grandfather used to hoist it for 45 years. After his death, it was hoisted by father Hiralal for 17 years. After that , h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
