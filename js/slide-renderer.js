@@ -77,31 +77,12 @@ class SlideRenderer {
         slide.dataset.type = data.type || 'content';
         slide.dataset.animation = JSON.stringify(data.animation || {});
 
-        // Image optimization logic
-        let imagePath = data.image;
-        if (this.prefersReducedData) {
-            // Simulated logic: if we had a 720p folder, we would alter the path here
-            // imagePath = imagePath.replace('images/', 'images/720p/');
-        }
-
-        // Adjust path because player.html is in /pages directory
-        if (imagePath && !imagePath.startsWith('../') && !imagePath.startsWith('http')) {
-            imagePath = '../' + imagePath;
-        }
-
-        // Image Container
-        const imgWrap = document.createElement('div');
-        imgWrap.className = 'slide-image-wrap vignette placeholder-wrap';
-        
-        const promptBox = document.createElement('div');
-        promptBox.className = 'prompt-placeholder';
-        promptBox.innerHTML = `
-            <span class="prompt-label">IMAGE PLACEHOLDER</span>
-            <p class="prompt-text">${data.visualDescription || 'No visual description provided.'}</p>
-        `;
-        
-        imgWrap.appendChild(promptBox);
-        slide.appendChild(imgWrap);
+        // Small placeholder badge (top-right corner)
+        const placeholderBadge = document.createElement('div');
+        placeholderBadge.className = 'placeholder-badge';
+        placeholderBadge.title = data.visualDescription || 'Image to be generated';
+        placeholderBadge.innerHTML = `<span class="badge-label">📷 Image TBD</span>`;
+        slide.appendChild(placeholderBadge);
 
         // Editor's Choice Badge
         if (isEditorsChoice) {
@@ -111,8 +92,8 @@ class SlideRenderer {
             slide.appendChild(badge);
         }
 
-        // Text Overlay Container (Visible in Read Along mode)
-        if (data.type !== 'visual' && data.type !== 'brand' && data.text) {
+        // STORY TEXT — primary content, fills center of screen
+        if (data.text) {
             const textPanel = document.createElement('div');
             textPanel.className = 'slide-text-panel';
             
@@ -121,15 +102,6 @@ class SlideRenderer {
             textContent.textContent = data.text;
             
             textPanel.appendChild(textContent);
-
-            // If Hindi text exists, we can add it (toggled via settings later)
-            if (data.textHindi) {
-                const textHindi = document.createElement('p');
-                textHindi.className = 'slide-text text-hindi';
-                textHindi.textContent = data.textHindi;
-                textPanel.appendChild(textHindi);
-            }
-
             slide.appendChild(textPanel);
         }
 

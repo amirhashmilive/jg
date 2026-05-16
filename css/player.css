@@ -187,46 +187,26 @@ html, body {
   margin: var(--space-md) auto;
 }
 
-/* Placeholder Styles */
-.placeholder-wrap {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: transparent;
-    padding: 1.5rem 2rem;
+/* Placeholder Badge (small, top-right corner) */
+.placeholder-badge {
     position: absolute;
-    top: 60px;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 5;
-    width: 90%;
-    max-width: 600px;
+    top: 70px;
+    right: var(--space-lg);
+    z-index: 20;
+    pointer-events: none;
 }
-.prompt-placeholder {
-    border: 2px dashed var(--gold);
-    border-radius: 8px;
-    padding: 2rem;
-    max-width: 600px;
-    text-align: center;
-    background: rgba(20, 20, 20, 0.8);
-    backdrop-filter: blur(10px);
-}
-.prompt-label {
-    display: block;
-    color: var(--gold);
-    font-size: 0.8rem;
-    letter-spacing: 0.1em;
+.badge-label {
+    display: inline-block;
+    background: rgba(10,10,10,0.7);
+    border: 1px solid rgba(200,168,92,0.4);
+    color: rgba(200,168,92,0.8);
+    font-size: 0.7rem;
     font-family: var(--font-sans);
-    margin-bottom: 1rem;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
-    font-weight: 700;
-}
-.prompt-text {
-    color: var(--ivory);
-    font-size: 1.1rem;
-    line-height: 1.6;
-    font-family: var(--font-serif);
-    font-style: italic;
+    padding: 4px 10px;
+    border-radius: 20px;
+    backdrop-filter: blur(4px);
 }
 
 /* Bottom Navigation */
