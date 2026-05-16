@@ -5,12 +5,6 @@
 
 class BrandEngine {
     constructor() {
-        this.assets = {
-            jgPrimary: 'images/brand/LOGO Johar Gandhi.png',
-            mfPrimary: 'images/brand/LOGO - MEER FOUNDATION horizontal logo.png',
-            mfSquare: 'images/brand/LOGO - MEER FOUNDATION 1x1.png',
-            mfLeaf: 'images/brand/Meer Foundation Leaf.png'
-        };
         this.colors = {
             gold: '#C8A85C',
             black: '#0A0A0A',
@@ -33,15 +27,15 @@ class BrandEngine {
         modeToggle.innerHTML = '<span class="icon">📖</span> Read Along';
         
         // Brand elements
-        const jgLogo = document.createElement('img');
-        jgLogo.src = this.assets.jgPrimary;
-        jgLogo.className = 'hud-logo jg-logo';
-        jgLogo.alt = 'Johar Gandhi';
+        const jgLogo = document.createElement('div');
+        jgLogo.className = 'hud-logo jg-logo display-lg text-primary';
+        jgLogo.style.fontSize = '1.5rem';
+        jgLogo.innerText = 'Johar Gandhi';
 
-        const mfLogo = document.createElement('img');
-        mfLogo.src = this.assets.mfLeaf;
-        mfLogo.className = 'hud-logo mf-logo';
-        mfLogo.alt = 'Meer Foundation';
+        const mfLogo = document.createElement('div');
+        mfLogo.className = 'hud-logo mf-logo body-sm text-muted';
+        mfLogo.style.alignSelf = 'center';
+        mfLogo.innerText = 'A Cinematic History Experience';
 
         hud.appendChild(jgLogo);
         hud.appendChild(modeToggle);
@@ -69,31 +63,19 @@ class BrandEngine {
         ctx.lineWidth = Math.max(2, width * 0.002);
         ctx.strokeRect(0, 0, width, height);
 
-        // Load and draw logos
-        try {
-            const jgImg = await this.loadImage(this.assets.jgPrimary);
-            const mfImg = await this.loadImage(this.assets.mfPrimary);
-
-            // JG Top Left
-            const jgWidth = width * 0.15;
-            const jgHeight = (jgWidth / jgImg.width) * jgImg.height;
-            ctx.drawImage(jgImg, width * 0.05, width * 0.05, jgWidth, jgHeight);
-
-            // MF Bottom Right
-            const mfWidth = width * 0.2;
-            const mfHeight = (mfWidth / mfImg.width) * mfImg.height;
-            ctx.drawImage(mfImg, width - mfWidth - (width * 0.05), height - mfHeight - (width * 0.05), mfWidth, mfHeight);
-            
-            // "A Meer Foundation Initiative"
-            ctx.font = `300 ${width * 0.015}px Inter`;
-            ctx.fillStyle = this.colors.ivory;
-            ctx.textAlign = 'right';
-            ctx.globalAlpha = 0.6;
-            ctx.fillText('A Meer Foundation Initiative', width - (width * 0.05), height - mfHeight - (width * 0.06));
-            ctx.globalAlpha = 1.0;
-        } catch (e) {
-            console.error("Failed to apply brand images to canvas", e);
-        }
+        // Brand Text Rendering
+        ctx.font = `900 ${width * 0.04}px Playfair Display`;
+        ctx.fillStyle = this.colors.ivory;
+        ctx.textAlign = 'left';
+        ctx.fillText('Johar Gandhi', width * 0.05, height * 0.1);
+        
+        // "A Cinematic History Experience"
+        ctx.font = `300 ${width * 0.015}px Inter`;
+        ctx.fillStyle = this.colors.ivory;
+        ctx.textAlign = 'right';
+        ctx.globalAlpha = 0.8;
+        ctx.fillText('A Cinematic History Experience', width - (width * 0.05), height - (width * 0.05));
+        ctx.globalAlpha = 1.0;
     }
 
     loadImage(src) {
