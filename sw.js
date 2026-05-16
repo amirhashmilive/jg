@@ -1,4 +1,4 @@
-const CACHE_NAME = 'jg-cache-v1';
+const CACHE_NAME = 'jg-cache-v2';
 
 self.addEventListener('install', (event) => {
     event.waitUntil(
@@ -19,6 +19,20 @@ self.addEventListener('install', (event) => {
                 './js/slide-renderer.js',
                 './js/speech.js'
             ]);
+        })
+    );
+});
+
+self.addEventListener('activate', (event) => {
+    event.waitUntil(
+        caches.keys().then((cacheNames) => {
+            return Promise.all(
+                cacheNames.map((cacheName) => {
+                    if (cacheName !== CACHE_NAME) {
+                        return caches.delete(cacheName);
+                    }
+                })
+            );
         })
     );
 });
