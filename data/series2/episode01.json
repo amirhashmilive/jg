@@ -1,1 +1,1029 @@
-﻿{ "series": 2, "episode": 1, "title": "Thirteen Years", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 2,
+  "episode": 1,
+  "title": "Episode 01",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s2e01-001",
+      "type": "content",
+      "image": "images/series2/ep01/slide-001.webp",
+      "text": "first broke the law and then economically the British in four decades, made the British law ineffective by public opinion as well as broke the whole s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s2e01-002",
+      "type": "content",
+      "image": "images/series2/ep01/slide-002.webp",
+      "text": "want to give credit to the sacrifices of men to make the law meaningless, then maybe you can because for that they suffered torture and also spent yea...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s2e01-003",
+      "type": "content",
+      "image": "images/series2/ep01/slide-003.webp",
+      "text": "But the women did what the British could not even imagine! The women adopted Bapu ' s \" Charkha \" , and brought the biggest economy of the British, t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s2e01-004",
+      "type": "content",
+      "image": "images/series2/ep01/slide-004.webp",
+      "text": "textile mill, on the verge of closure. Textile mills used to be the largest and only organized industry at that time. Gandhi boycotted British goods f...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s2e01-005",
+      "type": "content",
+      "image": "images/series2/ep01/slide-005.webp",
+      "text": "biggest part of it was cloth, how could men boycott it even if they wanted to. But women took up the \" Charkha \" , and over three decades wreaked...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s2e01-006",
+      "type": "content",
+      "image": "images/series2/ep01/slide-006.webp",
+      "text": "havoc on the British economy across the country. Mahatma Gandhi with Abha and Manu ( Representative Image ) In Chhattisgarh, Dr. Radhabai worked to ta...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s2e01-007",
+      "type": "content",
+      "image": "images/series2/ep01/slide-007.webp",
+      "text": "to door, although Pandit Sundarlal Sharma led the Swadeshi movement in Chhattisgarh, Babu Chhotelal Srivastava ' s house in Kosta Para was a haven for...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s2e01-008",
+      "type": "content",
+      "image": "images/series2/ep01/slide-008.webp",
+      "text": "by Charkha. In the freedom movement of Chhattisgarh, many women a long with Dr. Radha Bai, Rohini Bai Parganiha, Phoolkunwar Bai, Bela Bai, Kekti Bai ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s2e01-009",
+      "type": "content",
+      "image": "images/series2/ep01/slide-009.webp",
+      "text": "Manotara Bai , Bhagwati Bai have been instrumental in the freedom struggle . Mahatma Gandhi 's freedom movement took a new turn and the movements unde...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s2e01-010",
+      "type": "content",
+      "image": "images/series2/ep01/slide-010.webp",
+      "text": "dreams of Indian social reformers come true. Efforts for women ' s uplift that began in the nineteenth century rose one notch. Mahatma Gandhi consider...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s2e01-011",
+      "type": "content",
+      "image": "images/series2/ep01/slide-011.webp",
+      "text": "for non - violent movement s . He called upon women to come forward to fulfill their responsibility for the country. She believed that freedom fight e...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s2e01-012",
+      "type": "content",
+      "image": "images/series2/ep01/slide-012.webp",
+      "text": "successfully till women do not participate actively in public life nor can Swaraj be attained. Mahatma Gandhi called women physically or mentally weak...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s2e01-013",
+      "type": "content",
+      "image": "images/series2/ep01/slide-013.webp",
+      "text": "the mainstream of the national movement by connecting them with active creative programs, movements , and organizational work at every level in such a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s2e01-014",
+      "type": "content",
+      "image": "images/series2/ep01/slide-014.webp",
+      "text": "to complete any movement without them. Mahatma Gandhi ' s mass appeal was nationwide. The then Chhattisgarh was a part of Madhya Pradesh. Activities o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s2e01-015",
+      "type": "content",
+      "image": "images/series2/ep01/slide-015.webp",
+      "text": "here and the first Satyagraha movement Kandel Canal Satyagraha started in July 1920 in the village called Kandel of Dhamtari Tehsil under the leadersh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s2e01-016",
+      "type": "content",
+      "image": "images/series2/ep01/slide-016.webp",
+      "text": "and Babu Chhotelal . When the information about this S atyagraha was sent to Mahatma Gandhi, he was visiting Bengal. Pandit Sundarlal Sharma from Chha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s2e01-017",
+      "type": "content",
+      "image": "images/series2/ep01/slide-017.webp",
+      "text": "Gandhi ' s first arrival in Raipur was on 20 December 1920. He addressed a huge general meeting at Raipur, the place known as Gandhi Chowk now. He the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s2e01-018",
+      "type": "content",
+      "image": "images/series2/ep01/slide-018.webp",
+      "text": "for Dhamtari, and returned via Dhamtari and Kurud and stayed again in Raipur. Here Mahatma Gandhi addressed a large gathering of women and asked for h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s2e01-019",
+      "type": "content",
+      "image": "images/series2/ep01/slide-019.webp",
+      "text": "Swaraj Fund. The women presented him jewels worth two thousand rupees. Undoubtedly, the influence of Mahatma Gandhi was also awakening political consc...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s2e01-020",
+      "type": "content",
+      "image": "images/series2/ep01/slide-020.webp",
+      "text": "of women was also addressed by Mahatma Gandhi at Jani Hussain ka Baada in Dhamtari and appealed to donate for Tilak and Swaraj Fund . These women free...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s2e01-021",
+      "type": "content",
+      "image": "images/series2/ep01/slide-021.webp",
+      "text": "the fund. W omen were also going from house to house promoting Khadi and Swadeshi and spinning Charkha at home. Babu Chhote Lal ' s house became the c...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s2e01-022",
+      "type": "content",
+      "image": "images/series2/ep01/slide-022.webp",
+      "text": "the activities of these women. Old women of Dhamtari Nagar and adjoining village had learned cotton spinning as a child, now they were working as a te...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s2e01-023",
+      "type": "content",
+      "image": "images/series2/ep01/slide-023.webp",
+      "text": "the revival and re-emergence of this business very w ere delighted. Middle - class women, after completing their homework, were giving a full share in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s2e01-024",
+      "type": "content",
+      "image": "images/series2/ep01/slide-024.webp",
+      "text": "for the remaining time. Cotton spinning became popular from house to house. The second event in which women participated in a big way was Harijanodhar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s2e01-025",
+      "type": "content",
+      "image": "images/series2/ep01/slide-025.webp",
+      "text": "Radhabai in Raipur C ity. Radhabai was a midwife but she became successful as a social worker in the 1920-30s, she gained so much popularity that peop...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s2e01-026",
+      "type": "content",
+      "image": "images/series2/ep01/slide-026.webp",
+      "text": "Dr. Radhabai with love and respect. Harijan was Ketaki Bai, the mother of Dr. Khubchand Baghel, who supported him in this work of salvation. Women oft...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s2e01-027",
+      "type": "content",
+      "image": "images/series2/ep01/slide-027.webp",
+      "text": "and called a meeting of the women there and did the work of public awakening. Swadeshi and boycott were given prominence under the Non-cooperation mov...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s2e01-028",
+      "type": "content",
+      "image": "images/series2/ep01/slide-028.webp",
+      "text": "observed from 8 October to 15 October. The huge Khadi exhibition at Ravana Bhatha Raipur was organized on 13 October by an organization of 200 women v...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s2e01-029",
+      "type": "content",
+      "image": "images/series2/ep01/slide-029.webp",
+      "text": "of Smt. Anjuman. This was probably the first time that such a large number of women living in the walls of the house came out after abandoning the cur...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s2e01-030",
+      "type": "content",
+      "image": "images/series2/ep01/slide-030.webp",
+      "text": "participate in such a national movement. There was also a spinning competition at the exhibition site. In this too, the women participated enthusiasti...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s2e01-031",
+      "type": "content",
+      "image": "images/series2/ep01/slide-031.webp",
+      "text": "both Hindus and Muslims. While urban women of Chhattisgarh were involved in making the non-cooperation movement successful by participating in demonst...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s2e01-032",
+      "type": "content",
+      "image": "images/series2/ep01/slide-032.webp",
+      "text": "tribal women were partici pating equally with men in the J ungle Satyagrah and peasant movements. Thus in the Non-Cooperation Movement, the women of C...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s2e01-033",
+      "type": "content",
+      "image": "images/series2/ep01/slide-033.webp",
+      "text": "make the movement successful and were ready to sacrifice themselves. Women in the Civil Disobedience Movement The result of increasing awareness among...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s2e01-034",
+      "type": "content",
+      "image": "images/series2/ep01/slide-034.webp",
+      "text": "numbers in the Civil Disobedience Movement of 1930. In almost all the provinces, they broke the law, from the processions and let them sit in front of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s2e01-035",
+      "type": "content",
+      "image": "images/series2/ep01/slide-035.webp",
+      "text": "foreign goods. Gandhi planned that if the women do not participate in the Dandi Yatra, strike, picket , and exhibit at the local level, then their pow...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s2e01-036",
+      "type": "content",
+      "image": "images/series2/ep01/slide-036.webp",
+      "text": "properly utilized. He believed that the British government would hesitate to attack women. In his words, like a Hindu cannot torture a cow, the Britis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s2e01-037",
+      "type": "content",
+      "image": "images/series2/ep01/slide-037.webp",
+      "text": "as far as possible. As per Gandhi ' s instructions, women organized a sit-in in front of foreign clothing and liquor shops all over India. The women '...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s2e01-038",
+      "type": "content",
+      "image": "images/series2/ep01/slide-038.webp",
+      "text": "program was very effective. She used to sit in groups of two or three in front of foreign goods and liquor shops from morning to evening. He prohibite...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s2e01-039",
+      "type": "content",
+      "image": "images/series2/ep01/slide-039.webp",
+      "text": "from selling foreign goods. If a customer used to come to these shops, they would urge him not to buy foreign goods. If the customer did not listen to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s2e01-040",
+      "type": "content",
+      "image": "images/series2/ep01/slide-040.webp",
+      "text": "request and tried to go to the shops, then she would lie down in front. They thus attempted to make the exclusion of foreign objects from theatrical s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s2e01-041",
+      "type": "content",
+      "image": "images/series2/ep01/slide-041.webp",
+      "text": "Gandhi ' s encouragement for women to picket was criticized by other Congressmen. In his view, this program creates maliciousness in women against wom...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s2e01-042",
+      "type": "content",
+      "image": "images/series2/ep01/slide-042.webp",
+      "text": "had to sit in areas that were the base of alcoholics and anti-social elements. According to him - this would disturb the women of the elite houses. Ga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s2e01-043",
+      "type": "content",
+      "image": "images/series2/ep01/slide-043.webp",
+      "text": "justifying his programs, wrote that the women ' s sit-ins and urges would reduce people ' s foreign goods and foreign liquor. To prevent men from goin...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s2e01-044",
+      "type": "content",
+      "image": "images/series2/ep01/slide-044.webp",
+      "text": "and the re There was no better way to end the habit of using foreign goods than this. During this civil disobedience movement, the women of Chhattisga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s2e01-045",
+      "type": "content",
+      "image": "images/series2/ep01/slide-045.webp",
+      "text": "The official report also confirms that the women activists of Raipur played an important role in the dharna program of the movement. The women of Raip...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s2e01-046",
+      "type": "content",
+      "image": "images/series2/ep01/slide-046.webp",
+      "text": "in this movement with unprecedented enthusiasm. The women of the upper class and rich families as well as women of the middle class and working class ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s2e01-047",
+      "type": "content",
+      "image": "images/series2/ep01/slide-047.webp",
+      "text": "contribution to the Civil Disobedience Movement. Pandit Ravishankar Shukla ' s wife Bhavani Bai Shukla encouraged women to take an active part in poli...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s2e01-048",
+      "type": "content",
+      "image": "images/series2/ep01/slide-048.webp",
+      "text": "the women of Raipur supported the movement. Prabhat ferries were removed, the foreign cloth was discarded and liquor shops were staged. Many of the Ar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s2e01-049",
+      "type": "content",
+      "image": "images/series2/ep01/slide-049.webp",
+      "text": "1930, to the contribution of Khadi propaganda and women during the movement in Raipur, the song of chanting written by Alhakar: \" Bah oo betiyaan hama...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s2e01-050",
+      "type": "content",
+      "image": "images/series2/ep01/slide-050.webp",
+      "text": "hi hain avataar, Khadi aaj desh me vipat padi hain, Tum sab ho taiyaar. Kapada pahano tum khadi ka, Ghar charkha dekho chalay, Kat-kat soot dher jo la...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s2e01-051",
+      "type": "content",
+      "image": "images/series2/ep01/slide-051.webp",
+      "text": "jaaye ne paaye. \" Four women workers ' centers were functioning in Raipur district where Satyagrahi women were trained. Also, Prabhat Pheri, dharna ,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s2e01-052",
+      "type": "content",
+      "image": "images/series2/ep01/slide-052.webp",
+      "text": "the design of future programs of public awareness. It is noteworthy that all these tasks were done by women themselves. Mostly the leadership used to ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s2e01-053",
+      "type": "content",
+      "image": "images/series2/ep01/slide-053.webp",
+      "text": "thers of prominent leaders and S atyagrahis in the f ield, but Dr. Radhabai was a woman S atyagrahi who single-handedly created her own independent id...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s2e01-054",
+      "type": "content",
+      "image": "images/series2/ep01/slide-054.webp",
+      "text": "social worker Dr. Radhabai began to feel that the people of Raipur can experience happiness and peace only when India will get rid of the clutches of ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s2e01-055",
+      "type": "content",
+      "image": "images/series2/ep01/slide-055.webp",
+      "text": "With the efforts of Dr. Radhabai, a batch of Satyagrahi sisters was prepared, in which well-known social worker Dr. The eldest mother of Khoobchand Ba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s2e01-056",
+      "type": "content",
+      "image": "images/series2/ep01/slide-056.webp",
+      "text": "Rukhamani Bai, mother of Congress volunteer Manohar Lali, Parvati Bai (wife of Shankar Rao Ganaudwale), Mrs. Rohini Bai Parganiha and Jamuna Bai. Radh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s2e01-057",
+      "type": "content",
+      "image": "images/series2/ep01/slide-057.webp",
+      "text": "was left out after seeing her as old, which made her very guilty. He did not take food and water until he was arrested. The monasteries and temples of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s2e01-058",
+      "type": "content",
+      "image": "images/series2/ep01/slide-058.webp",
+      "text": "were converted into training sites for Satyagrahis. The Mahahat Laxmi Narayan Das and the Jatusava monastery located in the old settlement was the l a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s2e01-059",
+      "type": "content",
+      "image": "images/series2/ep01/slide-059.webp",
+      "text": "atyagrahis. The leadership of this center was in the hands of Anjani Bai (wife of Nandkumar Dani), Rajnibai, Phulkunwar Bai Shrivastava , and Janaki B...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s2e01-060",
+      "type": "content",
+      "image": "images/series2/ep01/slide-060.webp",
+      "text": "of Mahant Lakshmi Narayan Das, blessed the batch of Satyagrahi women and sent them in procession . . Women who came here to listen to Ekadashi Mahatmy...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s2e01-061",
+      "type": "content",
+      "image": "images/series2/ep01/slide-061.webp",
+      "text": "the situation in the country. This was a major change in women. The second major center of Satyagraha was the enclosure of Vaman Rao Lakhe located at ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s2e01-062",
+      "type": "content",
+      "image": "images/series2/ep01/slide-062.webp",
+      "text": "was led by Bhavani Bai, wife of Pt. Ravishankar Shukla. The procession was led by Smt. Indira Bai Lakhe, Uma Bai and Kashi Bai. The temple of Lakshmin...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s2e01-063",
+      "type": "content",
+      "image": "images/series2/ep01/slide-063.webp",
+      "text": "was the third place of Satyagraha and its chief was Rukhmani Bai Tiwari. Leading the movement by Smt. Annapurna Devi Shukla, Sushila Bai Gujratin, Gom...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s2e01-064",
+      "type": "content",
+      "image": "images/series2/ep01/slide-064.webp",
+      "text": "Bai Gangel. The fourth place was at Tatyapara Dr. Radhabai ' s house. It was headed by Dr. Radhabai, Parvati Bai Ganoudwale, Rohini Bai, Krishnabai, S...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s2e01-065",
+      "type": "content",
+      "image": "images/series2/ep01/slide-065.webp",
+      "text": "of Dr. Khubchand Baghel), Ketaki Bai Baghel, Gangabai, Yashoda Bai Parganiha. Khubchand Baughel ' s mother during picketing. And the wife and Prakashw...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s2e01-066",
+      "type": "content",
+      "image": "images/series2/ep01/slide-066.webp",
+      "text": "picket. These women went door-to-door selling Khadi clothes and taught people how to drive Charkha . At the same time, they were requested not to wear...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s2e01-067",
+      "type": "content",
+      "image": "images/series2/ep01/slide-067.webp",
+      "text": "It is noteworthy that the curtain system used to come in the way of this national work, so the curtain system was also attacked. The rural women of Ch...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s2e01-068",
+      "type": "content",
+      "image": "images/series2/ep01/slide-068.webp",
+      "text": "not have the practice of wearing blouses at that time. Pt. Sundar Lal ' s wife was the first to wear a blouse with a sari. Moti Lal Kothari '...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s2e01-069",
+      "type": "content",
+      "image": "images/series2/ep01/slide-069.webp",
+      "text": "s enclosure was a women ' s gathering place. The Jagannath temple of Sadar Bazar had become a major site of political Satyagrah. Efforts were made by ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s2e01-070",
+      "type": "content",
+      "image": "images/series2/ep01/slide-070.webp",
+      "text": "stop this growing enthusiasm of women and women Satyagrahis. Some new means were to be adopted because the use of force by the government and direct r...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s2e01-071",
+      "type": "content",
+      "image": "images/series2/ep01/slide-071.webp",
+      "text": "women sympathy. He decided that some elite family members should explain the satyagrahi women. They also thought of using women. The government was al...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s2e01-072",
+      "type": "content",
+      "image": "images/series2/ep01/slide-072.webp",
+      "text": "She was under the care of female warders. Still , the government feared that there should be no dispute or complaint of any kind. It was psychological...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s2e01-073",
+      "type": "content",
+      "image": "images/series2/ep01/slide-073.webp",
+      "text": "administration. But later, the administration adopted a strict policy. A total of 23 women from the Raipur district participated in the Civil Disobedi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s2e01-074",
+      "type": "content",
+      "image": "images/series2/ep01/slide-074.webp",
+      "text": "women Satyagrahis were sentenced to jail. Ketki Bai, Rukhmanibai , and Rambati participated in two picketing s . On March 23, 1932, the police dragged...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s2e01-075",
+      "type": "content",
+      "image": "images/series2/ep01/slide-075.webp",
+      "text": "and Kejabai to the Kotwali, staging a sit-in in front of Kika Bhai ' s shop. A similar incident occurred in front of Kika Bhai ' s shop in April....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s2e01-076",
+      "type": "content",
+      "image": "images/series2/ep01/slide-076.webp",
+      "text": "Rambatibai, Kanuvarbai, Amritbai were arrested and brought to Kotwali, dragging Rambatibai and pushing other women. He was treated abusively in Kotwal...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s2e01-077",
+      "type": "content",
+      "image": "images/series2/ep01/slide-077.webp",
+      "text": "night. They were released at night. They stopped at Dharamshala near the station where they were abused by the police. He complained about this From R...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s2e01-078",
+      "type": "content",
+      "image": "images/series2/ep01/slide-078.webp",
+      "text": "general meeting was organized under the chairmanship of Dr. Radhabai in which informed the public about the mistreatment of women satyagrahis. Police ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s2e01-079",
+      "type": "content",
+      "image": "images/series2/ep01/slide-079.webp",
+      "text": "women Satyagrahis were arrested while picketing in front of Kika Bhai ' s shop. The first female freedom fighter of Raipur C ity, Dr. Radhabai continu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s2e01-080",
+      "type": "content",
+      "image": "images/series2/ep01/slide-080.webp",
+      "text": "from 1930 to 1942. Many women from Chhattisgarh participated in the Satyagraha due to his inspiration. Similarly, during the Jungle Satyagraha at Jung...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s2e01-081",
+      "type": "content",
+      "image": "images/series2/ep01/slide-081.webp",
+      "text": "on 13 September 1930, a young woman named Dayawati Bai led the batch of Satyagrahis. This was an important contribution of the women of Chhattisgarh t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s2e01-082",
+      "type": "content",
+      "image": "images/series2/ep01/slide-082.webp",
+      "text": "Gandhi ' s influence was that on the one hand, women of the family of Congress leaders of Chhattisgarh like Bhavani Bai Shukla, wife of Pt. Ravi Shank...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s2e01-083",
+      "type": "content",
+      "image": "images/series2/ep01/slide-083.webp",
+      "text": "Khatki Bai Baghel, the mother of Khoobchand Baghel, etc., was , on the other hand, Radhabai, who came from the very general category, was giving leade...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s2e01-084",
+      "type": "content",
+      "image": "images/series2/ep01/slide-084.webp",
+      "text": "Bai, etc. were arrested. All these women were Satyagrahis. Who used to picketing, picketing, and performing. Apart from this, freehand donations were ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s2e01-085",
+      "type": "content",
+      "image": "images/series2/ep01/slide-085.webp",
+      "text": "Mahatma Gandhi ' s arrival in Chhattisgarh. Women have played their most important role in the national movement, in their service to the nation with ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
