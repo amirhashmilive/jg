@@ -154,7 +154,6 @@ class SlideRenderer {
         progress.className = 'slide-progress';
         progress.innerHTML = '<div class="progress-bar-fill"></div>';
 
-        slide.appendChild(imgWrap);
         slide.appendChild(textPanel);
         slide.appendChild(progress);
 
