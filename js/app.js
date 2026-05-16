@@ -131,7 +131,7 @@ class App {
 }
 
 // Initialize if we are on the player page
-if (window.location.pathname.includes('player.html')) {
+if (window.location.pathname.includes('player')) {
     const app = new App();
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', () => app.initPlayer());
