@@ -16,8 +16,7 @@ self.addEventListener('install', (event) => {
                 './js/download.js',
                 './js/ken-burns.js',
                 './js/scroll-engine.js',
-                './js/slide-renderer.js',
-                './js/speech.js'
+                './js/slide-renderer.js'
             ]);
         })
     );

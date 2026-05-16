@@ -20,12 +20,6 @@ class BrandEngine {
         const hud = document.createElement('div');
         hud.className = 'player-hud';
         
-        // Mode Toggle
-        const modeToggle = document.createElement('button');
-        modeToggle.id = 'mode-toggle';
-        modeToggle.className = 'hud-button pill';
-        modeToggle.innerHTML = '<span class="icon">📖</span> Read Along';
-        
         // Brand elements
         const jgLogo = document.createElement('div');
         jgLogo.className = 'hud-logo jg-logo display-lg text-primary';
@@ -38,7 +32,6 @@ class BrandEngine {
         mfLogo.innerText = 'A Cinematic History Experience';
 
         hud.appendChild(jgLogo);
-        hud.appendChild(modeToggle);
         hud.appendChild(mfLogo);
 
         return hud;

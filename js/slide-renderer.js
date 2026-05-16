@@ -91,15 +91,16 @@ class SlideRenderer {
 
         // Image Container
         const imgWrap = document.createElement('div');
-        imgWrap.className = 'slide-image-wrap vignette';
+        imgWrap.className = 'slide-image-wrap vignette placeholder-wrap';
         
-        const img = document.createElement('img');
-        img.dataset.src = imagePath; // For lazy loading
-        img.src = imagePath; // Currently eager loading for simplicity, optimize later
-        img.alt = data.visualDescription || 'Johar Gandhi illustration';
-        img.loading = "lazy";
+        const promptBox = document.createElement('div');
+        promptBox.className = 'prompt-placeholder';
+        promptBox.innerHTML = `
+            <span class="prompt-label">IMAGE PLACEHOLDER</span>
+            <p class="prompt-text">${data.visualDescription || 'No visual description provided.'}</p>
+        `;
         
-        imgWrap.appendChild(img);
+        imgWrap.appendChild(promptBox);
         slide.appendChild(imgWrap);
 
         // Editor's Choice Badge
@@ -150,10 +151,15 @@ class SlideRenderer {
         slide.dataset.animation = JSON.stringify({ type: 'zoomOut', duration: 10 });
         
         const imgWrap = document.createElement('div');
-        imgWrap.className = 'slide-image-wrap vignette';
-        const img = document.createElement('img');
-        img.src = `../images/series${series}/ep${(episode-1).toString().padStart(2, '0')}/slide-085.webp`; // Placeholder path
-        imgWrap.appendChild(img);
+        imgWrap.className = 'slide-image-wrap vignette placeholder-wrap';
+        
+        const promptBox = document.createElement('div');
+        promptBox.className = 'prompt-placeholder';
+        promptBox.innerHTML = `
+            <span class="prompt-label">IMAGE PLACEHOLDER</span>
+            <p class="prompt-text">${data.visualDescription || 'No description provided.'}</p>
+        `;
+        imgWrap.appendChild(promptBox);
         
         const textPanel = document.createElement('div');
         textPanel.className = 'slide-text-panel center-content';
