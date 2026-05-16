@@ -1,1 +1,1029 @@
-﻿{ "series": 1, "episode": 5, "title": "Awakening", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 1,
+  "episode": 5,
+  "title": "Episode 05",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s1e05-001",
+      "type": "content",
+      "image": "images/series1/ep05/slide-001.webp",
+      "text": "Gandhimamsa \" , Pt. Sundarlal Sharma, Rajmahant Nayandas Mahilaung blew a conch of prevention of un touchability. Maulana Abdul Rauf Khan was a pione...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s1e05-002",
+      "type": "content",
+      "image": "images/series1/ep05/slide-002.webp",
+      "text": "Dr. Radhabai played the trumpet of Nari Jagran. Shikanal Shyamlal Som and Burhan Shah did the awakening of the awakening among the forest dwellers. In...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s1e05-003",
+      "type": "content",
+      "image": "images/series1/ep05/slide-003.webp",
+      "text": "five people were arrested and kept in Raipur Jail. Pt. Sundarlal Sharma, Narayan Rao Megha Wale, Maulana Rauf, Maulana Hamid Ali, and Bhagwati Prasad ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s1e05-004",
+      "type": "content",
+      "image": "images/series1/ep05/slide-004.webp",
+      "text": "the leadership of Pt. Ravi Shankar Shukla begins in the year 1918. When the Congress session in Raipur, the government officials wanted to enter witho...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s1e05-005",
+      "type": "content",
+      "image": "images/series1/ep05/slide-005.webp",
+      "text": "opposed as an organizer. Due to which he was arrested but soon released due to public pressure. Further, as the President of the District Council, thr...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s1e05-006",
+      "type": "content",
+      "image": "images/series1/ep05/slide-006.webp",
+      "text": "bring the national movement from village to village, to whom he is credited. After passing the resolution of complete independence in the Lahore Congr...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s1e05-007",
+      "type": "content",
+      "image": "images/series1/ep05/slide-007.webp",
+      "text": "March to break the salt law on 2 March 1930 and made the national movement a people ' s movement. The salt law was broken all over the country. Chhatt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s1e05-008",
+      "type": "content",
+      "image": "images/series1/ep05/slide-008.webp",
+      "text": "actively participated, Gandhi was arrested on 5 May. Jungle Satyagraha started in Chhattisgarh. Which is known as Sihawa Jungle Satyagraha. In which, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s1e05-009",
+      "type": "content",
+      "image": "images/series1/ep05/slide-009.webp",
+      "text": "Sundarlal Sharma, hundreds of tribals gave their arrest. Congress was declared illegal in 1932, Satyagraha started from Congress. Which took widesprea...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s1e05-010",
+      "type": "content",
+      "image": "images/series1/ep05/slide-010.webp",
+      "text": "then become the popular public agitation leader of the entire Central Province, Pt. Sundarlal Sharma, Mahant Laxminarayan Das, Barrister Chedilal, VY ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s1e05-011",
+      "type": "content",
+      "image": "images/series1/ep05/slide-011.webp",
+      "text": "Pyarelal Singh, and Rajmahant Nayandas Mahing Thakur. Budhanshah, Dr. Radhabai, Kr atikumar Bharti, Advaita Giri , etc. The Non-cooperation movement s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s1e05-012",
+      "type": "content",
+      "image": "images/series1/ep05/slide-012.webp",
+      "text": "were kept in jails in Raipur, Nagpur, Jabalpur, and Amravati. They were subjected to extreme atrocities. In Raipur Jail, revolutionaries Bharati and R...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s1e05-013",
+      "type": "content",
+      "image": "images/series1/ep05/slide-013.webp",
+      "text": "times. In Seoni jail, an attempt was made to climb into the chest of Pt. Ravi Shankar Shukla and take paw mark. Freedom fighters of Amaravati jail wer...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s1e05-014",
+      "type": "content",
+      "image": "images/series1/ep05/slide-014.webp",
+      "text": "water to drink for six days, which included the revolutionaries Bharti of Raipur and Kaushalendra Das of Bhatapara Machabhat. The detainees of Amravat...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s1e05-015",
+      "type": "content",
+      "image": "images/series1/ep05/slide-015.webp",
+      "text": "became known to the freedom fighters of Raipur. Then the women were teamed to feed them at the station, those were beaten with sticks by in which Dr. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s1e05-016",
+      "type": "content",
+      "image": "images/series1/ep05/slide-016.webp",
+      "text": "beheaded, shedding blood , and arrested. In 1932, Jungle Satyagraha took place in the Tamora village of Mahasamund Tehsil. In which the valor of Gond ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s1e05-017",
+      "type": "content",
+      "image": "images/series1/ep05/slide-017.webp",
+      "text": "in the forest Satyagraha of Rudri village which is near Dhamtari, the boy Ballu Kumhar of Nawagaon martyred. Ramadhin Gond was martyred in the Satyagr...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s1e05-018",
+      "type": "content",
+      "image": "images/series1/ep05/slide-018.webp",
+      "text": "the Riyasat of Rajnandgaon. In the Kanker Riyasat s, Indru Kewat awakened independence. In Raigarh state, the freedom struggle led by Bandeli Fatmi an...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s1e05-019",
+      "type": "content",
+      "image": "images/series1/ep05/slide-019.webp",
+      "text": "leadersh ip of Badaram Jogi. Muhammad Yunus brother of Mohammad Zakariya Zamidar blew the Non-Cooperation Movement in Balod, the judge told Muhammed Y...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s1e05-020",
+      "type": "content",
+      "image": "images/series1/ep05/slide-020.webp",
+      "text": "being paid Lagan (Tax) for your landlord holds, were Yunus sai d that I am involved in Mahatma Gandhi ' s non-cooperation movement from now on. On thi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s1e05-021",
+      "type": "content",
+      "image": "images/series1/ep05/slide-021.webp",
+      "text": "placed two options in front of Muhammad Yunus, either to pay the arrears or he would be attached and sent to jail, on which Muhammad Yunus accepted to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s1e05-022",
+      "type": "content",
+      "image": "images/series1/ep05/slide-022.webp",
+      "text": "jail, on which he was sent directly from the court to jail and his seventeen village zamindari, hundreds of acres of land, cattle, and all the gold ke...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s1e05-023",
+      "type": "content",
+      "image": "images/series1/ep05/slide-023.webp",
+      "text": "were confiscated. Muhammad Yunus was the brother-in-law of Mohammad Ali Dhamtari wale. I mpact of the non-cooperation movement in Chhattisgarh The res...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s1e05-024",
+      "type": "content",
+      "image": "images/series1/ep05/slide-024.webp",
+      "text": "Nagpur session of the Congress on 26 December 1920. Just as this movement had an impact in other regions of India, similarly in Chhattisgarh also, the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s1e05-025",
+      "type": "content",
+      "image": "images/series1/ep05/slide-025.webp",
+      "text": "movement is visible. The impact of the non-cooperation movement in Chhattisgarh can be read by dividing it into these major points: Boycott of courts ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s1e05-026",
+      "type": "content",
+      "image": "images/series1/ep05/slide-026.webp",
+      "text": "titles Boycott of councils and elections Discard of foreign goods Promotion of Khadi prohibition of alcohol Establishment of National Schools Establis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s1e05-027",
+      "type": "content",
+      "image": "images/series1/ep05/slide-027.webp",
+      "text": "boycotting English courts are Pt. Ravi Shankar Shukla, Ramdayal Tiwari, D. K. Mehta, and Yadav Rao Deshmukh from Raipur, Ratnakar Jha, Ghanshyam Gupta...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s1e05-028",
+      "type": "content",
+      "image": "images/series1/ep05/slide-028.webp",
+      "text": "C hhedilal, E. Raghavendra Rao, and V. R. Khan Khoj from Bilaspur, Thakur Pyarelal Singh and from Rajnandgaon boycott the British Courts. Those who ga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s1e05-029",
+      "type": "content",
+      "image": "images/series1/ep05/slide-029.webp",
+      "text": "Prasad Srivastava, Someshwar Shukla, Shivlal Verma, Laxmi Prasad Verma . Among those who relinquished were Titles Renouncer Rai S ahab Vamanrao Lakhe ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s1e05-030",
+      "type": "content",
+      "image": "images/series1/ep05/slide-030.webp",
+      "text": ". Rai Bahadur Nagendranath Dey Khan Saheb Qazi Asghar Ali Boycotting councils and elections Yadavrao Deshmukh left the provincial assembly , Qazi Asgh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s1e05-031",
+      "type": "content",
+      "image": "images/series1/ep05/slide-031.webp",
+      "text": "Magistrate , Bajirao Kridutt from Raipur Assembly. Relinquishment of foreign goods Prabhu Lal Kabra and Ratn akar Jha boycotted foreign goods by takin...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s1e05-032",
+      "type": "content",
+      "image": "images/series1/ep05/slide-032.webp",
+      "text": "1 August 1921. Promotion of Khadi F or the promotion of indigenous items of clothing , Chhotelal Srivastava in Dhamtari, Devatadin Tiwari and Kailash ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s1e05-033",
+      "type": "content",
+      "image": "images/series1/ep05/slide-033.webp",
+      "text": "in Rajim opened \"Swadeshi\" s hops. A Khadi exhibition was also org anized in Ravanabhatha (Raipur) on 11 October 1921. Alcohol Prohibition Pt. Sundarl...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s1e05-034",
+      "type": "content",
+      "image": "images/series1/ep05/slide-034.webp",
+      "text": "for the prohibition of alcohol. E stablishment of Rashtriya Vidyalaya Madhav Rao Sapre in Rai pur, Chhotelal Srivastava in Dhamtari , Badrinath Saw in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s1e05-035",
+      "type": "content",
+      "image": "images/series1/ep05/slide-035.webp",
+      "text": "Vidyalaya \" (National School). Establishment of Rashtriya Panchayats In Raipur, Seth Jaskaran Daga established the \"Rashtriya Panchayat \" (National ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s1e05-036",
+      "type": "content",
+      "image": "images/series1/ep05/slide-036.webp",
+      "text": "4 March 1921, which functioned till 15 October 1931, in which 85 cases were resolved. End of Movement There is a town Chauri Chaura , near Gorakhpur i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s1e05-037",
+      "type": "content",
+      "image": "images/series1/ep05/slide-037.webp",
+      "text": "where during the non-cooperation movement, on 5 February 1922, the demonstrators set a police post on fire, killing 22 police personnel hiding in it. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s1e05-038",
+      "type": "content",
+      "image": "images/series1/ep05/slide-038.webp",
+      "text": "said that the non-cooperation movement was no longer suitable due to violence and had withdrawn it. Due to this action, Gandhi withdrew the movement o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s1e05-039",
+      "type": "content",
+      "image": "images/series1/ep05/slide-039.webp",
+      "text": "Bardoli resolution. Being undermine d by this decision of Gandhi, Swaraj Dal was formed. Indian National Congress in Chhattisgarh In 1889, The Bombay ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s1e05-040",
+      "type": "content",
+      "image": "images/series1/ep05/slide-040.webp",
+      "text": "1905, Bang Bhang and Swadeshi Movement In 1906 , T he Establishment of Congress in Chhattisgarh In 1907, Provincial Congress Conference In 1917, Home ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s1e05-041",
+      "type": "content",
+      "image": "images/series1/ep05/slide-041.webp",
+      "text": "Provincial Political Conference In 1918, Chhattisgarh in All India Congress Committee In 1918, Pt. Sundarlal's 'Movement for Untouchability' In 1919, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s1e05-042",
+      "type": "content",
+      "image": "images/series1/ep05/slide-042.webp",
+      "text": "Rowlett Act In 1920, Khilfat Movement in Chhattisgarh In 1920, Bengal Nagpur Cotton Mill Mazdoor Strike In 1920, The First Labor movement In 1922, Nag...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s1e05-043",
+      "type": "content",
+      "image": "images/series1/ep05/slide-043.webp",
+      "text": "he Jhanda Satyagraha In 1930, Tamora Jungle Satyagraha In 1940, Personal Satyagraha in Chhattisgarh On 28 December 1885, the Indian National Congress ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s1e05-044",
+      "type": "content",
+      "image": "images/series1/ep05/slide-044.webp",
+      "text": "Bombay, with 72 delegates in attendance. A.O. Hume assumed office as the General Secretary, and Womesh Chunder Bonnerjee of Calcutta was elected presi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s1e05-045",
+      "type": "content",
+      "image": "images/series1/ep05/slide-045.webp",
+      "text": "political institution s took active membership and participated in many movements against British rule. In 1889, the Bombay Session In 1889, the annua...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s1e05-046",
+      "type": "content",
+      "image": "images/series1/ep05/slide-046.webp",
+      "text": "held in Bombay, under the chairmanship of William Wedderburn, for the first time, 214 delegates from C.P. and Berar attended this conference, includin...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s1e05-047",
+      "type": "content",
+      "image": "images/series1/ep05/slide-047.webp",
+      "text": "Vamanrao Lakhe, etc. were involved. In 1891, the Nagpur Session In 1891, the Congress session was held in the capital of Madhya Pradesh under the chai...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s1e05-048",
+      "type": "content",
+      "image": "images/series1/ep05/slide-048.webp",
+      "text": "Many freedom activists of Chhattisgarh participated in the Nagpur session, including CM Thakkar, Madhavrao Sapre, Pt. Ramdayal Tiwari, Vamanrao Lakhe ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s1e05-049",
+      "type": "content",
+      "image": "images/series1/ep05/slide-049.webp",
+      "text": "attended by the Malguzars of the villages. These people passed resolutions to withdraw the canal tax and forest tax, during the visit of the Chief Com...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s1e05-050",
+      "type": "content",
+      "image": "images/series1/ep05/slide-050.webp",
+      "text": "Bilaspur, farmers and Malguzars of Chhattisgarh gave a memorandum regarding canal tax and forest tax, in which both taxes were demanded to be withdraw...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s1e05-051",
+      "type": "content",
+      "image": "images/series1/ep05/slide-051.webp",
+      "text": "Movement The enthusiasm of the outspoken representatives of the intelligentsia and the newly acclaimed leaders of Indian society had waned considerabl...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s1e05-052",
+      "type": "content",
+      "image": "images/series1/ep05/slide-052.webp",
+      "text": "Gladstone in Britain and Lord Ripon in India, who realized the importance of educated Indians and sympathized with their aspirations, were no longer a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s1e05-053",
+      "type": "content",
+      "image": "images/series1/ep05/slide-053.webp",
+      "text": "passage of time. It was time for those who, without exception, relied on him, and who disliked any relaxation of Britain's imperialist hold on India, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s1e05-054",
+      "type": "content",
+      "image": "images/series1/ep05/slide-054.webp",
+      "text": "India. Due to the growing opposition, more brutal and cruel British lords were installed in India, with the effect of which the authorities completely...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s1e05-055",
+      "type": "content",
+      "image": "images/series1/ep05/slide-055.webp",
+      "text": "backs on acts of racial arrogance. This was the time when efforts were made to dilute even the nominal concessions of India, which were already given ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s1e05-056",
+      "type": "content",
+      "image": "images/series1/ep05/slide-056.webp",
+      "text": "of the British Raj was becoming apparent to the earlier nationalists, who by 1900 their petitions and prayers to the government were becoming futile, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s1e05-057",
+      "type": "content",
+      "image": "images/series1/ep05/slide-057.webp",
+      "text": "The repeated demands of the Indian National Congress for constitutional concessions for nearly two decades led to minor reforms. Viceroys like Lord Cu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s1e05-058",
+      "type": "content",
+      "image": "images/series1/ep05/slide-058.webp",
+      "text": "Congress as an unclean thing rejected the arguments of all the leaders and reserved the civil service exclusively for Europeans. The nationalists befo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s1e05-059",
+      "type": "content",
+      "image": "images/series1/ep05/slide-059.webp",
+      "text": "not so disheartened to bear every humiliation. The nationalist leaders of the Congress were those who had learned to believe in themselves from social...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s1e05-060",
+      "type": "content",
+      "image": "images/series1/ep05/slide-060.webp",
+      "text": "a sufficient degree of self-esteem to demand decent treatment and natural justice. In such a situation, there was bound to be a conflict between Curzo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s1e05-061",
+      "type": "content",
+      "image": "images/series1/ep05/slide-061.webp",
+      "text": "nationalists. This eventually happened in Bengal where the Indian intellectual was most outspoken and where Curzon was the worst in his aggressive for...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s1e05-062",
+      "type": "content",
+      "image": "images/series1/ep05/slide-062.webp",
+      "text": "In 1899, the Calcutta Corporation reduced the number of elected members, intended to satisfy European business interests in the city, who often compla...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s1e05-063",
+      "type": "content",
+      "image": "images/series1/ep05/slide-063.webp",
+      "text": "facilities. The proposition behind the action was clear, and its undemocratic nature unmistakable. The citizens of Calcutta felt deeply hurt and injus...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s1e05-064",
+      "type": "content",
+      "image": "images/series1/ep05/slide-064.webp",
+      "text": "attacked the autonomous character of the University of Calcutta, which was the pride of the educated classes in Bengal. Filled with the recommendation...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s1e05-065",
+      "type": "content",
+      "image": "images/series1/ep05/slide-065.webp",
+      "text": "Indian member of which Gurudas Banerjee strongly disagreed with the others, Curzon passed the Universities Act 1904. Curzon's cunning was such that he...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s1e05-066",
+      "type": "content",
+      "image": "images/series1/ep05/slide-066.webp",
+      "text": "filled the institutions with sycophants close to him, on the basis of which he was able to legally justify immoral acts. The aim used as an excuse was...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s1e05-067",
+      "type": "content",
+      "image": "images/series1/ep05/slide-067.webp",
+      "text": "The Level Of Education\" . The Act first cut the number of elected Senate members, mostly Indians, and transferred the ultimate power to affiliated col...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s1e05-068",
+      "type": "content",
+      "image": "images/series1/ep05/slide-068.webp",
+      "text": "grants-in-aid to government officials. This immoral law, accomplished in perfect paperwork, left the angry members of the educated middle class no dou...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s1e05-069",
+      "type": "content",
+      "image": "images/series1/ep05/slide-069.webp",
+      "text": "break his spirit by all means. It was a period when morale people and leaders of India had to prepare themselves mentally for the worst, and think of ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s1e05-070",
+      "type": "content",
+      "image": "images/series1/ep05/slide-070.webp",
+      "text": "resistance, but the worst was yet to come, coming rapidly and dramatically in July 1905 when Curzon announced the partition of Bengal. The Partition R...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s1e05-071",
+      "type": "content",
+      "image": "images/series1/ep05/slide-071.webp",
+      "text": "The decision to partition Bengal was announced on 19 July 1905 by Lord Curzon, the then Viceroy of India, which came into effect from 16 October 1905....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s1e05-072",
+      "type": "content",
+      "image": "images/series1/ep05/slide-072.webp",
+      "text": "Political Conference of the Central Provinces was held in Amravati on 22 April 1905. Gangadhar Chitnavis was the head of the reception committee in th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s1e05-073",
+      "type": "content",
+      "image": "images/series1/ep05/slide-073.webp",
+      "text": "by Ganesh Srikrishna Khaparde . Due to this partition, due to high level political unrest all over the country including Chhattisgarh , the eastern an...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s1e05-074",
+      "type": "content",
+      "image": "images/series1/ep05/slide-074.webp",
+      "text": "reunited in 1911. The Second Provincial Political Conference in Central Provinces was held in Jabalpur in 1906. It was presided over by Gangadhar Chit...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s1e05-075",
+      "type": "content",
+      "image": "images/series1/ep05/slide-075.webp",
+      "text": "partition of Bengal was propagated in Chhattisgarh by a young man named Tarachandra and his associates. The partition of Bengal in 1905 served as a na...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s1e05-076",
+      "type": "content",
+      "image": "images/series1/ep05/slide-076.webp",
+      "text": "movement had started in the country, which also affected Chhattisgarh. The promotion of Swadeshi in 1906 also created awareness among the people. Tara...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s1e05-077",
+      "type": "content",
+      "image": "images/series1/ep05/slide-077.webp",
+      "text": "w ho has the credit of being the first worker. Apart from these, Vamanrao Lakhe and Madhavrao Sapre led the Swadeshi and Boycott movement in Chhattisg...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s1e05-078",
+      "type": "content",
+      "image": "images/series1/ep05/slide-078.webp",
+      "text": "of the Congress in 1905, Khapard proposed the Swadeshi. Vamanrao Lakhe, Ravishankar Shukla , Ram Gopal Tiwari, Badri Prasad Pujari, Ramrao Chicholkar,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s1e05-079",
+      "type": "content",
+      "image": "images/series1/ep05/slide-079.webp",
+      "text": "in this convention. Pt. Sundarlal Sharma became a member of the Congress in the year 1905, he established an organization called \"Saumitra Mondal\" in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s1e05-080",
+      "type": "content",
+      "image": "images/series1/ep05/slide-080.webp",
+      "text": "people took membership, and the aim of this Mandal was to create a sense of nationalism among the people of Chhattisgarh with social reform. On 7 Augu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s1e05-081",
+      "type": "content",
+      "image": "images/series1/ep05/slide-081.webp",
+      "text": "Movement was announced in the Town Hall of Kolkata and a 'boycott resolution' was passed. Following this proposal, Congress leaders visited different ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s1e05-082",
+      "type": "content",
+      "image": "images/series1/ep05/slide-082.webp",
+      "text": "Manchester clothing and salt made from Liverpool, this protest soon spread to other parts of India. In Bombay this movement was led by Bal Gangadhar T...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s1e05-083",
+      "type": "content",
+      "image": "images/series1/ep05/slide-083.webp",
+      "text": "Lajpat Rai and Ajit Singh, in Delhi Syed Haider Raza and in Madras, Chidambaram Pillai provided the leadership of the movement. The Swadeshi movement ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s1e05-084",
+      "type": "content",
+      "image": "images/series1/ep05/slide-084.webp",
+      "text": "as it did not stop the partition of Bengal, but this movement had far-reaching consequences. Due to this movement Indian industries got encouragement ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s1e05-085",
+      "type": "content",
+      "image": "images/series1/ep05/slide-085.webp",
+      "text": "When the British government wanted to suppress the movement, a feeling of radical nationalism emerged in India. In 1906, the Establishment of Congress...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
