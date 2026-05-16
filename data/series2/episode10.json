@@ -1,1 +1,1029 @@
-﻿{ "series": 2, "episode": 10, "title": "Johar Gandhi", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 2,
+  "episode": 10,
+  "title": "Episode 10",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s2e10-001",
+      "type": "content",
+      "image": "images/series2/ep10/slide-001.webp",
+      "text": "was Charles Elliott. Guru Ghasidas was born on 18 December 1756 in Giroudpuri (Balodabazar). Guru Ghasidas ' s mother was Amarotinbai and his father w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s2e10-002",
+      "type": "content",
+      "image": "images/series2/ep10/slide-002.webp",
+      "text": "son of Guru Ghasidas was Balak Das. Guru Ghasidas realized Satnam under the Amla and Dhaura tree on the Sona Khan hill and founded the Satnam Panth. K...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s2e10-003",
+      "type": "content",
+      "image": "images/series2/ep10/slide-003.webp",
+      "text": "founded by Dhani Dharmadas in Chhattisgarh. In Chhattisgarh, Kudwara Mal, Ratanpur, Dhamdha , and Damakheda , etc. are the seats of the famous Kabir P...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s2e10-004",
+      "type": "content",
+      "image": "images/series2/ep10/slide-004.webp",
+      "text": "Chhattisgarh at the time of the British. There were 33 zamindaris in Chhattisgarh at the time of the British. Bastar was the largest Riyasat of Chhatt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s2e10-005",
+      "type": "content",
+      "image": "images/series2/ep10/slide-005.webp",
+      "text": "Riyasat of Chhattisgarh. The Riyasat of Korea was the highest annual income in British India. Khairagarh was the first and only Riyasat that approved ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s2e10-006",
+      "type": "content",
+      "image": "images/series2/ep10/slide-006.webp",
+      "text": "The Riyasat of Rajnandgaon was ruled by the Bairagi King. The great Vibhuti Maharani Padmavati Devi of Chhattisgarh was the queen of the princely stat...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s2e10-007",
+      "type": "content",
+      "image": "images/series2/ep10/slide-007.webp",
+      "text": "the famous music lover of the princely state of Raigad, was born in 1905. The mighty Veer Kachna Dhuruva of Chhatt isgarh was under Bindranavagar Z am...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s2e10-008",
+      "type": "content",
+      "image": "images/series2/ep10/slide-008.webp",
+      "text": "situation of the Z amindaris in Chhattisgarh was first studied by Richard Temple. Korba was the largest zamindari in the British Bilaspur district. Ja...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s2e10-009",
+      "type": "content",
+      "image": "images/series2/ep10/slide-009.webp",
+      "text": "squares \" according to town planning during the time of King Rudrapratapadeva. Darjeeling is the birthplace of Raja Praveerchand Bhanjadeva. Noted Ka...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s2e10-010",
+      "type": "content",
+      "image": "images/series2/ep10/slide-010.webp",
+      "text": "of the Raigad king. \" Kamal Prakash Ragmala \" is a famous composition of King Kamal Narayan Singh. The founder of the Kingdom of Korea was King Nahar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s2e10-011",
+      "type": "content",
+      "image": "images/series2/ep10/slide-011.webp",
+      "text": "There was a manual for diagnosing problems related to revenue matters in British Chhattisgarh, which was named \" Dastur-ul-Amal \" . On September 12, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s2e10-012",
+      "type": "content",
+      "image": "images/series2/ep10/slide-012.webp",
+      "text": "official work, his tomb is at Salar, 12 miles from Sarangarh. The \" Meria Rebellion or Meria Vidroh \" , which took place between 1842 and 1863, was d...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s2e10-013",
+      "type": "content",
+      "image": "images/series2/ep10/slide-013.webp",
+      "text": "the Meria tribals. In 1856-57, the \" Mukti Sangram Lingagiri \" rebellion of Bastar took place under the leadership of Dhurvarad Madia. The famous Son...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s2e10-014",
+      "type": "content",
+      "image": "images/series2/ep10/slide-014.webp",
+      "text": "the Balodabazar Tehsil. Veer Narayan Singh was born in Sonakhan (Balodabazar). Veer Narayan Singh revolted against the British, consequently , his bra...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s2e10-015",
+      "type": "content",
+      "image": "images/series2/ep10/slide-015.webp",
+      "text": "was arrested under the leadership of Captain Smith. Shaheed Veeranarayan Singh was kept in Raipur Jail. Veer Narayan Singh was martyred on December 10...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s2e10-016",
+      "type": "content",
+      "image": "images/series2/ep10/slide-016.webp",
+      "text": "Kaiser-e-Hind Darwaza, Raipur , blown up in front of the cannon . According to government records, the first martyr of Chhattisgarh is considered Veer...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s2e10-017",
+      "type": "content",
+      "image": "images/series2/ep10/slide-017.webp",
+      "text": "efforts and martyrdom of freedom has been continuously found since 1818. Surendra Sai, a freedom fighter of 1857, was a zamindar of Sambalpur. Thakur ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s2e10-018",
+      "type": "content",
+      "image": "images/series2/ep10/slide-018.webp",
+      "text": "soldiers revolted on 18 January 1858. On 18 January 1858, Sergeant Major Sidew a ll was killed by Lashkar Hanuman Singh, a magazine of the Third Regim...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s2e10-019",
+      "type": "content",
+      "image": "images/series2/ep10/slide-019.webp",
+      "text": "1858, 17 rebel soldiers were publicly hanged. Mangal Pandey of Chhattisgarh is called Hanuman Singh. The Muria Vidroh that took place in Bastar in 187...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s2e10-020",
+      "type": "content",
+      "image": "images/series2/ep10/slide-020.webp",
+      "text": "of Bhairamdeja Raja. The Muria Vidroh of 1876 was resolved in the middle of Mac George. The Bhumakal movement took place in 1910, during the time of B...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s2e10-021",
+      "type": "content",
+      "image": "images/series2/ep10/slide-021.webp",
+      "text": "Dev. The insignia of the Bhumkal Vidroh was \" red chili and mango spri n g \" . Gundadhur was the leader of the Bhumkal Vidroh. Lal Kalendra Singh, th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s2e10-022",
+      "type": "content",
+      "image": "images/series2/ep10/slide-022.webp",
+      "text": "architect of the Bhumakal Rebellion, was the Diwan of Bastar State. Lal Kalendra Singh was deported and kept in the prison of Elichpur. In 1910, 27 re...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s2e10-023",
+      "type": "content",
+      "image": "images/series2/ep10/slide-023.webp",
+      "text": "sentenced to life in Raipur Jail. Shaheed Baburao Monapalli was a resident of Bastar. Rani Sudran Kundar was martyred in 1825. In Chhattisgarh, the fi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s2e10-024",
+      "type": "content",
+      "image": "images/series2/ep10/slide-024.webp",
+      "text": "Ratanpur , and Dhamtari. The demand for the state of Chhattisgarh was first raised by Pt. Sundarlal Sharma at the Tripuri Congress Session of 1924. Th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s2e10-025",
+      "type": "content",
+      "image": "images/series2/ep10/slide-025.webp",
+      "text": "was first raised by Thakur Ramakrishna Singh in the Vidhan Sabha of undivided Madhya Pradesh. Mohammad Yunus Zami n dar of Balod was sent to jail dire...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s2e10-026",
+      "type": "content",
+      "image": "images/series2/ep10/slide-026.webp",
+      "text": "after he was evicted from the 17 village s zami n dari for the non-cooperation movement by b oycot ting \" Lagaan \" . The Chhattisgarh Mahasabha was f...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s2e10-027",
+      "type": "content",
+      "image": "images/series2/ep10/slide-027.webp",
+      "text": "1956. The princely states of Chhattisgarh formed the Eastern Union of States in August 1947. Barrister Chedilal ' s birthplace i s Akaltara. Barrister...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s2e10-028",
+      "type": "content",
+      "image": "images/series2/ep10/slide-028.webp",
+      "text": "of Bilaspur district. Famous litterateur and Krantipurusha Bande Ali Fatmi was the pride of the Raigad district of Chhattisgarh. The \" Vidya Mandir Sc...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s2e10-029",
+      "type": "content",
+      "image": "images/series2/ep10/slide-029.webp",
+      "text": "Shankar Shukla. Thakur Pyarelal Singh started his B.N.C. in 1920. Had led the mill ' s strike. Pt. Sundarlal Sharma entered the Rajiv Lochan Temple in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s2e10-030",
+      "type": "content",
+      "image": "images/series2/ep10/slide-030.webp",
+      "text": "untouchables. Pt. Sundarlal Sharma was associated with politics during the Bang-Bhang Rebellion in 1905. Pt. Sundarlal Sharma was associated with the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s2e10-031",
+      "type": "content",
+      "image": "images/series2/ep10/slide-031.webp",
+      "text": "' Bilasa Dai Kewat in ' . Mahant Ghasidas Memorial Museum was established by Mahant Balaramdas. The Home Rule League of 1916 was founded and spread by...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s2e10-032",
+      "type": "content",
+      "image": "images/series2/ep10/slide-032.webp",
+      "text": "Sapre , and Lakshmanrao. Gandhi ' s Harijan Yatra in Chhattisgarh took place in November 1933. According to the Pujirpal inscription, the poetry title...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s2e10-033",
+      "type": "content",
+      "image": "images/series2/ep10/slide-033.webp",
+      "text": "Khubchand Bell laid the foundation of Chhattisgarh Matri Sangh Sanstha for the creation of Chhattisgarh state. The Yeti belonged to the Vivekvardhan A...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s2e10-034",
+      "type": "content",
+      "image": "images/series2/ep10/slide-034.webp",
+      "text": "in 1946 in all the princely states of Chhattisgarh. Thakur Pya relal had launched a mass movement for the rights of the original inhabitants of Chhatt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s2e10-035",
+      "type": "content",
+      "image": "images/series2/ep10/slide-035.webp",
+      "text": "state of Assam. Ganpat Singh Chandravanshi was the first freedom fighter to broadcast national consciousness in the Kawardha district. From Chhattisga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s2e10-036",
+      "type": "content",
+      "image": "images/series2/ep10/slide-036.webp",
+      "text": "fighter Anantharam Barkiha was born in the Raipur district. The freedom fighter Pt Damanrao LakhÃ© was born in 1872. The great freedom fighter Thakur ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s2e10-037",
+      "type": "content",
+      "image": "images/series2/ep10/slide-037.webp",
+      "text": "Thakur Chedilal was born in 1887. The great Danveer Dau Kalyan Singh of Chhattisgarh was born in 1876. Pt. Ravi Shankar Shukla was born on 2 August 18...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s2e10-038",
+      "type": "content",
+      "image": "images/series2/ep10/slide-038.webp",
+      "text": "(MP). When the \" Home Rule League \" was established in Raipur in 1915, its president was Pt. Vamanrao LakhÃ©. Kanker Naresh had gifted 18 villages to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s2e10-039",
+      "type": "content",
+      "image": "images/series2/ep10/slide-039.webp",
+      "text": "Grammarcharya Hiralal Kavyopadhyay died at the young age of 34. The first national school in the Dhamtari district was founded by Babu Chhote Lal Shri...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s2e10-040",
+      "type": "content",
+      "image": "images/series2/ep10/slide-040.webp",
+      "text": "in Dhamtari in 1921. Pt. Sundarlal Sharma is considered to be the leader of \" Rashtriya Jagran \" in Chhattisgarh. Pt. Thamanrao LakhÃ© is considered ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s2e10-041",
+      "type": "content",
+      "image": "images/series2/ep10/slide-041.webp",
+      "text": "cooperatives in Chhattisgarh. Pt. Vamanrao Lakhe was conferred with the title of ' Lokpriya ' (Popular). During the Non-Cooperation Movement, the stri...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s2e10-042",
+      "type": "content",
+      "image": "images/series2/ep10/slide-042.webp",
+      "text": "Vamanrao LakhÃ©. The title of Vyagamurti was conferred on Thakur Pyarelal in Chhattisgarh. Raipur Co-operative Central Bank was established by Pt. Vam...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s2e10-043",
+      "type": "content",
+      "image": "images/series2/ep10/slide-043.webp",
+      "text": "European officer who came to Bastar in 1856 AD. Kisan Uraon Bagawat (Mutiny) took place in 1918. The noble Kandel Satyagraha was started in 1920 by Ba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s2e10-044",
+      "type": "content",
+      "image": "images/series2/ep10/slide-044.webp",
+      "text": "Gandhi ' s first arrival in Chhattisgarh was on 20 December 1920. Maul ana Shaukat Ali and Maulana Muhammad Ali, the \" Ali Bandhu \" , accompanied Gan...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s2e10-045",
+      "type": "content",
+      "image": "images/series2/ep10/slide-045.webp",
+      "text": "first visit to Chhattisgarh, Ali Badhu ' s mother also came along in 1920. Impressed by Maulana Shaukat Ali ' s popularity, Gandhi called him \" Leader...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s2e10-046",
+      "type": "content",
+      "image": "images/series2/ep10/slide-046.webp",
+      "text": ". Gandhi supported the movement to resolve the Kandel Canal tax dispute Dr. Rajendraprasad and Rajagopalachari joined the movement of Chhattisgarh in ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s2e10-047",
+      "type": "content",
+      "image": "images/series2/ep10/slide-047.webp",
+      "text": "in Bhu-Andolan (land movement) in Chhattisgarh. E. Raghavendra Rao was a famous leader of Bilaspur at the time of the national movement. The famous Ra...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s2e10-048",
+      "type": "content",
+      "image": "images/series2/ep10/slide-048.webp",
+      "text": "in May 1922. The Jungle Satyagraha in Mahasamund was led by Shankar Rao Ganodwale. At the time of the Civil Disobedience Movement, the \" Vanar Sena \"...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s2e10-049",
+      "type": "content",
+      "image": "images/series2/ep10/slide-049.webp",
+      "text": "Vasudev Deoras. Gandhi ' s Harijan Yatra took place in Chhattisgarh in November 1933. Pt. Ravi Shankar Shukla started personal satyagraha in Chhattisg...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s2e10-050",
+      "type": "content",
+      "image": "images/series2/ep10/slide-050.webp",
+      "text": "the British in the Raipur conspiracy case was Shivanandan. The \" Imli-Andolan \" (tamarind movement) belong s to the Bastar district. The \" Seva Samit...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s2e10-051",
+      "type": "content",
+      "image": "images/series2/ep10/slide-051.webp",
+      "text": "Chedilal. The voluntary organization in Chhattisgarh was founded in 1931 by Dr. Khubchand Bell. Kalyan Murar Backer resigned from the Assembly during ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s2e10-052",
+      "type": "content",
+      "image": "images/series2/ep10/slide-052.webp",
+      "text": "\" Patta mat lo \" was started by Thakur Pyarelal. The protagonist of the failed Raipur conspiracy case was Parasram Soni. In the historic labor strike...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s2e10-053",
+      "type": "content",
+      "image": "images/series2/ep10/slide-053.webp",
+      "text": "Giri had participated. The youngest leader to be arrested in the Raipur district was Kundanlal Upadhyay. The Bardatola Jungle Satyagraha in Chhattisga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s2e10-054",
+      "type": "content",
+      "image": "images/series2/ep10/slide-054.webp",
+      "text": "Jungle Satyagraha was started in August 1930. Mintu Potter was killed in the Rudri Jungle Satyagraha. The Jungle Satyagraha of the tribals of the city...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s2e10-055",
+      "type": "content",
+      "image": "images/series2/ep10/slide-055.webp",
+      "text": "Pandit Sundarlal Sharma died on 28 December 1940. Pandit Vamanrao Lakhe hoisted the flag at Gandhi Chowk in Raipur on 45 August 1947. At the time of i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s2e10-056",
+      "type": "content",
+      "image": "images/series2/ep10/slide-056.webp",
+      "text": "Chhattisgarh was part of the Central Provisions and Berar. Somvanshi rulers built Buddhist viharas in Sirpur. The Lakshmana temple of Sirpur was built...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s2e10-057",
+      "type": "content",
+      "image": "images/series2/ep10/slide-057.webp",
+      "text": "temple made of bricks is located in Kharod (Shivrinarayan). The famous Rajiv Lochan Temple of Chhattisgarh has been constructed in the Panchaya t styl...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s2e10-058",
+      "type": "content",
+      "image": "images/series2/ep10/slide-058.webp",
+      "text": "Jagatpal Naresh. Dhumnath temples are located in Sargaon (Bilaspur). Statues of the first Tirthankara were found in the Parganiha temple in Malhar, Ch...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s2e10-059",
+      "type": "content",
+      "image": "images/series2/ep10/slide-059.webp",
+      "text": "at Barsoor in Bastar Division. In 1415, Devpal Mochi was established by Vishnu Temple at Khallari. Mahaprabhu Vallabhacharya was born in Champaranya (...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s2e10-060",
+      "type": "content",
+      "image": "images/series2/ep10/slide-060.webp",
+      "text": "of Chhattisgarh is \" Tara \" in Malhar (Bilaspur). Brick-built Laxman Temple and Anand Prabhu Kudi Vihar are the main scenic spots in Sirpur. The famo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s2e10-061",
+      "type": "content",
+      "image": "images/series2/ep10/slide-061.webp",
+      "text": "in Ratanpur (Bilaspur). The famous Chitavari Devi temple is located at Dhobani (Balodabazar). The oldest statue of Chhattisgarh derived from Budhikhar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s2e10-062",
+      "type": "content",
+      "image": "images/series2/ep10/slide-062.webp",
+      "text": "of \" kile wale baba \" was built by the then Raja Raghu of Raipur. The tomb of \" kile wale Baba \" was renovated by Sukndra Rao Nago Rao...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s2e10-063",
+      "type": "content",
+      "image": "images/series2/ep10/slide-063.webp",
+      "text": "The entire land of Budha Talab was owned by King Raghu of Raipur. The tomb of Hazrat Syed Sher Ali Aga (Banjari wale Baba) is situated in Motibagh. Ha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s2e10-064",
+      "type": "content",
+      "image": "images/series2/ep10/slide-064.webp",
+      "text": "Bande Ali R.A. (Aspatal Wale Baba) is behind the Ghadi Chowk, DKS Hospital. Hazrat Bande Ali was a freedom fighter, also went to jail. Kaal Purush (Ta...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s2e10-065",
+      "type": "content",
+      "image": "images/series2/ep10/slide-065.webp",
+      "text": "in Chhattisgarh has been shaped by giving the image of various animal-like animals. The typical idol of \" Mahishasuramardini \" is found in Dipadih (S...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s2e10-066",
+      "type": "content",
+      "image": "images/series2/ep10/slide-066.webp",
+      "text": "Bastar is built in the Narayanpal Chalukya style. The Chhattisgarh State Protected Monuments ' Gudiyari Temple is located in Bastar. The Chhattisgarh ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s2e10-067",
+      "type": "content",
+      "image": "images/series2/ep10/slide-067.webp",
+      "text": "' Palari. Sri Gaurishankar Temple, the ultimate temple of Sangamari grandeur, is located in Raigad. The Pataleshwar temple of Malhar is an example of ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s2e10-068",
+      "type": "content",
+      "image": "images/series2/ep10/slide-068.webp",
+      "text": "statue of Kalpurusha obtained from Talagaon is actually of Rudrasiva. The huge brick-built Chaitya temple found in Chhattisgarh is in Bhogapal. The fa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s2e10-069",
+      "type": "content",
+      "image": "images/series2/ep10/slide-069.webp",
+      "text": "the 12th century. Kapileshwar Temple is located in Balod. There is a famous temple of Vishnu Dev in Narayanpal of Bastar. The famous temple of Goddess...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s2e10-070",
+      "type": "content",
+      "image": "images/series2/ep10/slide-070.webp",
+      "text": "the Janjgir-Champa district. The first temple of Khandoba Dev has been established in Ratanpur, Chhattisgarh. The 11th - century Didindai temple is lo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s2e10-071",
+      "type": "content",
+      "image": "images/series2/ep10/slide-071.webp",
+      "text": "famous archaeological site (cell paintings and caves) is in Singhanpur Raigad district. The famous religious site Damakheda is located in the Balodaba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s2e10-072",
+      "type": "content",
+      "image": "images/series2/ep10/slide-072.webp",
+      "text": "at Bhanddeul, Arang. Khedapati Temple, the ancient temple of Chhattisgarh, is located in the Durg district. About 500 megalithic monuments are located...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s2e10-073",
+      "type": "content",
+      "image": "images/series2/ep10/slide-073.webp",
+      "text": "of Chhattisgarh. The temples of \" Mama-Bhanja \" are located in Barsoor. Bhongaram ancient temples are located in Keshakal. The remains of the oldest ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s2e10-074",
+      "type": "content",
+      "image": "images/series2/ep10/slide-074.webp",
+      "text": "Cave in the Balrampur district. Sirpur archaeological sites belong to \" Swastik Vihar \" . The famous Laxman temple of Chhattisgarh is located in Sirp...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s2e10-075",
+      "type": "content",
+      "image": "images/series2/ep10/slide-075.webp",
+      "text": "\" Khajuraho of Chhattisgarh \" , is located in the Kawardha district. Sakri river, the smallest river in Chhattisgarh, originates from Kariyama villag...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s2e10-076",
+      "type": "content",
+      "image": "images/series2/ep10/slide-076.webp",
+      "text": "the Bhoramdev Temple was built by King Gopal Dev. The Bhoramdev temple is a beautiful example of the \" Nagara style \" . The first archaeological exca...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s2e10-077",
+      "type": "content",
+      "image": "images/series2/ep10/slide-077.webp",
+      "text": "started in Sirpur in 1953. Sapta Rishi Ashram is located in Surguja (Dipadih) district. Madwa Mahal and Chherki Mahal are located near Bhoramdev Madir...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s2e10-078",
+      "type": "content",
+      "image": "images/series2/ep10/slide-078.webp",
+      "text": "the Kabra mountain of Raigad. The le ge nd ary site \" Turturiya \" is located in Kasdol. The archaeological site \" Garhdhanaura \" is located in Basta...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s2e10-079",
+      "type": "content",
+      "image": "images/series2/ep10/slide-079.webp",
+      "text": "the \" Swastik Vihar \" of Buddhism is found in Sirpur. The Dudhadhari Mutt of Raipur was founded by Balabhadra Das. Jogimara ' s cave is called \" Temp...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s2e10-080",
+      "type": "content",
+      "image": "images/series2/ep10/slide-080.webp",
+      "text": "Varuna \" in Indian painting. The Natushala situated in the Ramgiri hill was built by the Devdin artist. The famous rock-cut site of Chhattisgarh \" Kh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s2e10-081",
+      "type": "content",
+      "image": "images/series2/ep10/slide-081.webp",
+      "text": "the Raigad district. The famous Shailashraya site of Chhattisgarh is located in the Benipat , Raigad district. The town hall of the capital Raipur was...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s2e10-082",
+      "type": "content",
+      "image": "images/series2/ep10/slide-082.webp",
+      "text": "of Hazrat Syed Burhan Wali Shah (Kile Wale Baba) dates back to the 16th century. Mahant Ghasidas Museum Raipur, established in 1875, is the 6th oldest...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s2e10-083",
+      "type": "content",
+      "image": "images/series2/ep10/slide-083.webp",
+      "text": "The Kaiser-e-Hind Darwaza was built in 1877 near Jaistambh Chowk (Currently in front of Ravi Bhawan) in Raipur in memory of Queen Victoria ' s title c...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s2e10-084",
+      "type": "content",
+      "image": "images/series2/ep10/slide-084.webp",
+      "text": "\" . Acknowledgment For the contents of the Johar Gandhi book, I am grateful to the following organizations, individuals, publishers of books and peri...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s2e10-085",
+      "type": "content",
+      "image": "images/series2/ep10/slide-085.webp",
+      "text": "to those whose names I have not written but who have contributed directly or indirectly to this book. Sabarmati Ashram Patron and Memorial Trust and M...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
