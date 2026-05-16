@@ -24,7 +24,8 @@ class SlideRenderer {
     async loadEpisode(series, episode) {
         try {
             const epNum = episode.toString().padStart(2, '0');
-            const response = await fetch(`data/series${series}/episode${epNum}.json`);
+            // Assuming player is always in /pages folder, we need ../ to get to root
+            const response = await fetch(`../data/series${series}/episode${epNum}.json`);
             
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
@@ -81,6 +82,11 @@ class SlideRenderer {
         if (this.prefersReducedData) {
             // Simulated logic: if we had a 720p folder, we would alter the path here
             // imagePath = imagePath.replace('images/', 'images/720p/');
+        }
+
+        // Adjust path because player.html is in /pages directory
+        if (imagePath && !imagePath.startsWith('../') && !imagePath.startsWith('http')) {
+            imagePath = '../' + imagePath;
         }
 
         // Image Container
@@ -146,7 +152,7 @@ class SlideRenderer {
         const imgWrap = document.createElement('div');
         imgWrap.className = 'slide-image-wrap vignette';
         const img = document.createElement('img');
-        img.src = `images/series${series}/ep${(episode-1).toString().padStart(2, '0')}/slide-085.webp`; // Placeholder path
+        img.src = `../images/series${series}/ep${(episode-1).toString().padStart(2, '0')}/slide-085.webp`; // Placeholder path
         imgWrap.appendChild(img);
         
         const textPanel = document.createElement('div');
