@@ -1,1 +1,1029 @@
-﻿{ "series": 2, "episode": 7, "title": "I Am a Baniya", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 2,
+  "episode": 7,
+  "title": "Episode 07",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s2e07-001",
+      "type": "content",
+      "image": "images/series2/ep07/slide-001.webp",
+      "text": "He earned a lot of fame in the field of law. But his patriotic mind soon got distracted and he left the advocacy and got into active politics. He was...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s2e07-002",
+      "type": "content",
+      "image": "images/series2/ep07/slide-002.webp",
+      "text": "initially inclined towards the Swarajya Party but in 1928, influenced by Gandhi, made his way to the Congress. To spread awareness among the workers, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s2e07-003",
+      "type": "content",
+      "image": "images/series2/ep07/slide-003.webp",
+      "text": "the high posts of the Bengal Bhanpur Railway Workers Union under the guidance of V. V.Giri . And soon Anta by his ability and amazing courage became t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s2e07-004",
+      "type": "content",
+      "image": "images/series2/ep07/slide-004.webp",
+      "text": "the provincial politicians. To spread awareness in the Bilaspur region, he made innovative use of the National Ramayana from the stage of Ramlila. In ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s2e07-005",
+      "type": "content",
+      "image": "images/series2/ep07/slide-005.webp",
+      "text": "fine of ‚¹ 2500 for participating in the non-cooperation movement. He served as a member of the All India Congress Committee in 1932 and as the Presid...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s2e07-006",
+      "type": "content",
+      "image": "images/series2/ep07/slide-006.webp",
+      "text": "Committee in 1932. He made a significant contribution to the Civil Disobedience Movement. He played an important role in bringing the farmers of Munge...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s2e07-007",
+      "type": "content",
+      "image": "images/series2/ep07/slide-007.webp",
+      "text": "among the public. He was an MLA after winning as a Congress candidate in 1937 and was also a member of the Constituent Assembly in 1946. He died in 19...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s2e07-008",
+      "type": "content",
+      "image": "images/series2/ep07/slide-008.webp",
+      "text": "Yeti Yatanlal Yeti Yatanlal, a speaker, writer, social reformer in Chhattisgarh, was born in 1894 in Bikaner. The parents died at the age of only 6 mo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s2e07-009",
+      "type": "content",
+      "image": "images/series2/ep07/slide-009.webp",
+      "text": "Bahrimal was brought up sonically. At the age of two and a half years, he came to Raipur with his guru. He took initiation at the age of nineteen and...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s2e07-010",
+      "type": "content",
+      "image": "images/series2/ep07/slide-010.webp",
+      "text": "joined politics in 1919. Through his constructive work, he was constantly striving for public awareness and the purpose of upliftment of Dalits and or...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s2e07-011",
+      "type": "content",
+      "image": "images/series2/ep07/slide-011.webp",
+      "text": "tried to remove the inferiority complex. In 1930, he contributed significantly as a convener and city chief in the campaign of Mahatma Gandhi ' s civi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s2e07-012",
+      "type": "content",
+      "image": "images/series2/ep07/slide-012.webp",
+      "text": "a significant role in the operation of picketing in front of liquor shops , and was the initiator of Jungle Satyagraha in Mahasamund T ehsil and was a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s2e07-013",
+      "type": "content",
+      "image": "images/series2/ep07/slide-013.webp",
+      "text": "outbreak of cholera in Raipur district in the year 1934, he went from village to village and helped people for their rescue and treatment. In 1935, ac...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s2e07-014",
+      "type": "content",
+      "image": "images/series2/ep07/slide-014.webp",
+      "text": "of Mahatma Gandhi, did many important works in the direction of village industries, and Hindu-Muslim unity. He p layed an important role in the freedo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s2e07-015",
+      "type": "content",
+      "image": "images/series2/ep07/slide-015.webp",
+      "text": "several times. Always committed to the upliftment of rural people and engaged in propagating the i mportance of village industries he d ied on 4 Augus...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s2e07-016",
+      "type": "content",
+      "image": "images/series2/ep07/slide-016.webp",
+      "text": "When Mahatma Gandhi started the movement non-cooperation movement , Pt. Vamanrao Lakhe was leading this movement in Raipur, the core committee of this...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s2e07-017",
+      "type": "content",
+      "image": "images/series2/ep07/slide-017.webp",
+      "text": "the region as \"Five Pandavas\" . These five became famous in the freedom movement in Raipur. Pt. Vamanrao Lakhe as Yudhishthira, Mahant Laxminarayan D...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s2e07-018",
+      "type": "content",
+      "image": "images/series2/ep07/slide-018.webp",
+      "text": "Arjuna, Maulana Abdul Rauf Khan as Nakula, and Shivdas Daga as Sahadeva . Pt. Vamanrao Balliram Lakhe In 1913, the Raipur Co-operative Central Bank wa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s2e07-019",
+      "type": "content",
+      "image": "images/series2/ep07/slide-019.webp",
+      "text": "the first bank in the Raipur district through which arrangements were made to provide financial assistance to the farmers. This bank was established t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s2e07-020",
+      "type": "content",
+      "image": "images/series2/ep07/slide-020.webp",
+      "text": "the founder of this institution was our Vamanrao Balliram Lakhe. Vamanrao was born in 1872 in Raipur. His father Baliram Lakhe was very hardworking, a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s2e07-021",
+      "type": "content",
+      "image": "images/series2/ep07/slide-021.webp",
+      "text": "also bought some villages. Since childhood, Vamanrao, growing up in this environment, understood the value of hard work very well. Father Baliram alwa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s2e07-022",
+      "type": "content",
+      "image": "images/series2/ep07/slide-022.webp",
+      "text": "for higher education. He wanted his son to study a lot. He did his matriculation from Raipur. Madhavrao Sapre also studied in the same school at that ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s2e07-023",
+      "type": "content",
+      "image": "images/series2/ep07/slide-023.webp",
+      "text": "became friends. In 1900, when Sapreji published a monthly magazine named \" Chhattisgarh Mitra \" , Lakhe was the publisher of that magazine. This was ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s2e07-024",
+      "type": "content",
+      "image": "images/series2/ep07/slide-024.webp",
+      "text": "This magazine ran for only three years, but within those three years, the era of national awakening had begun through that magazine. In 1904, Lakhe st...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s2e07-025",
+      "type": "content",
+      "image": "images/series2/ep07/slide-025.webp",
+      "text": "the same year , he passed the law examination. His wife Janaki Bai also gave importance to public service like him. When Vamanrao started advocacy in ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s2e07-026",
+      "type": "content",
+      "image": "images/series2/ep07/slide-026.webp",
+      "text": "to do some important work for the people so that their condition would improve. His aim was not to earn money. His wife also always supported him. Vam...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s2e07-027",
+      "type": "content",
+      "image": "images/series2/ep07/slide-027.webp",
+      "text": "several times from Budhapara, as a member of the Municipality Raipur. He was also the chairman of Raipur Municipality. He was the Minister of the Raip...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s2e07-028",
+      "type": "content",
+      "image": "images/series2/ep07/slide-028.webp",
+      "text": "has been mentioned in the beginning, from 1913 to 1936 and from 1937 to 1948 as its President. The people of that time mention his hard-working charac...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s2e07-029",
+      "type": "content",
+      "image": "images/series2/ep07/slide-029.webp",
+      "text": "Vamanrao Lakhe. People say that the building of this bank which is strong and beautiful was built only in 37,000 and it was possible only because of V...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s2e07-030",
+      "type": "content",
+      "image": "images/series2/ep07/slide-030.webp",
+      "text": "also the chairman of G Land Mortgage Bank. In 1915, the Home Rule League was established in Raipur. Vamanrao was its founder. Vamanrao Lakhe has a gre...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s2e07-031",
+      "type": "content",
+      "image": "images/series2/ep07/slide-031.webp",
+      "text": "political consciousness that was spread in Chhattisgarh in the beginning. Spent his life in the national movement and cooperative organization, in 194...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s2e07-032",
+      "type": "content",
+      "image": "images/series2/ep07/slide-032.webp",
+      "text": "Baloda Bazar. Vamanrao Lakhe was given the title of \" Raisaheb \" in 1916 by the British Government for the services of the farmers. In 1920, Vamanrao...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s2e07-033",
+      "type": "content",
+      "image": "images/series2/ep07/slide-033.webp",
+      "text": "non-cooperation movement by relinquishing the title of Raisaheb. Mahatma Gandhi proposed non-cooperation in 1920 in Nagpur. After returning from that ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s2e07-034",
+      "type": "content",
+      "image": "images/series2/ep07/slide-034.webp",
+      "text": "active in the non-cooperation movement by returning the title of Raisaheb. In the year 1921, Pt. Madhavrao Sapre established the \"Rashtriy a Vidyalay\"...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s2e07-035",
+      "type": "content",
+      "image": "images/series2/ep07/slide-035.webp",
+      "text": "became the minister of that school. Vamanrao Lakhe started promoting Khadi in Raipur, in the vicinity of Raipur. In 1921, in October, \" Khadi Week \" ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s2e07-036",
+      "type": "content",
+      "image": "images/series2/ep07/slide-036.webp",
+      "text": "one of the main organizers of which was Lakhe . Do not know how many people started wearing Khadi with enthusiasm at that time. When Vamanrao Lakhe ca...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s2e07-037",
+      "type": "content",
+      "image": "images/series2/ep07/slide-037.webp",
+      "text": "rule a state of goons in a meeting, he was arrested and sentenced to one year and fined Rs 3000. In 1941, in the Individual Satyagraha, Vamanrao Lakhe...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s2e07-038",
+      "type": "content",
+      "image": "images/series2/ep07/slide-038.webp",
+      "text": "while conducting a Satyagraha in Simga and sentenced to four months. He was kept in Nagpur jail. Vamanrao Lakhe was 70 years old at that time. When in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s2e07-039",
+      "type": "content",
+      "image": "images/series2/ep07/slide-039.webp",
+      "text": "after six years, on August 15, Pt. Vamanrao Lakhe hoisted the tricolor flag at Gandhi Chowk in Raipur. The people present there used to tell about the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s2e07-040",
+      "type": "content",
+      "image": "images/series2/ep07/slide-040.webp",
+      "text": "on Vamanrao Lakhe ' s face. O n 1948, August 21, Lakhe left this world. The incident that happened just a few months ago had destroyed his peace of mi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s2e07-041",
+      "type": "content",
+      "image": "images/series2/ep07/slide-041.webp",
+      "text": "- he was stunned by the lavish agony. He could not understand with intense pain how anyone could kill Gandhi and had an idea of \"‹\"‹ what kind of peop...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s2e07-042",
+      "type": "content",
+      "image": "images/series2/ep07/slide-042.webp",
+      "text": "would be in power in the days to come. And they will crush freedom again. Thakur Pyarelal Singh Thakur Pyarelal Singh led the Swadeshi movement, the t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s2e07-043",
+      "type": "content",
+      "image": "images/series2/ep07/slide-043.webp",
+      "text": "in Rajnandgaon, he came in contact with the revolutionaries of Bengal in his student days. He also came into student life in contact with Lokmanya Til...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s2e07-044",
+      "type": "content",
+      "image": "images/series2/ep07/slide-044.webp",
+      "text": "1909, he had established the \"˜Saraswati Library' in Rajnandgaon, which became the den of the agitators. In 1920 B. N. C. Mill's successful leadership...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s2e07-045",
+      "type": "content",
+      "image": "images/series2/ep07/slide-045.webp",
+      "text": "an active role in civil disobedience. He made a special contribution to the establishment of \"˜Chhattisgarh Education Society' and the establishment o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s2e07-046",
+      "type": "content",
+      "image": "images/series2/ep07/slide-046.webp",
+      "text": "cooperative movement in Chhattisgarh, Pyarelal established the Chhattisgarh Weavers Cooperative Society in 1945 to improve the economic condition of t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s2e07-047",
+      "type": "content",
+      "image": "images/series2/ep07/slide-047.webp",
+      "text": "the workers of the mill. In 1919, the workers held the country's first and longest strike. As result, he was sentenced to be expelled from the princel...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s2e07-048",
+      "type": "content",
+      "image": "images/series2/ep07/slide-048.webp",
+      "text": "this incident, Pyarelal became quite famous in the state as a labor leader. He came in contact with Mahatma Gandhi for the first time in 1920, and he ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s2e07-049",
+      "type": "content",
+      "image": "images/series2/ep07/slide-049.webp",
+      "text": "the non-cooperation and Satyagraha movement. Under his leadership the workers went on strike, lathis and bullets were fired at the workers but the str...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s2e07-050",
+      "type": "content",
+      "image": "images/series2/ep07/slide-050.webp",
+      "text": "from Rajnandgaon. In Raipur, he collaborated with Pandit Sundarlal Sharma and assisted in the works of untouchability. Thakur Pyarelal Singh died on 2...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s2e07-051",
+      "type": "content",
+      "image": "images/series2/ep07/slide-051.webp",
+      "text": "his visit to the Bhoodan movement. Mahant Laxmi Narayan Das Mahatma Gandhi did the 'Dandi Yatra' movement on 11 March 1930, Mahant Laxminarayan Das al...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s2e07-052",
+      "type": "content",
+      "image": "images/series2/ep07/slide-052.webp",
+      "text": "breaking the salt law along with Pandit Ravi Shankar Shukla. As much as he actively participated in the religious field, he started showing as much ac...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s2e07-053",
+      "type": "content",
+      "image": "images/series2/ep07/slide-053.webp",
+      "text": "Holi of foreign clothes was lit here in 1932 under the leadership of Mahant. Holi is celebrated by burning Holika (a symbolic evil) , traditions in Hi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s2e07-054",
+      "type": "content",
+      "image": "images/series2/ep07/slide-054.webp",
+      "text": "Tilak started the public Ganeshotsav for public awareness, but the procession tradition took place here on 12 September 1 935. The length of that firs...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s2e07-055",
+      "type": "content",
+      "image": "images/series2/ep07/slide-055.webp",
+      "text": "and a half kilometer. Pt. Shukla, Thakur Pyarelal, Dr. Khubchand Baghel, etc. were many fighters with the Mahant in this procession. In 1936, Congress...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s2e07-056",
+      "type": "content",
+      "image": "images/series2/ep07/slide-056.webp",
+      "text": ", f or the construction of this building, money was collected under the leader ship of Mahantji by asking for C hherchera ( folk festival of C hhattis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s2e07-057",
+      "type": "content",
+      "image": "images/series2/ep07/slide-057.webp",
+      "text": "The list of those who collected money is still kept in the Congress building. M aulana Abdul Rauf Khan Maulana Abdul Rauf Khan known as his alice \"˜Na...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s2e07-058",
+      "type": "content",
+      "image": "images/series2/ep07/slide-058.webp",
+      "text": "poetrik surname \"˜Mahvi' born 1894 , at Raipur. O ne of those who represented Raipur during the national movement; One of the five Pandavas of Raipur ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s2e07-059",
+      "type": "content",
+      "image": "images/series2/ep07/slide-059.webp",
+      "text": "surname 'Mahv i'. The five Pandavas V amanrao Lakhe, Maulana Abdul Rau f Khan , Lakshmi Mahant Na rayan Das, Shivdas Daga and Thakur Pyarelal Singh st...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s2e07-060",
+      "type": "content",
+      "image": "images/series2/ep07/slide-060.webp",
+      "text": "isobedience movement in Raipur, Chhattisgarh. During the British rule in Chhattisgarh, all taxes were levied. There were 14 princely states. Raipur wa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s2e07-061",
+      "type": "content",
+      "image": "images/series2/ep07/slide-061.webp",
+      "text": "Khalsa Kshetra. Here the Deputy Commissioner of the British used to sit as an administrator. The provincial visits of the Raipur Congress Committee we...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s2e07-062",
+      "type": "content",
+      "image": "images/series2/ep07/slide-062.webp",
+      "text": "usually Thakur Pyarelal Singh spoke to witnesses and victims, which was recorded in writing by Maulana Abdul Rauf Khan. Maulana Abdul Rauf Khan has a ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s2e07-063",
+      "type": "content",
+      "image": "images/series2/ep07/slide-063.webp",
+      "text": "history of the freedom struggle of Chhattisgarh. He was a poet with his humour, but was the ink of the Chhattisgarh Congress Committee, the great writ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s2e07-064",
+      "type": "content",
+      "image": "images/series2/ep07/slide-064.webp",
+      "text": "books on the basis of the documentary statements written by Maulana Abdul Rauf Khan. Maulana Abdul Rauf Khan's name of the world of poets was \"˜Mahvi'...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s2e07-065",
+      "type": "content",
+      "image": "images/series2/ep07/slide-065.webp",
+      "text": "was Nakul in the group of five Pandavas of Raipur, The name 'Nakul' means one who is full of love and this name has nine male characteristics: intelli...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s2e07-066",
+      "type": "content",
+      "image": "images/series2/ep07/slide-066.webp",
+      "text": "handsome, health, attractiveness, success, respect and unconditional love, all these qualities were there in Maulana Abdul Rauf Khan. He died in 1945 ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s2e07-067",
+      "type": "content",
+      "image": "images/series2/ep07/slide-067.webp",
+      "text": "\"˜ Sahadeva ' in the famous Five Pandava group of freedom fighters of Chhattisgarh, S hivdas Daga was born on 22 November 1885 in Bikaner, Rajasthan. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s2e07-068",
+      "type": "content",
+      "image": "images/series2/ep07/slide-068.webp",
+      "text": "here for business. He had his early education in Raipur and remained here. In 1920, the British government gave him the important post of Honorary Mag...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s2e07-069",
+      "type": "content",
+      "image": "images/series2/ep07/slide-069.webp",
+      "text": "Mahatma Gandhi came to Raipur. Seth Daga after meeting Gandhi Decided to participate in the freedom movement. Relinquished the post of magistrate. He ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s2e07-070",
+      "type": "content",
+      "image": "images/series2/ep07/slide-070.webp",
+      "text": "released from jail, then he took part in the movements. With the influence of Mahatma Gandhi, he established the Harijan Hostel in Raipur. At that tim...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s2e07-071",
+      "type": "content",
+      "image": "images/series2/ep07/slide-071.webp",
+      "text": "was negligible. Therefore, to inspire the education of girls, he established a school in the name of his wife Chhotibai Daga in Arang. Seth Shivdas Da...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s2e07-072",
+      "type": "content",
+      "image": "images/series2/ep07/slide-072.webp",
+      "text": "many movements like Quit India Movement, died on 10 June 1952. Dr. Radha Bai Dr. Radhabai had done the work of taking the freedom revolution from door...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s2e07-073",
+      "type": "content",
+      "image": "images/series2/ep07/slide-073.webp",
+      "text": "Raipur. Due to his inspiration, the women here got in volved in the freedom movements. Dr. Radhabai remained ahead in all the movements of Gandhi. The...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s2e07-074",
+      "type": "content",
+      "image": "images/series2/ep07/slide-074.webp",
+      "text": "Bai was very important in all these movements for national unity, Swadeshi, women's awakening, anti-untouchability, prohibition of alcohol. The front ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s2e07-075",
+      "type": "content",
+      "image": "images/series2/ep07/slide-075.webp",
+      "text": "liquor to the alcoholics, to get the liquor sellers to stop the liquor furnace-in this picketing women were beaten up with sticks. His hair was grabbe...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s2e07-076",
+      "type": "content",
+      "image": "images/series2/ep07/slide-076.webp",
+      "text": "arrested. Kekti Bai, Phoolkunwar Bai, Pochi Bai, Rukhmin Bai, Parvati Bai were with Dr. Radhabai. In the year 1930, some Satyagrahis were being brough...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s2e07-077",
+      "type": "content",
+      "image": "images/series2/ep07/slide-077.webp",
+      "text": "Dr. Radhabai reached the station with her companions, a plate of food in one hand and the tricolor flag in the other. On the orders of the British col...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s2e07-078",
+      "type": "content",
+      "image": "images/series2/ep07/slide-078.webp",
+      "text": "sticks started hitting. Dr. Radhabai was hit the most, the tricolor she was carrying. Mahatma Gandhi came to Raipur for the first time in 1920. At tha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s2e07-079",
+      "type": "content",
+      "image": "images/series2/ep07/slide-079.webp",
+      "text": "was going on in a village named Kandel of Dhamtari tehsil. Gandhi's influence was widespread in Chhattisgarh. Since then, Dr. Radha Bai has been at th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s2e07-080",
+      "type": "content",
+      "image": "images/series2/ep07/slide-080.webp",
+      "text": "movements led by Gandhi. Women used to be ahead in selling Khadi, spinning the charkha, women who came to listen to Ekadashi Mahatmya, they all starte...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s2e07-081",
+      "type": "content",
+      "image": "images/series2/ep07/slide-081.webp",
+      "text": "the country. Dr. Radha Bai used to sit to teach the same spinning wheel, everyone would sing together: \"Mere Charakhe Ka Toote Na Taar - Charakha C ha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s2e07-082",
+      "type": "content",
+      "image": "images/series2/ep07/slide-082.webp",
+      "text": "(Strings of my Charkha should not be broken - Charkha keep the wheel on.) While doing this, they roamed different places. Dr. Radha Bai's house, which...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s2e07-083",
+      "type": "content",
+      "image": "images/series2/ep07/slide-083.webp",
+      "text": "Mominpara Masjid, more sisters would have gathered there-Parvati Bai, Rohini Bai, Krishna Bai, Sita Bai, Rajkunwar Bai. After cutting the spinning whe...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s2e07-084",
+      "type": "content",
+      "image": "images/series2/ep07/slide-084.webp",
+      "text": "for the Satyagraha, the cleaning team took out, tried to stop the purdah system, the Jagannath temple of Sadar Bazar became the site of Satyagraha. Si...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s2e07-085",
+      "type": "content",
+      "image": "images/series2/ep07/slide-085.webp",
+      "text": "give speeches against the purdah system. The women of Marwari society, who felt suffocated due to the purdah system, would try their best to end this ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
