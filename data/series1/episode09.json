@@ -1,1 +1,1029 @@
-﻿{ "series": 1, "episode": 9, "title": "The Day in Dhamtari", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 1,
+  "episode": 9,
+  "title": "Episode 09",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s1e09-001",
+      "type": "content",
+      "image": "images/series1/ep09/slide-001.webp",
+      "text": "schools, colleges and markets were closed on 9th August 1942 in Raipur. Meanwhile Pt. Ravi Shankar Shukla, Barrister Chhedilal, Laxminarayan Das, Yati...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s1e09-002",
+      "type": "content",
+      "image": "images/series1/ep09/slide-002.webp",
+      "text": "Singh Gupta, Dwarka Prasad Mishra, Ram Gopal Tiwari, and Kunjbihari Agnihotri were already arrested at Malakpur on the border of the Central Provinces...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s1e09-003",
+      "type": "content",
+      "image": "images/series1/ep09/slide-003.webp",
+      "text": "leaders of the congress were arrested, many people were put under house arrest in the \"Aga Khan Palace\". Around 3 pm in the afternoon, a huge crowd o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s1e09-004",
+      "type": "content",
+      "image": "images/series1/ep09/slide-004.webp",
+      "text": "out of the National School in the form of a procession, passing through Tatyapara to Kankalipara, people gathered for the meeting at Gandhi Maidan at ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s1e09-005",
+      "type": "content",
+      "image": "images/series1/ep09/slide-005.webp",
+      "text": "people gathered in the ground. The British police had surrounded the meeting place, the then city magistrate asked D eputy commissioner (Collector) RK...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s1e09-006",
+      "type": "content",
+      "image": "images/series1/ep09/slide-006.webp",
+      "text": "but seeing the peaceful procession, the collector refused. Influence d by this movement, the C ollector quit his job after a few days. D uring the mee...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s1e09-007",
+      "type": "content",
+      "image": "images/series1/ep09/slide-007.webp",
+      "text": "soon as the name was called from the stage to preside over the meeting, the man would have been arrested even before he could reach the doys. In this ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s1e09-008",
+      "type": "content",
+      "image": "images/series1/ep09/slide-008.webp",
+      "text": "52 people were arrested and sent to jail before reaching the stage. In view of this, people discussed among themselves and made a strategy to take the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s1e09-009",
+      "type": "content",
+      "image": "images/series1/ep09/slide-009.webp",
+      "text": "view of this, then Gopal Singh Nepali had said : \"Aaj desh ke neta peechhe, J anata aage-aage\" ( Today the leaders of the country a re behind, the peo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s1e09-010",
+      "type": "content",
+      "image": "images/series1/ep09/slide-010.webp",
+      "text": "are ahead) Raipur Conspiracy Case Explosive materials were made under the leadership of Parasram Soni and B.B. Sur to support the revolutionaries in R...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s1e09-011",
+      "type": "content",
+      "image": "images/series1/ep09/slide-011.webp",
+      "text": "are Premchandra Wasnik, Dr. Surmangal Mistry, Sudhir Mukherjee, Dashrath Choubey, Ranveer Singh Shastri, Girivar Damodar, Kantikumar Bharti. The revol...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s1e09-012",
+      "type": "content",
+      "image": "images/series1/ep09/slide-012.webp",
+      "text": "to information being given to the police by an informer named 'Shivanandan', and sentenced to 7 years. However, due to the efforts of Pt. Ravi Shankar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s1e09-013",
+      "type": "content",
+      "image": "images/series1/ep09/slide-013.webp",
+      "text": "Raipur Dynamite Scandal To get the politicians out of Raipur jail, a plan was made to blow up the prison wall with dynamite under the leadership of Bi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s1e09-014",
+      "type": "content",
+      "image": "images/series1/ep09/slide-014.webp",
+      "text": "information about this scheme was conveyed to the police through Avinash Sangram. Due to which this plan failed. The police arrested Bilakhnarayan alo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s1e09-015",
+      "type": "content",
+      "image": "images/series1/ep09/slide-015.webp",
+      "text": "Nagardas Bavaria. Durg's Arsons On 28 August 1942, Raghunandan Singraul set fire to Durg district court. The police arrested Raghunandan Singraul on t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s1e09-016",
+      "type": "content",
+      "image": "images/series1/ep09/slide-016.webp",
+      "text": "due to lack of evidence. On 5 September 1942, Raghunandan Singraul along with Jaswant Singh set fire to the municipal building. The movement remained ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s1e09-017",
+      "type": "content",
+      "image": "images/series1/ep09/slide-017.webp",
+      "text": "was hoisted in the High Court of Nagpur by a student named Thakur Ramakrishna, for which he was arrested. The youth used to try to break the jail wall...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s1e09-018",
+      "type": "content",
+      "image": "images/series1/ep09/slide-018.webp",
+      "text": "applying dynamide to free the people associated with the freedom struggle. The postbox was set on fire by pouring petrol to stop the letters of the Br...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s1e09-019",
+      "type": "content",
+      "image": "images/series1/ep09/slide-019.webp",
+      "text": "by vandalizing the government building. In 1947, Attainment of Independence On August 15, the first Chief Minister of Madhya Pradesh and Berar, P. Rav...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s1e09-020",
+      "type": "content",
+      "image": "images/series1/ep09/slide-020.webp",
+      "text": "Sitabardi fort in the then capital Nagpur, RK Patil in Raipur, Ghanshyam Singh Gupta in Durg and Ram Gopal Tiwari in Bilaspur. 1920: Mahatma Gandhi 's...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s1e09-021",
+      "type": "content",
+      "image": "images/series1/ep09/slide-021.webp",
+      "text": "Chhattisgarh The Kandel Canal Satyagraha December 20, Reached Raipur, addressed the general meeting, the place p re sently knows as Gandhi Chowk in Ra...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s1e09-022",
+      "type": "content",
+      "image": "images/series1/ep09/slide-022.webp",
+      "text": "gave a speech regarding Kandel Satyagraha, thronged to welcome at Makai Chowk, returned from Dhamtari, and addressed the gathering at the ground next ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s1e09-023",
+      "type": "content",
+      "image": "images/series1/ep09/slide-023.webp",
+      "text": "Addressed a gathering of women in Machi Bada, Tatyapara, Raipur, also went to the Jaitusav math. December 22, Left from Raipur for Nagpur by train. Ga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s1e09-024",
+      "type": "content",
+      "image": "images/series1/ep09/slide-024.webp",
+      "text": "who spent most of his life reaching different parts of the country and tried to know him and increased his intimate connection with the public. His Ch...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s1e09-025",
+      "type": "content",
+      "image": "images/series1/ep09/slide-025.webp",
+      "text": "recorded in the indelible memories of history. In 1920, the farmers of Kandel, a small village in Dhamtari, about 70 km from Raipur, performed a water...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s1e09-026",
+      "type": "content",
+      "image": "images/series1/ep09/slide-026.webp",
+      "text": "decree of irrigation tax imposed by the British rule. Due to which Mahatma Gandhi was well impressed and joined the peasant movement in Dhamtari on 21...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s1e09-027",
+      "type": "content",
+      "image": "images/series1/ep09/slide-027.webp",
+      "text": "the farmers. Due to which the British were sweated, all the Gudhaan property which was confiscated by the British got it returned. The Kandel Canal Sa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s1e09-028",
+      "type": "content",
+      "image": "images/series1/ep09/slide-028.webp",
+      "text": "very effective step against the British. On his return, Gandhi addressed a public meeting in Raipur. The place where Gandhi gave a speech is today kno...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s1e09-029",
+      "type": "content",
+      "image": "images/series1/ep09/slide-029.webp",
+      "text": "Raipur. Mahatma Gandhi's first visit to Chhattisgarh was in December 1920. Although not mentioned in Gandhi's history, there is enough information fro...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s1e09-030",
+      "type": "content",
+      "image": "images/series1/ep09/slide-030.webp",
+      "text": "Raipur in connection with the Kandel Canal Satyagraha and went to Dhamtari, Kurud. Bal G angadhar Tilak, who was conferred with the title of Lokmanya,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s1e09-031",
+      "type": "content",
+      "image": "images/series1/ep09/slide-031.webp",
+      "text": "that era, died on 1 August 1920. Although Mahatma Gandhi's identity and his important place in Indian politics had already been established . But afte...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s1e09-032",
+      "type": "content",
+      "image": "images/series1/ep09/slide-032.webp",
+      "text": "he became the focal point not only of Congress but also of Indian politics. Congress took the reins of Mahatma Gandhi. Meanwhile, in the Kandel villag...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s1e09-033",
+      "type": "content",
+      "image": "images/series1/ep09/slide-033.webp",
+      "text": "Satyagraha of the farmers was going on under the leadership of Babu Chhotelal Srivastava. Pt. Sundarlal Sharma and Pt. Narayanrao Meghawale w as also ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s1e09-034",
+      "type": "content",
+      "image": "images/series1/ep09/slide-034.webp",
+      "text": "irrigation department accused the farmers of Kandel of stealing water from the canal. It was the month of August; it was raining heavily. There was en...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s1e09-035",
+      "type": "content",
+      "image": "images/series1/ep09/slide-035.webp",
+      "text": "Therefore, the charge of farmers stealing water from the canal was false. A policy of repression was adopted to collect forcible irrigation tax. The a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s1e09-036",
+      "type": "content",
+      "image": "images/series1/ep09/slide-036.webp",
+      "text": "were also adamant about not paying tax. A fine of Rs 4030 was confiscated on their cattle during the farming period. Both sides were unswerving. There...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s1e09-037",
+      "type": "content",
+      "image": "images/series1/ep09/slide-037.webp",
+      "text": "hand over the leadership of the movement to Gandhi. Pt. Sundarlal Sharma went to Calcutta on 2 December to pick up Gandhi. They reached Raipur on 20 D...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s1e09-038",
+      "type": "content",
+      "image": "images/series1/ep09/slide-038.webp",
+      "text": "them. Pt. Ravi Shankar Shukla, Thakur Pyarelal Singh, Sakharam Dubey , etc. welcomed him on the platform. Gandhi was lodged in the barrister Thakkar's...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s1e09-039",
+      "type": "content",
+      "image": "images/series1/ep09/slide-039.webp",
+      "text": "by prominent leaders of the Khilafat Movement Shaukat Ali and his brother Muhammad Ali and mother of the Ali brothers. In the evening, Mahatma Gandhi ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s1e09-040",
+      "type": "content",
+      "image": "images/series1/ep09/slide-040.webp",
+      "text": "That place is famous today as Gandhi Chowk in Raipur. On 21 December 1920, Gandhi left Abbas B hai's motor to Dhamtari in front of the Balasamaj libra...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s1e09-041",
+      "type": "content",
+      "image": "images/series1/ep09/slide-041.webp",
+      "text": "Azad Chowk. On receiving the information about Gandhi's arrival, the irrigation officials swelled hands and withdrew the anti-farmer order. Returning ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s1e09-042",
+      "type": "content",
+      "image": "images/series1/ep09/slide-042.webp",
+      "text": "the ground next to the Anand S amaja library in Kankalipara. There was a tennis court at that place. On the stage from which he addressed the meeting,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s1e09-043",
+      "type": "content",
+      "image": "images/series1/ep09/slide-043.webp",
+      "text": "called Bhishma Pitamah was played the night before. The play was acted by the people of Brahmanpara. After the meeting, those who had reverence for Ga...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s1e09-044",
+      "type": "content",
+      "image": "images/series1/ep09/slide-044.webp",
+      "text": "as a memento of the stage. Even the stage was not left intact. Mahatma Gandhi was collecting funds for the Tilak Swaraj Fund during his stay in Raipur...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s1e09-045",
+      "type": "content",
+      "image": "images/series1/ep09/slide-045.webp",
+      "text": "They received cash, gold , a nd silver jewelry as donations. On December 21, at 11 am, Gandhi reached Dhamtari with the Ali brothers. The crowd gather...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s1e09-046",
+      "type": "content",
+      "image": "images/series1/ep09/slide-046.webp",
+      "text": "at Makai Chowk. The speech was arranged in the enclosure of Seth Hussain. It was impossible to reach the gathering place by the motor by crossing the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s1e09-047",
+      "type": "content",
+      "image": "images/series1/ep09/slide-047.webp",
+      "text": "time, Omar Seth, a businessman from Gurur, lifted Gandhi on his shoulder and took him to the stage. Bajirao Kridatta prese nted a bag of Rs 501 to Gan...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s1e09-048",
+      "type": "content",
+      "image": "images/series1/ep09/slide-048.webp",
+      "text": "In his hour-long address, he referred to Chhotilal Babu, Narayan Rao Meghawale , and Pt. Sundarlal Sharma for the successful operation of the Kandel C...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s1e09-049",
+      "type": "content",
+      "image": "images/series1/ep09/slide-049.webp",
+      "text": "of a true, non-violence-based Satyagraha . The result of Gandhi's influence was that more than 500 activists from Dhamtari attended the Nagpur session...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s1e09-050",
+      "type": "content",
+      "image": "images/series1/ep09/slide-050.webp",
+      "text": "women's gathering at Machilabad in Tatyapara, Raipur. A large number of Muslim women attended the meeting. The women openly donated to the Tilak Fund....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s1e09-051",
+      "type": "content",
+      "image": "images/series1/ep09/slide-051.webp",
+      "text": "of the Non-Cooperation Movement in these meetings. The Ali brothers, while giving speeches on the Khilafat Movement, emphasized on Hindu-Muslim unity....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s1e09-052",
+      "type": "content",
+      "image": "images/series1/ep09/slide-052.webp",
+      "text": "old settlement. Abbas Bhai soon got the punishment for taking Gandhi to Dhamtari by sitting in the motor. The license of his transport company Raipur ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s1e09-053",
+      "type": "content",
+      "image": "images/series1/ep09/slide-053.webp",
+      "text": "Gandhi went directly to Nagpur from Raipur. A Congress session was held there. Pandit Ravi Shankar Shukla, Barrister CM Thakkar, Thakur Pyarelal Singh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s1e09-054",
+      "type": "content",
+      "image": "images/series1/ep09/slide-054.webp",
+      "text": "went to Nagpur to hear the non-cooperation movement from Raipur. Dr. Khubchand Baghel was studying medic ine in Nagpur. He also attended the session a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s1e09-055",
+      "type": "content",
+      "image": "images/series1/ep09/slide-055.webp",
+      "text": "Corps. Pt. Madhavrao Sapre was also present in Nagpur. They were touring across the state and were successful in making the convention successful. As ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s1e09-056",
+      "type": "content",
+      "image": "images/series1/ep09/slide-056.webp",
+      "text": "session, local leaders started campaigning for the non- cooperati ve movement. The lawyers left the advocacy among them Thakur Pyarelal Singh and Pt. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s1e09-057",
+      "type": "content",
+      "image": "images/series1/ep09/slide-057.webp",
+      "text": "a prominent leader of the Congress, continued his advocacy. District Council Chairman Yadav Rao Deshmukh resigned from the post. Raosaheb Vamanrao Lak...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s1e09-058",
+      "type": "content",
+      "image": "images/series1/ep09/slide-058.webp",
+      "text": "Shamsher Khan renounced their titles. The peo ple of Raipur conferred Vamanrao Lakhe with the title of Popular on the same day. Barrister Thakkar was ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s1e09-059",
+      "type": "content",
+      "image": "images/series1/ep09/slide-059.webp",
+      "text": "elections, he boycotted the election. \"I am like an elephant and Gandhi is like a goat\" Speeches of Gandhi and Maulana Shaukat Ali were held in the m...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s1e09-060",
+      "type": "content",
+      "image": "images/series1/ep09/slide-060.webp",
+      "text": "a crowd of about 1 5 thousand people , Gandhi gave the message of patriotism and was active in national programs to all. Shaukat Ali jocularly said, \"...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s1e09-061",
+      "type": "content",
+      "image": "images/series1/ep09/slide-061.webp",
+      "text": "an elephant and Gandhi is like a goat\", people laughed a lot at this. Then Maulana Shaukat Ali further said that, \"E ven if I die, it will not be...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s1e09-062",
+      "type": "content",
+      "image": "images/series1/ep09/slide-062.webp",
+      "text": "of any use, but Gandhi is still useful for everyone, and will remain useful even after death \" . Then people understood the context of the elephant a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s1e09-063",
+      "type": "content",
+      "image": "images/series1/ep09/slide-063.webp",
+      "text": "Raipur District Congress Committee In the 1920's visit, Gandhi stayed for only one day, but he had woven the dream of independent India in the people ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s1e09-064",
+      "type": "content",
+      "image": "images/series1/ep09/slide-064.webp",
+      "text": "seeing the resentment among the people against the British, had awakened the spirit of patriotism into the people. At the same time the Raipur Distric...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s1e09-065",
+      "type": "content",
+      "image": "images/series1/ep09/slide-065.webp",
+      "text": "Pt. Ravi Shankar Shukla was made its first secretary. Gandhi traveling in the third class The way the people experienced Gandhi's personality in this ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s1e09-066",
+      "type": "content",
+      "image": "images/series1/ep09/slide-066.webp",
+      "text": "words of freedom fighter Prabhu Lal Kabra: \"I saw Gandhi on the platform of Raipur, in the same postal train, Dadasaheb Khapard, Dr. Munje, etc. were ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s1e09-067",
+      "type": "content",
+      "image": "images/series1/ep09/slide-067.webp",
+      "text": "All these leaders got down from the first class or second class compartment on the platform but Gandhi was not visible in them and the eyes of the cro...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s1e09-068",
+      "type": "content",
+      "image": "images/series1/ep09/slide-068.webp",
+      "text": "looking for Gandhi. Someone told that he was sitting in the third-class compartment, the public ran on the same side and people saw that Gandhi, weari...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s1e09-069",
+      "type": "content",
+      "image": "images/series1/ep09/slide-069.webp",
+      "text": "Kurta , was standing at the door of the third-class compartment with folded hands, till then the train started moving. There was only one thing on the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s1e09-070",
+      "type": "content",
+      "image": "images/series1/ep09/slide-070.webp",
+      "text": "people around, that seeing Gandhi going in the third class, the public got emotional after realizing his simplicity and people became convinced that o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s1e09-071",
+      "type": "content",
+      "image": "images/series1/ep09/slide-071.webp",
+      "text": "downtrodden Indian people properly.\" The tilting point of Quit India was a quarter of a century away. Having partook in the South African civil right...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s1e09-072",
+      "type": "content",
+      "image": "images/series1/ep09/slide-072.webp",
+      "text": "-violently, in the heat of battle with his ambulance brotherhood, he was preparing for a peaceful assault on the jewel in the Crown. His earliest expe...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s1e09-073",
+      "type": "content",
+      "image": "images/series1/ep09/slide-073.webp",
+      "text": "Bharat darshan of the kind that a contemporary Gandhi hazards now and also, with indifferent results. Mohandas did it more totally, criss- crossing th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s1e09-074",
+      "type": "content",
+      "image": "images/series1/ep09/slide-074.webp",
+      "text": "a half times. He spent between six and nine months of that time in third-class chambers, traveling from Karachi to Calcutta, from Lahore to Tranquebar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s1e09-075",
+      "type": "content",
+      "image": "images/series1/ep09/slide-075.webp",
+      "text": "1919, at which the Khilafat Movement was endorsed and Non-Co-0pration was adopted as a political weapon, the District Conference was held at Raipur in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s1e09-076",
+      "type": "content",
+      "image": "images/series1/ep09/slide-076.webp",
+      "text": "held on 17 March 1920 and a Khilafat sub-committee was formed. When Asgar Ali thanked the Hindu brethren for their sympathy for the Muslim cause, Ravi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s1e09-077",
+      "type": "content",
+      "image": "images/series1/ep09/slide-077.webp",
+      "text": "are no more Hindu and Muslims, but Hindustanis in the strictest sense.\" Such was the spirit of those times. Those were the days of brisk and militant...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s1e09-078",
+      "type": "content",
+      "image": "images/series1/ep09/slide-078.webp",
+      "text": "before the Nagpur session of the Congress, Mahatma Gandhi visited Raipur, with the Ali brothers, on 20 December 1920 in connection with Tilak Fund and...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s1e09-079",
+      "type": "content",
+      "image": "images/series1/ep09/slide-079.webp",
+      "text": "and Kurud also, where people expressed their regard by a good deal of contribution to the Fund. It was in such an atmosphere that the Raipur District ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s1e09-080",
+      "type": "content",
+      "image": "images/series1/ep09/slide-080.webp",
+      "text": "- Gazetteer of India, Madhya Pradesh, District Raipur, 1973 1933: Mahatma Gandhi's S econd Visit to Chhattisgarh Tilak &amp; Swaraj Fund November 22, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s1e09-081",
+      "type": "content",
+      "image": "images/series1/ep09/slide-081.webp",
+      "text": "in Durg, left for Raipur in the same night, a historic procession from Amapara to Budhapara, in Ra i pur. November 23, Visit Khadi and Swadeshi Exhibi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s1e09-082",
+      "type": "content",
+      "image": "images/series1/ep09/slide-082.webp",
+      "text": "(Motibagh), public meeting at Moudapara, visit Satnam Samaj Ashram and Orphanage. November 24, Public m eeting in Bilaspur, returned to Raipur by trai...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s1e09-083",
+      "type": "content",
+      "image": "images/series1/ep09/slide-083.webp",
+      "text": "(present Sapre School) November 25, Public Meeting in Dhamtari . November 26, Visit to Saragaon, Kharora, Palari, Kanaki, Balodabazar, and Simga Novem...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s1e09-084",
+      "type": "content",
+      "image": "images/series1/ep09/slide-084.webp",
+      "text": "28, Left for Balaghat, from where he went to Katni. For the first time, a rush of people arriving from far and wide was visible in the urban areas. In...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s1e09-085",
+      "type": "content",
+      "image": "images/series1/ep09/slide-085.webp",
+      "text": "the cities where Gandhi had meetings, people were arriving a week ago, either on foot or by Bailgadi (bull cart). Even before coming to the city, he w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
