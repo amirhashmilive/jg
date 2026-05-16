@@ -1,1 +1,1029 @@
-﻿{ "series": 1, "episode": 2, "title": "Blood of the First Martyr", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 1,
+  "episode": 2,
+  "title": "Episode 02",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s1e02-001",
+      "type": "content",
+      "image": "images/series1/ep02/slide-001.webp",
+      "text": "prepare the public against untouchability, it was a coincidence that his journey started from Chhattisgarh. He reached Durg on 22 November, made Raipu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s1e02-002",
+      "type": "content",
+      "image": "images/series1/ep02/slide-002.webp",
+      "text": "27 November at Dhamtari, Nawapara Rajim, Balodabazar , and Bilaspur. In every meeting, he called upon the people of every class to free them from the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s1e02-003",
+      "type": "content",
+      "image": "images/series1/ep02/slide-003.webp",
+      "text": "from society. Wherever Gandhi went to see him, thousands of people gathered to see him, people were eager to see him, hear him and touch his feet, Gan...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s1e02-004",
+      "type": "content",
+      "image": "images/series1/ep02/slide-004.webp",
+      "text": "to meet people with ease and made them aware of his thoughts and inspired them. In November 1933, Gandhi was engaged in the works of untouchable emanc...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s1e02-005",
+      "type": "content",
+      "image": "images/series1/ep02/slide-005.webp",
+      "text": "days. He got the Harijans entered the temple of Jayatu Sav Math located in the old township of Raipur. He also visited a Satnami Samaj temple located ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s1e02-006",
+      "type": "content",
+      "image": "images/series1/ep02/slide-006.webp",
+      "text": ", and inaugurated an indigenous fair at Moti Bagh in Raipur, in which a crowd of one lakh people had gathered to see Gandhi. On the last day of his...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s1e02-007",
+      "type": "content",
+      "image": "images/series1/ep02/slide-007.webp",
+      "text": "second visit, Gandhi gave his speech to the princes studying in Rajkumar College, Raipur. In this speech, Mahatma Gandhi had taught to build a welfare...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s1e02-008",
+      "type": "content",
+      "image": "images/series1/ep02/slide-008.webp",
+      "text": "the people, he had said that the children of kings start adopting the bad habits of the British away from the Indian language and culture, whereas in ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s1e02-009",
+      "type": "content",
+      "image": "images/series1/ep02/slide-009.webp",
+      "text": "of the king live like a common man. In our country, the goodness of the British is not adopted by the kings, while the bad habits of the British like...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s1e02-010",
+      "type": "content",
+      "image": "images/series1/ep02/slide-010.webp",
+      "text": "drinking and gambling are easily adopted. Gandhi had taught them to avoid them, after finishing the tour of Chhattisgarh, Gandhi went to Itarsi via Ba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s1e02-011",
+      "type": "content",
+      "image": "images/series1/ep02/slide-011.webp",
+      "text": "the first time as Mohandas, the second time as a Mahatma, and during both these visits Gandhi influenced the society and every person of Chhattisgarh....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s1e02-012",
+      "type": "content",
+      "image": "images/series1/ep02/slide-012.webp",
+      "text": "Ravi Shankar Shukla, Thakur Pyarelal Singh, Khubchand Baghel, Ghanshyam Singh Gupta, E. Raghavendra Rao, Babu Chhotelal Srivastava were influenced by ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s1e02-013",
+      "type": "content",
+      "image": "images/series1/ep02/slide-013.webp",
+      "text": "for life. Early Era of Revolutionaries i n Chhattisgarh The First Upheaval Occurred i n Chhattisgarh Revo lt of Paralkot , and Veer Gaind Singh After ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s1e02-014",
+      "type": "content",
+      "image": "images/series1/ep02/slide-014.webp",
+      "text": "rebellion of 1774, the Maratha ruler Diwans and the British completely engulf the flags of their authority on the land of Bastar, and they started cel...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s1e02-015",
+      "type": "content",
+      "image": "images/series1/ep02/slide-015.webp",
+      "text": "on the tribals of Chhattisgarh. Unlimited harvesting of forest woods, taking work from the people here, excessive unnecessary taxes were collected on ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s1e02-016",
+      "type": "content",
+      "image": "images/series1/ep02/slide-016.webp",
+      "text": "home, the forest was not liked at all, but in 1779, the organization of Halba was completely broken after seeing the conspiracy of Ajmer Singh, the ki...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s1e02-017",
+      "type": "content",
+      "image": "images/series1/ep02/slide-017.webp",
+      "text": "effect of the death of the king was that for many years no one thought it appropriate to blow the trumpet of rebellion in Dongar or the surrounding ar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s1e02-018",
+      "type": "content",
+      "image": "images/series1/ep02/slide-018.webp",
+      "text": "the ease of movement in the 1820s, the newly appointed Captain Pebe chose Paralkot as his stronghold, at that time he was Raja Mahipal Dev, who belong...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s1e02-019",
+      "type": "content",
+      "image": "images/series1/ep02/slide-019.webp",
+      "text": "' s lineage but was a supporter of the British. The Abhujmadi tribe was mainly in Paralkot, they could not tolerate the atrocities on them, eventually...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s1e02-020",
+      "type": "content",
+      "image": "images/series1/ep02/slide-020.webp",
+      "text": "leading all the Abhujmadis, called for British free Bastar, which was known as the Rebellion of Paralkot, whose original purpose was to be free Bastar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s1e02-021",
+      "type": "content",
+      "image": "images/series1/ep02/slide-021.webp",
+      "text": "165 villages within the Paralkot Zamindari, and Paralkot was the headquarters of the Zamindari. Paralkot, situated on the banks of river Kotri, is a f...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s1e02-022",
+      "type": "content",
+      "image": "images/series1/ep02/slide-022.webp",
+      "text": "Chandrapur district of Maharashtra, where three rivers meet. With the help of mountains and dense forests, the British were eluded for a year, which t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s1e02-023",
+      "type": "content",
+      "image": "images/series1/ep02/slide-023.webp",
+      "text": "tribal forest became a strong weapon in front of the English guns. Thousands of forest dwellers started attacking by ambushing the English officers an...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s1e02-024",
+      "type": "content",
+      "image": "images/series1/ep02/slide-024.webp",
+      "text": "and spears. Along with men, women were also participants in this rebellion, wherever the enemy could be seen, he would have been put to death. Their m...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s1e02-025",
+      "type": "content",
+      "image": "images/series1/ep02/slide-025.webp",
+      "text": "Ghotul where the strategies of rebellion were made. Abujhmadia used to come out in groups of five to five hundred. Some are led by women, some by men....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s1e02-026",
+      "type": "content",
+      "image": "images/series1/ep02/slide-026.webp",
+      "text": "Singh kept leading them in a planned manner. \" Gotul \" is a spacious tribal hut surrounded by earthen or wooden walls. It is an integral part of Gond...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s1e02-027",
+      "type": "content",
+      "image": "images/series1/ep02/slide-027.webp",
+      "text": "Muria tribal life in regions of Chhattisgarh and the neighboring areas in Madhya Pradesh, Maharashtra, and Andhra Pradesh in India. Abujhmad is made u...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s1e02-028",
+      "type": "content",
+      "image": "images/series1/ep02/slide-028.webp",
+      "text": "meaning \" that which cannot be understood ,\" and \"˜ Maad ' meaning \" mountain \" in Gondi. The Zamindari of Paralkot (Bastar) used to come to the Abu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s1e02-029",
+      "type": "content",
+      "image": "images/series1/ep02/slide-029.webp",
+      "text": "of \"‹\"‹ Bastar. Angered by the presence of non-tribals in the tribal area and their arbitrariness, on January 4, 1825, after leaving the village, cave...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s1e02-030",
+      "type": "content",
+      "image": "images/series1/ep02/slide-030.webp",
+      "text": "the tribals gathered at Paralkot. They were armed with their traditional weapons. British superintendent of Chhattisgarh Agnew had to intervene direct...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s1e02-031",
+      "type": "content",
+      "image": "images/series1/ep02/slide-031.webp",
+      "text": "Singh did not consider it appropriate to bow down, Agnew called a large army from Chandrapur . T he combined forces of the British and the Marathas la...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s1e02-032",
+      "type": "content",
+      "image": "images/series1/ep02/slide-032.webp",
+      "text": "Paralkot on 10 January 1825 and surrounded Paralkot from all sides , the traditional weapons of the Abujhmadis failed to withstand the modern weaponry...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s1e02-033",
+      "type": "content",
+      "image": "images/series1/ep02/slide-033.webp",
+      "text": "his arrest , the agitation came to a halt. Ten days after his arrest, on January 20, 1825, Gaind Singh was hanged in front of the palace of Paralkot ....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s1e02-034",
+      "type": "content",
+      "image": "images/series1/ep02/slide-034.webp",
+      "text": "Gaind Singh became immortal as the first martyr in the history of Chhattisgarh. But the soil of Dakshin Kosal, present-day Chhattisgarh, lit up with t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s1e02-035",
+      "type": "content",
+      "image": "images/series1/ep02/slide-035.webp",
+      "text": "son, and this light further set fire to the piles of dry leaves of the rebellions. When the Bhonsle dynasty of Nagpur was defeated by the East India C...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s1e02-036",
+      "type": "content",
+      "image": "images/series1/ep02/slide-036.webp",
+      "text": "1818. Then the state of Chhattisgarh passed into the hands of the British based on the treaty. With him, the British were lying in Chhattisgarh. Then ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s1e02-037",
+      "type": "content",
+      "image": "images/series1/ep02/slide-037.webp",
+      "text": "public by establishing their state system here. The Ahmadis who liked independence competed against him strongly. Which was led by Zamindar Gaind S in...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s1e02-038",
+      "type": "content",
+      "image": "images/series1/ep02/slide-038.webp",
+      "text": "of fighting the British for the first time in the country. Their leader, the Zamindar of Parlakot, organized the army of Abujhmadis and tried to drive...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s1e02-039",
+      "type": "content",
+      "image": "images/series1/ep02/slide-039.webp",
+      "text": "army. Hundreds of Abujhmadis sacrificed their lives, but in front of the modern weapons of the British, the native guns and arrows command of the Abuj...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s1e02-040",
+      "type": "content",
+      "image": "images/series1/ep02/slide-040.webp",
+      "text": "Parlakot was surrounded. Their leader Balsingh was arrested . He was hanged on 20 January 1 825 in front of the palace of Parlakot. While leading the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s1e02-041",
+      "type": "content",
+      "image": "images/series1/ep02/slide-041.webp",
+      "text": "of Chhattisgarh, he laid down his life and sacrificed his life. Gaind Singh, the Zamindar of Paralkot, has the title of Shaheed Shiromani. The members...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s1e02-042",
+      "type": "content",
+      "image": "images/series1/ep02/slide-042.webp",
+      "text": "are leading a life of oblivion. The area of \"‹\"‹ Bastar division which is adjacent to the border of Maharashtra and Madhya Pradesh is called Paralkot....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s1e02-043",
+      "type": "content",
+      "image": "images/series1/ep02/slide-043.webp",
+      "text": "the city of Pakhanjur, and there are villages of Bengalis who have migrated from Bangladesh. Tribal R e volts R evol t of Halba 1774-79 Revolt of Bhop...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s1e02-044",
+      "type": "content",
+      "image": "images/series1/ep02/slide-044.webp",
+      "text": "of Paralkot 1825 Revolt of Tarapur 1842-54 Revolt of Meria 1842-63 R e volt of Lingagiri 1856-57 Revolt of Koei ' s 1859 Revolt of Muria ' s 1876 Revo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s1e02-045",
+      "type": "content",
+      "image": "images/series1/ep02/slide-045.webp",
+      "text": "of Queen Choris 1878-82 Revol t of Bhumkal 1910 In the context of Chhattisgarh, the tribal movement means the movement of the tribals of Bastar becaus...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s1e02-046",
+      "type": "content",
+      "image": "images/series1/ep02/slide-046.webp",
+      "text": "- dominated area and almost all the tribal movements have taken place in this region 's Parganas . The rebellion movements were carried out by the tri...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s1e02-047",
+      "type": "content",
+      "image": "images/series1/ep02/slide-047.webp",
+      "text": "a group of villages or a subdivision of a district in India) Revolt of Halba 1774-79 , Ajmer Singh The Halba rebellion took place in the Dongar area (...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s1e02-048",
+      "type": "content",
+      "image": "images/series1/ep02/slide-048.webp",
+      "text": "Halba tribes in Bastar Chhattisgarh) against British armies and the Marathas . The Chalukya rulers failed to stop him and he fell. They became subject...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s1e02-049",
+      "type": "content",
+      "image": "images/series1/ep02/slide-049.webp",
+      "text": "the conspiracy of the Company government. Dongar was once an independent state of Halba which was later included in the princely state of Bastar. Afte...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s1e02-050",
+      "type": "content",
+      "image": "images/series1/ep02/slide-050.webp",
+      "text": "Bastar made it the vice-capital and appointed his sons as the governor there. Raja Dalpat Singh of Bastar appointed his son Ajmer Singh as the governo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s1e02-051",
+      "type": "content",
+      "image": "images/series1/ep02/slide-051.webp",
+      "text": "year 1774, when Dariyavdev became the new king of Bastar, he grossly neglected the Dongar area and started putting pressure on Ajmer Singh out of enmi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s1e02-052",
+      "type": "content",
+      "image": "images/series1/ep02/slide-052.webp",
+      "text": "there was a severe famine in the Dongar area and there was chaos a t the same time, Daryavdev attacked Dongar , Kanker ' s army was deployed for secur...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s1e02-053",
+      "type": "content",
+      "image": "images/series1/ep02/slide-053.webp",
+      "text": "A fierce battle ensued between the two armies. Daryavdev was defeated and fled to the capital Jagdalpur. The position of the rebels was strengthened. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s1e02-054",
+      "type": "content",
+      "image": "images/series1/ep02/slide-054.webp",
+      "text": "doing this they wanted to stop the interference of the Company government in Jagdalpur. The rebels continued to advance and Daryavadev ' s army was de...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s1e02-055",
+      "type": "content",
+      "image": "images/series1/ep02/slide-055.webp",
+      "text": "kingdom of Jaipur. Staying in Jaipur, Daryavadev tried to regain his lost power. Daryavadev made separate treaties with the Company Government, the Ma...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s1e02-056",
+      "type": "content",
+      "image": "images/series1/ep02/slide-056.webp",
+      "text": "prepared a large army of 20,000 soldiers. With the help of this army, he defeated the rebels at Jagdalpur. Establishing his authority in Jagdalpur, Da...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s1e02-057",
+      "type": "content",
+      "image": "images/series1/ep02/slide-057.webp",
+      "text": "killed in the battle. The Halba rebels were massacred on a large scale. Thus, the Halba rebellion came to an end. But due to this , the position of th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s1e02-058",
+      "type": "content",
+      "image": "images/series1/ep02/slide-058.webp",
+      "text": "Raja of Jagdalpur became very weak. Bastar fell under the Maratha Bhonslas and paved the way for the arrival of the British in the future. After the e...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s1e02-059",
+      "type": "content",
+      "image": "images/series1/ep02/slide-059.webp",
+      "text": "rebellion, Raja Dariyavdev of Bastar signed a treaty on April 6, 1778, according to which he had to accept the subjugation of the Bhonsals. The Raj a ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s1e02-060",
+      "type": "content",
+      "image": "images/series1/ep02/slide-060.webp",
+      "text": "to give Kotpad P argana as a reward in return for his help. Revolt of Bhopalpatnam 1795 This struggle was limited and short-lived. In the year 1795, w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s1e02-061",
+      "type": "content",
+      "image": "images/series1/ep02/slide-061.webp",
+      "text": "traveler Captain JT Blunt reached the border of Bastar, the tribals did not allow him, opposing his entry into Jagdalpur. As a result, Blunt w as forc...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s1e02-062",
+      "type": "content",
+      "image": "images/series1/ep02/slide-062.webp",
+      "text": "Calcutta, it was a short - term struggle . Revolt of Paralkot 1825 , Gaind Singh The revolt of the Abujhmadis against the Marathas and British officer...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s1e02-063",
+      "type": "content",
+      "image": "images/series1/ep02/slide-063.webp",
+      "text": "Zamindari area is known as the \" Revolt of Paralkot \" . Gaind Singh led this rebellion. Abujhmad rebels were armed with arrows, axes , etc. They used...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s1e02-064",
+      "type": "content",
+      "image": "images/series1/ep02/slide-064.webp",
+      "text": "their comrades by playing the drums and attack the Marathas and British officers. They used the guerilla method of war. They were troubled by the pres...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s1e02-065",
+      "type": "content",
+      "image": "images/series1/ep02/slide-065.webp",
+      "text": "in this tribal area. So the non-tribals were their target. In such a situation, the combined forces of the Marathas and the British besieged Paralkot ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s1e02-066",
+      "type": "content",
+      "image": "images/series1/ep02/slide-066.webp",
+      "text": "rebel leader Gaind Singh was arrested and hanged in front of the palace. The biggest reason for the failure of Gaind Singh was that the Abujhmadis had...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s1e02-067",
+      "type": "content",
+      "image": "images/series1/ep02/slide-067.webp",
+      "text": "the opponents had modern weapons. Revolt of Tarapur 1842-54 , Lal Dalganjan Singh The Maratha rule had increase d the Takoli of Tarapur P argana, whic...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s1e02-068",
+      "type": "content",
+      "image": "images/series1/ep02/slide-068.webp",
+      "text": "Dalganjan Singh , the governor of Tarapur. The tribals advised Lal Dalganjan Singh to revolt against the Anglo-Maratha rule. The tribal farmers of Tar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s1e02-069",
+      "type": "content",
+      "image": "images/series1/ep02/slide-069.webp",
+      "text": "due to foreign rule. Illegal taxes were being collected from this area. He held Dewan Jagabandhu responsible for many types of taxation on the tribals...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s1e02-070",
+      "type": "content",
+      "image": "images/series1/ep02/slide-070.webp",
+      "text": "day after getting a chance and presented him in front of his leader Lal Dalganjan Singh . At the request of Bastar King Bhupal Dev, who was the brothe...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s1e02-071",
+      "type": "content",
+      "image": "images/series1/ep02/slide-071.webp",
+      "text": "Governor Lal Dalganjan Singh , Lal Dalganjan Singh left the Diwan despite the opposition of the tribals. After his release, Diwan Jagabandhu went to N...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s1e02-072",
+      "type": "content",
+      "image": "images/series1/ep02/slide-072.webp",
+      "text": "to crush this rebellion. Accordingly, the Nagpur A rmy moved towards Bastar. He fought against the tribals of Tarapur. The rebel army was defeated. La...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s1e02-073",
+      "type": "content",
+      "image": "images/series1/ep02/slide-073.webp",
+      "text": "To pacify the revolt ing spirit of the tribals, the Diwan was later removed and all the taxes imposed by him on the tribal ryots were removed. This ca...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s1e02-074",
+      "type": "content",
+      "image": "images/series1/ep02/slide-074.webp",
+      "text": "tribals. Lal Dalganjan Singh was taken to Nagpur. He was sentenced to 6 months in prison. Revolt of Me ria 1842-63 , Hidma Manjhi It was a rebellion a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s1e02-075",
+      "type": "content",
+      "image": "images/series1/ep02/slide-075.webp",
+      "text": "invasions of their traditions against the Anglo-Maratha rule by the Meria tribesmen of Dantewada. The revolt was triggered by the interference of the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s1e02-076",
+      "type": "content",
+      "image": "images/series1/ep02/slide-076.webp",
+      "text": "the practice of sacrifices by the Meriya tribesmen at the Dantewada temple. The British government ordered the king of Bastar to end the practice of h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s1e02-077",
+      "type": "content",
+      "image": "images/series1/ep02/slide-077.webp",
+      "text": "the tradition continued. Accordingly , an army from Nagpur was deployed in the temple of Dantewada to stop the human sacrifice. Angered by this incide...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s1e02-078",
+      "type": "content",
+      "image": "images/series1/ep02/slide-078.webp",
+      "text": "Dantewada area prohibited, Sher Khan, the then Tehsildar of Raipur, was sent there to stop the human sacrifice. Shyam Sundar Jia, the then priest of t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s1e02-079",
+      "type": "content",
+      "image": "images/series1/ep02/slide-079.webp",
+      "text": "action of the British government and instigated the tribals to revolt. Meria rebels led by Hidma Manjhi demanded the withdrawal of troops from Dantewa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s1e02-080",
+      "type": "content",
+      "image": "images/series1/ep02/slide-080.webp",
+      "text": "the contrary , the soldiers started oppressing the M a riya people. Due to this , the rebels started attacking covertly. In such a situation , an addi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s1e02-081",
+      "type": "content",
+      "image": "images/series1/ep02/slide-081.webp",
+      "text": "called in and with its help , the rebellion was crushed. Revolt of Lingagiri 1856-57 , Dhurva Rao Madia British rule was established in Chhattisgarh i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s1e02-082",
+      "type": "content",
+      "image": "images/series1/ep02/slide-082.webp",
+      "text": "of the exploitation and repression policy of the British officers, Dhurva Rao Madia , the Talukdar of Lingagiri Taluka of Bhopalpatnam Zamindari area,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s1e02-083",
+      "type": "content",
+      "image": "images/series1/ep02/slide-083.webp",
+      "text": "On March 3, 1856, there was a war between the British and the soldiers of Dhurva Rao at Chintalwar. The zamindar of Bhopalpatnam was injured while fig...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s1e02-084",
+      "type": "content",
+      "image": "images/series1/ep02/slide-084.webp",
+      "text": "of the British in the war. Dhurva Rao was captured by the British and hanged on March 5, 1856. The taluka of Dhurva Rao was given to the zamindar of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s1e02-085",
+      "type": "content",
+      "image": "images/series1/ep02/slide-085.webp",
+      "text": "Bhopalpatnam because he had helped the British. Revolt of Koei 1859 , Nangul Dorla In the year 1859, local landlords and some tribals of southern Bast...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
