@@ -1,1 +1,1029 @@
-﻿{ "series": 2, "episode": 4, "title": "The Mahatma Returns", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 2,
+  "episode": 4,
+  "title": "Episode 04",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s2e04-001",
+      "type": "content",
+      "image": "images/series2/ep04/slide-001.webp",
+      "text": "neglected people, a reinterpretation of industrialization, revitalize Chhattisgarh, keeping tribal-tribal tribes and agriculture at the center. Since ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s2e04-002",
+      "type": "content",
+      "image": "images/series2/ep04/slide-002.webp",
+      "text": "continued to be neglected in the separate state of Chhattisgarh. Shankar Guha Niyogi and his party \" Chhattisgarh Mukti Morcha \" were similar powers,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s2e04-003",
+      "type": "content",
+      "image": "images/series2/ep04/slide-003.webp",
+      "text": "separate Chhattisgarh. The movements of the creation of separate Chhattisgarh and its history-writing were mentioned many times about the exploitation...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s2e04-004",
+      "type": "content",
+      "image": "images/series2/ep04/slide-004.webp",
+      "text": "exploitation were not disclosed. The passionate imagination of a class-zero Chhattisgarhi society was deliberate so that the Chhattisgarhi spirit coul...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s2e04-005",
+      "type": "content",
+      "image": "images/series2/ep04/slide-005.webp",
+      "text": "threat to Chhattisgarh. While defining \" Chhattisgarhi Kaun \" , how the Chhattisgarh Mukti Morcha presented itself and identified the enemies of Chha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s2e04-006",
+      "type": "content",
+      "image": "images/series2/ep04/slide-006.webp",
+      "text": "of Chhattisgarh did not like it at all. For Chhattisgarh Mukti Morcha, all those people were enemies of Chhattisgarhi people who are associated with a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s2e04-007",
+      "type": "content",
+      "image": "images/series2/ep04/slide-007.webp",
+      "text": "their language is Chhattisgarhi. For this reason, many people from the rural areas joined the Chhattisgarh Mukti Morcha. Shankar Guha Niyogi and Chhat...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s2e04-008",
+      "type": "content",
+      "image": "images/series2/ep04/slide-008.webp",
+      "text": "Organized people for this by issuing several small booklets. But his Chhattisgarh was not merely a linguistic unit or a linguistic facility, but after...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s2e04-009",
+      "type": "content",
+      "image": "images/series2/ep04/slide-009.webp",
+      "text": "was being used was a dream of liberation. By issuing a booklet, he also propagated that the demand for a new Chhattisgarh is democratic. ' In Chhattis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s2e04-010",
+      "type": "content",
+      "image": "images/series2/ep04/slide-010.webp",
+      "text": "s concept of Chhattisgarh, the linguistic element was not neglected, rather it was used as a supporting element of nationality. In 1989, he issued a c...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s2e04-011",
+      "type": "content",
+      "image": "images/series2/ep04/slide-011.webp",
+      "text": "be imparted in Gondi, Halbi, and Chhattisgarhi in Chhattisgarh. Not only this, while disclosing the intentions of the Chhattisgarh leaders active in t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s2e04-012",
+      "type": "content",
+      "image": "images/series2/ep04/slide-012.webp",
+      "text": "Today Chhattisgarh capitalists and lower capitalists are getting more and more excited about the idea of \"‹\"‹ the formation of Chhattisgarh state and ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s2e04-013",
+      "type": "content",
+      "image": "images/series2/ep04/slide-013.webp",
+      "text": "formation of a separate state is also growing among the farmers. Therefore, the working class has to take an active part in this subject. If this camp...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s2e04-014",
+      "type": "content",
+      "image": "images/series2/ep04/slide-014.webp",
+      "text": "in a clear direction and it is not combined with the question of people ' s freedom struggle, then it can go in the wrong direction. Fiery superstitio...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s2e04-015",
+      "type": "content",
+      "image": "images/series2/ep04/slide-015.webp",
+      "text": "the entire campaign. For those who were associated with active politics or supported it psychologically concerning the segregation of Chhattisgarh, th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s2e04-016",
+      "type": "content",
+      "image": "images/series2/ep04/slide-016.webp",
+      "text": "at the top of governance. He was often silent about criticism of policies. Dr. Khubchand Baghel did raise important issues in the early days of Chhatt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s2e04-017",
+      "type": "content",
+      "image": "images/series2/ep04/slide-017.webp",
+      "text": "criticism of Nehru ' s policies and declaring the support price of paddy, but later he was satisfied with the post of president of the Kurmi organizat...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s2e04-018",
+      "type": "content",
+      "image": "images/series2/ep04/slide-018.webp",
+      "text": "not inconvenient for any Chhattisgarhi because only being Chhattisgarhi proved his love for this region valid. Whereas to walk the path of Niyogi, it ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s2e04-019",
+      "type": "content",
+      "image": "images/series2/ep04/slide-019.webp",
+      "text": "and facilities of the exploiters. How deep the relation of nationalism to language is, the biggest proof of this is the neglect of Niyogi in the memor...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s2e04-020",
+      "type": "content",
+      "image": "images/series2/ep04/slide-020.webp",
+      "text": "of Chhattisgarh. Niyogi ' s path was the complete opposite of achieving \" Swabhasha se Swarajya \" (Self State By Self Language) . He considered langu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s2e04-021",
+      "type": "content",
+      "image": "images/series2/ep04/slide-021.webp",
+      "text": "way of achieving \" Swarajya \" . So although he survived being a victim of ideological contradictions, he was unsuccessful as far as evoking an emotio...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s2e04-022",
+      "type": "content",
+      "image": "images/series2/ep04/slide-022.webp",
+      "text": "of Chhattisgarh was concerned. In his new Chhattisgarh, only those people joined, whose status was that of a laborer in Chhattisgarh. In terms of lang...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s2e04-023",
+      "type": "content",
+      "image": "images/series2/ep04/slide-023.webp",
+      "text": "Stalin, who considered language as a mere tool like a machine. The Chhattisgarhi experiment of Niyogi challenged the concept of the basic concept on w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s2e04-024",
+      "type": "content",
+      "image": "images/series2/ep04/slide-024.webp",
+      "text": "as India was based. The leadership class that reached the top of politics in colonial India fell victim to many contradictions on the question of lang...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s2e04-025",
+      "type": "content",
+      "image": "images/series2/ep04/slide-025.webp",
+      "text": "building a liberal nation by sensing linguistic society was bound to face the problem of clashes of nationalities and sub-nationalities since the 1930...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s2e04-026",
+      "type": "content",
+      "image": "images/series2/ep04/slide-026.webp",
+      "text": "name of national unity could be kept for a time, but they could not be finally settled. In independent India, Pt. Nehru also adopted the policy of avo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s2e04-027",
+      "type": "content",
+      "image": "images/series2/ep04/slide-027.webp",
+      "text": "impact on regional politics was not good. The linguistic nations had moved towards being aggressive. He had taken a certain emotional form. No wonder,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s2e04-028",
+      "type": "content",
+      "image": "images/series2/ep04/slide-028.webp",
+      "text": "the efforts of Niyogi and Chhattisgarh Mukti Morcha to implement Chhattisgarhi nationality amid all these circumstances. Social Reformers of Chhattisg...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s2e04-029",
+      "type": "content",
+      "image": "images/series2/ep04/slide-029.webp",
+      "text": "and rebellions it's witnessed. For time and again one or the opposite rose against the established social structures and practices. While the tribal p...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s2e04-030",
+      "type": "content",
+      "image": "images/series2/ep04/slide-030.webp",
+      "text": "and to preserve their culture, the opposite weaker sections just like the Dalits condemned the religious and social atrocities. As a result of this re...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s2e04-031",
+      "type": "content",
+      "image": "images/series2/ep04/slide-031.webp",
+      "text": "like the Ramnami Panth, Satnam Panth, Kabir Panth, and therefore the Rae Das Panth were formed. Ramananda was an eminently social and non-secular refo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s2e04-032",
+      "type": "content",
+      "image": "images/series2/ep04/slide-032.webp",
+      "text": "one among his many fans, a Dalit - Ravi Das, or fondly called Rae Das was a committed disciple of Ramananda. Rae Das was highly influenced by his teac...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s2e04-033",
+      "type": "content",
+      "image": "images/series2/ep04/slide-033.webp",
+      "text": "adding his philosophical ideology, he started spreading the message of equality. Soon he caught the attention of the poorer section of the world and t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s2e04-034",
+      "type": "content",
+      "image": "images/series2/ep04/slide-034.webp",
+      "text": "found a pacesetter who will represent them. In this manner, the Rae Das Panth came into existence. The followers of the Rae Das Panth call themselves ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s2e04-035",
+      "type": "content",
+      "image": "images/series2/ep04/slide-035.webp",
+      "text": "the Rae Das Panthis. Mostly the Dalits follow this sect, which beliefs in social and non-secular equality. Ramnami Panth; The Ramnami Panth is one of ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s2e04-036",
+      "type": "content",
+      "image": "images/series2/ep04/slide-036.webp",
+      "text": "which has many followers from the Dalit community. almost like many other reform movements within the History of Chhattisgarh, the Ramnami Panth Sect ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s2e04-037",
+      "type": "content",
+      "image": "images/series2/ep04/slide-037.webp",
+      "text": "Brahman atrocities within the Hindu society. The Dalits at one point in your time faced severe discrimination and suppression. They revolted against t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s2e04-038",
+      "type": "content",
+      "image": "images/series2/ep04/slide-038.webp",
+      "text": "This mentality brought the concept of the sect, which believed Rama as their god. Even today, the follower of the sect of Ramnami denounces the Brahma...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s2e04-039",
+      "type": "content",
+      "image": "images/series2/ep04/slide-039.webp",
+      "text": "god. they might rather pray to their lord by themselves. The Ramnamis are distinguished by their caps designed with beautiful peacock feathers. They a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s2e04-040",
+      "type": "content",
+      "image": "images/series2/ep04/slide-040.webp",
+      "text": "praise of their Lord Rama. The practice of tattooing the body with the name of Rama is extremely popular among the followers of Ramnami Panth. Satnam ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s2e04-041",
+      "type": "content",
+      "image": "images/series2/ep04/slide-041.webp",
+      "text": "been a tribal-dominated area. the massive number tribal population has its own culture and customs. The history of Chhattisgarh suggests that although...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s2e04-042",
+      "type": "content",
+      "image": "images/series2/ep04/slide-042.webp",
+      "text": "Hindu religion, they rose against the hierarchal, religious, and social order. many spiritual and social reform movements happened and new sects just ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s2e04-043",
+      "type": "content",
+      "image": "images/series2/ep04/slide-043.webp",
+      "text": "and Rae Das Panth came into existence. To protest against the social atrocities and demand for equality gave birth to the Satnam Panth. The movement w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s2e04-044",
+      "type": "content",
+      "image": "images/series2/ep04/slide-044.webp",
+      "text": "of Dalits within the nineteenth century. Led by a humble farmer - Ghasidas, the movement gained momentum among the poor. They formed the Satnam Panth ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s2e04-045",
+      "type": "content",
+      "image": "images/series2/ep04/slide-045.webp",
+      "text": "(Etymology: From Sat (truth)+ Nami (Named by follower), \"Follower of truth\") . Th ey believe the superpower that's formless and that they follow the n...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s2e04-046",
+      "type": "content",
+      "image": "images/series2/ep04/slide-046.webp",
+      "text": "they are doing not enjoy drinking liquor, smoking, chewing tobacco, and refrain from eating few sorts of vegetables, red pulses, and meat. They denoun...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s2e04-047",
+      "type": "content",
+      "image": "images/series2/ep04/slide-047.webp",
+      "text": "They believe in a caste-less society and promote equality. The Satnam community comprises mainly sharecroppers and landless laborers. the primary lead...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s2e04-048",
+      "type": "content",
+      "image": "images/series2/ep04/slide-048.webp",
+      "text": "Gurus, which is hereditary. Bhandar and Girodh puri in Chhattisgarh are the most centers of the sect of Satnam Panth. Formation of Chhattisgarh in chr...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s2e04-049",
+      "type": "content",
+      "image": "images/series2/ep04/slide-049.webp",
+      "text": "the Chhattisgarh region was in Central Provinces and Berar also called C.P. &amp; Berar. In 1854, Chhattisgarh became three divisions, Raipur, Ratanpu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s2e04-050",
+      "type": "content",
+      "image": "images/series2/ep04/slide-050.webp",
+      "text": "were reconstituted and 5 Tehsils were established - Raipur, Dhamtari, Ratanpur, Dhamdha, Jawagarh. In the 1951 census, the Chhattisgarh region was wit...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s2e04-051",
+      "type": "content",
+      "image": "images/series2/ep04/slide-051.webp",
+      "text": "on a linguistic basis in the year 1956, the then MLA Thakur Ramakrishna Singh demanded the formation of a separate state with the Chhattisgarhi dialec...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s2e04-052",
+      "type": "content",
+      "image": "images/series2/ep04/slide-052.webp",
+      "text": ", Sundarlal Sharma was envisaged in Chhattisgarh state. In 1924, Vamanrao Lakhe demanded a separate Congress Committee for Chhattisgarh. In 1966, the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s2e04-053",
+      "type": "content",
+      "image": "images/series2/ep04/slide-053.webp",
+      "text": "Khubchand Baghel and public awareness campaign through Chhattisgarh poetry. In 1993, Chhattisgarh was mentioned in Congress ' s election manifesto. In...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s2e04-054",
+      "type": "content",
+      "image": "images/series2/ep04/slide-054.webp",
+      "text": "a separate government resolution related to Chhattisgarh formally and unanimously passed. After the Lok Sabha elections on March 25, 1998, the mention...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s2e04-055",
+      "type": "content",
+      "image": "images/series2/ep04/slide-055.webp",
+      "text": "in the President ' s address to the joint session of the House. Resolution on the constitution of a separate state of Chhattisgarh in Madhya Pradesh L...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s2e04-056",
+      "type": "content",
+      "image": "images/series2/ep04/slide-056.webp",
+      "text": "1, 1998 Mentioned in the election manifesto of Congress and Bharatiya Janata Party in assembly elections of 1998 The then Prime Minister Late Atal Bih...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s2e04-057",
+      "type": "content",
+      "image": "images/series2/ep04/slide-057.webp",
+      "text": "meeting that, if Bharatiya Janata Party wins all the 11 Lok Sabha constituencies, then state formation. A bill for the formation of 3 new states in th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s2e04-058",
+      "type": "content",
+      "image": "images/series2/ep04/slide-058.webp",
+      "text": "25 July 2000. On July 25, 2000, the then Home Minister LK Advani presented the Chhattisgarh Amendment Bill 2000 in the Lok Sabha. Chhattisgarh State F...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s2e04-059",
+      "type": "content",
+      "image": "images/series2/ep04/slide-059.webp",
+      "text": "Sabha on 31 July 2000. On August 9, 2000, the Rajya Sabha passed a bill with an amendment to keep the number of Rajya Sabha members intact. Bill passe...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s2e04-060",
+      "type": "content",
+      "image": "images/series2/ep04/slide-060.webp",
+      "text": "Lok Sabha and Rajya Sabha for approval of the President. Signed by the President on 28 August 2000 and notified as Act No. 28 in the Gazette of the Go...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s2e04-061",
+      "type": "content",
+      "image": "images/series2/ep04/slide-061.webp",
+      "text": "of India. Location of Chhattisgarh State History of Journalism in Chhattisgarh The history of journalism in Chhattisgarh dates back to pre-independenc...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s2e04-062",
+      "type": "content",
+      "image": "images/series2/ep04/slide-062.webp",
+      "text": "Chhattisgarh. Currently the number of newspapers and magazines being published in Chhattisgarh is more than 400. Newspapers in Chhattisgarh Year Newsp...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s2e04-063",
+      "type": "content",
+      "image": "images/series2/ep04/slide-063.webp",
+      "text": "Chhattisgarh Mitra Madhav Rao Sapre 1910 Rashtra Bandhu Thakur Pyarelal Singh 1920 Karmabhoomi Makhanlal Chaturvedi 1924 Kanya Kubj Pandit Ravi Shanka...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s2e04-064",
+      "type": "content",
+      "image": "images/series2/ep04/slide-064.webp",
+      "text": "Ravi Shankar Shukla 1942 Agrdut Saptahik *** Swarajya Prasad Trivedi 1948 Amrit Sandesh Govindlal Vora 1953 India Colling **** 1955 Chhattisgarhi Gaja...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s2e04-065",
+      "type": "content",
+      "image": "images/series2/ep04/slide-065.webp",
+      "text": "Navbharat Shivnarayan Dwivedi 1984 Bastaria ***** Lala Jagdalpuri 1991 Dainik Bhaskar Unknown 2012 Times of India Rajendra Singh *Not considered as th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s2e04-066",
+      "type": "content",
+      "image": "images/series2/ep04/slide-066.webp",
+      "text": "any printed copy. **First it was published as a weekly newspaper, then in 1951 it was published as a daily newspaper. It is the first daily newspaper ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s2e04-067",
+      "type": "content",
+      "image": "images/series2/ep04/slide-067.webp",
+      "text": "as Forerunner Weekly, weekly in 1982, currently an evening daily. ****The first newspaper published in English in Chhattisgarh *****The first newspape...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s2e04-068",
+      "type": "content",
+      "image": "images/series2/ep04/slide-068.webp",
+      "text": "and power Mineral resources Information technology Transport Tourist centers Chhattisgarh as the 26th State of the Union fulfills the long-cherished d...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s2e04-069",
+      "type": "content",
+      "image": "images/series2/ep04/slide-069.webp",
+      "text": "Odisha and the estates of Sarguja were transferred from Bengal to Chhattisgarh. Chhattisgarh is bounded by southern Jharkhand and Odisha in the east, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s2e04-070",
+      "type": "content",
+      "image": "images/series2/ep04/slide-070.webp",
+      "text": "Uttar Pradesh and western Jharkhand in the north, and Andhra Pradesh in the south. Area-wise Chhattisgarh is the ninth-largest State and population-wi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s2e04-071",
+      "type": "content",
+      "image": "images/series2/ep04/slide-071.webp",
+      "text": "Industries The economy of Chhattisgarh is largely natural resource-driven and it leverages the state ' s rich mineral resources. The key sectors where...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s2e04-072",
+      "type": "content",
+      "image": "images/series2/ep04/slide-072.webp",
+      "text": "mining, steel, aluminum, and power. One of the most mineral-rich states in India, Chhattisgarh provides a lucrative opportunity for cement production ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s2e04-073",
+      "type": "content",
+      "image": "images/series2/ep04/slide-073.webp",
+      "text": "dubbed \"Dhaan ka Katora\" ( Bowl of Rice ) of Central India, with the main crop being Paddy. Apart from paddy, cereals like maize, Kodo-K utki , and o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s2e04-074",
+      "type": "content",
+      "image": "images/series2/ep04/slide-074.webp",
+      "text": "l millets, pulses like tur and K ulthi , and oilseeds like Groundnut, Soybean, Niger , and Sunflower are also grown. Agriculture and allied activities...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s2e04-075",
+      "type": "content",
+      "image": "images/series2/ep04/slide-075.webp",
+      "text": "of the workforce in the State. Out of the geographical area of 13,790 thousand hectares, the gross cropped area is about 35 percent of the total geogr...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s2e04-076",
+      "type": "content",
+      "image": "images/series2/ep04/slide-076.webp",
+      "text": "the main cropping season. Rice is the predominant crop of the state. Other important crops are maize, wheat, niger, groundnut, and pulses. The State h...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s2e04-077",
+      "type": "content",
+      "image": "images/series2/ep04/slide-077.webp",
+      "text": "of rice germplasm. Horticulture crops are grown in an area of about 540 thousand hectares. Irrigation and Power When the State came into being, the to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s2e04-078",
+      "type": "content",
+      "image": "images/series2/ep04/slide-078.webp",
+      "text": "lakh hectares, which has now increased to 18.09 lakh hectares. Major completed projects are the Mahanadi Reservoir project, Hasdeo Bango project, Tand...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s2e04-079",
+      "type": "content",
+      "image": "images/series2/ep04/slide-079.webp",
+      "text": "(Sikasar) project, Jonk project, Kharang project, Maniyani project. The installed capacity of the state sector is 1924. 70 MW out of which 1786 MW is ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s2e04-080",
+      "type": "content",
+      "image": "images/series2/ep04/slide-080.webp",
+      "text": "hydroelectric. Power from 500 MW Korba west TPS and 1000 MW Madwa TPS shall be available. In Chhattisgarh, 97 percent of villages and 67.5 percent of ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s2e04-081",
+      "type": "content",
+      "image": "images/series2/ep04/slide-081.webp",
+      "text": "Mineral Resources Chhattisgarh has the perfect geological set up to host several economically crucial minerals. Large deposits of coal, iron ore, lime...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s2e04-082",
+      "type": "content",
+      "image": "images/series2/ep04/slide-082.webp",
+      "text": "of the state. Districts of North Chhattisgarh such as Surguja, Raigarh, Koriya, and Bilaspur are known for huge coal deposits. The state has a 46 , 68...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s2e04-083",
+      "type": "content",
+      "image": "images/series2/ep04/slide-083.webp",
+      "text": "nes reserve in coal. Chhattisgarh ranks first among states in the production of coal. The rich deposits of coal have attracted huge investment in the ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s2e04-084",
+      "type": "content",
+      "image": "images/series2/ep04/slide-084.webp",
+      "text": "coming years, the state will emerge as a major power supplier to the national grid. Information Technology Chhattisgarh has a strong history of the ad...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s2e04-085",
+      "type": "content",
+      "image": "images/series2/ep04/slide-085.webp",
+      "text": "and improvement of its working, services to its citizen, and business. Today the state commands a leading position in the adoption of information tech...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
