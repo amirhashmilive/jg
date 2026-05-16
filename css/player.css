@@ -39,7 +39,8 @@ html, body {
   scroll-snap-stop: always;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
+  align-items: center;
   overflow: hidden;
 }
 
@@ -89,43 +90,43 @@ html, body {
   border-color: var(--accent-gold);
 }
 
-/* --- Text Panel (Read Along Mode) --- */
+/* --- Text Panel — always visible, centered --- */
 .slide-text-panel {
   position: relative;
   z-index: 10;
   width: 100%;
-  padding: var(--space-2xl) var(--space-xl) var(--space-xl);
-  background: linear-gradient(
-    to top,
-    rgba(10, 10, 10, 0.95) 0%,
-    rgba(10, 10, 10, 0.8) 50%,
-    transparent 100%
-  );
-  opacity: 0;
-  transform: translateY(20px);
-  transition: opacity var(--transition-medium), transform var(--transition-medium);
-}
-
-.mode-read .slide-text-panel {
+  max-width: 860px;
+  padding: var(--space-xl) var(--space-xl);
+  margin: 0 auto;
   opacity: 1;
-  transform: translateY(0);
+  transform: none;
+  transition: opacity var(--transition-medium);
 }
 
-.mode-visual .slide-text-panel {
-  opacity: 0;
-  pointer-events: none;
+/* Keep these for backward compat but make text always show */
+.mode-read .slide-text-panel,
+.mode-visual .slide-text-panel,
+.slide-text-panel {
+  opacity: 1;
+  transform: none;
+  pointer-events: auto;
 }
 
 .slide-text {
   font-family: var(--font-body);
-  font-size: clamp(1.1rem, 2vw, 1.4rem);
+  font-size: clamp(1rem, 1.8vw, 1.35rem);
   font-weight: 300;
-  line-height: 1.8;
+  line-height: 1.9;
   color: var(--text-primary);
   max-width: 800px;
   margin: 0 auto var(--space-md);
-  text-shadow: 0 2px 4px rgba(0,0,0,0.8);
+  text-shadow: 0 1px 3px rgba(0,0,0,0.9);
   text-align: center;
+  background: rgba(10,10,10,0.75);
+  backdrop-filter: blur(6px);
+  padding: 1.5rem 2rem;
+  border-radius: 8px;
+  border: 1px solid rgba(200,168,92,0.15);
 }
 
 /* --- Progress Bar --- */
@@ -191,8 +192,15 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--black);
-    padding: 2rem;
+    background: transparent;
+    padding: 1.5rem 2rem;
+    position: absolute;
+    top: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 5;
+    width: 90%;
+    max-width: 600px;
 }
 .prompt-placeholder {
     border: 2px dashed var(--gold);
