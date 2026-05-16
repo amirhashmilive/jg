@@ -1,1 +1,1029 @@
-﻿{ "series": 2, "episode": 9, "title": "The Village Path", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 2,
+  "episode": 9,
+  "title": "Episode 09",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s2e09-001",
+      "type": "content",
+      "image": "images/series2/ep09/slide-001.webp",
+      "text": "this. Raghunath died in the year 1927. Phulkunwar used to live alone in that small hut and Manohar Math. The mother got the son married to Pochi Bai. ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s2e09-002",
+      "type": "content",
+      "image": "images/series2/ep09/slide-002.webp",
+      "text": "everyone started living together. In the movement of 1932, Phoolkunwar Bai along with Dr. Radhabai started picking in foreign textile shops. He was ar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s2e09-003",
+      "type": "content",
+      "image": "images/series2/ep09/slide-003.webp",
+      "text": "took his wife Pochi Bai to her maternal home and went to picketing. He also went to jail. In the August Revolution of 1942, Pochi Bai also went to jai...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s2e09-004",
+      "type": "content",
+      "image": "images/series2/ep09/slide-004.webp",
+      "text": "along with her mother-in-law Phoolkunwar Bai by Satyagraha. Laxmidas also went to jail after doing Satyagraha at that time. His mother Parvati Bai too...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s2e09-005",
+      "type": "content",
+      "image": "images/series2/ep09/slide-005.webp",
+      "text": "saints , and students of the temple were all imprisoned in the jail. Phoolkunwar Bai used to say: \" Mere Sare Apne Jail Me Band Hain \" ( all my...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s2e09-006",
+      "type": "content",
+      "image": "images/series2/ep09/slide-006.webp",
+      "text": "close people are in jail ) Meenakshi Devi aka Mini Mata Mini Mata ' s name was Meenakshi Devi. To know how she became Mini Mata from Meenakshi, we hav...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s2e09-007",
+      "type": "content",
+      "image": "images/series2/ep09/slide-007.webp",
+      "text": "to know her past. Meenakshi Devi liv ed in Assam with her mother Matibai . When Matibai was young, she lived in Chhattisgarh. His father was a Malguza...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s2e09-008",
+      "type": "content",
+      "image": "images/series2/ep09/slide-008.webp",
+      "text": "village named Sagona. There was a famine in Chhattisgarh from 1897 to 1899, which was so severe that people started knowing it as \" Dukaal \" . Matiba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s2e09-009",
+      "type": "content",
+      "image": "images/series2/ep09/slide-009.webp",
+      "text": "young then. He had two more sisters. One older than him, the other younger than him. His father and mother reached the city of B ilaspur with three da...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s2e09-010",
+      "type": "content",
+      "image": "images/series2/ep09/slide-010.webp",
+      "text": "they found a contractor from Assam who was a labor recruiter. With them, Matibai ' s father and family agreed to go to Assam. Both the sisters of Mati...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s2e09-011",
+      "type": "content",
+      "image": "images/series2/ep09/slide-011.webp",
+      "text": "not reach Assam. Elder sister Mati died o n the train itself. That little girl had to be abducted in the Ganges, and her younger sister, whose name wa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s2e09-012",
+      "type": "content",
+      "image": "images/series2/ep09/slide-012.webp",
+      "text": "in the Padma river. Somehow when the three together reached Assam, both father and mother passed away. Matibai was suffering from illness, someone adm...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s2e09-013",
+      "type": "content",
+      "image": "images/series2/ep09/slide-013.webp",
+      "text": "Matibai remained in the hospital. The nurses raised her with great love as a daughter. Meenakshi Devi was the daughter of the same Matibai . He studie...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s2e09-014",
+      "type": "content",
+      "image": "images/series2/ep09/slide-014.webp",
+      "text": "middle in Assam. It was in 1920 that the Swadeshi movement was going on at that time. Little Mini started wearing Swadeshi and set foreign objects on ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s2e09-015",
+      "type": "content",
+      "image": "images/series2/ep09/slide-015.webp",
+      "text": "time Guru Agamdas reached Assam to propagate the religion of Guru Gosai (of the Satnami path). Mini ' s family stayed there. He proposed marriage to M...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s2e09-016",
+      "type": "content",
+      "image": "images/series2/ep09/slide-016.webp",
+      "text": "Similarly , Meenakshi Devi became Mini Mata and came back to Chhattisgarh. Agamdas Guru was participating in the national movement. His Raipur house b...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s2e09-017",
+      "type": "content",
+      "image": "images/series2/ep09/slide-017.webp",
+      "text": "Sharma, Dr. Radha Bai, Thakur Pyarelal Singh all used to come to his house. It is because of Agamdas Guru that the entire Satnami Samaj participated i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s2e09-018",
+      "type": "content",
+      "image": "images/series2/ep09/slide-018.webp",
+      "text": "Mini Mata was like a mother to everyone. She was always ready to help those who have no one on whom society is pressurizing. Whoever was in trouble, w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s2e09-019",
+      "type": "content",
+      "image": "images/series2/ep09/slide-019.webp",
+      "text": "to Mini Mata and on seeing Mini Mata, there would be a feeling of peace in their mind. Do m any people say that the one who gives birth is...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s2e09-020",
+      "type": "content",
+      "image": "images/series2/ep09/slide-020.webp",
+      "text": "the mother? Mother is the one who, on seeing it, it seems that there is no fear of anything else. Now we have a mother. In 1951, Agamdas Guru died...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s2e09-021",
+      "type": "content",
+      "image": "images/series2/ep09/slide-021.webp",
+      "text": "suddenly. The full responsibility of Agamdas Guru fell on Mini Mata. Along with taking care of the house, she continued to do the work of the society ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s2e09-022",
+      "type": "content",
+      "image": "images/series2/ep09/slide-022.webp",
+      "text": "His son Vijay Kumar was young then. In 1952, Mini Mata became an MP. He did so much work to eradicate untouchability that people used to see Mini Mata...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s2e09-023",
+      "type": "content",
+      "image": "images/series2/ep09/slide-023.webp",
+      "text": "a messiah. People from all walks of life used to visit his house and Mini Mata used to help him in solving his problems. It is said that when she...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s2e09-024",
+      "type": "content",
+      "image": "images/series2/ep09/slide-024.webp",
+      "text": "lived in Delhi as an MP, her abode was like a D haramsala. Whoever comes to Delhi from Chhattisgarh, i t was sure that Mini Mata ' s residence is...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s2e09-025",
+      "type": "content",
+      "image": "images/series2/ep09/slide-025.webp",
+      "text": "there for their hospitality . During the cold days, Mini Mata would take care that no one should be bothered by the cold. If she saw someone she was s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s2e09-026",
+      "type": "content",
+      "image": "images/series2/ep09/slide-026.webp",
+      "text": "from the cold, she would cover her with a blanket. Once it so happened that he did not have a blanket to cover himself. It was getting very cold. Mini...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s2e09-027",
+      "type": "content",
+      "image": "images/series2/ep09/slide-027.webp",
+      "text": "Mata lit a cigar and kept it under the cot, but the smoke of the cigar filled the whole room and caused a lot of suffocation, due to which Mini...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s2e09-028",
+      "type": "content",
+      "image": "images/series2/ep09/slide-028.webp",
+      "text": "Mata fainted. After several days of treatment, she recovered. Mini Mata used to work a lot for women 's education. She used to tell everyone to teach ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s2e09-029",
+      "type": "content",
+      "image": "images/series2/ep09/slide-029.webp",
+      "text": "girls studied by staying with him. Those girls who saw interest in studies would arrange higher education for them, among those girls today are doctor...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s2e09-030",
+      "type": "content",
+      "image": "images/series2/ep09/slide-030.webp",
+      "text": "the president of the Chhattisgarh Cultural Board. She was the founder president of Chhattisgarh Kalyan Mazdoor Sangathan which is in Bhilai. Bango-dam...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s2e09-031",
+      "type": "content",
+      "image": "images/series2/ep09/slide-031.webp",
+      "text": "Mata had equal respect for all religions. Mini Mata used to tell everyone to respect and respect people. Mini Mata had been taking an active part in t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s2e09-032",
+      "type": "content",
+      "image": "images/series2/ep09/slide-032.webp",
+      "text": "movement from the very beginning. In 1972, an aircraft was going from Bhopal to Delhi. Mini Mata had come to her son Vijay in Bhopal. She was going ba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s2e09-033",
+      "type": "content",
+      "image": "images/series2/ep09/slide-033.webp",
+      "text": "Delhi by the same plane. There were fourteen passengers o n that plane. That plane could not reach Delhi, Mini Mata also died in the same accident. I ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s2e09-034",
+      "type": "content",
+      "image": "images/series2/ep09/slide-034.webp",
+      "text": "a rrival of central leaders in Chhattisgarh Names o f Eminent Personalities Year/ D ate Purpose of A rrival Gopal Krishna Gokhale 1915 To awaken and a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s2e09-035",
+      "type": "content",
+      "image": "images/series2/ep09/slide-035.webp",
+      "text": "the politics of the country . Lokamalya tilak 1917 For homeroom movement Rabindra n ath Tagore 1918 Wife's Health Purpose, Sanatorium Hospital, Bilasp...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s2e09-036",
+      "type": "content",
+      "image": "images/series2/ep09/slide-036.webp",
+      "text": "a strike Asgar Ali 17 March 1920 Khilafat Movement Mahatma Gandhi 20 - 22 December 1920 For Kandel Nahar Satyagrah Shaukat Ali Mohammad Ali Mahadev De...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s2e09-037",
+      "type": "content",
+      "image": "images/series2/ep09/slide-037.webp",
+      "text": "For campaigning during the non-cooperation movement Dr. Rajendra Prasad 1921 For campaigning during the non-cooperation movement Subhadra Kumari Chauh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s2e09-038",
+      "type": "content",
+      "image": "images/series2/ep09/slide-038.webp",
+      "text": "campaigning during the non-cooperation movement Mahatma Gandhi 20 - 28 November 1933 During the Untouchability initiative, Tilak Kosh and Swaraj Kosh ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s2e09-039",
+      "type": "content",
+      "image": "images/series2/ep09/slide-039.webp",
+      "text": "Dr. Rajendra Prasad 1935 For Congress meeting in Raipur Pt. Jawaharlal Nehru 1935 During an educational conference in Raipur Sardar Vallabhbhai Patel ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s2e09-040",
+      "type": "content",
+      "image": "images/series2/ep09/slide-040.webp",
+      "text": "For merger of Riyasats Phase in the formation of t he state Year Phase in the formation of the state 1861 Formation of Central Province. 1862 Chhattis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s2e09-041",
+      "type": "content",
+      "image": "images/series2/ep09/slide-041.webp",
+      "text": "status in the Central Province, out of which three districts were Raipur, Bilaspur , and Sambalpur. 1905 Reorganization of Bengal province and central...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s2e09-042",
+      "type": "content",
+      "image": "images/series2/ep09/slide-042.webp",
+      "text": "Pt. Sundarlal Sharma made a clear outline of the state of Chhattisgarh. 1924 Raipur District Council passed a resolution demanding a separate Chhattis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s2e09-043",
+      "type": "content",
+      "image": "images/series2/ep09/slide-043.webp",
+      "text": "Congress. 1941 Chhattisgarh region was in Central Provinces and Berar also called C.P. &amp; Berar. 1953 Demand for a separate state before the State ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s2e09-044",
+      "type": "content",
+      "image": "images/series2/ep09/slide-044.webp",
+      "text": "under the chairmanship of Fazal Ali. 1955 Raipur MLA Tha. Demand by Ramakrishna Singh in Madhya Pradesh Legislative Assembly. 1956 Chhattisgarh Mahasa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s2e09-045",
+      "type": "content",
+      "image": "images/series2/ep09/slide-045.webp",
+      "text": "of Dr. Khubchand Baghel. 1956 Chhattisgarh became a part of Madhya Pradesh. 1967 The establishment of the Chhattisgarh Fraternity Association by Dr. K...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s2e09-046",
+      "type": "content",
+      "image": "images/series2/ep09/slide-046.webp",
+      "text": "state from the President. 1994 MLA Gopal Parmar passed an unofficial resolution in Madhya Pradesh Legislative Assembly. 1998 On May 1, the Madhya Prad...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s2e09-047",
+      "type": "content",
+      "image": "images/series2/ep09/slide-047.webp",
+      "text": "2000 On 25 July, Home Minister LK Advani presented the Madhya Pradesh Reorganization Bill 2000 in the Lok Sabha for a separate Chhattisgarh state. Bil...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s2e09-048",
+      "type": "content",
+      "image": "images/series2/ep09/slide-048.webp",
+      "text": "31 July, Bill passed in Rajya Sabha on 9 August, On 25 Augu st, the President of India, K.R. Madhya Pradesh Reorganization Act 2000 was made after Nar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s2e09-049",
+      "type": "content",
+      "image": "images/series2/ep09/slide-049.webp",
+      "text": "signature. Archaeology and Architecture o f Chhattisgarh S.No. Details In ancient times, Chhattisgarh used to be in the Dakshin Kaushal region. Chhatt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s2e09-050",
+      "type": "content",
+      "image": "images/series2/ep09/slide-050.webp",
+      "text": "present border of Chhattisgarh was first decided in 1905. The term Chhattisgarh was first used in literature by Dalpat Ram Saw. The word Chhattisgarh ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s2e09-051",
+      "type": "content",
+      "image": "images/series2/ep09/slide-051.webp",
+      "text": "document in the Raipur Gazetteer of 1795. Kalchuri dynasty ruled for the longest time in Chhattisgarh. Kalchuri of Ratanpur and the ancient capital of...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s2e09-052",
+      "type": "content",
+      "image": "images/series2/ep09/slide-052.webp",
+      "text": "being. The Kalachuri kings were originally from Tripuri. The most majestic Kalachuri Naresh Jajalladev was the first. Sripur was the capital of the Sh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s2e09-053",
+      "type": "content",
+      "image": "images/series2/ep09/slide-053.webp",
+      "text": "traveler Hensang came to Chhattisgarh during the Pand dynasty. Titaradev belongs to the Pand dynasty of Chhattisgarh. The Ch h indak Nagvanshi kingdom...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s2e09-054",
+      "type": "content",
+      "image": "images/series2/ep09/slide-054.webp",
+      "text": "the Chindak Nagavas was Nripati Bhushan. The oldest ancient inscriptions in Chhattisgarh have been found from Mahashivagupta Balarjuna. According to J...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s2e09-055",
+      "type": "content",
+      "image": "images/series2/ep09/slide-055.webp",
+      "text": "According to Janashruti, Kaushalya ' s father Raja Bhanumantha was a glorious king of the Chhattisgarh region. According to Janashruti, Rama ' s son K...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s2e09-056",
+      "type": "content",
+      "image": "images/series2/ep09/slide-056.webp",
+      "text": "South Kosal (Chhattisgarh). Painted Shailashray from prehistoric to historical period is in Singhanpur (Raigad). Stone Age tools have been obtained fr...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s2e09-057",
+      "type": "content",
+      "image": "images/series2/ep09/slide-057.webp",
+      "text": "of Talagaon was built by the Kalachuri dynasty. The famous dynasty of Kawardha was the Phaninag dynasty. The Bhoramdev temple was built during the per...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s2e09-058",
+      "type": "content",
+      "image": "images/series2/ep09/slide-058.webp",
+      "text": "was the oldest capital of the Chalukya dynasty. The First capital of the Chalukya Dynasty was Aihole which is clear from the inscriptions found in the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s2e09-059",
+      "type": "content",
+      "image": "images/series2/ep09/slide-059.webp",
+      "text": "the capital was changed to Badami by Pulkeshin 1 in 543 . The kingdom of Nalvanshi rulers was located in the Bastar region. The \" Wood Pillar Article ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s2e09-060",
+      "type": "content",
+      "image": "images/series2/ep09/slide-060.webp",
+      "text": "the Satavahana king is found in the place of Kirari in Bilaspur district. The currency of Satavahana king Apilak is derived from Balpur in the Raigad ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s2e09-061",
+      "type": "content",
+      "image": "images/series2/ep09/slide-061.webp",
+      "text": "to the mountaineer clan of Chhattisgarh. The Tamrapatra of Biligadh gives information about the Kalachuri dynasty. The inscriptions of Gundamahadevi a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s2e09-062",
+      "type": "content",
+      "image": "images/series2/ep09/slide-062.webp",
+      "text": "the founder of Somvansh of Kanker. The Banavansha established rule by defeating the Somvani rulers. Somdansi rule in Chhattisgarh was from the 10th ce...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s2e09-063",
+      "type": "content",
+      "image": "images/series2/ep09/slide-063.webp",
+      "text": "of Somvansh was named Shivgupta. Baburavaram (the royal poet of Ratanpur state) is considered the first historian of Chhattisgarh. Raipur city was fou...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s2e09-064",
+      "type": "content",
+      "image": "images/series2/ep09/slide-064.webp",
+      "text": "in the world is known as Sitabegara Cave. Maa Bamleshwari Devi Temple was built by Nareshraja Veerasen of Dongargarh. Chakrakote Chindak located in Ba...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s2e09-065",
+      "type": "content",
+      "image": "images/series2/ep09/slide-065.webp",
+      "text": "Rath Yatra started in Bastar at the time of Kakatiya King Purushottamdev. This Rath Yatra of Bastar is famous as Goncha Parva. The famous princess Cha...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s2e09-066",
+      "type": "content",
+      "image": "images/series2/ep09/slide-066.webp",
+      "text": "The famous princess Chamelidevi had a clash with the Kakatiya king Annamdev. Kuleshwar Mahadev Temple is built by the Chhindak Nagdanshi rulers. Sonak...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s2e09-067",
+      "type": "content",
+      "image": "images/series2/ep09/slide-067.webp",
+      "text": "The famous commander of the Kalachuri state was Jagpaldev. King Kalyanasya is mentioned in the manuscript of Baburevaram. Amar S ingh Dev was the last...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s2e09-068",
+      "type": "content",
+      "image": "images/series2/ep09/slide-068.webp",
+      "text": "The Chhindkangag dynasty of Bastar was defeated by Kalachuri king Jajalladeva Pratham (Jajalladeva I). In the Kalchuri regime, there were \" Panchkul I...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s2e09-069",
+      "type": "content",
+      "image": "images/series2/ep09/slide-069.webp",
+      "text": "local work. In the administrative system of the Kalchuris, a total of 8 ministers were included in the Amatyamandal. In the administrative system of t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s2e09-070",
+      "type": "content",
+      "image": "images/series2/ep09/slide-070.webp",
+      "text": "of stewardship. The Kalchuri carpet regime had to take a \" Yuga Permit \" to sell vegetables in Mandi. In the Kalchuri period, the Chief Officer of th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s2e09-071",
+      "type": "content",
+      "image": "images/series2/ep09/slide-071.webp",
+      "text": "was called \" Mahapramatra \" . In the Kalchuri period, the Chief Officer of the Foreign Department was called \" Mahasanchivigrahaka \" . In the Kalchu...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s2e09-072",
+      "type": "content",
+      "image": "images/series2/ep09/slide-072.webp",
+      "text": "was called \" Sholik \" . In the Kalchuri regime, there used to be a stronghold of about 84 villages. In the Kalachuri period, the Chief Officer of the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s2e09-073",
+      "type": "content",
+      "image": "images/series2/ep09/slide-073.webp",
+      "text": "Department used to say \" Gamagamik \" . In the Kalchuri regime, the head of the army was called \" Mahapilupati \" . Kalyanasay of the Kalachuri dynast...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s2e09-074",
+      "type": "content",
+      "image": "images/series2/ep09/slide-074.webp",
+      "text": "Delhi to meet the Mughal ruler Jahangir. The currency of the state of Rome is derived from Chakarbeda in the Bilaspur district of Chhattisgarh. Chitwa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s2e09-075",
+      "type": "content",
+      "image": "images/series2/ep09/slide-075.webp",
+      "text": "Durg district were discovered by Manohar Lal Yadu and colleagues. The Marathas took power in Chhattisgarh after the Kalchuri sting. The Maratha invasi...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s2e09-076",
+      "type": "content",
+      "image": "images/series2/ep09/slide-076.webp",
+      "text": "1741. In Chhattis garh, the Marathas made Bimba Bhonsle their first ruler. Krishna Rao Appa was the first district collector appointed for Chhattisgar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s2e09-077",
+      "type": "content",
+      "image": "images/series2/ep09/slide-077.webp",
+      "text": "governance was the governance system of the Marathas in Chhattisgarh. The tenure of direct Bhonsala rule in Chhattisgarh was from 1758 to 1787 AD. \" K...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s2e09-078",
+      "type": "content",
+      "image": "images/series2/ep09/slide-078.webp",
+      "text": "of the tax levied on the intoxicants in the Maratha reign. Raghu III passed the order in 183 1 to eradicate the practice of S ati in Chhattisgarh. Mar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s2e09-079",
+      "type": "content",
+      "image": "images/series2/ep09/slide-079.webp",
+      "text": "started a new practice of the T alukdari area in the area of \"‹\"‹ land system in Chhattisgarh. The period of restoration of the Maratha Raj in Chhatti...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s2e09-080",
+      "type": "content",
+      "image": "images/series2/ep09/slide-080.webp",
+      "text": "- 1854. The first Maratha subedar in Chhattisgarh was Mahipatrao Dinkar. The last Maratha Subedar in Chhattisgarh was Yadavrao Diwakar. During the Mar...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s2e09-081",
+      "type": "content",
+      "image": "images/series2/ep09/slide-081.webp",
+      "text": "and prepare the revenue - related documents according to the information available. In Maratha 's rule, the chief officer of the P argana was called \"...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s2e09-082",
+      "type": "content",
+      "image": "images/series2/ep09/slide-082.webp",
+      "text": "annual amount determined from the various zamindari areas was taken as tax by the Maratha rule, which was called \" Takoli \" . The Maratha in Chhattis...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s2e09-083",
+      "type": "content",
+      "image": "images/series2/ep09/slide-083.webp",
+      "text": "had a major import-export tax \" sire \" . \" Pandari \" was a tax charged by the non-agriculturist class by the Maratha rule. Dalpat Dev made Mandhota ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s2e09-084",
+      "type": "content",
+      "image": "images/series2/ep09/slide-084.webp",
+      "text": "in Bastar in 1770 AD. During the Maratha period, the bookkeeper was called \" Potdar \" for keeping the accounts of the amount deposited and released i...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s2e09-085",
+      "type": "content",
+      "image": "images/series2/ep09/slide-085.webp",
+      "text": "in the capital. In Maratha 's rule, those who kept a record of income and expenditure were called \" Fadnavis \" . Till 1830 AD, the Persian language w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
