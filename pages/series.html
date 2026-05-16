@@ -141,21 +141,24 @@
         // Fetch the 10 episodes
         async function loadEpisodes() {
             gridEl.innerHTML = '';
+            const promises = [];
+            
             for (let i = 1; i <= 10; i++) {
                 const epNum = i.toString().padStart(2, '0');
-                try {
-                    const res = await fetch(`../data/series${series}/episode${epNum}.json`);
-                    if (res.ok) {
-                        const data = await res.json();
-                        renderCard(data, i);
-                    } else {
-                        // Fallback render if file empty/missing
-                        renderCard({ title: `Episode ${i}`, series: series, episode: i }, i);
-                    }
-                } catch (e) {
-                    renderCard({ title: `Episode ${i}`, series: series, episode: i }, i);
-                }
+                const promise = fetch(`../data/series${series}/episode${epNum}.json`)
+                    .then(res => res.ok ? res.json() : null)
+                    .then(data => ({ data: data || { title: `Episode ${i}`, series, episode: i }, index: i }))
+                    .catch(() => ({ data: { title: `Episode ${i}`, series, episode: i }, index: i }));
+                promises.push(promise);
             }
+            
+            const results = await Promise.all(promises);
+            // Ensure they are strictly ordered by index
+            results.sort((a, b) => a.index - b.index);
+            
+            results.forEach(item => {
+                renderCard(item.data, item.index);
+            });
         }
 
         function renderCard(data, index) {

@@ -62,13 +62,13 @@ class SlideRenderer {
 
         data.slides.forEach((slideData, i) => {
             const isEditorsChoice = editorsChoiceIndices.includes(i);
-            const slideEl = this.createSlideElement(slideData, isEditorsChoice);
+            const slideEl = this.createSlideElement(slideData, isEditorsChoice, data);
             slideEl.dataset.index = slideIndex++;
             this.container.appendChild(slideEl);
         });
     }
 
-    createSlideElement(data, isEditorsChoice) {
+    createSlideElement(data, isEditorsChoice, epData) {
         const slide = document.createElement('div');
         slide.className = 'slide';
         
@@ -92,8 +92,21 @@ class SlideRenderer {
             slide.appendChild(badge);
         }
 
-        // STORY TEXT — primary content, fills center of screen
-        if (data.text) {
+        // STORY TEXT OR TITLE CARD
+        if (data.type === 'title') {
+            slide.classList.add('title-card');
+            const textPanel = document.createElement('div');
+            textPanel.className = 'slide-text-panel center-content';
+            
+            const epNumStr = epData.episode.toString().padStart(2, '0');
+            textPanel.innerHTML = `
+                <p class="caption uppercase text-gold">Series ${epData.series} • Episode ${epNumStr}</p>
+                <div class="gold-line"></div>
+                <h2 class="heading-lg">${epData.title || 'Johar Gandhi'}</h2>
+                <p class="slide-text" style="margin-top: 2rem;">${data.text}</p>
+            `;
+            slide.appendChild(textPanel);
+        } else if (data.text) {
             const textPanel = document.createElement('div');
             textPanel.className = 'slide-text-panel';
             
