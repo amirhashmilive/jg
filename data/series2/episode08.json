@@ -1,1 +1,1029 @@
-﻿{ "series": 2, "episode": 8, "title": "The Sea of Bilaspur", "duration": "~40 min", "slideCount": 0, "slides": [] }
+{
+  "series": 2,
+  "episode": 8,
+  "title": "Episode 08",
+  "duration": "~40 min",
+  "slideCount": 85,
+  "slides": [
+    {
+      "id": "s2e08-001",
+      "type": "content",
+      "image": "images/series2/ep08/slide-001.webp",
+      "text": "Nacha\" in which prostitutes used to dance with the feudal lords in villages and cities, such as the Devadasi system and the Medni system, which conti...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 1"
+    },
+    {
+      "id": "s2e08-002",
+      "type": "content",
+      "image": "images/series2/ep08/slide-002.webp",
+      "text": "places. There was a separate caste of those who performed \"Kisbin Nacha\" . These people started offering to the unmarried girls of their own families...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 2"
+    },
+    {
+      "id": "s2e08-003",
+      "type": "content",
+      "image": "images/series2/ep08/slide-003.webp",
+      "text": "Dr. Radha Bai opposed this practice and ended this practice. This practice first ended in a village named Kharora. They started farming. This unique c...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 3"
+    },
+    {
+      "id": "s2e08-004",
+      "type": "content",
+      "image": "images/series2/ep08/slide-004.webp",
+      "text": "Radha Bai. Dr. Radhabai initially worked as a midwife. In Raipur Municipality. She worked with so much love and dedication that she had become the mot...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 4"
+    },
+    {
+      "id": "s2e08-005",
+      "type": "content",
+      "image": "images/series2/ep08/slide-005.webp",
+      "text": "public title, Radha Bai was called Dr. Seeing his service, the municipality had arranged a horse and horse for him. Dr. Radha Bai was born in Nagpur, ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 5"
+    },
+    {
+      "id": "s2e08-006",
+      "type": "content",
+      "image": "images/series2/ep08/slide-006.webp",
+      "text": "1875. They were married in Nagpur, Radha was only 9 years old when she became a widow, in a neighbor's house she found a lovely friend with whom she l...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 6"
+    },
+    {
+      "id": "s2e08-007",
+      "type": "content",
+      "image": "images/series2/ep08/slide-007.webp",
+      "text": "learned Hindi, started working as a babysitter. A neighbor friend also passed away one day, and her sons and daughters remained the siblings of Radha ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 7"
+    },
+    {
+      "id": "s2e08-008",
+      "type": "content",
+      "image": "images/series2/ep08/slide-008.webp",
+      "text": "that she belonged to another family. In 1918 she came to Raipur and started working as a midwife. When Gandhi first came to Raipur in 1920, Radha Bai ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 8"
+    },
+    {
+      "id": "s2e08-009",
+      "type": "content",
+      "image": "images/series2/ep08/slide-009.webp",
+      "text": "she had found a guide. From 1930 to 1942, she took part in each Satyagraha. I don't know how many times she went to jail. He was respected by all,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 9"
+    },
+    {
+      "id": "s2e08-010",
+      "type": "content",
+      "image": "images/series2/ep08/slide-010.webp",
+      "text": "even the prison officials. Radha Bai did very important work against untouchability. She used to go to the settlement of the cleaning workers and used...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 10"
+    },
+    {
+      "id": "s2e08-011",
+      "type": "content",
+      "image": "images/series2/ep08/slide-011.webp",
+      "text": "used to bathe her children with great love, used to teach those children. Dr. Radha Bai did not believe in religion, people of all religions used to c...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 11"
+    },
+    {
+      "id": "s2e08-012",
+      "type": "content",
+      "image": "images/series2/ep08/slide-012.webp",
+      "text": "house. She used to worship Muslim brothers on the day of Bhai Dooj and cooked and fed them herself. Radha Bai passed away on January 2, 1950, at the a...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 12"
+    },
+    {
+      "id": "s2e08-013",
+      "type": "content",
+      "image": "images/series2/ep08/slide-013.webp",
+      "text": "of 85, her house was given to an orphanage. Rohini Bai Parganiha It was in 1932 when Rohini Bai Parganiha went to jail for the first time, she was 12...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 13"
+    },
+    {
+      "id": "s2e08-014",
+      "type": "content",
+      "image": "images/series2/ep08/slide-014.webp",
+      "text": "years old. Rohini had joined Dr. Radha Bai ' s team in Raipur from the age of 10. When she walked with Radha Bai ' s team, carrying the flag,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 14"
+    },
+    {
+      "id": "s2e08-015",
+      "type": "content",
+      "image": "images/series2/ep08/slide-015.webp",
+      "text": "she would be in the forefront. Satyagrahi singing with Radha Bai \" Jaan chaahe bhale hi ganvaana, par na jhanda ye neeche jhukaana \" (Even if you los...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 15"
+    },
+    {
+      "id": "s2e08-016",
+      "type": "content",
+      "image": "images/series2/ep08/slide-016.webp",
+      "text": "but don ' t let the flag down) Going to the shops, she used to convince the shopkeepers not to sell or buy foreign goods. Rohini ' s father Shivlal...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 16"
+    },
+    {
+      "id": "s2e08-017",
+      "type": "content",
+      "image": "images/series2/ep08/slide-017.webp",
+      "text": "Prasad Tarra was a big landowner of the village and her mother Dehuti Bai became the daughter-in-law of Balkrishna Parganiha of Ufra village, Rohini w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 17"
+    },
+    {
+      "id": "s2e08-018",
+      "type": "content",
+      "image": "images/series2/ep08/slide-018.webp",
+      "text": "age of twelve. Shortly after the wedding, her husband Madhav Prasad Parganiha asked her to prepare to go to jail, Madhav Prasad was a teacher at the N...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 18"
+    },
+    {
+      "id": "s2e08-019",
+      "type": "content",
+      "image": "images/series2/ep08/slide-019.webp",
+      "text": "the principal of that school was a freedom fighter , Nandakumar Dani. Rohini was tried for picketing at a foreign goods shop. Rohini was imprisoned fo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 19"
+    },
+    {
+      "id": "s2e08-020",
+      "type": "content",
+      "image": "images/series2/ep08/slide-020.webp",
+      "text": "fined two hundred rupees. Inside the jail, other freedom fighters of Mahatma Gandhi wore a knee-high dhoti (the dress that Mahatma Gandhi used to wear...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 20"
+    },
+    {
+      "id": "s2e08-021",
+      "type": "content",
+      "image": "images/series2/ep08/slide-021.webp",
+      "text": "was given to cover and lay a blanket, and an iron plate for drinking water and eating. The platform, which Rohini called the platform of the cremation...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 21"
+    },
+    {
+      "id": "s2e08-022",
+      "type": "content",
+      "image": "images/series2/ep08/slide-022.webp",
+      "text": "for the prisoners to sleep. When it was time to eat, Rohini sees that there were insects and stones and pebbles in the rice. After feeding such bad fo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 22"
+    },
+    {
+      "id": "s2e08-023",
+      "type": "content",
+      "image": "images/series2/ep08/slide-023.webp",
+      "text": "was given 20 kg of wheat to grind him as a punishment. Had to stand and grind. Little Rohini had to climb on top of something and grind it because...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 23"
+    },
+    {
+      "id": "s2e08-024",
+      "type": "content",
+      "image": "images/series2/ep08/slide-024.webp",
+      "text": "she could not reach there. Along with this one sack of rice had to be picked up. Water had to be drawn from the well. Little Rohini used to get...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 24"
+    },
+    {
+      "id": "s2e08-025",
+      "type": "content",
+      "image": "images/series2/ep08/slide-025.webp",
+      "text": "blisters in her hands. Sometimes if the wheat had stopped while grinding, it would have been killed. So much pain was given so that the freedom fighte...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 25"
+    },
+    {
+      "id": "s2e08-026",
+      "type": "content",
+      "image": "images/series2/ep08/slide-026.webp",
+      "text": "but no one apologi z ed. Rohini Bai used to go to every session of Congress as a soldier of the Seva Dal. His rank was that of an army...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 26"
+    },
+    {
+      "id": "s2e08-027",
+      "type": "content",
+      "image": "images/series2/ep08/slide-027.webp",
+      "text": "hero. At that time Rohini Bai used to wear a sari, blouse, white shoe-stocking, she uses to have a blue handkerchief around her neck. All the women us...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 27"
+    },
+    {
+      "id": "s2e08-028",
+      "type": "content",
+      "image": "images/series2/ep08/slide-028.webp",
+      "text": "with sticks. Gandhi had come to Raipur in 1933. At that time Rohini Bai and other women collected money from house to house and gave it to Gandhi. Alt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 28"
+    },
+    {
+      "id": "s2e08-029",
+      "type": "content",
+      "image": "images/series2/ep08/slide-029.webp",
+      "text": "thousand were collected by the women, and Rohini Bai gave that bag to Gandhi with her own hands. Rohini Bai had stayed with Gandhi for seven-eight day...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 29"
+    },
+    {
+      "id": "s2e08-030",
+      "type": "content",
+      "image": "images/series2/ep08/slide-030.webp",
+      "text": "and accompanied him to Dhamtari, Mahasamund, Bhatapara, Balodabazar, Kurud. When the Khadi exhibition was held in Moti Bagh, Rohini was spinning the c...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 30"
+    },
+    {
+      "id": "s2e08-031",
+      "type": "content",
+      "image": "images/series2/ep08/slide-031.webp",
+      "text": "three bundles of cloth as a reward. They used to go all by walk, a ninety-mile journey from Raipur to Shivrinarayan, about 9 miles a day. Rohini Bai w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 31"
+    },
+    {
+      "id": "s2e08-032",
+      "type": "content",
+      "image": "images/series2/ep08/slide-032.webp",
+      "text": "jail during the 1942 movement. All those women went to jail under the leadership of Dr. Radhabai. Like Gaya Bai, Mantora Bai, Bhagwati Bai, Mamadai. T...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 32"
+    },
+    {
+      "id": "s2e08-033",
+      "type": "content",
+      "image": "images/series2/ep08/slide-033.webp",
+      "text": "classes. The four women were tribal women from the Sihawa region. A woman had died in prison. At that time there were 24 women in Raipur jail. They us...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 33"
+    },
+    {
+      "id": "s2e08-034",
+      "type": "content",
+      "image": "images/series2/ep08/slide-034.webp",
+      "text": "serve in each other ' s ailments. Some of the women had gone to the hospital, from where they did not return. The women imprisoned in the jail were wa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 34"
+    },
+    {
+      "id": "s2e08-035",
+      "type": "content",
+      "image": "images/series2/ep08/slide-035.webp",
+      "text": "for each other ' s support for the day when the Indians would be victorious in the freedom struggle. Rohini Bai used to serve the children of sanitati...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 35"
+    },
+    {
+      "id": "s2e08-036",
+      "type": "content",
+      "image": "images/series2/ep08/slide-036.webp",
+      "text": "with Dr. Radhabai. He used to tell stories to them. Rohini Bai was also there with all the freedom fighters when there was a dharna near the Gandhi st...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 36"
+    },
+    {
+      "id": "s2e08-037",
+      "type": "content",
+      "image": "images/series2/ep08/slide-037.webp",
+      "text": "demand the state of Chhattisgarh. Every year on 15 August and 26 January, she used to attend the Gandhi Chowk flag hoisting. Rohini Bai was happy to r...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 37"
+    },
+    {
+      "id": "s2e08-038",
+      "type": "content",
+      "image": "images/series2/ep08/slide-038.webp",
+      "text": "till the end of her life, the tricolor, for the sake of which many Indians had quietly gone away from this earth . Kekti Bai Baghel Kekti Bai Baghel w...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 38"
+    },
+    {
+      "id": "s2e08-039",
+      "type": "content",
+      "image": "images/series2/ep08/slide-039.webp",
+      "text": "the mother of Dr. Khubchand Baghel . Dr. Khubchand Baghel was a freedom fighter, social reformer , and father of the Chhattisgarh State Movement. Kekt...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 39"
+    },
+    {
+      "id": "s2e08-040",
+      "type": "content",
+      "image": "images/series2/ep08/slide-040.webp",
+      "text": "a very young age. Khubchand was a small child at that time. Kekti Bai raised her son with great care. Always used to say - even if elders hurt you,...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 40"
+    },
+    {
+      "id": "s2e08-041",
+      "type": "content",
+      "image": "images/series2/ep08/slide-041.webp",
+      "text": "don ' t raise your hand on them. Don ' t ever lie Never tolerate injustice. Tolerating injustice is also equal to doing injustice. He always followed ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 41"
+    },
+    {
+      "id": "s2e08-042",
+      "type": "content",
+      "image": "images/series2/ep08/slide-042.webp",
+      "text": "upon a time, Khubchand Baghel was young then. An old man falsely accused his servant. Quite a few were taking the side of the servant. The old man got...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 42"
+    },
+    {
+      "id": "s2e08-043",
+      "type": "content",
+      "image": "images/series2/ep08/slide-043.webp",
+      "text": "angry that he slapped Khubchand hard. One ear of Khubchand Baghel became deaf due to that beating. But not a word came out of his mouth against that o...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 43"
+    },
+    {
+      "id": "s2e08-044",
+      "type": "content",
+      "image": "images/series2/ep08/slide-044.webp",
+      "text": "But even after this, they remained firm on his word. Mother Kekti Bai had taught him such that later he did not face any difficulty in becoming a Saty...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 44"
+    },
+    {
+      "id": "s2e08-045",
+      "type": "content",
+      "image": "images/series2/ep08/slide-045.webp",
+      "text": "came to Raipur to study. Later he joined Nagpur Medical College around 1920. He was a very talented student. At the same time , the All India session ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 45"
+    },
+    {
+      "id": "s2e08-046",
+      "type": "content",
+      "image": "images/series2/ep08/slide-046.webp",
+      "text": "was held in Nagpur. At that convention, Dr. Baghel was a volunteer. When he came home, he would tell his mother about the convention. The m other like...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 46"
+    },
+    {
+      "id": "s2e08-047",
+      "type": "content",
+      "image": "images/series2/ep08/slide-047.webp",
+      "text": "much and waited for the son. When Dr. Baghel told about Gandhi , Kekti Bai wanted to hear again and again about him. I wondered if there are such peop...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 47"
+    },
+    {
+      "id": "s2e08-048",
+      "type": "content",
+      "image": "images/series2/ep08/slide-048.webp",
+      "text": "too? When the movement took place in the year 193 0, Kekti Bai ' s brother-in-law Arjun Singh Baghel joined it. Dr. Baghel also left the government jo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 48"
+    },
+    {
+      "id": "s2e08-049",
+      "type": "content",
+      "image": "images/series2/ep08/slide-049.webp",
+      "text": "the service of the country. Kekti Bai started working with Dr. Radhabai among the sanitation workers. She used to bathe, feed her children. During the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 49"
+    },
+    {
+      "id": "s2e08-050",
+      "type": "content",
+      "image": "images/series2/ep08/slide-050.webp",
+      "text": "arose between Kekti Bai and her daughter-in-law Rajkunwar Baghel - who would go to jail by doing Satyagraha. The daughter-in-law would say \" Mother le...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 50"
+    },
+    {
+      "id": "s2e08-051",
+      "type": "content",
+      "image": "images/series2/ep08/slide-051.webp",
+      "text": "say \" I am old. When else will I get the opportunity of Satyagraha \" . The daughter-in-law agreed when the mother-in-law said that after this the dau...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 51"
+    },
+    {
+      "id": "s2e08-052",
+      "type": "content",
+      "image": "images/series2/ep08/slide-052.webp",
+      "text": "an opportunity. Similarly, Kekti Bai reached jail after being arrested while meeting at a foreign goods shop. Initially , the jail authorities were no...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 52"
+    },
+    {
+      "id": "s2e08-053",
+      "type": "content",
+      "image": "images/series2/ep08/slide-053.webp",
+      "text": "then Kekti Bai sat at the prison gate and did not even drink water, then she was arrested. Kekti Bai used to do the work of removal of untouchability ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 53"
+    },
+    {
+      "id": "s2e08-054",
+      "type": "content",
+      "image": "images/series2/ep08/slide-054.webp",
+      "text": "great love. People of all castes and religions used to come and eat at his house. The kitchen of their house was looked after by a girl from a family...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 54"
+    },
+    {
+      "id": "s2e08-055",
+      "type": "content",
+      "image": "images/series2/ep08/slide-055.webp",
+      "text": "called untouchables. Bela Bai Both Mrs. Bela Bai and her husband Bhujbal Singh were freedom fighters. Holi of foreign goods was being burnt all over t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 55"
+    },
+    {
+      "id": "s2e08-056",
+      "type": "content",
+      "image": "images/series2/ep08/slide-056.webp",
+      "text": "1932. At that time both went to jail. The incident happened like this, at that time Bela Bai was twelve or thirteen years old. He got married a few da...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 56"
+    },
+    {
+      "id": "s2e08-057",
+      "type": "content",
+      "image": "images/series2/ep08/slide-057.webp",
+      "text": "back. Village Taresar had come to her husband. At that time Ramlila was organized in Parastrai village. Bela Bai went to see Ramlila with her husband....",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 57"
+    },
+    {
+      "id": "s2e08-058",
+      "type": "content",
+      "image": "images/series2/ep08/slide-058.webp",
+      "text": "the Pitambari, which is called Dhathi Pitambari in Chhattisgarh, for her wedding. During Ramlila, people were discussing more Satyagraha there. In fac...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 58"
+    },
+    {
+      "id": "s2e08-059",
+      "type": "content",
+      "image": "images/series2/ep08/slide-059.webp",
+      "text": "were told about the British ruler. Ravana was projected as a tyrannical British ruler. Going there, as soon as Bhujbal Singh came to know that all the...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 59"
+    },
+    {
+      "id": "s2e08-060",
+      "type": "content",
+      "image": "images/series2/ep08/slide-060.webp",
+      "text": "had been arrested while doing satyagraha, he decided that he too would go to jail by doing satyagraha. Twelve-year-old Bela Bai also announced that sh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 60"
+    },
+    {
+      "id": "s2e08-061",
+      "type": "content",
+      "image": "images/series2/ep08/slide-061.webp",
+      "text": "Bhujbal explained a lot but Bela Bai did not agree. Bhujbal continued to speak about the difficulties of the Satyagraha with the hope that Bela Bai wo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 61"
+    },
+    {
+      "id": "s2e08-062",
+      "type": "content",
+      "image": "images/series2/ep08/slide-062.webp",
+      "text": "go back to the village. But Bela Bai agreed to go to jail with double enthusiasm. In the end , Bhujbal Singh took Bela Bai along with him and started...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 62"
+    },
+    {
+      "id": "s2e08-063",
+      "type": "content",
+      "image": "images/series2/ep08/slide-063.webp",
+      "text": "towards Pathri. Dr. Baghel lived in Pathri, so Pathri was the center of Satyagrahis. At that time both Dr. Baghel , his mother Kekti Bai had been arre...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 63"
+    },
+    {
+      "id": "s2e08-064",
+      "type": "content",
+      "image": "images/series2/ep08/slide-064.webp",
+      "text": "Dr. Baghel ' s uncle arranged a bullock cart for Bela Bai to go to Raipur. A horse was brought for Bhujbal . After reaching Raipur, when both reached ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 64"
+    },
+    {
+      "id": "s2e08-065",
+      "type": "content",
+      "image": "images/series2/ep08/slide-065.webp",
+      "text": "Baghel ' s house, Bela Bai got worried. Do you know whether Udsirkar will allow them to conduct Satyagraha or not? Udsirkar was the director there. Wh...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 65"
+    },
+    {
+      "id": "s2e08-066",
+      "type": "content",
+      "image": "images/series2/ep08/slide-066.webp",
+      "text": "permission, Bela Bai burst out with joy. A group of girls and women was formed . Bela Bai was wearing a stout cloth at that time, t hat ' s...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 66"
+    },
+    {
+      "id": "s2e08-067",
+      "type": "content",
+      "image": "images/series2/ep08/slide-067.webp",
+      "text": "why Khadi sarees were brought for them. Bela Bai immediately put on the Khadi sari. For the first time in her life, she wore a Khadi saree. All the si...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 67"
+    },
+    {
+      "id": "s2e08-068",
+      "type": "content",
+      "image": "images/series2/ep08/slide-068.webp",
+      "text": "were sent off by Mrs. Raj Kunwar Bai after applying the Kumkum vaccine. There used to be a fight between Raj Kunwar and his mother-in-law Kekti Bai as...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 68"
+    },
+    {
+      "id": "s2e08-069",
+      "type": "content",
+      "image": "images/series2/ep08/slide-069.webp",
+      "text": "would go to jail? This time Kekti Bai had explained to him that a person would have to stay at home to take care of the children and since Kekti...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 69"
+    },
+    {
+      "id": "s2e08-070",
+      "type": "content",
+      "image": "images/series2/ep08/slide-070.webp",
+      "text": "Bai would not be able to go to jail due to age, this time she should go. Bahu Raj Kunwar had agreed on the condition that she would go to...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 70"
+    },
+    {
+      "id": "s2e08-071",
+      "type": "content",
+      "image": "images/series2/ep08/slide-071.webp",
+      "text": "jail next time. That ' s why this time she was bidding farewell to all the sisters by applying Kumkum ' s vaccine. Satyagrahi sisters and brothers all...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 71"
+    },
+    {
+      "id": "s2e08-072",
+      "type": "content",
+      "image": "images/series2/ep08/slide-072.webp",
+      "text": "Satyagraha was started at the shop of foreign goods. The shop was located just a short distance from the police post. Bela Bai was arrested and sent t...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 72"
+    },
+    {
+      "id": "s2e08-073",
+      "type": "content",
+      "image": "images/series2/ep08/slide-073.webp",
+      "text": "the very first day. A day later Bhujbal Singh was arrested. Bela Bai and Bhujbal Singh both spent a year in jail. Similarly, Bela Bai started particip...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 73"
+    },
+    {
+      "id": "s2e08-074",
+      "type": "content",
+      "image": "images/series2/ep08/slide-074.webp",
+      "text": "for independence from a young age. She used to go door to door with other women to sell Khadi. If someone refused, she would exp lain to him why he...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 74"
+    },
+    {
+      "id": "s2e08-075",
+      "type": "content",
+      "image": "images/series2/ep08/slide-075.webp",
+      "text": "should wear K hadi. She used to go to the settlement of the cleaning workers and clean their children. If a sanitation worker does not allow children ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 75"
+    },
+    {
+      "id": "s2e08-076",
+      "type": "content",
+      "image": "images/series2/ep08/slide-076.webp",
+      "text": "why should she explain to the children. Bela Bai thought like other satyagrahis that my son should also become a satyagrahi. When Bela Bai was in jail...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 76"
+    },
+    {
+      "id": "s2e08-077",
+      "type": "content",
+      "image": "images/series2/ep08/slide-077.webp",
+      "text": "took a vow that whether it is a son or a daughter, I will dedicate it to Gandhi . Gandhi came to Raipur in 1933. Bela Bai ' s son...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 77"
+    },
+    {
+      "id": "s2e08-078",
+      "type": "content",
+      "image": "images/series2/ep08/slide-078.webp",
+      "text": "Mahendra was 19 days old at that time. Bela Bai reached Raipur from village Taresar with her 19-day-old son Mahendra. It was evening time. Gandhi was ...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 78"
+    },
+    {
+      "id": "s2e08-079",
+      "type": "content",
+      "image": "images/series2/ep08/slide-079.webp",
+      "text": "sitting in front of him. Everyone was praying. Bela Bai put her 19-day-old son to sleep in Gandhi ' s lap. Gandhi returned that little child to the mo...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 79"
+    },
+    {
+      "id": "s2e08-080",
+      "type": "content",
+      "image": "images/series2/ep08/slide-080.webp",
+      "text": "many blessings. Whenever Bela Bai remembered that day, the gleam of her eyes would show that it was the best day of her life. Phulkunwar Bai Phoolkunw...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 80"
+    },
+    {
+      "id": "s2e08-081",
+      "type": "content",
+      "image": "images/series2/ep08/slide-081.webp",
+      "text": "mother of Manohar Lal Srivastava. Both were freedom fighters. Phool Kunwar ' s husband was a Patwari of Bhibhori village. His name was Raghunath Dayal...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 81"
+    },
+    {
+      "id": "s2e08-082",
+      "type": "content",
+      "image": "images/series2/ep08/slide-082.webp",
+      "text": "Raipur to do his job. There he built a small hut and started living with his family. But one after the other his two sons and two daughters passed awa...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 82"
+    },
+    {
+      "id": "s2e08-083",
+      "type": "content",
+      "image": "images/series2/ep08/slide-083.webp",
+      "text": "Manohar was very young then. His parents lived with Manohar. But he was so shocked that even living a natural life became impossible. Manohar was give...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 83"
+    },
+    {
+      "id": "s2e08-084",
+      "type": "content",
+      "image": "images/series2/ep08/slide-084.webp",
+      "text": "Math by the people around him. At that time the Jaitusav Math was the center of the national movement. In 1920, due to the invitation of Pt. Sundar La...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 84"
+    },
+    {
+      "id": "s2e08-085",
+      "type": "content",
+      "image": "images/series2/ep08/slide-085.webp",
+      "text": "Gandhi came to Raipur. Mahant Laxminarayan Das of Jaitusav Math was mainly contributing to the national movement. So they brought Mahatma Gandhi to th...",
+      "animation": {
+        "type": "zoomIn",
+        "duration": 15
+      },
+      "emotion": "neutral",
+      "visualDescription": "Cinematic visualization for slide 85"
+    }
+  ]
+}
