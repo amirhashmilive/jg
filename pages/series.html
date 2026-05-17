@@ -154,8 +154,7 @@
 
         function renderCard(data, index) {
             const epNum = index.toString().padStart(2, '0');
-            // Assuming slide-001 is a good thumbnail
-            const thumbUrl = `../images/series${series}/ep${epNum}/slide-001.webp`;
+            const thumbUrl = `../images/brand/episode-thumb-placeholder.webp`;
             
             const card = document.createElement('a');
             card.href = `player.html?s=${series}&e=${index}`;
