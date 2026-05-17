@@ -53,6 +53,7 @@ class ScrollEngine {
     setupEventListeners() {
         // Detect manual scrolling (wheel or touch)
         const pauseAutoScroll = () => {
+            sessionStorage.removeItem('presentationMode'); // Interrupt presentation
             if (!this.settings.autoScrollEnabled) return;
             
             this.isManualScrolling = true;
@@ -141,6 +142,10 @@ class ScrollEngine {
     scrollToNext() {
         if (this.activeIndex < this.slides.length - 1) {
             this.slides[this.activeIndex + 1].scrollIntoView({ behavior: 'smooth' });
+        } else {
+            if (sessionStorage.getItem('presentationMode') === 'true') {
+                document.dispatchEvent(new CustomEvent('episodeEnd'));
+            }
         }
     }
 

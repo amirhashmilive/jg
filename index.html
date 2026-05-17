@@ -65,6 +65,14 @@
       </a>
     </div>
 
+    <!-- Presentation Button -->
+    <div style="text-align: center; margin-top: var(--space-xl); position: relative; z-index: 20;">
+      <button onclick="startPresentation()" style="background: var(--accent-gold); color: var(--bg-primary); padding: var(--space-sm) var(--space-lg); border-radius: 30px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; transition: all 0.3s; font-size: 0.9rem;">
+        ▶ Play Presentation
+      </button>
+      <p class="caption text-muted" style="margin-top: var(--space-sm);">Auto-starting shortly...</p>
+    </div>
+
     <!-- Scroll Hint -->
     <div class="scroll-hint" aria-hidden="true">
       <span class="scroll-hint__text">Explore</span>
@@ -108,5 +116,20 @@
       <p class="heading-md" style="color: var(--accent-gold); margin-top: var(--space-sm);">Amir Hashmi</p>
     </div>
   </section>
+
+  <script>
+    let presentationTimer = setTimeout(() => {
+        startPresentation();
+    }, 15000); // 15 seconds
+
+    window.addEventListener('wheel', () => clearTimeout(presentationTimer));
+    window.addEventListener('click', () => clearTimeout(presentationTimer));
+    window.addEventListener('touchstart', () => clearTimeout(presentationTimer));
+
+    function startPresentation() {
+        sessionStorage.setItem('presentationMode', 'true');
+        window.location.href = 'pages/player.html?s=1&e=1';
+    }
+  </script>
 </body>
 </html>

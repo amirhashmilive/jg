@@ -46,22 +46,45 @@ class App {
                 scrollEngine.handleSlideActive(firstSlide);
             }
 
+            // Presentation Mode Loop Navigation
+            document.addEventListener('episodeEnd', () => {
+                if (sessionStorage.getItem('presentationMode') === 'true') {
+                    let nextE = this.currentEpisode + 1;
+                    let nextS = this.currentSeries;
+                    
+                    if (nextE > 10) {
+                        nextE = 1;
+                        nextS++;
+                    }
+                    
+                    if (nextS > 2) {
+                        // Loop back to landing page to restart
+                        window.location.href = '../index.html';
+                    } else {
+                        // Go to next episode
+                        window.location.href = `player.html?s=${nextS}&e=${nextE}`;
+                    }
+                }
+            });
+
             // Register Service Worker for offline caching of this episode
             this.registerServiceWorker();
         }
     }
 
     handleSlideChange(index, slideElement) {
-        // Update Slide Counter
+        // Update Slide Counter (add 1 because we injected the pure Hero Title Card)
         const counter = document.getElementById('slide-counter');
+        const totalSlides = this.episodeData ? this.episodeData.slides.length + 1 : 1;
+        
         if (counter && this.episodeData) {
-            counter.innerText = `Slide ${index + 1} of ${this.episodeData.slides.length}`;
+            counter.innerText = `Slide ${index + 1} of ${totalSlides}`;
         }
         
         // Update Progress Bar
         const progressFill = document.getElementById('nav-progress-fill');
         if (progressFill && this.episodeData) {
-            const percentage = ((index + 1) / this.episodeData.slides.length) * 100;
+            const percentage = ((index + 1) / totalSlides) * 100;
             progressFill.style.width = `${percentage}%`;
         }
     }
