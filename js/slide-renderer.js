@@ -60,13 +60,14 @@ class SlideRenderer {
         // Slide 2+ are the actual story text from the JSON
         data.slides.forEach((slideData, i) => {
             const isEditorsChoice = editorsChoiceIndices.includes(i);
-            const slideEl = this.createSlideElement(slideData, isEditorsChoice, data);
+            const isLastSlide = i === data.slides.length - 1;
+            const slideEl = this.createSlideElement(slideData, isEditorsChoice, data, isLastSlide, seriesNum, epNum);
             slideEl.dataset.index = slideIndex++;
             this.container.appendChild(slideEl);
         });
     }
 
-    createSlideElement(data, isEditorsChoice, epData) {
+    createSlideElement(data, isEditorsChoice, epData, isLastSlide = false, seriesNum = 1, epNum = 1) {
         const slide = document.createElement('div');
         slide.className = 'slide';
         
@@ -110,6 +111,48 @@ class SlideRenderer {
         progressFill.className = 'progress-bar-fill';
         progress.appendChild(progressFill);
         slide.appendChild(progress);
+
+        // Next Episode Button (on the last slide)
+        if (isLastSlide) {
+            const btnContainer = document.createElement('div');
+            btnContainer.style.textAlign = 'center';
+            btnContainer.style.marginTop = '1rem';
+            btnContainer.style.position = 'relative';
+            btnContainer.style.zIndex = '30';
+            
+            const nextBtn = document.createElement('button');
+            nextBtn.className = 'next-episode-btn';
+            
+            let btnText = "Continue to Next Episode";
+            let nextS = parseInt(seriesNum);
+            let nextE = parseInt(epNum) + 1;
+            
+            if (nextE > 10) {
+                nextE = 1;
+                nextS++;
+            }
+            
+            if (nextS > 2) {
+                btnText = "Watch Again";
+                nextS = 1;
+                nextE = 1;
+            }
+            
+            nextBtn.innerText = btnText;
+            nextBtn.onclick = () => {
+                window.location.href = `player.html?s=${nextS}&e=${nextE}`;
+            };
+            
+            btnContainer.appendChild(nextBtn);
+            
+            // Append button inside or after the text panel
+            const textPanel = slide.querySelector('.slide-text-panel');
+            if (textPanel) {
+                textPanel.appendChild(btnContainer);
+            } else {
+                slide.appendChild(btnContainer);
+            }
+        }
 
         return slide;
     }
