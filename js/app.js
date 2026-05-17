@@ -45,6 +45,9 @@ class App {
             if (firstSlide) {
                 scrollEngine.handleSlideActive(firstSlide);
             }
+            
+            // Initialize global keyboard navigation
+            this.initKeyboardListeners();
 
             // Presentation Mode Loop Navigation (Always on for player)
             document.addEventListener('episodeEnd', () => {
@@ -138,6 +141,44 @@ class App {
         navContainer.appendChild(controls);
 
         document.body.appendChild(navContainer);
+    }
+
+    initKeyboardListeners() {
+        window.addEventListener('keydown', (e) => {
+            // Ignore if modifier keys are pressed to not interfere with browser defaults
+            if (e.ctrlKey || e.altKey || e.metaKey) return;
+            // Ignore if focus is inside an input field
+            if (e.target && ['INPUT', 'TEXTAREA', 'SELECT'].includes(e.target.tagName)) return;
+
+            switch(e.code) {
+                case 'ArrowDown':
+                case 'ArrowRight':
+                    e.preventDefault();
+                    scrollEngine.scrollToNext();
+                    break;
+                case 'ArrowUp':
+                case 'ArrowLeft':
+                    e.preventDefault();
+                    scrollEngine.scrollToPrev();
+                    break;
+                case 'Space':
+                    e.preventDefault();
+                    scrollEngine.toggleAutoScroll();
+                    break;
+                case 'Home':
+                    e.preventDefault();
+                    scrollEngine.scrollToFirst();
+                    break;
+                case 'End':
+                    e.preventDefault();
+                    scrollEngine.scrollToLast();
+                    break;
+                case 'Escape':
+                    e.preventDefault();
+                    scrollEngine.stopAutoScroll();
+                    break;
+            }
+        });
     }
 
     registerServiceWorker() {

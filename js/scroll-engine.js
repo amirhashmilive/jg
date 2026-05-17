@@ -71,7 +71,7 @@ class ScrollEngine {
         window.addEventListener('mousemove', pauseAutoScroll, { passive: true });
         window.addEventListener('click', pauseAutoScroll, { passive: true });
         window.addEventListener('keydown', (e) => {
-            if (['ArrowUp', 'ArrowDown', 'Space'].includes(e.code)) {
+            if (['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(e.code)) {
                 pauseAutoScroll();
             }
         });
@@ -153,6 +153,23 @@ class ScrollEngine {
         if (this.activeIndex > 0) {
             this.slides[this.activeIndex - 1].scrollIntoView({ behavior: 'smooth' });
         }
+    }
+
+    scrollToFirst() {
+        if (this.slides.length > 0) {
+            this.slides[0].scrollIntoView({ behavior: 'smooth' });
+        }
+    }
+
+    scrollToLast() {
+        if (this.slides.length > 0) {
+            this.slides[this.slides.length - 1].scrollIntoView({ behavior: 'smooth' });
+        }
+    }
+
+    stopAutoScroll() {
+        this.settings.autoScrollEnabled = false;
+        this.pauseAutoScroll();
     }
 
     setMode(mode) {
