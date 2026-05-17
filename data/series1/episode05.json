@@ -2,1028 +2,341 @@
   "series": 1,
   "episode": 5,
   "title": "Awakening",
-  "duration": "~40 min",
-  "slideCount": 85,
+  "duration": "~20 min",
+  "slideCount": 37,
   "slides": [
     {
       "id": "s1e05-001",
       "type": "title",
       "image": "images/series1/ep05/slide-001.webp",
-      "text": "he Sihawa-Nagri Jungle Satyagraha. The information of the movement reached the officers of Raipur and a few days later, the British officers took armed police with them to suppress the Sihawa Nagari Satyagraha.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Pt. Madhavrao Sapre was the first to inspire the development and national awakening of Chhattisgarh. In 1900, he published the first monthly magazine of Chhattisgarh — Chhattisgarh Mitra — from Pendrawan and inspired the people.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 1: he Sihawa-Nagri Jungle Satyagraha. The information of the movement reached the officers of Raipur an..."
+      "visualDescription": "Title card: Madhavrao Sapre at a printing press in lamplight, 1900, the first issue of Chhattisgarh Mitra being printed. Fresh ink on paper. A pen as sword. Title: Awakening. Warm sepia tones, the birth of a new era of resistance."
     },
     {
       "id": "s1e05-002",
       "type": "content",
       "image": "images/series1/ep05/slide-002.webp",
-      "text": "Searches were conducted in the houses of the people and many agitators were arrested for theft of wood. A court was held in the village itself and 39 people were sentenced.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "In 1889, during the Bombay session of the Indian National Congress, the leaders of the Central Province came together. Among the 214 delegates who attended were CM Thakkar, Pt. Ramdayal Tiwari, Madhavrao Sapre, and Vamanrao Lakhe — the first sons of Chhattisgarh at the national table.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 2: Searches were conducted in the houses of the people and many agitators were arrested for theft of wo..."
+      "visualDescription": "The Bombay Congress session of 1889 — a grand hall, 214 delegates. Among them, four faces from Chhattisgarh highlighted: CM Thakkar, Pt. Ramdayal Tiwari, Madhavrao Sapre, Vamanrao Lakhe. Chhattisgarh enters the national conversation."
     },
     {
       "id": "s1e05-003",
       "type": "content",
       "image": "images/series1/ep05/slide-003.webp",
-      "text": "The British officials told the agitators that they would be released if they apologised, but none of the agitators apologized to the British government. The agitators were beaten up and sentenced to harsh punishment, 33 people were sentenced to 3 months and 6 people were sentenced to 5 months with fine.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "After attending the Congress party conventions, leaders like Madhavrao Sapre and Vamanrao Lakhe returned and started anti-British awakening in their respective areas. The seeds of organised resistance were planted across the region.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 3: The British officials told the agitators that they would be released if they apologised, but none of..."
+      "visualDescription": "Sapre and Lakhe returning from Bombay by train — looking out the window at their homeland with new eyes. On arrival, gathering villagers, speaking under a Banyan tree. Seeds of consciousness being planted in the soil of Chhattisgarh."
     },
     {
       "id": "s1e05-004",
       "type": "content",
       "image": "images/series1/ep05/slide-004.webp",
-      "text": "At the time when all this was happening, the leaders of the freedom struggle of the state had gone to Ahmedabad for the 37th session of the Congress. When these leaders returned and came to know about this Satyagraha and arrests, all the leaders immediately reached the city with a party of Congress workers from Dhamtari.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "In 1900, Pt. Madhavrao Sapre published Chhattisgarh Mitra — the first monthly magazine of the region — from Pendrawan. It was the first voice of organised political consciousness in Chhattisgarh. The word, after the sword, becomes the weapon.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 4: At the time when all this was happening, the leaders of the freedom struggle of the state had gone t..."
+      "visualDescription": "The printing press at Pendrawan, 1900. The first issue of Chhattisgarh Mitra coming off the press. Sapre reading the fresh copy, holding it up to lamplight. The first written voice of Chhattisgarh's resistance. Ink and determination."
     },
     {
       "id": "s1e05-005",
       "type": "content",
       "image": "images/series1/ep05/slide-005.webp",
-      "text": "The team of leaders included Pt. Sundarlal Sharma, Babu Chhotelal Srivastava and others.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "The Arya Samaj established in Raipur brought social reform — against untouchability, for widow marriage, for women's education. A religious organisation becoming an agent of social revolution. Reform and resistance traveling together.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 5: The team of leaders included Pt. Sundarlal Sharma, Babu Chhotelal Srivastava and others...."
+      "visualDescription": "An Arya Samaj gathering in Raipur — men and women of all castes seated together. A widow allowed to sit in the front row. A Harijan child receiving education alongside upper-caste children. Social revolution wearing religious clothes."
     },
     {
       "id": "s1e05-006",
       "type": "content",
       "image": "images/series1/ep05/slide-006.webp",
-      "text": "The leaders explained to the satyagrahis that the approval of the All India Congress Committee and the Provincial Congress Committee had not been taken for their satyagraha. So the movement should be postponed until the approval of these two committees is obtained.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "In 1905, the Swadeshi Movement reached Chhattisgarh following the Partition of Bengal. The boycott of British goods — cloth, sugar, salt — became the first mass economic weapon against the empire. The charkha was not yet symbol; it was survival.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 6: The leaders explained to the satyagrahis that the approval of the All India Congress Committee and t..."
+      "visualDescription": "A bonfire of British cloth in a Raipur market, 1905. Merchants and farmers watching, some apprehensive, some exhilarated. Imported cloth burning. Local khadi being displayed beside it. The Swadeshi Movement as economic warfare. Visual energy."
     },
     {
       "id": "s1e05-007",
       "type": "content",
       "image": "images/series1/ep05/slide-007.webp",
-      "text": "As a result, the Nagri Sihawa Satyagraha was postponed, but after the movement was adjourned, a public meeting was organized in Nagri Sihawa, in which Pt. Sundarlal Sharma and other Congress leaders strongly condemned the government in their speeches.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "The Goraksha Song — written by Wali Mohammad — united Hindu and Muslim communities under one anthem: 'Gaiyya roi, roi karat pukaar, More praan bacha lo hari.' A Muslim man writing a Hindu devotional song as an act of nationalist solidarity.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 7: As a result, the Nagri Sihawa Satyagraha was postponed, but after the movement was adjourned, a publ..."
+      "visualDescription": "Wali Mohammad — a Muslim writer — at his desk composing the Goraksha Song. Hindu and Muslim villagers singing it together in the street. The words: Gaiyya roi, roi karat pukaar — a cow weeping, calling for help. Unity through shared devotion."
     },
     {
       "id": "s1e05-008",
       "type": "content",
       "image": "images/series1/ep05/slide-008.webp",
-      "text": "In the meantime, the forest department officials agreed to provide minimum wages and forced labor was stopped, after which the Satyagrahis completely withdrew the movement, which was a significant success of the movement. During the British rule in the state of Chhattisgarh there were many agitations.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 8: In the meantime, the forest department officials agreed to provide minimum wages and forced labor wa..."
+      "text": "In 1906, CM Thakkar founded the Congress in Raipur. Pt. Sundarlal Sharma joined the Congress around this time, bringing with him his work on untouchability and his deep roots in the villages of Chhattisgarh.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The founding meeting of the Congress in Raipur, 1906. CM Thakkar presiding. Pt. Sundarlal Sharma — a man of visible integrity — sitting in the front. The Congress flag being raised for the first time in Chhattisgarh. History with a small beginning."
     },
     {
       "id": "s1e05-009",
       "type": "content",
       "image": "images/series1/ep05/slide-009.webp",
-      "text": "Jungle Satyagraha also took place in the state. Rudri Navagaon Jungle Satyagraha was the worst Satyagraha.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 9: Jungle Satyagraha also took place in the state. Rudri Navagaon Jungle Satyagraha was the worst Satya..."
+      "text": "Pt. Sundarlal Sharma — a zamindar who gave up privilege for reform — was already fighting untouchability before Gandhi made it his central cause. He was conducting Janeu movements, making people of all castes equal before the sacred thread.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Pt. Sundarlal Sharma placing the sacred thread on a Harijan man — the Janeu ceremony performed for those traditionally denied it. Upper-caste observers watching, some shocked, some moved. A zamindar dismantling caste hierarchy with a thread."
     },
     {
       "id": "s1e05-010",
       "type": "content",
       "image": "images/series1/ep05/slide-010.webp",
-      "text": "A person named Mintu Kumhar was killed by the police. After the arrest of Sundarlal Sharma, Narayan Rao, and other leaders, the leader of the first group, Chhotelal Srivastava, led the movement.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 10: A person named Mintu Kumhar was killed by the police. After the arrest of Sundarlal Sharma, Narayan..."
+      "text": "In the year 1914, the campaign to close slaughterhouses in villages Karmandih and Ghobani succeeded entirely through non-violent people's pressure — no violence, no litigation. An early proof that Satyagraha could work before Gandhi named it here.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Villagers of Karmandih gathering peacefully outside a slaughterhouse — sitting, praying, blocking the entrance through sheer moral presence. The slaughterhouse owner closing the doors. A small victory. A method proved. Non-violence before Gandhi arrived."
     },
     {
       "id": "s1e05-011",
       "type": "content",
       "image": "images/series1/ep05/slide-011.webp",
-      "text": "Date Name Location Led by January 1922 Sihava Jungle Satyagraha Sihawa (Dhamtari) Protest start with localits, Shobharam Sahu, Shyamlal Som, Pancham Singh, Vishambhar Patel. Latter Satyagrah led by Babu Chhotelal Srivastava, Sundarlal Sharma.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 11: Date Name Location Led by January 1922 Sihava Jungle Satyagraha Sihawa (Dhamtari) Protest start with..."
+      "text": "In 1907, the Surat split divided the Congress into Garam Dal and Naram Dal. Chhattisgarh produced leaders on both sides — its movement broad enough to contain both the aggressive and the moderate visions of independence.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The Surat Congress session of 1907 — the dramatic split between Tilak's Garam Dal and Gokhale's Naram Dal. Chhattisgarh leaders on both sides of the hall. The region as a mirror of the national debate. Unity of purpose, diversity of method."
     },
     {
       "id": "s1e05-012",
       "type": "content",
       "image": "images/series1/ep05/slide-012.webp",
-      "text": "June 1930 Gatta Silli Jungle Satyagraha Gatta Silli (Dhamtari) Chhotelal Srivastava July 1930 Mohabna Padi Jungle Satyagraha Mohabna Pondi (Durg) Narsingh Agarwal August 1930 Podigram Jungle Satyagraha Pondigram Sipat (Bilaspur) Ramadhar Dubey August 1930 Rudri Navagaon Jungle Satyagraha Rudri Nawagaon (Dhamtari) Babu Chhotelal Srivastava In 1923, the Jhanda Satyagraha During the freedom struggle of India, there was a peaceful civil disobedience movement in which people were hoisting flags everywhere under their right to hoist the national flag. Nagpur was the main center of this movement.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 12: June 1930 Gatta Silli Jungle Satyagraha Gatta Silli (Dhamtari) Chhotelal Srivastava July 1930 Mohabn..."
+      "text": "The Home Rule League arrived in Chhattisgarh in 1917. Ravi Shankar Shukla, E. Raghavendra Rao, Thakur Pyarelal Singh, and Ghanshyam Singh Gupta — each building branches, each weaving the region into the national fabric of resistance.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "1917. Home Rule League meetings spreading across Chhattisgarh — Raipur, Dhamtari, Bilaspur, Durg. Four leaders at four tables in four cities. Maps being drawn, members being enrolled. Chhattisgarh networking itself into the national movement."
     },
     {
       "id": "s1e05-013",
       "type": "content",
       "image": "images/series1/ep05/slide-013.webp",
-      "text": "But it also had an impact on the entire country in the then Madhya Pradesh Berar. Congress started recognizing the tricolor with charkha as a symbol throughout the country.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "The 1918 Sixth Provincial Conference held in Raipur was a landmark. Shukla chairs. Raghavendra Rao organises. The Tilak era is at its height. Chhattisgarh is no longer a peripheral province — it is an active voice in the freedom movement.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 13: But it also had an impact on the entire country in the then Madhya Pradesh Berar. Congress started r..."
+      "visualDescription": "The Sixth Provincial Conference, Raipur, 1918. A formal gathering of leaders from across the Central Province. Ravi Shankar Shukla chairing the session. Chhattisgarh at the center of the provincial movement. Confidence, organisation, purpose."
     },
     {
       "id": "s1e05-014",
       "type": "content",
       "image": "images/series1/ep05/slide-014.webp",
-      "text": "The tricolor was hoisted in March 1923 at the Town Hall in Jabalpur. But the British Deputy Commissioner got the flag down and crushed it.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "Pt. Sundarlal Sharma's 21-day fast against untouchability became a defining act. Chhabilal Choubey fasted alongside him. The fast as a weapon — not the hunger strike of weakness, but the supreme moral assertion of strength.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 14: The tricolor was hoisted in March 1923 at the Town Hall in Jabalpur. But the British Deputy Commissi..."
+      "visualDescription": "Pt. Sundarlal Sharma in a sparse room — 21 days of fasting. Thin, but resolute. Chhabilal Choubey beside him, equally determined. Crowds gathering outside, moved by the moral force of the act. Sacrifice as argument. Hunger as truth."
     },
     {
       "id": "s1e05-015",
       "type": "content",
       "image": "images/series1/ep05/slide-015.webp",
-      "text": "Which was opposed by the Congressmen, and the Jhanda Satyagrah (Flag S atyagraha ) was triggered by this incident. Sundarlal Sharma, Subhadra Kumari Chauhan , and Nathuram Modi , etc. leaders took out a rally in Jabalpur, Madhya Pradesh on 4 March 1923 and in Bilaspur, Chhattisgarh in the second phase of Jhanda Satyagraha on 31 March 1923.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "Dau Tularam Parganiha became the first graduate of Chhattisgarh. Daulatram Mishra became the first barrister. The pen and the courtroom — new arenas of resistance. The third generation of Chhattisgarh's freedom movement is educated and organised.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 15: Which was opposed by the Congressmen, and the Jhanda Satyagrah (Flag S atyagraha ) was triggered by..."
+      "visualDescription": "Dau Tularam Parganiha holding his graduation scroll. Daulatram Mishra in barrister's robes. Two firsts for Chhattisgarh. Education as empowerment. The British legal system being learned in order to be turned against the British. New weapons."
     },
     {
       "id": "s1e05-016",
       "type": "content",
       "image": "images/series1/ep05/slide-016.webp",
-      "text": "Pandit Sundarlal Sharma was sentenced to 6 months. Jamunalal Bajaj, Neelkanth Deshmukh , and Mahatma Bhagwadin led the movement.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Ravi Shankar Shukla was first arrested in 1919 for leading the Home Rule agitation in Raipur. He was released and immediately returned to organising. Each arrest only deepened his commitment and expanded his following.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 16: Pandit Sundarlal Sharma was sentenced to 6 months. Jamunalal Bajaj, Neelkanth Deshmukh , and Mahatma..."
+      "visualDescription": "Ravi Shankar Shukla being led away by British officers after his first arrest, 1919. The crowd watching. His expression: calm, unbroken. Then his release — the crowd welcoming him back. The cycle of arrest and return as the rhythm of leadership."
     },
     {
       "id": "s1e05-017",
       "type": "content",
       "image": "images/series1/ep05/slide-017.webp",
-      "text": "After his arrest, Vallabhbhai Patel led the movement. At the All India Congress Committee meeting in Nagpur, July 1923, passed a resolution to support the Jhanda Satyagraha.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "The Khilafat Movement brought Hindu-Muslim unity to Chhattisgarh's freedom struggle. Muslim zamindars sacrificed their land and Malguzari for the movement. Mohammad Yunus, among others, chose jail over compliance.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 17: After his arrest, Vallabhbhai Patel led the movement. At the All India Congress Committee meeting in..."
+      "visualDescription": "A Muslim zamindar signing away his land for the Khilafat movement. The documents of sacrifice. Hindu and Muslim leaders sitting together at a Congress session. Mohammad Yunus standing before a British magistrate — unflinching. Unity made visible."
     },
     {
       "id": "s1e05-018",
       "type": "content",
       "image": "images/series1/ep05/slide-018.webp",
-      "text": "In 1930, Jungle Satyagraha Tamora, Mahasamund The movement took place at this place from 8 September to 24 September 1930. Which is known as Tamora Jungle Satyagraha.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Asgar Ali thanked the Hindu brethren for their sympathy for the Muslim cause. Ravi Shankar Shukla retorted: 'We are no more Hindu and Muslims, but Hindustanis in the strictest sense.' These words echoed across the district like a bell.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 18: In 1930, Jungle Satyagraha Tamora, Mahasamund The movement took place at this place from 8 September..."
+      "visualDescription": "The Khilafat sub-committee meeting in Raipur, 1920. Ravi Shankar Shukla standing, making his declaration. Asgar Ali moved beside him. The words hanging in the air: We are no more Hindu and Muslims, but Hindustanis in the strictest sense."
     },
     {
       "id": "s1e05-019",
       "type": "content",
       "image": "images/series1/ep05/slide-019.webp",
-      "text": "In this movement, nearby tribals actively participated in this movement. During the Satyagraha, when the police used force on the male protesters by the British, the women here took over the leadership of the movement.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "In July 1920, under the chairmanship of Ravi Shankar Shukla, a public meeting was organized at Raipur. It was resolved to support the Non-Cooperation Movement wholeheartedly. Chhattisgarh commits itself — not to an idea, but to a practice.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 19: In this movement, nearby tribals actively participated in this movement. During the Satyagraha, when..."
+      "visualDescription": "The July 1920 public meeting in Raipur — a large outdoor gathering under the chairmanship of Shukla. The resolution being passed to support Non-Cooperation. Hands raised in unanimous commitment. The moment Chhattisgarh formally joins the national movement."
     },
     {
       "id": "s1e05-020",
       "type": "content",
       "image": "images/series1/ep05/slide-020.webp",
-      "text": "The British enacted the Forest Act and local residents were prohibited from entering the forest. Tamora's Satyagraha happened to break this law, was part of Gandhi's Civil disobedience movement, which started by Raghuvar Singh Dewan in Tamora.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "Sundarlal Sharma was active in the untouchable salvation program even before the Congress took it up as a cause. He made Harijans equal participants in religious ceremonies. He was, as Gandhi would later say, a guru in this work.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 20: The British enacted the Forest Act and local residents were prohibited from entering the forest. Tam..."
+      "visualDescription": "Pt. Sundarlal Sharma at a temple entrance — holding it open for Harijan families to enter. Upper-caste onlookers watching, some hostile, some moved. A zamindar doing what no one expected. A man ahead of his era. Gandhi's later words true even now."
     },
     {
       "id": "s1e05-021",
       "type": "content",
       "image": "images/series1/ep05/slide-021.webp",
-      "text": "In the year 1930, Mahatma Gandhi's Civil Disobedience Movement was going on in full intensity in Raipur city. Meanwhile the opportunity had come to expand the movement, when reports of dissatisfaction among the villagers were being received from Tamora village of Mahasamund tehsil, where the matter was also related to the forest.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Writers like Rai Bahadur Hiralal, Madhav Rao Sapre, Padumalal Punnalal Bakshi, Jagannath Bhanu, and Thakur Jagmohan Singh were engaged in the service of the Hindi language — building the cultural infrastructure of nationalism alongside the political.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 21: In the year 1930, Mahatma Gandhi's Civil Disobedience Movement was going on in full intensity in Rai..."
+      "visualDescription": "A literary gathering in Raipur — writers and poets reading to an audience by lamplight. The Hindi language as a weapon of unity. Each writer's face showing the conviction that culture is also politics. Ink and language as tools of freedom."
     },
     {
       "id": "s1e05-022",
       "type": "content",
       "image": "images/series1/ep05/slide-022.webp",
-      "text": "Some of the cattle of the village had entered the government forest, which was caught by the watchman Bisahuram. He came to the villagers and said that the cattle owners should write that their cattle graze in the forest.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "In August 1920, the Congress adopted the Non-Cooperation Movement. For Chhattisgarh, this was not a new idea but a new name for what its people had been doing since 1825 — refusing to accept the illegitimacy of foreign rule.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 22: Some of the cattle of the village had entered the government forest, which was caught by the watchma..."
+      "visualDescription": "The Congress session of 1920 — the Non-Cooperation resolution being passed. Chhattisgarh delegates raising hands. The camera pulling back to show the map of Chhattisgarh — and then pulling further back to show where it sits in India. One movement, many fronts."
     },
     {
       "id": "s1e05-023",
       "type": "content",
       "image": "images/series1/ep05/slide-023.webp",
-      "text": "The villagers refused to give this in writing, as the cattle often went to the government forest. The villagers also refused to accept the seized cattle.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "In the Dhamtari region, farmers began their protest against the canal water tax even before Gandhi's arrival. Babu Chhotelal Srivastava led the Kandel Satyagraha with courage and discipline — a model for what was about to grow into a national movement.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 23: The villagers refused to give this in writing, as the cattle often went to the government forest. Th..."
+      "visualDescription": "Babu Chhotelal Srivastava in Kandel village, 1920. Farmers assembled around him in flooded paddy fields. The canal visible behind them. The British water tax notice being read aloud and collectively refused. A small act of non-cooperation made monumental."
     },
     {
       "id": "s1e05-024",
       "type": "content",
       "image": "images/series1/ep05/slide-024.webp",
-      "text": "The forest department filed a lawsuit against the farmers and the malguzars. In the investigation by the English court, the case itself was found to be false, the incident was reported to the Raipur District Congress Committee.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 24: The forest department filed a lawsuit against the farmers and the malguzars. In the investigation by..."
+      "text": "The government's irrigation department accused the farmers of Kandel of stealing water from the canal. It was the month of August, raining heavily. There was enough water in the fields. The charge was false and everyone knew it.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Kandel village in monsoon — August rain, flooded paddies, the canal itself overflowing. A British irrigation officer reading out the charge of water theft. The farmers looking at the rain, then at the officer. The absurdity of injustice made vivid."
     },
     {
       "id": "s1e05-025",
       "type": "content",
       "image": "images/series1/ep05/slide-025.webp",
-      "text": "Shankarrao Ganodwale and Yeti Yatan Lal were sent to Tamora for investigation. Villagers of Tamora met him in village Khatti, after a brief discussion, the villagers agreed for Jungle Satyagraha.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 25: Shankarrao Ganodwale and Yeti Yatan Lal were sent to Tamora for investigation. Villagers of Tamora m..."
+      "text": "The policy of repression: cattle seized during farming season, Rs 4,030 confiscated from farmers. Narayan Rao Meghawale and Pt. Sundarlal Sharma joined the Satyagraha. The protest grew beyond a local dispute into a national symbol.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "British officers seizing cattle from Kandel farmers during the peak farming season. Farmers watching helplessly. Then Narayan Rao Meghawale and Sharma arriving — the local becoming national. New energy entering the movement. Solidarity across the region."
     },
     {
       "id": "s1e05-026",
       "type": "content",
       "image": "images/series1/ep05/slide-026.webp",
-      "text": "A few days later, a meeting was held in Khatti village itself, many people got their names registered for the Satyagraha, out of which 90 were selected, and for the next 15 days, people were prepared for the Jungle Satyagraha by visiting from village to village. On 6 September 1930, a resolution was passed to organize a public meeting and satyagraha in Tamora village on 8 September in the nearby village Labhra.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 26: A few days later, a meeting was held in Khatti village itself, many people got their names registere..."
+      "text": "December 1920. The Congress session was about to be held in Nagpur. Sensing the situation, Pt. Sundarlal Sharma went to Calcutta — because Gandhi was about to come from Calcutta to Nagpur. He would bring Gandhi to Chhattisgarh.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "December 1920. Pt. Sundarlal Sharma at Calcutta station — looking for Gandhi among the crowds. A mission of enormous consequence reduced to one man looking for another man in a railway station. The intimacy of the moment. Finding Gandhi."
     },
     {
       "id": "s1e05-027",
       "type": "content",
       "image": "images/series1/ep05/slide-027.webp",
-      "text": "Arimardan Giri was appointed as the Dictator in a meeting of prom inent persons in village Labhra. On 7 September 1930, the Dictator gave notice of Jungle Satyagraha to the Deputy Commissioner of Raipur and on the same day Tamora was selected for the Satyagraha in the meeting held at Khamharmuda.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 27: Arimardan Giri was appointed as the Dictator in a meeting of prom inent persons in village Labhra. O..."
+      "text": "Sharma informed Gandhi about the Kandel Satyagraha and accompanied him to Raipur. The same pattern as Champaran — a local leader going to Calcutta to bring Gandhi. Gandhi understands: his presence alone is the pressure.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The Champaran parallel made visual: Rajkumar Shukla leading Gandhi to Champaran 1917 on the left; Pt. Sundarlal Sharma leading Gandhi toward Raipur 1920 on the right. The same pattern. The same logic. Gandhi as the weapon of the powerless."
     },
     {
       "id": "s1e05-028",
       "type": "content",
       "image": "images/series1/ep05/slide-028.webp",
-      "text": "On September 8, a general meeting was held in the presence of thousands of people and the first batch of satyagrahis was sent towards the forest. This group included Bajrang Das, Janardan Gir Numberdas Malguzar Labhra, Hinglaj Gir (Khamharmuda) and Sanwal Das of Khamharmuda.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 28: On September 8, a general meeting was held in the presence of thousands of people and the first batc..."
+      "text": "When the British came to know that Gandhi was coming to support the farmers of Kandel, they immediately conceded. The British accepted the demands of Kandel Satyagrahis even before Mahatma Gandhi reached Raipur. The name alone had power.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "A British telegraph machine clicking urgently. A British officer reading the incoming message with a worried expression. The anti-farmer order being withdrawn — pen to paper, the defeat invisible to the farmers who have already won. The power of a name."
     },
     {
       "id": "s1e05-029",
       "type": "content",
       "image": "images/series1/ep05/slide-029.webp",
-      "text": "However, there was no police on the spot, so no arrest was made. On September 9, a bigger meeting was held in Tamora than the previous meeting, on that day there were other officers along with Tehsildar Matange, some police personnel were accompanied by Sub Inspector Mirza Baig and Ranger.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 29: However, there was no police on the spot, so no arrest was made. On September 9, a bigger meeting wa..."
+      "text": "But Gandhi is still coming. The Satyagraha may have won, but the man behind the victory has not yet seen the land he has changed. Chhattisgarh — having fought for a century without him — is about to meet the man history will place at its center.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "A train crossing the Chhattisgarh border — night, stars, the forest passing. Inside a third-class compartment, Gandhi in his dhoti, sitting simply. Pt. Sharma beside him. The land approaching. The meeting of two great forces: one man and one people."
     },
     {
       "id": "s1e05-030",
       "type": "content",
       "image": "images/series1/ep05/slide-030.webp",
-      "text": "The first day's group was sent to the forest, they were arrested. Then another team was sent and also arrested.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 30: The first day's group was sent to the forest, they were arrested. Then another team was sent and als..."
+      "text": "From 1889 to 1920 — thirty years of patient, principled, persistent awakening. Newspapers, Congress sessions, social reform, fasts, Satyagrahas. The soil of Chhattisgarh was not waiting for Gandhi. It was ready for him.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A visual summary of 30 years — Sapre's newspaper, Sharma's Janeu movement, Shukla's Congress sessions, Kandel Satyagraha. A montage of awakening. The land fully alert, fully organised, fully committed. Ready. Waiting. Prepared."
     },
     {
       "id": "s1e05-031",
       "type": "content",
       "image": "images/series1/ep05/slide-031.webp",
-      "text": "The arrested Satyagrahis were brought to the Chhapri of Malguzar. Meanwhile the meeting was over, people started returning, when a police constable asked Itwari Kenwat to carry Kanwar.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 31: The arrested Satyagrahis were brought to the Chhapri of Malguzar. Meanwhile the meeting was over, pe..."
+      "text": "Madhavrao Sapre. Vamanrao Lakhe. CM Thakkar. Pt. Ramdayal Tiwari. Pt. Sundarlal Sharma. Ravi Shankar Shukla. Thakur Pyarelal Singh. E. Raghavendra Rao. Ghanshyam Singh Gupta. Babu Chhotelal Srivastava. The architects of the third era.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A gallery of ten portraits — the architects of Chhattisgarh's modern freedom movement. Each face in its own frame, arranged like a parliament of conscience. Names beneath each portrait. These are the people who prepared the ground."
     },
     {
       "id": "s1e05-032",
       "type": "content",
       "image": "images/series1/ep05/slide-032.webp",
-      "text": "Itwari Kenwat refused to do forced labor, then caught the other, this was objected by a villager named Paklu, on this Paklu was arrested but Paklu sat there fiercely, then the enraged constable beat him up. When Paklu resisted, another soldier hit him with a stick, his head exploded.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 32: Itwari Kenwat refused to do forced labor, then caught the other, this was objected by a villager nam..."
+      "text": "Each one came from the soil and worked for the soil. Some were zamindars, some were lawyers, some were writers, some were farmers. The freedom movement of Chhattisgarh was not a movement of one class — it was a movement of one people.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The spectrum of Chhattisgarh's freedom fighters — from zamindar to farmer to writer to lawyer. All in one frame, standing together. The diversity of the movement as its greatest strength. Different hands, same fist. United purpose."
     },
     {
       "id": "s1e05-033",
       "type": "content",
       "image": "images/series1/ep05/slide-033.webp",
-      "text": "After which the people got angry, in the chaos, the Tehsildar did a mild lathi charge in the deteriorating situation, and after reaching near Paklu, ordered to lift it, the assistant of the Tehsildar, Dwivedi pointed his pistol at Paklu. After all, blood-stained Paklu was also taken to Malguzar's chapri.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 33: After which the people got angry, in the chaos, the Tehsildar did a mild lathi charge in the deterio..."
+      "text": "Chhattisgarh Mitra — the first newspaper — gave the movement words. The Congress committee gave it structure. The Janeu movement gave it moral credibility. The Kandel Satyagraha gave it a national connection. Now Gandhi will give it his presence.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Four symbols of the awakening: a newspaper, a Congress flag, a sacred thread, and a canal. Then Gandhi's silhouette approaching. Each symbol contributing to the moment. The architecture of the movement complete — now comes the arrival."
     },
     {
       "id": "s1e05-034",
       "type": "content",
       "image": "images/series1/ep05/slide-034.webp",
-      "text": "The Satyagrahis injured in Paklu and other lathi-charges were sent to village Thod by pitying them. On September 10, the meeting was held again, and thousands of people attended the meeting.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 34: The Satyagrahis injured in Paklu and other lathi-charges were sent to village Thod by pitying them...."
+      "text": "The Goraksha Song still echoes. The charkha still turns. The fasts still mean something. The names of the dead are still spoken. Chhattisgarh has been awake for thirty years. Now it is about to meet the man who will become its symbol.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Chhattisgarh at the moment before Gandhi's arrival — a land vibrating with thirty years of accumulated energy. The charkha spinning, newspapers being read, prayers being said. A people at the peak of readiness. The train approaching."
     },
     {
       "id": "s1e05-035",
       "type": "content",
       "image": "images/series1/ep05/slide-035.webp",
-      "text": "The third batch was sent for Satyagraha after which Sub Inspector Mirza Baig arrested Shankarrao Ganodwale. On September 11, a meeting was also organized, and a large group of about 500 people were gathering, they were stopped on the way by Mirza Baig and Dwivedi and after persuasion some people went back but some went towards the meeting place.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 35: The third batch was sent for Satyagraha after which Sub Inspector Mirza Baig arrested Shankarrao Gan..."
+      "text": "In small village called Kandel, the farmers have already won. The water tax has been withdrawn. The Satyagraha has succeeded without violence, without weapons, without bloodshed. A new era has already begun — before Gandhi has even arrived.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Kandel village — the canal water flowing freely, the farmers in their fields. The British order withdrawn. A small victory on a quiet field. No fanfare. Just farmers farming. And the knowledge that they did this themselves, with truth as their tool."
     },
     {
       "id": "s1e05-036",
       "type": "content",
       "image": "images/series1/ep05/slide-036.webp",
-      "text": "Grown up, 17 Satyagrahis who grew up were arrested on September 11 and released in the forest. On 12 september, There was a general meeting again on the day , the patience of the police was broken from the daily meeting, and Section 144 was imposed and orders were given for lathi charge at the meeting place, people were given a time of five minutes.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 36: Grown up, 17 Satyagrahis who grew up were arrested on September 11 and released in the forest. On 12..."
+      "text": "Thirty years of awakening. From Sapre's newspaper to Sharma's Janeu movement to Shukla's Congress committee to Srivastava's Satyagraha. The foundations are laid. The house of freedom is being built. Gandhi is almost here.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A house being built — foundations of newspaper and ink, walls of Congress organisation, roof of Satyagraha. Then: a train arriving in the distance, its headlight visible through the forest. Gandhi approaching. The final piece of the architecture."
     },
     {
       "id": "s1e05-037",
       "type": "content",
       "image": "images/series1/ep05/slide-037.webp",
-      "text": "On that day more than five thousand villagers were present in the meeting place, a large number of women were also present there, on the day Section 144 was imposed, there was a meeting in Tamora. There were also a large number of women there.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 37: On that day more than five thousand villagers were present in the meeting place, a large number of w..."
-    },
-    {
-      "id": "s1e05-038",
-      "type": "content",
-      "image": "images/series1/ep05/slide-038.webp",
-      "text": "The police were stopping the people of Karubhatha, Thonga, Dhaurabhantha, Doomardih from coming to the meeting with a rope. A girl named Dayavati and other women were on their way to the place designated for women when a lathi charge took place.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 38: The police were stopping the people of Karubhatha, Thonga, Dhaurabhantha, Doomardih from coming to t..."
-    },
-    {
-      "id": "s1e05-039",
-      "type": "content",
-      "image": "images/series1/ep05/slide-039.webp",
-      "text": "According to Dayavati's statement, the police started trying to remove the women from the bayonets but they were not ready to move from their place. Dayavati told that men started running away due to fear of being beaten with sticks, but women remained standing at the meeting place.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 39: According to Dayavati's statement, the police started trying to remove the women from the bayonets b..."
-    },
-    {
-      "id": "s1e05-040",
-      "type": "content",
-      "image": "images/series1/ep05/slide-040.webp",
-      "text": "On 13 september, Satyagrahis were also arrested but they were released on the same day. On 14 september, Heeraman, Prem Ganda of Doomardih and Lallu Ganda of Parsada were arrested during the Satyagraha.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 40: On 13 september, Satyagrahis were also arrested but they were released on the same day. On 14 septem..."
-    },
-    {
-      "id": "s1e05-041",
-      "type": "content",
-      "image": "images/series1/ep05/slide-041.webp",
-      "text": "Prem was beaten up with sticks five times. On 15 september, Satyagraha did not take place but a meeting was held in Tusada.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 41: Prem was beaten up with sticks five times. On 15 september, Satyagraha did not take place but a meet..."
-    },
-    {
-      "id": "s1e05-042",
-      "type": "content",
-      "image": "images/series1/ep05/slide-042.webp",
-      "text": "On 16 september, A general meeting was held in Amethi, on that day a group of village Khatti, which included Ruru Kenwat, Ramadhar Marar, Manrakhan Koshta, Mahesh Marar were arrested. Chauthmal, Advaita Giri and Khelu of Doomarpali were arrested on the same day.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 42: On 16 september, A general meeting was held in Amethi, on that day a group of village Khatti, which..."
-    },
-    {
-      "id": "s1e05-043",
-      "type": "content",
-      "image": "images/series1/ep05/slide-043.webp",
-      "text": "On 17th September, Again the batch was sent for Satyagraha, that day Rajaram Marar, Kapil Gond, Mani Gond, Shivraj Singh Gond and Raghubir Singh Malguzar (Tamora) were arrested, all of them residents of Phuljhar. On September 24, The Satyagraha continued from 8 September to 24 September.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 43: On 17th September, Again the batch was sent for Satyagraha, that day Rajaram Marar, Kapil Gond, Mani..."
-    },
-    {
-      "id": "s1e05-044",
-      "type": "content",
-      "image": "images/series1/ep05/slide-044.webp",
-      "text": "A general meeting was held in Amethi on 24th itself, villagers were beaten up with sticks and canes. Satyagraha was concluded on this day.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 44: A general meeting was held in Amethi on 24th itself, villagers were beaten up with sticks and canes...."
-    },
-    {
-      "id": "s1e05-045",
-      "type": "content",
-      "image": "images/series1/ep05/slide-045.webp",
-      "text": "During this movement, Raghuvar Singh Dewan, a resident and Malguzar of Tamora, was sentenced to three months' imprisonment and a fine of Rs 200 for this Satyagraha and was sent to the Central Jail, Raipur, and as per the villages from Tamora, Raghuvar Singh Dewan's niece Dayavati had slapped the then British government official during the lathi charge . Gandhi had come to Tamora in 1933 after hearing about this Satyagraha.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 45: During this movement, Raghuvar Singh Dewan, a resident and Malguzar of Tamora, was sentenced to thre..."
-    },
-    {
-      "id": "s1e05-046",
-      "type": "content",
-      "image": "images/series1/ep05/slide-046.webp",
-      "text": "Since then the identity of the village was associated with Gandhi, and the village came to be known as \"Gandhigram Tamora\". Police Brutality, Riots And Loot The Tamora, Mahasamund Jungle Satyagraha of 1930 was a non-violent and symbolic Satyagraha, but it was a huge tumult was there all over the region.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 46: Since then the identity of the village was associated with Gandhi, and the village came to be known..."
-    },
-    {
-      "id": "s1e05-047",
-      "type": "content",
-      "image": "images/series1/ep05/slide-047.webp",
-      "text": "S ome parallel incidents took place, which were carried out by the British government in an attempt to break, intimidate and weaken the movement. The British had instilled so much hatred among the sycophants and policemen who took advantage of the government for the people who spoke against the government and that a police constable of Indian origin was beating the people of his own country with hatred and brutality.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 47: S ome parallel incidents took place, which were carried out by the British government in an attempt..."
-    },
-    {
-      "id": "s1e05-048",
-      "type": "content",
-      "image": "images/series1/ep05/slide-048.webp",
-      "text": "They were robbing them, beating them mercilessly. They would come in herds and beat any helpless person to half-dead who was thinking against the government.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 48: They were robbing them, beating them mercilessly. They would come in herds and beat any helpless per..."
-    },
-    {
-      "id": "s1e05-049",
-      "type": "content",
-      "image": "images/series1/ep05/slide-049.webp",
-      "text": "In the village Tamora, Tamora's Malagujar Raghubir Singh was legally imprisoned for four months and fined Rs 200, but unethically the police robbed the cucumber crop and sugarcane from malgujar's farm. Bananas were looted from the trees by the police constables whose house they used to loot something from there.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 49: In the village Tamora, Tamora's Malagujar Raghubir Singh was legally imprisoned for four months and..."
-    },
-    {
-      "id": "s1e05-050",
-      "type": "content",
-      "image": "images/series1/ep05/slide-050.webp",
-      "text": "Bananas from the houses of farmers Raghu, Ramdas, Ramcharan, the policemen took the pumpkin from the houses of Mohan, Chamar Rai, Mangallu and Devi and the cucu mber from the house of Anandram, r ak h iya (fruit) was robbed from the bari ( fence ) of Vishal Das and Ghasi, t he chickens o f Chamru and Charan were looted, at Jhuran Binjhwar's house, the police ate stale and mistook ghee and drank crow's oil, after drinking the oil, they started vomiting. As an inhuman incident , a 90 year s old Dharamu Kalar, he was paralyzed and also deaf, but had somehow reached the meeting place slither walking .",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 50: Bananas from the houses of farmers Raghu, Ramdas, Ramcharan, the policemen took the pumpkin from the..."
-    },
-    {
-      "id": "s1e05-051",
-      "type": "content",
-      "image": "images/series1/ep05/slide-051.webp",
-      "text": "This old and helpless person was beaten up by the police with sticks . Malguzar Rag hubir Singh fined Rs 200, Lachhan Kunwar was also fined Rs 100.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 51: This old and helpless person was beaten up by the police with sticks . Malguzar Rag hubir Singh fine..."
-    },
-    {
-      "id": "s1e05-052",
-      "type": "content",
-      "image": "images/series1/ep05/slide-052.webp",
-      "text": "In an incidence, w hile guarding his own house from Police robbing , Amar Singh of Khamharmuda were put in jail. An inspector and 2 constables entered the house forcibly and searched the house after breaking the lock.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 52: In an incidence, w hile guarding his own house from Police robbing , Amar Singh of Khamharmuda were..."
-    },
-    {
-      "id": "s1e05-053",
-      "type": "content",
-      "image": "images/series1/ep05/slide-053.webp",
-      "text": "The i nspector started beating Amar Singh with a stick , a nd asked to say the slogon \"˜Long live the King' . In response, Amar Singh said '",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 53: The i nspector started beating Amar Singh with a stick , a nd asked to say the slogon '˜Long live th..."
-    },
-    {
-      "id": "s1e05-054",
-      "type": "content",
-      "image": "images/series1/ep05/slide-054.webp",
-      "text": "( Glory to Mahatma Gandhi ). The Inspector and the constables beat up Amar Singh a lot, when his wife stood in front to save the middle, the policemen together beat his wife Devi with sticks.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 54: ( Glory to Mahatma Gandhi ). The Inspector and the constables beat up Amar Singh a lot, when his wif..."
-    },
-    {
-      "id": "s1e05-055",
-      "type": "content",
-      "image": "images/series1/ep05/slide-055.webp",
-      "text": "A fine of Rs 300 was imposed on Malguzar of Khamharmuda, Fuguva Kotwar also became a victim of beating . Rs 50 on Hirapuri and Shivlalpuri was fined Rs 50.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 55: A fine of Rs 300 was imposed on Malguzar of Khamharmuda, Fuguva Kotwar also became a victim of beati..."
-    },
-    {
-      "id": "s1e05-056",
-      "type": "content",
-      "image": "images/series1/ep05/slide-056.webp",
-      "text": "Rs 100 fine was forcly recovered from a 70-year-old farmer Shankar Giri from village Pacheda, Rs 100 from Ramchandra and Rs 100 from Budhram. Few policemen forcibly had a feast at Johan Teli's house, entered his house and cooked and ate food.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 56: Rs 100 fine was forcly recovered from a 70-year-old farmer Shankar Giri from village Pacheda, Rs 100..."
-    },
-    {
-      "id": "s1e05-057",
-      "type": "content",
-      "image": "images/series1/ep05/slide-057.webp",
-      "text": "Shobharam, Govind Panka, Vitthal Gond, Gopal Kotwar and Govind of village Labhra were beaten up. Rs 200 each was recovered from Prem Giri, Jeevan Giri and Janardan Giri.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 57: Shobharam, Govind Panka, Vitthal Gond, Gopal Kotwar and Govind of village Labhra were beaten up. Rs..."
-    },
-    {
-      "id": "s1e05-058",
-      "type": "content",
-      "image": "images/series1/ep05/slide-058.webp",
-      "text": "Kachru was badly be aten up by the police in Amethi . Fortunately no one was beaten up by the police in Navagaon, but o ne hundred rupees fine was forcly collected from Devi Singh .",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 58: Kachru was badly be aten up by the police in Amethi . Fortunately no one was beaten up by the police..."
-    },
-    {
-      "id": "s1e05-059",
-      "type": "content",
-      "image": "images/series1/ep05/slide-059.webp",
-      "text": "Hiramal Teli of Doomardih was jailed for six months and fined Rs 200. Six bullocks, two buffaloes, four cows, four heifers were attached for non-payment of the fine, and a few days later two bullocks and a cycle were attached from his Pacheda's house and Rs 57 in cash was also confiscated.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 59: Hiramal Teli of Doomardih was jailed for six months and fined Rs 200. Six bullocks, two buffaloes, f..."
-    },
-    {
-      "id": "s1e05-060",
-      "type": "content",
-      "image": "images/series1/ep05/slide-060.webp",
-      "text": "The attached cattle were auctioned in Mahasamund. In hiatus to break the Satyagraha , the hated English sycophantic policemen looted and rioted in the areas of Mahasamund, forcibly entered the house, beaten on the road, forcing the slogans of \"British ki Jai\", b ut people in retaliation considered Gandhi's ideology higher than violence, and even after being beaten up, only one word came out of their mouth, that was \"",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 60: The attached cattle were auctioned in Mahasamund. In hiatus to break the Satyagraha , the hated Engl..."
-    },
-    {
-      "id": "s1e05-061",
-      "type": "content",
-      "image": "images/series1/ep05/slide-061.webp",
-      "text": "Tanwat-Nawapara Jungle Satyagraha In 1930, Mahatma Gandhi was engaged in organizing the Rural Congress. The \"Gandhi cap\" had become a symbol of freedom fighter and Congress.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 61: Tanwat-Nawapara Jungle Satyagraha In 1930, Mahatma Gandhi was engaged in organizing the Rural Congre..."
-    },
-    {
-      "id": "s1e05-062",
-      "type": "content",
-      "image": "images/series1/ep05/slide-062.webp",
-      "text": "Police atrocities and looting also continued in the Tanwar-Nawapara area. In urban areas, the British police exercised restraint due to the pressure and fear of big leaders, but in rural areas it was completely unbridled.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 62: Police atrocities and looting also continued in the Tanwar-Nawapara area. In urban areas, the Britis..."
-    },
-    {
-      "id": "s1e05-063",
-      "type": "content",
-      "image": "images/series1/ep05/slide-063.webp",
-      "text": "Presently Navapara and Khariar are now included in Odisha, until 1 April 1935 they were included in Mahasamund tehsil of Chhattisgarh, the same day the state of Orissa was formed. In the Tanwat-Nawapara area, a program of promotion of Swadeshi and prohibition of alcohol was conducted.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 63: Presently Navapara and Khariar are now included in Odisha, until 1 April 1935 they were included in..."
-    },
-    {
-      "id": "s1e05-064",
-      "type": "content",
-      "image": "images/series1/ep05/slide-064.webp",
-      "text": "Both these villages came under Khariyar Zamindar. There was dissatisfaction among the people due to the tyranny of the landlord, because the landlord was used to taking forced labor from the people.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 64: Both these villages came under Khariyar Zamindar. There was dissatisfaction among the people due to..."
-    },
-    {
-      "id": "s1e05-065",
-      "type": "content",
-      "image": "images/series1/ep05/slide-065.webp",
-      "text": "He used to find excuses to pass the burden of rent on the farmers. Even his relations with the nearby Malguzars were not good.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 65: He used to find excuses to pass the burden of rent on the farmers. Even his relations with the nearb..."
-    },
-    {
-      "id": "s1e05-066",
-      "type": "content",
-      "image": "images/series1/ep05/slide-066.webp",
-      "text": "The zamindar's henchmen also used to roam around with sticks and guns along with the police. When the news of atrocities reached the District Congress Committee, Thakur Pyarelal Singh, Maulana Abdul Rauf Khan, Bhagwati Prasad Mishra, Yati Yatan Lal and Tanwat-Nawapara went for inspection on 11 April 1931 for investigation.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 66: The zamindar's henchmen also used to roam around with sticks and guns along with the police. When th..."
-    },
-    {
-      "id": "s1e05-067",
-      "type": "content",
-      "image": "images/series1/ep05/slide-067.webp",
-      "text": "This team conducted investigation in five centers, Tamora on 14 April, Tanwat-Nawapara on 15, Khariyar on 16, Chowkbeda on 17 and Pithora on 18 April meeting the victims and took their testimony. Although the appropriate time could not be found for the investigation, but what came out was frightening, people were scared of the atrocities of the police, due to paucity of time, complete information could not be received.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 67: This team conducted investigation in five centers, Tamora on 14 April, Tanwat-Nawapara on 15, Khariy..."
-    },
-    {
-      "id": "s1e05-068",
-      "type": "content",
-      "image": "images/series1/ep05/slide-068.webp",
-      "text": "Nevertheless, the report he prepared on the basis of the interviews with the witnesses was enough to tell the history of the atrocities. The Congress movement was widespread in Mahasamund tehsil, but could not take root in Tanwat-Nawapara.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 68: Nevertheless, the report he prepared on the basis of the interviews with the witnesses was enough to..."
-    },
-    {
-      "id": "s1e05-069",
-      "type": "content",
-      "image": "images/series1/ep05/slide-069.webp",
-      "text": "Foreign boycotts and prohibition movements were in full swing, campaigning was widespread, although wicket-keeping took place in some places, some meetings were held and a few strikes were also held. On 15 April 1931, The investigation team reached Tanwat-Nawapara, 28 people of the area were in jail, including Malguzars and farmers.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 69: Foreign boycotts and prohibition movements were in full swing, campaigning was widespread, although..."
-    },
-    {
-      "id": "s1e05-070",
-      "type": "content",
-      "image": "images/series1/ep05/slide-070.webp",
-      "text": "He was imprisoned from 6 months to 4 years. In Saliha village, 5 miles from Tanwat-Nawapara, the police opened fire and people were beaten up with sticks.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 70: He was imprisoned from 6 months to 4 years. In Saliha village, 5 miles from Tanwat-Nawapara, the pol..."
-    },
-    {
-      "id": "s1e05-071",
-      "type": "content",
-      "image": "images/series1/ep05/slide-071.webp",
-      "text": "Some people, who were suffering from the unjust forced labor, logistics and rent of the Zamindar, had complained to the Deputy Commissioner of Raipur, on this complaint a fine of two hundred rupees was imposed on the Zamindar, but the Zamindar adopted a repressive attitude to recover the outstanding debt. Albeit, Organized villagers stopped logistical and forced labor and refused to pay the loan, so the landlord then increased the tax on every item of the forest to four times.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 71: Some people, who were suffering from the unjust forced labor, logistics and rent of the Zamindar, ha..."
-    },
-    {
-      "id": "s1e05-072",
-      "type": "content",
-      "image": "images/series1/ep05/slide-072.webp",
-      "text": "Apart from the livelihood of the villagers, wood and fodder for the animals were available from the forest itself, the villagers then decided to break the \"Forest Law\". The zamindar's henchmen started demanding the amount of grazing to be recovered in December-January in September, on which people objected.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 72: Apart from the livelihood of the villagers, wood and fodder for the animals were available from the..."
-    },
-    {
-      "id": "s1e05-073",
-      "type": "content",
-      "image": "images/series1/ep05/slide-073.webp",
-      "text": "The henchmen turned to hooliganism and within a week cattle from many villages were locked up in kanji houses (Shed for unclaimed cattle causing damage to agriculture etc.). In the villages of Chhattisgarh, there was a tradition going on for years, in which on the day of Dussehra the villagers used to visit the zamindar and make him aware of their problems.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "In a small village called Kandel, the farmers are at peace. In Raipur, the platform is being prepared. In Calcutta, a man in a dhoti is boarding a third-class compartment. Next: Episode 6 — The Water and the Tax.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 73: The henchmen turned to hooliganism and within a week cattle from many villages were locked up in kan..."
-    },
-    {
-      "id": "s1e05-074",
-      "type": "content",
-      "image": "images/series1/ep05/slide-074.webp",
-      "text": "Two days before Dussehra, the villagers gathered in Saliha to discuss the topics to be discussed with the landlord, in a short time the police and the zamindar's staff reached the meeting place and the people's wood and umbrella were kept in one place, the cap and the gamchha snatched and set on fire. Before people could understand anything, on the orders of the Circle Inspector, the police force started beating everyone with sticks, and brutally beat the police and the people of the landlord for an hour.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 74: Two days before Dussehra, the villagers gathered in Saliha to discuss the topics to be discussed wit..."
-    },
-    {
-      "id": "s1e05-075",
-      "type": "content",
-      "image": "images/series1/ep05/slide-075.webp",
-      "text": "People ran towards the forest after saving their lives, on the other hand the policemen entered the village, where only women and children were there, as soon as they entered the village, there was aerial fire. Women, apprehensive about the lives of men, left their homes with sticks.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 75: People ran towards the forest after saving their lives, on the other hand the policemen entered the..."
-    },
-    {
-      "id": "s1e05-076",
-      "type": "content",
-      "image": "images/series1/ep05/slide-076.webp",
-      "text": "She stood before the police with the determination to kill, while seeing the ruthless appearance of the women, the police and the landlord's goons thought it better to run away. The women also followed them for a long distance, hearing the noise of which the men hiding in the forest also came out.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 76: She stood before the police with the determination to kill, while seeing the ruthless appearance of..."
-    },
-    {
-      "id": "s1e05-077",
-      "type": "content",
-      "image": "images/series1/ep05/slide-077.webp",
-      "text": "The fleeing policemen were resting in Patparpayali, two miles away, when someone pelted the circle inspector with a stone. The police force ran back and arrested 28 people in this incident.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 77: The fleeing policemen were resting in Patparpayali, two miles away, when someone pelted the circle i..."
-    },
-    {
-      "id": "s1e05-078",
-      "type": "content",
-      "image": "images/series1/ep05/slide-078.webp",
-      "text": "On March 26, 1931, on the information of the incident, the Deputy Commissioner reached Patparpayali, then on the pretext of a Congress meeting, gathered the villagers back, and the people were rewarded and the gifts of sweets and paan, beedi were given, but after knowing the truth of the hoax, people refused to accept sweets and paan-bidi. Urlu Kotwar was given a reward of Rs 75 and had the privilege of shaking hands with the Deputy Commissioner, who was no less than a king in the area during this period.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 78: On March 26, 1931, on the information of the incident, the Deputy Commissioner reached Patparpayali,..."
-    },
-    {
-      "id": "s1e05-079",
-      "type": "content",
-      "image": "images/series1/ep05/slide-079.webp",
-      "text": "It was Urlu Kotwar, through which the deputy commissioner of Patparpayali had made a false a nnouncement of being a Congress meeting. After the Deputy Commissioner's court, a hundred policemen collected a fine of 300 to 400 rupees from every village, people's houses were searched, money was extorted by showing people the fear of arrest, those who were unable to pay the money were arrested.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 79: It was Urlu Kotwar, through which the deputy commissioner of Patparpayali had made a false a nnounce..."
-    },
-    {
-      "id": "s1e05-080",
-      "type": "content",
-      "image": "images/series1/ep05/slide-080.webp",
-      "text": "And people were brutally beaten up, their goats, chicken, rice, pulses and ghee were looted by the police. Gandhi-Irwin Pact On 5 March 1931, the Satyagrahis were released according to the Gandhi-Irwin Pact.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 80: And people were brutally beaten up, their goats, chicken, rice, pulses and ghee were looted by the p..."
-    },
-    {
-      "id": "s1e05-081",
-      "type": "content",
-      "image": "images/series1/ep05/slide-081.webp",
-      "text": "Khariar area Congress workers campaigned village to village of the agreement. The volunteers undertook an intensive tour of 60 villages in 15 days, carrying a tricolor flag and wearing a Gandhi cap.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 81: Khariar area Congress workers campaigned village to village of the agreement. The volunteers underto..."
-    },
-    {
-      "id": "s1e05-082",
-      "type": "content",
-      "image": "images/series1/ep05/slide-082.webp",
-      "text": "Through the campaign, it was ingrained in the minds of the villag",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 82: Through the campaign, it was ingrained in the minds of the villag..."
-    },
-    {
-      "id": "s1e05-083",
-      "type": "content",
-      "image": "images/series1/ep05/slide-083.webp",
-      "text": "Through the campaign, it was ingrained in the minds of the villag",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 83: Through the campaign, it was ingrained in the minds of the villag..."
-    },
-    {
-      "id": "s1e05-084",
-      "type": "content",
-      "image": "images/series1/ep05/slide-084.webp",
-      "text": "Through the campaign, it was ingrained in the minds of the villag",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 84: Through the campaign, it was ingrained in the minds of the villag..."
-    },
-    {
-      "id": "s1e05-085",
-      "type": "content",
-      "image": "images/series1/ep05/slide-085.webp",
-      "text": "Through the campaign, it was ingrained in the minds of the villag",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Congress awakening in Chhattisgarh, Arya Samaj, Sundarlal Sharma, social reform, leaders gathering in Raipur. Slide 85: Through the campaign, it was ingrained in the minds of the villag..."
+      "visualDescription": "Three simultaneous images: Kandel farmers at peace, Raipur station platform being decorated with flowers, Gandhi boarding a third-class compartment in Calcutta. Three worlds about to converge. Title card: Episode 6 — The Water and the Tax."
     }
   ]
 }

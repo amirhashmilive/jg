@@ -2,1028 +2,341 @@
   "series": 1,
   "episode": 6,
   "title": "The Water and the Tax",
-  "duration": "~40 min",
-  "slideCount": 85,
+  "duration": "~20 min",
+  "slideCount": 37,
   "slides": [
     {
       "id": "s1e06-001",
       "type": "title",
       "image": "images/series1/ep06/slide-001.webp",
-      "text": "ers that the Viceroy had to compromise before Gandhi bowing down, compromise is the victory of Mahatma Gandhi and Congress. In 1940, Vyaktigat Satyagraha in Chhattisgarh The then Viceroy Lord Linlithgow announced India ' s involvement in the Second World War on 3 September 1939. Before this announcement , Linlithgow did not consult any political party.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "When the non-cooperation movement started in India, under its influence, farmers in the Dhamtari region of Chhattisgarh protested against the tax imposed on the canal water of the British. This became known as the Kandel Canal Satyagraha.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 1: ers that the Viceroy had to compromise before Gandhi bowing down, compromise is the victory of Mahat..."
+      "visualDescription": "Title card: Kandel village — flooded paddy fields, canal water flowing freely in August monsoon, a British tax notice nailed to a tree. Farmers standing firm, arms at their sides. Ink-wash illustration, deep greens and grey sky. Defiance without weapons."
     },
     {
       "id": "s1e06-002",
       "type": "content",
       "image": "images/series1/ep06/slide-002.webp",
-      "text": "This left Congress dissatisfied. Mahatma Gandhi oppose s the British government ' s strategy. Non-violent personal Satyagrah was started in 1940.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "Dhamtari district. Kandel village. Seventy kilometres from Raipur. August 1920. The monsoon rains are heavy. The paddy fields are flooded. The farmers of Kandel are doing what they have always done — farming their land with their water.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 2: This left Congress dissatisfied. Mahatma Gandhi oppose s the British government ' s strategy. Non-vi..."
+      "visualDescription": "Aerial view of Kandel village in August monsoon — green paddy fields, flooded, the canal running alongside. Farmers working in the rain. A peaceful, industrious village at harvest time. The beauty of what is about to be threatened."
     },
     {
       "id": "s1e06-003",
       "type": "content",
       "image": "images/series1/ep06/slide-003.webp",
-      "text": "The Bombay Session of 1940 allowed individual Satyagrah. On October 17, 1940, the Father of the Nation, Mahatma Gandhi had chosen Acharya Vinoba Bhave as the first Satyagrahis to start personal Satyagrah and Jawaharlal Nehru as the second. The Vyaktigat Satyagraha (Personal Satyagrah) in Chhattisgarh was initiated by Pandit Ravi Shankar on 27 November 1940 in Raipur, Chhattisgarh.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "The government's irrigation department accused the farmers of Kandel of stealing water from the canal. It was the month of August, it was raining heavily. There was enough water in the fields. Therefore, the charge of farmers stealing water from the canal was false.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 3: The Bombay Session of 1940 allowed individual Satyagrah. On October 17, 1940, the Father of the Nati..."
+      "visualDescription": "A British irrigation officer in colonial uniform, reading out the charge of water theft to assembled farmers. The canal flowing full beside him. The monsoon rain falling. The farmers looking at the sky, then at the canal, then at the officer. Absurdity as injustice."
     },
     {
       "id": "s1e06-004",
       "type": "content",
       "image": "images/series1/ep06/slide-004.webp",
-      "text": "There were about 500 Satyagrahis in the Central Provisions region. All the Satyagrahis arrested were released on 3 December 1941 In Raipur, Pt. Ravi Shankar Shukla was the first Satyagrahi of Chhattisgarh.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "But the British irrigation department proceeded with the false charge. The policy of repression began: cattle seized during the farming season, Rs 4,030 confiscated from farmers. The punishment was real even when the crime was invented.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 4: There were about 500 Satyagrahis in the Central Provisions region. All the Satyagrahis arrested were..."
+      "visualDescription": "British officers leading away farmers' cattle during the peak farming season. The farmers watching in distress — without their cattle, the harvest is impossible. Money confiscated. A family's year's work threatened by a false charge. Quiet devastation."
     },
     {
       "id": "s1e06-005",
       "type": "content",
       "image": "images/series1/ep06/slide-005.webp",
-      "text": "Shukla was arrested and sentenced to one year. After his arrest, around 74 people performed Satyagraha. At this time itself, Raipur Congress Bhavan was constructed in 1940, which was inaugurated by Sardar Vallabhbhai Patel.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "Babu Chhotelal Srivastava stepped forward. Not a philosopher, not a national leader — a man from the community who simply refused to accept the false charge and the unjust punishment. He began organising the Kandel Canal Satyagraha.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 5: Shukla was arrested and sentenced to one year. After his arrest, around 74 people performed Satyagra..."
+      "visualDescription": "Babu Chhotelal Srivastava — a man of the community, not a famous figure — standing in the flooded field, addressing the farmers of Kandel. His posture: firm, clear, unafraid. The farmers gathering around him. Leadership born from refusal."
     },
     {
       "id": "s1e06-006",
       "type": "content",
       "image": "images/series1/ep06/slide-006.webp",
-      "text": "In Bilaspur, The chief Satyagrahis of Bilaspur were Yadunandan Prasad Srivastava, Jwala Prasad Mishra, Barrister Ghililal, Kishanchand Kayastha, R. Roy , and Ram Gopal Tiwari. In Durg, The chiefs of the Durg were Satyagrahi, Ratnakar Jha, Ghanshyam Singh Gupta, Ramkumar Singraul, Y.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Pandit Sundarlal Sharma and Narayan Rao Meghawale joined the Satyagraha, widening its scope from a local dispute to a movement with Congress backing. What began as one village's refusal became a regional act of conscience.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 6: In Bilaspur, The chief Satyagrahis of Bilaspur were Yadunandan Prasad Srivastava, Jwala Prasad Mishr..."
+      "visualDescription": "Pt. Sundarlal Sharma and Narayan Rao Meghawale arriving in Kandel — being received by Srivastava and the farmers. The handshake that connected the local movement to the national one. The Satyagraha growing in stature and scope."
     },
     {
       "id": "s1e06-007",
       "type": "content",
       "image": "images/series1/ep06/slide-007.webp",
-      "text": "Whey Tamaskar, and Mohanlal Bakaliwal. 1940, thousands of Satyagrahis took part from Chhattisgarh. An important event took place o n this S atyagraha. Kajuram Verma, a freedom fighter from village Saragaon, traveled to Delhi, campaigning against British rule.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 7: Whey Tamaskar, and Mohanlal Bakaliwal. 1940, thousands of Satyagrahis took part from Chhattisgarh. A..."
+      "text": "The Kandel Satyagraha became a model of disciplined non-violence. No weapons, no violence, no threats — only firm, organised refusal to accept an unjust tax. The farmers held their ground as surely as the earth holds the seed.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The farmers of Kandel in a line facing the British officers — peaceful, disciplined, not moving. No weapons. No aggression. Just presence and refusal. The power of organised non-violence. The British not knowing what to do with men who simply stand."
     },
     {
       "id": "s1e06-008",
       "type": "content",
       "image": "images/series1/ep06/slide-008.webp",
-      "text": "He was charged with the duty of an undercover department soldier. He also used to walk along with him, taking reports of his speech. Gradually he too was impressed by his speech.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 8: He was charged with the duty of an undercover department soldier. He also used to walk along with hi..."
+      "text": "Meanwhile, December 1920. The Congress session was to be held in Nagpur. Sensing the opportunity, Pt. Sundarlal Sharma made a decision: Gandhi was travelling from Calcutta to Nagpur. He would intercept the journey and bring Gandhi to Chhattisgarh.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Pt. Sundarlal Sharma with a railway timetable and a map. Tracing the route: Calcutta to Nagpur. Kandel to Raipur. A plan forming. The strategic mind of the freedom movement working. One journey intersecting another to change history."
     },
     {
       "id": "s1e06-009",
       "type": "content",
       "image": "images/series1/ep06/slide-009.webp",
-      "text": "People used to call him Khan Saheb. Meanwhile, the festival of Bhai Dooj came. On that day Chhattisgarh goes to the sibling ' s house as per the custom of the region.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 9: People used to call him Khan Saheb. Meanwhile, the festival of Bhai Dooj came. On that day Chhattisg..."
+      "text": "Sharma went to Calcutta because Gandhi was about to come from Calcutta to Nagpur. He found Gandhi and informed him about the Kandel Satyagraha. Gandhi agreed to stop at Raipur. A small detour that would echo for a century.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Calcutta station — busy, crowded, December 1920. Sharma spotting Gandhi among the passengers. The meeting. Sharma speaking urgently, hands gesturing toward Chhattisgarh on an imaginary map. Gandhi listening, then nodding. Agreement. The detour decided."
     },
     {
       "id": "s1e06-010",
       "type": "content",
       "image": "images/series1/ep06/slide-010.webp",
-      "text": "The sister worships her and offers her food and dhoti. The brother gives them according to his power. As Satyagrahi Kejuram Verma had to travel further towards Delhi, he could not go back to his sister ' s village, then he became depressed in the memory of his sister.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 10: The sister worships her and offers her food and dhoti. The brother gives them according to his power..."
+      "text": "The parallel with Champaran was not lost on anyone. In 1917, Rajkumar Shukla had brought Gandhi from Calcutta to Champaran — the indigo farmers' Satyagraha. The British, hearing Gandhi was coming, formed a committee and conceded. The pattern was established.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Champaran, 1917 on the left panel: Rajkumar Shukla leading Gandhi through indigo fields. Kandel, 1920 on the right: Pt. Sharma bringing Gandhi toward Chhattisgarh. The same pattern repeated. Gandhi as the weapon of the wronged. The Champaran template."
     },
     {
       "id": "s1e06-011",
       "type": "content",
       "image": "images/series1/ep06/slide-011.webp",
-      "text": "Reason for sadness the soldier of the intelligence department himself got sad and suggested that I should give the message of not being able to reach your sister? With your departure, my sister will get some satisfaction. The soldier left to d eliver the message of Kejuram ' s sister ' s village, promising to meet at the next stop.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 11: Reason for sadness the soldier of the intelligence department himself got sad and suggested that I s..."
+      "text": "When the British came to know that Gandhi was coming to support the farmers of Kandel, they immediately formed a committee to resolve it. The Champaran peasant movement had become successful in the same way. Now Kandel would follow.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "A British telegraph office receiving the urgent message: Gandhi is coming to Kandel. Officers in panic. A committee being hastily convened. Documents drafted for withdrawal of the order. The entire machinery of empire reacting to one man's travel itinerary."
     },
     {
       "id": "s1e06-012",
       "type": "content",
       "image": "images/series1/ep06/slide-012.webp",
-      "text": "The sister got the message of her brother, and a feeling of brotherly love was received and he was welcomed by the brother who h as substituted the brother, he fed him the sweets made for his brother and while departing, he presented him the dhoti which he gave to the brother, which was of pure Khadi. The soldier came to the second stop and narrated the situation of the house of Kejuram ' s sister. At the same time, he also showed himself the dhoti of Khadi and sent it emotionally, brother, I have presented the dhoti of Khadi as a sister of Satyagrahi brother.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 12: The sister got the message of her brother, and a feeling of brotherly love was received and he was w..."
+      "text": "The British accepted the demands of Kandel Satyagrahis even before Mahatma Gandhi reached Raipur. The anti-farmer order was withdrawn. The confiscated cattle were returned. The Rs 4,030 was to be repaid. The Satyagraha had succeeded.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The withdrawal order being signed. Cattle being returned to their owners. Farmers receiving back what was taken. Srivastava reading the concession document. Victory without a single blow struck. The power of organised truth against organised power."
     },
     {
       "id": "s1e06-013",
       "type": "content",
       "image": "images/series1/ep06/slide-013.webp",
-      "text": "I can no longer be a policeman. I too will join the personal S atyagraha and go to jail. At the same time, he resigned from his government job and went to his place of residence in Muzaffarpur, Uttar Pradesh , and joined the personal Satyagrah, who later became the MLA in Uttar Pradesh.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "But Gandhi was still coming. The Satyagraha had won before his arrival, but the man who had made it win by the mere announcement of his journey — that man had not yet seen the land he changed. Chhattisgarh waited for him.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 13: I can no longer be a policeman. I too will join the personal S atyagraha and go to jail. At the same..."
+      "visualDescription": "The farmers of Kandel celebrating their victory — but looking down the road, toward Raipur, toward the direction Gandhi will come from. Their Satyagraha won, but they want to see the man whose name made it possible. The anticipation. The gratitude."
     },
     {
       "id": "s1e06-014",
       "type": "content",
       "image": "images/series1/ep06/slide-014.webp",
-      "text": "Such incidents happen even further. Many government employees, influenced by the soldiers of the freedom struggle, also left the government service and participated in the freedom struggle. Impressed by the movement of 942, he left his police department job to participate in the freedom struggle.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "Raipur in December 1920. Pt. Ravi Shankar Shukla, Thakur Pyarelal Singh, Sakharam Dubey, and others are preparing. The platform is being decorated. Volunteers are being organised. The district is holding its breath.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 14: Such incidents happen even further. Many government employees, influenced by the soldiers of the fre..."
+      "visualDescription": "Raipur station being decorated for Gandhi's arrival — flower garlands, volunteers in position, leaders in the front. Ravi Shankar Shukla directing the preparations. The whole district converging on the railway station. A city preparing for a moment."
     },
     {
       "id": "s1e06-015",
       "type": "content",
       "image": "images/series1/ep06/slide-015.webp",
-      "text": "While his departmental promotion was to take place at that time. In August 1942, Gandhi ' s \" Karo Ya Maro \" (Do or die) Was widely circulated in Chhattisgarh on the call of.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "Gandhi was accompanied by the Ali brothers — Shaukat Ali and Muhammad Ali, leaders of the Khilafat Movement. Their presence underlined the unity of the Khilafat and Non-Cooperation movements that Gandhi had woven into a single strand.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 15: While his departmental promotion was to take place at that time. In August 1942, Gandhi ' s ' Karo Y..."
+      "visualDescription": "Inside the train: Gandhi, Shaukat Ali, and Muhammad Ali in conversation. Three leaders, three faiths represented between them. The Khilafat and Non-Cooperation movements traveling together on the Calcutta-Nagpur line. Unity in transit."
     },
     {
       "id": "s1e06-016",
       "type": "content",
       "image": "images/series1/ep06/slide-016.webp",
-      "text": "Nonviolent S atyagraha and revolution had merged, like the Ganga Jamuna stream, the youth of Chhattisgarh were moving towards armed revolution with the inspiration of Krantikumar Bharti. On the other hand, most Satyagrahis headed for a non - violent revolution in Gandhi ' s way. Both groups were moving according to their ways.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Babu Chhotelal Srivastava — the man who started it all — sat with his farmers in Kandel, knowing the Satyagraha had succeeded. He had no way of knowing that what he started would eventually connect his village to a man who would shake an empire.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 16: Nonviolent S atyagraha and revolution had merged, like the Ganga Jamuna stream, the youth of Chhatti..."
+      "visualDescription": "Babu Chhotelal Srivastava in Kandel — sitting with farmers under a tree, the canal flowing peacefully beside them. The victory quiet and complete. He doesn't yet know that in a few days, Gandhi will stand in Dhamtari and speak his name to thousands."
     },
     {
       "id": "s1e06-017",
       "type": "content",
       "image": "images/series1/ep06/slide-017.webp",
-      "text": "Armed revolutionaries had secretly set up a factory for making weapons in Raipur, whose center was Girilal Mistry ' s factory to improve guns. The pistols made from Jahn were used to secretly reach the revolutionaries of Bengal. Mangal Mistry used to be his associate.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "The Kandel Canal Satyagraha was a microcosm of everything the Non-Cooperation Movement stood for: the refusal of an unjust law, organised community resistance, moral rather than physical force, and the power of a collective will over an individual order.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 17: Armed revolutionaries had secretly set up a factory for making weapons in Raipur, whose center was G..."
+      "visualDescription": "The elements of the Satyagraha laid out visually: farmers standing firm, the false charge document, the canal water, the cattle returned. A template. A proof of concept. What Gandhi had theorised, these farmers had practised in a monsoon-soaked village."
     },
     {
       "id": "s1e06-018",
       "type": "content",
       "image": "images/series1/ep06/slide-018.webp",
-      "text": "The work of hiding was done by Parasram Soni and Govind Prasad Awadhiya. The bomb - making work was done by Parasram Soni. Govind Prasad Awadhiya had the responsibility to experiment and know about his potential.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "On December 21, Shaukat Ali and Muhammad Ali addressed the Muslim gathering at Yateemkhana in Dhamtari. The Khilafat message and the Non-Cooperation message arriving together in a town where the Satyagraha had just succeeded.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 18: The work of hiding was done by Parasram Soni and Govind Prasad Awadhiya. The bomb - making work was..."
+      "visualDescription": "Yateemkhana, Dhamtari, December 21. A large Muslim gathering. Shaukat Ali at the podium — broad, commanding. Muhammad Ali beside him. The Khilafat Movement speaking in the heartland of the Kandel Satyagraha. Two movements converging in one town."
     },
     {
       "id": "s1e06-019",
       "type": "content",
       "image": "images/series1/ep06/slide-019.webp",
-      "text": "His weapon capacity was secretly measured. Pistol training was imparted. The bomb - making education was given by Sudhir Mukherjee, who was a student of science, while the education of pistols was given by Krantikumar Bharti.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "Abbas Bhai drove Gandhi from Raipur to Dhamtari in his motor — the only motor available. When a police officer tried to stop the bus driver from taking Gandhi's group, Abbas Bhai stepped forward and drove them himself.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 19: His weapon capacity was secretly measured. Pistol training was imparted. The bomb - making education..."
+      "visualDescription": "Abbas Bhai — a Muslim transport operator — at the wheel of his motor, driving Gandhi toward Dhamtari. A police officer blocking the road, then stepping aside. Abbas Bhai driving on. The ordinary man making the extraordinary journey possible."
     },
     {
       "id": "s1e06-020",
       "type": "content",
       "image": "images/series1/ep06/slide-020.webp",
-      "text": "Further , all the companions were caught because of a whistleblower. He was prosecuted and jailed, the case is known as the \" Raipur Conspiracy Case \" in the government records.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "Days later, the license of Abbas Bhai's transport company Raipur Bus Service was cancelled — punishment for driving Gandhi. He paid with his livelihood for an act of solidarity. The cost of proximity to Gandhi for ordinary people was often everything.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 20: Further , all the companions were caught because of a whistleblower. He was prosecuted and jailed, t..."
+      "visualDescription": "Abbas Bhai holding the cancellation notice for his transport license — his face showing loss, but also a quiet pride. His motor sits in the background. The price of conscience. An ordinary man paying an extraordinary cost for a single act of solidarity."
     },
     {
       "id": "s1e06-021",
       "type": "content",
       "image": "images/series1/ep06/slide-021.webp",
-      "text": "One effort was active under the leadership of Ishwaricharan Shukla. They wanted to blow up the post office. They were also caught along with their colleagues before taking the form of the plan.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "On receiving information about Gandhi's arrival, irrigation officials withdrew the anti-farmer order even before the motor reached Dhamtari. The Satyagraha was officially over. But the journey continued — because the movement was larger than one canal.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 21: One effort was active under the leadership of Ishwaricharan Shukla. They wanted to blow up the post..."
+      "visualDescription": "The withdrawal order arriving in Dhamtari even as Gandhi's motor is still en route. A farmer in Kandel receiving the news. Then: Gandhi's motor approaching Dhamtari through the crowds. The canal issue resolved — the larger struggle just beginning."
     },
     {
       "id": "s1e06-022",
       "type": "content",
       "image": "images/series1/ep06/slide-022.webp",
-      "text": "Similarly, the third Yush Prof. Jayanaraban belonged to Pandey who wanted to liberate the freedom fighters locked in the Raipur Jail Jail by bombing it. The wall of the jail was able to put the dynamite, but the wall did not break with it, only a crack cou ld occur.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 22: Similarly, the third Yush Prof. Jayanaraban belonged to Pandey who wanted to liberate the freedom fi..."
+      "text": "Makai Chowk, Dhamtari. Within the enclosure of Seth Hussain, a massive crowd gathered. The motor cannot reach the stage through the press of people. At that moment, Omar Seth — a businessman from Gurur — lifted Gandhi on his shoulder.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Makai Chowk, Dhamtari — packed beyond capacity. Gandhi's motor surrounded by humanity. Then: Omar Seth — broad-shouldered, strong — lifting Gandhi onto his shoulders and carrying him through the sea of people toward the stage. Gandhi's hand raised in greeting."
     },
     {
       "id": "s1e06-023",
       "type": "content",
       "image": "images/series1/ep06/slide-023.webp",
-      "text": "Jayanarayan Pandey was also caught. He was also prosecuted and jailed. Sheetal Prasad Mishra was caught cutting the telephone wires.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 23: Jayanarayan Pandey was also caught. He was also prosecuted and jailed. Sheetal Prasad Mishra was cau..."
+      "text": "Gandhi spoke for an hour at the Dhamtari meeting. He praised Babu Chhotelal Srivastava, Narayan Rao Meghawale, and Pt. Sundarlal Sharma. He made the names of Kandel's heroes known to the 15,000 who had gathered to hear him.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Gandhi at the Dhamtari podium, speaking to 15,000 people. The faces of the crowd — rapt, moved, transformed. He is naming the heroes of Kandel. Chhotelal Srivastava in the crowd, hearing his own name spoken by Gandhi. The honour of being seen."
     },
     {
       "id": "s1e06-024",
       "type": "content",
       "image": "images/series1/ep06/slide-024.webp",
-      "text": "Their effort was to separate the city of Raipur from the contact of rail and wire and declare it as Azad Nagar. The fourth attempt was to blow up the railway bridge near Rajnandgaon. After all the preparations, the plan could not fructify due to the ill-treatment of its chief Karnadhar Kasturchand Jain, in which his colleagues got jail sentence s .",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 24: Their effort was to separate the city of Raipur from the contact of rail and wire and declare it as..."
+      "text": "Gandhi highlighted non-violence as the foundation of Satyagraha. More than 500 activists from Dhamtari committed to attending the Nagpur session. Bajirao Kridatta presented a bag of Rs 501 to Gandhi — the Tilak Swaraj Fund beginning to fill.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Bajirao Kridatta presenting a bag of Rs 501 to Gandhi at the Dhamtari meeting. Gandhi accepting it with folded hands. 500 activists signing their names for Nagpur. The movement acquiring both momentum and money. The Tilak Fund growing."
     },
     {
       "id": "s1e06-025",
       "type": "content",
       "image": "images/series1/ep06/slide-025.webp",
-      "text": "Non-violent revolutionaries also tried their hardest. A successful experiment took place at Patan police station in Durg district. Acharya Ramdev, a Gandhian philosopher, had come from Gandhi ' s ashram to live here with his partner Madhumangal Savarni to use his theory.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 25: Non-violent revolutionaries also tried their hardest. A successful experiment took place at Patan po..."
+      "text": "The massive public meeting in Kankalipara, Raipur — the ground next to Anand Samaj library. A drama had played on this stage the night before. After Gandhi's meeting, those with reverence took bricks from the stage as mementos. The stage was dismantled out of devotion.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Kankalipara ground after Gandhi's meeting — people taking bricks from the stage, reverently, as sacred objects. The stage slowly disappearing piece by piece into the hands of the crowd. Devotion so intense it dismantles what it honours."
     },
     {
       "id": "s1e06-026",
       "type": "content",
       "image": "images/series1/ep06/slide-026.webp",
-      "text": "They wanted to liberate the entire Patan region from British rule by occupying the police station without using weapons. Capture Program \" and started using it. Village volunteers went and prepared volunteers first.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 26: They wanted to liberate the entire Patan region from British rule by occupying the police station wi..."
+      "text": "The women's gathering at Machilabad in Tatyapara — a large number of Muslim women attended openly, donating to the Tilak Fund. Hindu and Muslim women standing together, giving gold and silver, united by a cause larger than any division.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The women's gathering at Machilabad — Muslim and Hindu women standing together, gold rings and bracelets being placed in Gandhi's spread bag. The openness of the donation. Community in action. Unity as the most radical act of the day."
     },
     {
       "id": "s1e06-027",
       "type": "content",
       "image": "images/series1/ep06/slide-027.webp",
-      "text": "Give them training as per their plan. How to snatch the police weapon without any attack on them, how to defend themselves when fired, then how to take possession of the police station in front of them, the village was already promoted. Karo Ya Maro \" (Do or Die ) , \"",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 27: Give them training as per their plan. How to snatch the police weapon without any attack on them, ho..."
+      "text": "Gandhi visited the Jaitasava monastery. That evening, at the meeting near Kankalipara, where now Gandhi Chowk stands, 15,000 people gathered. Gandhi spoke. Shaukat Ali spoke. The Raipur District Congress Committee was born on this night.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Gandhi Chowk — the ground where 15,000 stood. Gandhi at the podium with Ali brothers. Ravi Shankar Shukla signing the founding papers of the Raipur DCC by torchlight. Structure emerging from gathering. A permanent organisation born from a single night."
     },
     {
       "id": "s1e06-028",
       "type": "content",
       "image": "images/series1/ep06/slide-028.webp",
-      "text": "Angrezo Bharat Chhodo\" (\"British leave India\") \" Angrezi Poli ce Thana Chhoro \" ( British Police Quit Station s ), the campaign started. Patan ' s police station was engulfed in manpower.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 28: Angrezo Bharat Chhodo' ('British leave India') ' Angrezi Poli ce Thana Chhoro ' ( British Police..."
+      "text": "Pt. Ravi Shankar Shukla was made the first secretary of the Raipur District Congress Committee. From this point, the movement in Chhattisgarh had formal structure — not just inspired individuals, but an organised body capable of sustained action.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Ravi Shankar Shukla at the table, signing his name as first secretary of the Raipur DCC. Gandhi watching. The formalisation of the movement — paper and ink making permanent what inspiration had started. The organisation that will carry the movement forward."
     },
     {
       "id": "s1e06-029",
       "type": "content",
       "image": "images/series1/ep06/slide-029.webp",
-      "text": "The police station and the policemen were stripped of their uniforms and handed over the police station to the agitators. The officers were informed about the status of the Patan police station. The entire Amla Maya military force of the entire district surrounded Patan.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 29: The police station and the policemen were stripped of their uniforms and handed over the police stat..."
+      "text": "December 22, 1920. Gandhi departs for Nagpur by train. Three days in Chhattisgarh — the Satyagraha supported, a committee formed, thousands mobilised, the Tilak Fund collected. He leaves behind a different Chhattisgarh than the one that received him.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Raipur station, December 22, 1920. Gandhi boarding the train to Nagpur. The platform crowd watching him go. Some weeping. Most simply witnessing. The train pulling away slowly. The face at the window: Gandhi's eyes taking in Chhattisgarh one last time."
     },
     {
       "id": "s1e06-030",
       "type": "content",
       "image": "images/series1/ep06/slide-030.webp",
-      "text": "The public gathered to prepare for the occupation was scattered. Freedom fighters were arrested by marking them one by one from each village. Capture Program \" could not be successful, but the planners were not disappointed by it, and tried again, by taking a meeting in Jamgaon.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 30: The public gathered to prepare for the occupation was scattered. Freedom fighters were arrested by m..."
+      "text": "What the Kandel Satyagraha proved: that a false charge could be refused, that organised non-violence could win, that the name of Gandhi was itself a form of power. The canal still flows through Kandel. The paddy still grows. The tax never returned.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Kandel canal today — water flowing, paddy growing, the village at peace. The British order that threatened all of this: withdrawn, forgotten. The victory permanent. A small village that won a Satyagraha against an empire. The canal as testimony."
     },
     {
       "id": "s1e06-031",
       "type": "content",
       "image": "images/series1/ep06/slide-031.webp",
-      "text": "The gathering severely repressed the British government, the village was cordoned off. Nevertheless, Ghasia Mandal of Batang village came with the youth of his village carrying the tricolor flag. Sticks were settled on that procession, in which many volunteers were beheaded, many of them were arrested.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 31: The gathering severely repressed the British government, the village was cordoned off. Nevertheless,..."
+      "text": "Babu Chhotelal Srivastava — the organiser of the Kandel Satyagraha — is the unsung hero at the center of this story. He did not become famous. He did not seek power. He simply refused an unjust tax, organised his community, and won.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Portrait of Babu Chhotelal Srivastava — a simple, strong face. The canal behind him. The farmers who followed him around him. He carries no title. He seeks no recognition. He simply did what needed to be done. The most essential kind of hero."
     },
     {
       "id": "s1e06-032",
       "type": "content",
       "image": "images/series1/ep06/slide-032.webp",
-      "text": "The Ghasia Mandal, moving forward with the flag, was also attacked, but they did not let the flag fall. Stripped with gun blades, yet did not leave the flag, only after falling unconscious did he release the flag from his hand, and he was arrested and lodged in an injured state in Raipur Jail, where he died. This brave martyr of the Patan (Durg) region was written in the line of martyrs.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 32: The Ghasia Mandal, moving forward with the flag, was also attacked, but they did not let the flag fa..."
+      "text": "Narayan Rao Meghawale, who co-led the Kandel Satyagraha with Srivastava, would later be imprisoned alongside Pt. Sundarlal Sharma. The Satyagraha of Kandel was not a single event — it was the first chapter of a longer commitment.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Narayan Rao Meghawale — standing with Srivastava, Sharma in a post-Satyagraha moment. Three men who did not finish after the canal dispute was settled. Their commitment continuing into prison, into further Satyagrahas, into the rest of their lives."
     },
     {
       "id": "s1e06-033",
       "type": "content",
       "image": "images/series1/ep06/slide-033.webp",
-      "text": "The group of young men of Durg C ity wanted to show some courage in the freedom struggle. Which was led by Raghunandan Prasar Sirmaur, Ch andiprasad Gupta , and Sudhakar . H e desired to capture the district court, the efforts were made, the documents of the court were also burnt, the youth was beaten up, going to jail, the police wanted to confiscate all the youth, and get the life imprisonment and loot the fame.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 33: The group of young men of Durg C ity wanted to show some courage in the freedom struggle. Which was..."
+      "text": "Abbas Bhai lost his transport license. The farmers of Kandel won their water. Ravi Shankar Shukla became the first DCC secretary. Omar Seth carried Gandhi on his shoulders. Each person gave what they had. None of them asked for more than what was right.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A mosaic of the December 1920 visit — Abbas Bhai, the Kandel farmers, Shukla signing documents, Omar Seth lifting Gandhi. Each person in their moment of contribution. The movement made of ordinary people doing extraordinary things."
     },
     {
       "id": "s1e06-034",
       "type": "content",
       "image": "images/series1/ep06/slide-034.webp",
-      "text": "An attempt was made to confess them by brutal torture. One of them was Raghunandan Prasad Singraul, he was arrested and beaten, littered in snow blocks, many freedom fighters were tortured. The Linlithgow offer The August Offer was an offer made by Viceroy Linlithgow in 1940 promising the expansion of the chief Council of the Viceroy of India to incorporate more Indians, the establishment of an advisory war council, giving full weight to the minority opinion, and therefore the recognition of Indians ' righ t to border their constitution after the top of the war .",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 34: An attempt was made to confess them by brutal torture. One of them was Raghunandan Prasad Singraul,..."
+      "text": "That place is famous today as Gandhi Chowk in Raipur. The ground where 15,000 stood in December 1920 still bears his name. The city grew up around the memory. The chowk as an anchor of historical identity for a city that will not forget.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Present-day Gandhi Chowk, Raipur — traffic, modern buildings, the city alive around it. But the name unchanged. Gandhi Chowk. The December 1920 meeting ground, now a busy intersection. The past alive in the name. Memory given an address."
     },
     {
       "id": "s1e06-035",
       "type": "content",
       "image": "images/series1/ep06/slide-035.webp",
-      "text": "In return, it had been hoped that each one part y and communities in India would cooperate in Britain ' s efforts in World War II. However , this proposal was rejected by Congress because the minorities, especially the Muslim League, were assured that no constitutional scheme was acceptable to the govt without their agreement , i.e. providing a veto power to the Muslim League. Personal Satyagraha was started in 1940 by the Father of the Nation, Mahatma Gandhi.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 35: In return, it had been hoped that each one part y and communities in India would cooperate in Britai..."
+      "text": "The Kandel Canal Satyagraha is the moment when Chhattisgarh joined the national freedom movement as a participant, not merely an observer. Its farmers did not wait for Gandhi to lead them — they led, and then they welcomed him.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The farmers of Kandel in their fields — independent, proud, successful. In the background, Gandhi's train arriving. But the farmers are not looking at the train — they are already working, already free. They won before Gandhi came. He confirmed what they knew."
     },
     {
       "id": "s1e06-036",
       "type": "content",
       "image": "images/series1/ep06/slide-036.webp",
-      "text": "Due to Gandhi not being satisfied with the August proposal, Congress completely rejected the August proposal and decided to have a personal S atyagraha under Gandhi ' s leadership. The specialty of this S atyagraha was that in it Satyagrahi, chosen by Mahatma Gandhi, gave his arrest by giving a speech at a predetermined place. Before his speech, the Satyagrahi used to inform the District Magistrate about his S atyagraha.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 36: Due to Gandhi not being satisfied with the August proposal, Congress completely rejected the August..."
+      "text": "The water of the Kandel canal — refused as taxable theft, reclaimed as a right. The people of Kandel proved that truth, organised and patient, is stronger than an empire. The canal flows today as proof.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Close-up of the Kandel canal water flowing — clear, peaceful, untaxed. The reflection of the sky in the water. The paddy growing on its banks. What was fought for, secured. What was unjust, overturned. The water as testimony to the power of the people."
     },
     {
       "id": "s1e06-037",
       "type": "content",
       "image": "images/series1/ep06/slide-037.webp",
-      "text": "First Satyagrah Vinoba Bhave was chosen by Gandhi as the first individual Satyagrahi on 11 October 1940. The I ndividual S atyagraha was started on 17 October 1940 from the Pawanar Ashram in Maharashtra. Vinoba was arrested by the British government on 21 October.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 37: First Satyagrah Vinoba Bhave was chosen by Gandhi as the first individual Satyagrahi on 11 October 1..."
-    },
-    {
-      "id": "s1e06-038",
-      "type": "content",
-      "image": "images/series1/ep06/slide-038.webp",
-      "text": "Jawaharlal Nehru was elected the second and Brahma Dutt the third Satyagrahi. Second Stage Individual Satyagraha was postponed by Mahatma Gandhi on 17 December 1940. It was reintroduced in 1941.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 38: Jawaharlal Nehru was elected the second and Brahma Dutt the third Satyagrahi. Second Stage Individua..."
-    },
-    {
-      "id": "s1e06-039",
-      "type": "content",
-      "image": "images/series1/ep06/slide-039.webp",
-      "text": "And the second phase of the personal Satyagrah. Began on 5 January 1941, in this movement, about 25 , 000 Satyagrahis were imprisoned. Speeches were made in the villages against the government and on 27 April 1942 Gandhi called for a departure towards Delhi, it is known as the \"",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 39: And the second phase of the personal Satyagrah. Began on 5 January 1941, in this movement, about 25..."
-    },
-    {
-      "id": "s1e06-040",
-      "type": "content",
-      "image": "images/series1/ep06/slide-040.webp",
-      "text": "Chalo Delhi \" ( let' s go to Delhi) movement. In 1942, Quit India Movement The Congress Working Committee accepted Gandhi's historic \"Quit India Resolution\" on August 8, 1942, after some amendments, in a meeting held at the historic \"Gwalia Tank Maidan \" in Bombay on August 8, 1942 by the \"All India Congress\". From August the Quit India Movement aslso known as \"",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 40: Chalo Delhi ' ( let' s go to Delhi) movement. In 1942, Quit India Movement The Congress Working Com..."
-    },
-    {
-      "id": "s1e06-041",
-      "type": "content",
-      "image": "images/series1/ep06/slide-041.webp",
-      "text": "August Kranti \" ( August Revolution ) started all over India. In this session held in Bombay, P t . Ravi Shankar Shukla, Barrister Chhedilal, Laxminarayan Das, Yatiyatan Lal , Shivdas Daga, Maulana Abdul Rauf Khan, Ghanshyam Singh Gupta, Dwarka Prasad Mishra, Ram Gopa l Tiwari, and Kunjbihari Agnihotri were participated.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 41: August Kranti ' ( August Revolution ) started all over India. In this session held in Bombay, P t ...."
-    },
-    {
-      "id": "s1e06-042",
-      "type": "content",
-      "image": "images/series1/ep06/slide-042.webp",
-      "text": "While returning from Bombay, they were arrested at Malakpur on the border of the Central Provinces . In the meeting of Bombay, Central Provinces was represented by Pt. Ravi Shankar Shukla, Laxminarayan Das, Dwarka Prasad Mishra, Kunjbihari Abhinihotri, Y.V.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 42: While returning from Bombay, they were arrested at Malakpur on the border of the Central Provinces ...."
-    },
-    {
-      "id": "s1e06-043",
-      "type": "content",
-      "image": "images/series1/ep06/slide-043.webp",
-      "text": "On August 9, 1942, there was a movement all over the country and in the evening a procession was taken out in Shahar, which was led by Ranveer Singh Shastri, which also had an impact in Chhattisgarh. The Quit India Movement was conducted by various leaders at different places in Chhattisgarh. Raipur Bilaspur Durg Bhagwati Charan Shukla Chintamani Ottalwar Raghunandan Prasad Singraul Jai Narayan Pandey Rajkishore Sharma Ratnakar Jha Ranveer Singh Shastri Kalicharan Ganesh Prasad Singraul Malnarayan Sharma Barrister Chhedilal Narsingh Prasad Agrawal Tretanath Tripathi Yadunandan Prasad Srivastava Ramkrishna Thakur Major Events in Chhattisgarh during the Quit India Movement By the late evening of 8 August 1942, news had reached Chhattisgarh, that Mahatma Gandhi had started a new movement against British rule, and gave the slogan \"Karo ya Maro\" (Do or Die), for which a big public meeting is to be held in Raipur on 9th August.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 43: On August 9, 1942, there was a movement all over the country and in the evening a procession was tak..."
-    },
-    {
-      "id": "s1e06-044",
-      "type": "content",
-      "image": "images/series1/ep06/slide-044.webp",
-      "text": "On the morning of 9th August, there was a different kind of stir in the whole city, a large number of people were also coming to Raipur from nearby, all schools, colleges and markets were closed on 9th August 1942 in Raipur. Ravi Shankar Shukla, Barrister Chhedilal, Laxminarayan Das, Yatiyatan Lal, Shivdas Daga, Maulana Abdul Rauf Khan, Ghanshyam Singh Gupta, Dwarka Prasad Mishra, Ram Gopal Tiwari, and Kunjbihari Agnihotri were already arrested at Malakpur on the border of the Central Provinces after the Bombey session. All the big leaders of the congress were arrested, many people were put under house arrest in the \"Aga Khan Palace\".",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 44: On the morning of 9th August, there was a different kind of stir in the whole city, a large number o..."
-    },
-    {
-      "id": "s1e06-045",
-      "type": "content",
-      "image": "images/series1/ep06/slide-045.webp",
-      "text": "Around 3 pm in the afternoon, a huge crowd of thousands came out of the National School in the form of a procession, passing through Tatyapara to Kankalipara, people gathered for the meeting at Gandhi Maidan at 5 pm, about twenty thousand people gathered in the ground. The British police had surrounded the meeting place, the then city magistrate asked D eputy commissioner (Collector) RK Patil for permission to lathi-charge and fire, but seeing the peaceful procession, the collector refused. Influence d by this movement, the C ollector quit his job after a few days.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 45: Around 3 pm in the afternoon, a huge crowd of thousands came out of the National School in the form..."
-    },
-    {
-      "id": "s1e06-046",
-      "type": "content",
-      "image": "images/series1/ep06/slide-046.webp",
-      "text": "D uring the meeting in Raipur, as soon as the name was called from the stage to preside over the meeting, the man would have been arrested even before he could reach the doys. In this way, 52 people were arrested and sent to jail before reaching the stage. In view of this, people discussed among themselves and made a strategy to take the movement forward.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 46: D uring the meeting in Raipur, as soon as the name was called from the stage to preside over the mee..."
-    },
-    {
-      "id": "s1e06-047",
-      "type": "content",
-      "image": "images/series1/ep06/slide-047.webp",
-      "text": "In view of this, then Gopal Singh Nepali had said : \"Aaj desh ke neta peechhe, J anata aage-aage\" ( Today the leaders of the country a re behind, the people are ahead) Raipur Conspiracy Case Explosive materials were made under the leadership of Parasram Soni and B.B. Sur to support the revolutionaries in Raipur.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 47: In view of this, then Gopal Singh Nepali had said : 'Aaj desh ke neta peechhe, J anata aage-aage' (..."
-    },
-    {
-      "id": "s1e06-048",
-      "type": "content",
-      "image": "images/series1/ep06/slide-048.webp",
-      "text": "The other associates in this conspiracy are Premchandra Wasnik, Dr. Surmangal Mistry, Sudhir Mukherjee, Dashrath Choubey, Ranveer Singh Shastri, Girivar Damodar, Kantikumar Bharti. The revolutionaries involved in this conspiracy were arrested on 5 July 1942 due to information being given to the police by an informer named 'Shivanandan', and sentenced to 7 years.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 48: The other associates in this conspiracy are Premchandra Wasnik, Dr. Surmangal Mistry, Sudhir Mukherj..."
-    },
-    {
-      "id": "s1e06-049",
-      "type": "content",
-      "image": "images/series1/ep06/slide-049.webp",
-      "text": "However, due to the efforts of Pt. Ravi Shankar Shukla, they were released. Raipur Dynamite Scandal To get the politicians out of Raipur jail, a plan was made to blow up the prison wall with dynamite under the leadership of Bilakhnarayan Agarwal.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 49: However, due to the efforts of Pt. Ravi Shankar Shukla, they were released. Raipur Dynamite Scandal..."
-    },
-    {
-      "id": "s1e06-050",
-      "type": "content",
-      "image": "images/series1/ep06/slide-050.webp",
-      "text": "The information about this scheme was conveyed to the police through Avinash Sangram. Due to which this plan failed. The police arrested Bilakhnarayan along with his associates Ishwarilal, Jaynarayan Pandey and Nagardas Bavaria.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 50: The information about this scheme was conveyed to the police through Avinash Sangram. Due to which t..."
-    },
-    {
-      "id": "s1e06-051",
-      "type": "content",
-      "image": "images/series1/ep06/slide-051.webp",
-      "text": "Durg's Arsons On 28 August 1942, Raghunandan Singraul set fire to Durg district court. The police arrested Raghunandan Singraul on the basis of suspicion but he was released due to lack of evidence. On 5 September 1942, Raghunandan Singraul along with Jaswant Singh set fire to the municipal building.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 51: Durg's Arsons On 28 August 1942, Raghunandan Singraul set fire to Durg district court. The police ar..."
-    },
-    {
-      "id": "s1e06-052",
-      "type": "content",
-      "image": "images/series1/ep06/slide-052.webp",
-      "text": "The movement remained active in Chhattisgarh . The flag was hoisted in the High Court of Nagpur by a student named Thakur Ramakrishna, for which he was arrested. The youth used to try to break the jail walls by applying dynamide to free the people associated with the freedom struggle.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 52: The movement remained active in Chhattisgarh . The flag was hoisted in the High Court of Nagpur by a..."
-    },
-    {
-      "id": "s1e06-053",
-      "type": "content",
-      "image": "images/series1/ep06/slide-053.webp",
-      "text": "The postbox was set on fire by pouring petrol to stop the letters of the British. Protests were raised by vandalizing the government building. In 1947, Attainment of Independence On August 15, the first Chief Minister of Madhya Pradesh and Berar, P.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 53: The postbox was set on fire by pouring petrol to stop the letters of the British. Protests were rais..."
-    },
-    {
-      "id": "s1e06-054",
-      "type": "content",
-      "image": "images/series1/ep06/slide-054.webp",
-      "text": "Ravi Shankar Shukla hoisted the tricolor at Sitabardi fort in the then capital Nagpur, RK Patil in Raipur, Ghanshyam Singh Gupta in Durg and Ram Gopal Tiwari in Bilaspur. 1920: Mahatma Gandhi 's F irst Visit to Chhattisgarh The Kandel Canal Satyagraha December 20, Reached Raipur, addressed the general meeting, the place p re sently knows as Gandhi Chowk in Raipur. December 21 , Arrived at Dhamtari, gave a speech regarding Kandel Satyagraha, thronged to welcome at Makai Chowk, returned from Dhamtari, and addressed the gathering at the ground next to Anand Samaj reading room of Raipur. Addressed a gathering of women in Machi Bada, Tatyapara, Raipur, also went to the Jaitusav math.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 54: Ravi Shankar Shukla hoisted the tricolor at Sitabardi fort in the then capital Nagpur, RK Patil in R..."
-    },
-    {
-      "id": "s1e06-055",
-      "type": "content",
-      "image": "images/series1/ep06/slide-055.webp",
-      "text": "December 22, Left from Raipur for Nagpur by train. Gandhi was such a personality who spent most of his life reaching different parts of the country and tried to know him and increased his intimate connection with the public. His Chhattisgarh connection is also recorded in the indelible memories of history.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 55: December 22, Left from Raipur for Nagpur by train. Gandhi was such a personality who spent most of h..."
-    },
-    {
-      "id": "s1e06-056",
-      "type": "content",
-      "image": "images/series1/ep06/slide-056.webp",
-      "text": "In 1920, the farmers of Kandel, a small village in Dhamtari, about 70 km from Raipur, performed a water canal Satyagraha against the decree of irrigation tax imposed by the British rule. Due to which Mahatma Gandhi was well impressed and joined the peasant movement in Dhamtari on 21 December 1920 to support the farmers. Due to which the British were sweated, all the Gudhaan property which was confiscated by the British got it returned.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 56: In 1920, the farmers of Kandel, a small village in Dhamtari, about 70 km from Raipur, performed a wa..."
-    },
-    {
-      "id": "s1e06-057",
-      "type": "content",
-      "image": "images/series1/ep06/slide-057.webp",
-      "text": "The Kandel Canal Satyagraha proved to be a very effective step against the British. On his return, Gandhi addressed a public meeting in Raipur. The place where Gandhi gave a speech is today known as Gandhi Chowk in Raipur.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 57: The Kandel Canal Satyagraha proved to be a very effective step against the British. On his return, G..."
-    },
-    {
-      "id": "s1e06-058",
-      "type": "content",
-      "image": "images/series1/ep06/slide-058.webp",
-      "text": "Mahatma Gandhi's first visit to Chhattisgarh was in December 1920. Although not mentioned in Gandhi's history, there is enough information from various local sources that Mahatma Gandhi came to Raipur in connection with the Kandel Canal Satyagraha and went to Dhamtari, Kurud. Bal G angadhar Tilak, who was conferred with the title of Lokmanya, the most popular leader of that era, died on 1 August 1920.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 58: Mahatma Gandhi's first visit to Chhattisgarh was in December 1920. Although not mentioned in Gandhi'..."
-    },
-    {
-      "id": "s1e06-059",
-      "type": "content",
-      "image": "images/series1/ep06/slide-059.webp",
-      "text": "Although Mahatma Gandhi's identity and his important place in Indian politics had already been established . But after the death of Tilak , he became the focal point not only of Congress but also of Indian politics. Congress took the reins of Mahatma Gandhi.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 59: Although Mahatma Gandhi's identity and his important place in Indian politics had already been estab..."
-    },
-    {
-      "id": "s1e06-060",
-      "type": "content",
-      "image": "images/series1/ep06/slide-060.webp",
-      "text": "Meanwhile, in the Kandel village of Dhamtari district, the Satyagraha of the farmers was going on under the leadership of Babu Chhotelal Srivastava. Narayanrao Meghawale w as also supporting the S atyagraha. The government's irrigation department accused the farmers of Kandel of stealing water from the canal.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 60: Meanwhile, in the Kandel village of Dhamtari district, the Satyagraha of the farmers was going on un..."
-    },
-    {
-      "id": "s1e06-061",
-      "type": "content",
-      "image": "images/series1/ep06/slide-061.webp",
-      "text": "It was the month of August; it was raining heavily. There was enough water in the fields. Therefore, the charge of farmers stealing water from the canal was false.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 61: It was the month of August; it was raining heavily. There was enough water in the fields. Therefore,..."
-    },
-    {
-      "id": "s1e06-062",
-      "type": "content",
-      "image": "images/series1/ep06/slide-062.webp",
-      "text": "A policy of repression was adopted to collect forcible irrigation tax. The allegations were baseless, so the farmers were also adamant about not paying tax. A fine of Rs 4030 was confiscated on their cattle during the farming period.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 62: A policy of repression was adopted to collect forcible irrigation tax. The allegations were baseless..."
-    },
-    {
-      "id": "s1e06-063",
-      "type": "content",
-      "image": "images/series1/ep06/slide-063.webp",
-      "text": "Both sides were unswerving. Therefore, it was decided to hand over the leadership of the movement to Gandhi. Sundarlal Sharma went to Calcutta on 2 December to pick up Gandhi.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 63: Both sides were unswerving. Therefore, it was decided to hand over the leadership of the movement to..."
-    },
-    {
-      "id": "s1e06-064",
-      "type": "content",
-      "image": "images/series1/ep06/slide-064.webp",
-      "text": "They reached Raipur on 20 December 1920 with them. Ravi Shankar Shukla, Thakur Pyarelal Singh, Sakharam Dubey , etc. welcomed him on the platform. Gandhi was lodged in the barrister Thakkar's bungalow in Raipur.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 64: They reached Raipur on 20 December 1920 with them. Ravi Shankar Shukla, Thakur Pyarelal Singh, Sakha..."
-    },
-    {
-      "id": "s1e06-065",
-      "type": "content",
-      "image": "images/series1/ep06/slide-065.webp",
-      "text": "Gandhi was accompanied by prominent leaders of the Khilafat Movement Shaukat Ali and his brother Muhammad Ali and mother of the Ali brothers. In the evening, Mahatma Gandhi addressed a huge general meeting. That place is famous today as Gandhi Chowk in Raipur.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 65: Gandhi was accompanied by prominent leaders of the Khilafat Movement Shaukat Ali and his brother Muh..."
-    },
-    {
-      "id": "s1e06-066",
-      "type": "content",
-      "image": "images/series1/ep06/slide-066.webp",
-      "text": "On 21 December 1920, Gandhi left Abbas B hai's motor to Dhamtari in front of the Balasamaj library located at Azad Chowk. On receiving the information about Gandhi's arrival, the irrigation officials swelled hands and withdrew the anti-farmer order. Returning from Dhamtari, Mahatma Gandhi addressed a massive public meeting in the ground next to the Anand S amaja library in Kankalipara.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 66: On 21 December 1920, Gandhi left Abbas B hai's motor to Dhamtari in front of the Balasamaj library l..."
-    },
-    {
-      "id": "s1e06-067",
-      "type": "content",
-      "image": "images/series1/ep06/slide-067.webp",
-      "text": "There was a tennis court at that place. On the stage from which he addressed the meeting, a drama called Bhishma Pitamah was played the night before. The play was acted by the people of Brahmanpara.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 67: There was a tennis court at that place. On the stage from which he addressed the meeting, a drama ca..."
-    },
-    {
-      "id": "s1e06-068",
-      "type": "content",
-      "image": "images/series1/ep06/slide-068.webp",
-      "text": "After the meeting, those who had reverence for Gandhi kept one brick each as a memento of the stage. Even the stage was not left intact. Mahatma Gandhi was collecting funds for the Tilak Swaraj Fund during his stay in Raipur and Dhamtari.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 68: After the meeting, those who had reverence for Gandhi kept one brick each as a memento of the stage...."
-    },
-    {
-      "id": "s1e06-069",
-      "type": "content",
-      "image": "images/series1/ep06/slide-069.webp",
-      "text": "They received cash, gold , a nd silver jewelry as donations. On December 21, at 11 am, Gandhi reached Dhamtari with the Ali brothers. The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 69: They received cash, gold , a nd silver jewelry as donations. On December 21, at 11 am, Gandhi reache..."
-    },
-    {
-      "id": "s1e06-070",
-      "type": "content",
-      "image": "images/series1/ep06/slide-070.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 70: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-071",
-      "type": "content",
-      "image": "images/series1/ep06/slide-071.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 71: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-072",
-      "type": "content",
-      "image": "images/series1/ep06/slide-072.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 72: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-073",
-      "type": "content",
-      "image": "images/series1/ep06/slide-073.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Gandhi is still coming. The Satyagraha is won. But Chhattisgarh wants to see the man. Next: Episode 7 — The Invitation.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 73: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-074",
-      "type": "content",
-      "image": "images/series1/ep06/slide-074.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 74: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-075",
-      "type": "content",
-      "image": "images/series1/ep06/slide-075.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 75: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-076",
-      "type": "content",
-      "image": "images/series1/ep06/slide-076.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 76: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-077",
-      "type": "content",
-      "image": "images/series1/ep06/slide-077.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 77: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-078",
-      "type": "content",
-      "image": "images/series1/ep06/slide-078.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 78: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-079",
-      "type": "content",
-      "image": "images/series1/ep06/slide-079.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 79: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-080",
-      "type": "content",
-      "image": "images/series1/ep06/slide-080.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 80: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-081",
-      "type": "content",
-      "image": "images/series1/ep06/slide-081.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 81: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-082",
-      "type": "content",
-      "image": "images/series1/ep06/slide-082.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 82: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-083",
-      "type": "content",
-      "image": "images/series1/ep06/slide-083.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 83: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-084",
-      "type": "content",
-      "image": "images/series1/ep06/slide-084.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 84: The crowd gathered to see Gandhi at Makai Chowk...."
-    },
-    {
-      "id": "s1e06-085",
-      "type": "content",
-      "image": "images/series1/ep06/slide-085.webp",
-      "text": "The crowd gathered to see Gandhi at Makai Chowk.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Kandel Canal, Dhamtari farmers refusing to pay water tax, British tax collectors, peasant protests gathering. Slide 85: The crowd gathered to see Gandhi at Makai Chowk...."
+      "visualDescription": "A train approaching through the Chhattisgarh landscape at dusk. Its headlight visible through the Sal forest. Inside: Gandhi in a third-class compartment. The land waiting. The people waiting. Title card: Episode 7 — The Invitation."
     }
   ]
 }

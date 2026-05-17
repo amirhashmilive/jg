@@ -2,1028 +2,341 @@
   "series": 1,
   "episode": 2,
   "title": "Blood of the First Martyr",
-  "duration": "~40 min",
-  "slideCount": 85,
+  "duration": "~20 min",
+  "slideCount": 37,
   "slides": [
     {
       "id": "s1e02-001",
       "type": "title",
       "image": "images/series1/ep02/slide-001.webp",
-      "text": "he combined forces of the Marathas and the British besieged Paralkot on January 10, 1825. The rebel leader Gaind Singh was arrested and hanged in front of the palace. The biggest reason for the failure of Gaind Singh was that the Abujhmadis had conventional weapons and the opponents had modern weapons.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Gaind Singh became immortal as the first martyr in the history of Chhattisgarh. The soil of Dakshin Kosal lit up with the blood of its first martyr son, and this light further set fire to the piles of dry leaves of the rebellions.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 1: he combined forces of the Marathas and the British besieged Paralkot on January 10, 1825. The rebel..."
+      "visualDescription": "Title card: Gaind Singh standing on a forest hilltop at dawn, traditional weapons in hand, British soldiers visible in the valley below. Dense Sal forest surrounds him. Ink-wash illustration, dark green and ochre, defiant and tragic mood."
     },
     {
       "id": "s1e02-002",
       "type": "content",
       "image": "images/series1/ep02/slide-002.webp",
-      "text": "Revolt of Tarapur 1842-54 , Lal Dalganjan Singh The Maratha rule had increase d the Takoli of Tarapur P argana, which was opposed by Lal Dalganjan Singh , the governor of Tarapur. The tribals advised Lal Dalganjan Singh to revolt against the Anglo-Maratha rule. The tribal farmers of Tarapur P argana were facing many difficulties due to foreign rule.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "After ending the Halba rebellion of 1774, the Maratha ruler Diwans and the British completely engulfed the flags of their authority on the land of Bastar, and they started celebrating this victory by atrocities on the tribals of Chhattisgarh.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 2: Revolt of Tarapur 1842-54 , Lal Dalganjan Singh The Maratha rule had increase d the Takoli of Tarapu..."
+      "visualDescription": "Maratha and British flags rising over the forts of Bastar, 1820s. Tribal villagers watching from the forest edge, fearful. Colonial occupation made visual — foreign flags on ancient soil. Dark sky, oppressive atmosphere, ink illustration."
     },
     {
       "id": "s1e02-003",
       "type": "content",
       "image": "images/series1/ep02/slide-003.webp",
-      "text": "Illegal taxes were being collected from this area. He held Dewan Jagabandhu responsible for many types of taxation on the tribals. So they caught him one day after getting a chance and presented him in front of his leader Lal Dalganjan Singh .",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Unlimited harvesting of forest woods, taking work from the people here, excessive unnecessary taxes were collected on them. The interference of these tribes in their home — the forest — was not liked at all.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 3: Illegal taxes were being collected from this area. He held Dewan Jagabandhu responsible for many typ..."
+      "visualDescription": "British contractors cutting Sal trees in the tribal forest. Tribals watching helplessly as their forest is stripped. Stacks of lumber, colonial officers with ledgers collecting taxes. The forest — home, livelihood, identity — being destroyed."
     },
     {
       "id": "s1e02-004",
       "type": "content",
       "image": "images/series1/ep02/slide-004.webp",
-      "text": "At the request of Bastar King Bhupal Dev, who was the brother of Governor Lal Dalganjan Singh , Lal Dalganjan Singh left the Diwan despite the opposition of the tribals. After his release, Diwan Jagabandhu went to Nagpur and requested the officials there to crush this rebellion. Accordingly, the Nagpur A rmy moved towards Bastar.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "When the Bhonsle dynasty of Nagpur was defeated by the East India Company in 1818, the state of Chhattisgarh passed into the hands of the British based on the treaty. Then they started looting the public by establishing their state system here.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 4: At the request of Bastar King Bhupal Dev, who was the brother of Governor Lal Dalganjan Singh , Lal..."
+      "visualDescription": "Treaty signing scene — Bhonsle representatives and East India Company officers at a table. The map of Chhattisgarh changes hands. British administration machinery arriving — tax collectors, forest officers, revenue clerks. The occupation formalised."
     },
     {
       "id": "s1e02-005",
       "type": "content",
       "image": "images/series1/ep02/slide-005.webp",
-      "text": "He fought against the tribals of Tarapur. The rebel army was defeated. Lal Dalganjan Singh had to surrender.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "Seeing the ease of movement in the 1820s, the newly appointed Captain Pebe chose Paralkot as his stronghold. At that time the Raja was Mahipal Dev, who belonged to Ajmer Singh's lineage but was a supporter of the British.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 5: He fought against the tribals of Tarapur. The rebel army was defeated. Lal Dalganjan Singh had to su..."
+      "visualDescription": "Captain Pebe on horseback surveying Paralkot — a forest-dwelling village on the banks of river Kotri where three rivers meet. A king in his palace who has chosen the British side. The stage being set for resistance. Colonial-era landscape."
     },
     {
       "id": "s1e02-006",
       "type": "content",
       "image": "images/series1/ep02/slide-006.webp",
-      "text": "To pacify the revolt ing spirit of the tribals, the Diwan was later removed and all the taxes imposed by him on the tribal ryots were removed. Lal Dalganjan Singh was taken to Nagpur. He was sentenced to 6 months in prison.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "The Abhujmadi tribe was mainly in Paralkot. They could not tolerate the atrocities on them. Eventually in 1824, Gaind Singh, leading all the Abhujmadis, called for British-free Bastar — which became known as the Rebellion of Paralkot.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 6: To pacify the revolt ing spirit of the tribals, the Diwan was later removed and all the taxes impose..."
+      "visualDescription": "Gaind Singh — the Zamindar of Paralkot — rising to address the Abhujmadi tribal assembly in the Ghotul. Firelight, forest, traditional weapons. A leader emerging. The declaration of resistance. Ink illustration, dramatic firelight."
     },
     {
       "id": "s1e02-007",
       "type": "content",
       "image": "images/series1/ep02/slide-007.webp",
-      "text": "Revolt of Me ria 1842-63 , Hidma Manjhi It was a rebellion against the invasions of their traditions against the Anglo-Maratha rule by the Meria tribesmen of Dantewada. The revolt was triggered by the interference of the British authorities in the local tradition - the practice of sacrifices by the Meriya tribesmen at the Dantewada temple. The British government ordered the king of Bastar to end the practice of human sacrifice.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "There were 165 villages within the Paralkot Zamindari, and Paralkot was the headquarters of the Zamindari. Paralkot, situated on the banks of river Kotri, is a forest-dwelling village near the Chandrapur district of Maharashtra, where three rivers meet.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 7: Revolt of Me ria 1842-63 , Hidma Manjhi It was a rebellion against the invasions of their traditions..."
+      "visualDescription": "Map of Paralkot Zamindari — 165 villages marked, the river Kotri curving through dense forest. Three rivers meeting at Paralkot. The geography of the rebellion — forest as fortress, rivers as walls. Beautiful and strategic."
     },
     {
       "id": "s1e02-008",
       "type": "content",
       "image": "images/series1/ep02/slide-008.webp",
-      "text": "Despite this , the tradition continued. Accordingly , an army from Nagpur was deployed in the temple of Dantewada to stop the human sacrifice. Angered by this incident, the tribals revolted.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 8: Despite this , the tradition continued. Accordingly , an army from Nagpur was deployed in the temple..."
+      "text": "The original purpose of the Rebellion of Paralkot was to free Bastar from outsiders. Abujhmad is made up of two words — Abujh, meaning 'that which cannot be understood,' and Maad, meaning 'mountain' in Gondi.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The Abujhmad — mountains and dense forest, ancient and impenetrable. The meaning of the name written in Gondi script alongside its translation. A land that resists understanding, that hides its people. Sacred geography."
     },
     {
       "id": "s1e02-009",
       "type": "content",
       "image": "images/series1/ep02/slide-009.webp",
-      "text": "Declaring the Dantewada area prohibited, Sher Khan, the then Tehsildar of Raipur, was sent there to stop the human sacrifice. Shyam Sundar Jia, the then priest of the Dantewada temple, opposed this action of the British government and instigated the tribals to revolt. Meria rebels led by Hidma Manjhi demanded the withdrawal of troops from Dantewada.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 9: Declaring the Dantewada area prohibited, Sher Khan, the then Tehsildar of Raipur, was sent there to..."
+      "text": "The Ghotul is a spacious tribal hut surrounded by earthen or wooden walls. It is an integral part of Gond and Muria tribal life in regions of Chhattisgarh and the neighboring areas. Their meeting was held in Ghotul where the strategies of rebellion were made.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Interior of a Ghotul at night — firelight, earthen walls, tribal elders and young warriors seated in a circle. Gaind Singh at the center, planning the rebellion. Bows, axes, and drums visible. A war council in sacred space."
     },
     {
       "id": "s1e02-010",
       "type": "content",
       "image": "images/series1/ep02/slide-010.webp",
-      "text": "His words were ignored and on the contrary , the soldiers started oppressing the M a riya people. Due to this , the rebels started attacking covertly. In such a situation , an additional army was called in and with its help , the rebellion was crushed.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 10: His words were ignored and on the contrary , the soldiers started oppressing the M a riya people. Du..."
+      "text": "Angered by the presence of non-tribals in the tribal area and their arbitrariness, on January 4, 1825, after leaving the villages, caves, and mountain ranges, the tribals gathered at Paralkot. They were armed with their traditional weapons.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "January 1825. Abhujmadi warriors streaming from forest, caves, and mountain paths toward Paralkot. Men and women both, armed with bows, arrows, axes, spears. A gathering of defiance. Dawn light through Sal trees. Ink illustration."
     },
     {
       "id": "s1e02-011",
       "type": "content",
       "image": "images/series1/ep02/slide-011.webp",
-      "text": "Revolt of Lingagiri 1856-57 , Dhurva Rao Madia British rule was established in Chhattisgarh in the year 1854. Tired of the exploitation and repression policy of the British officers, Dhurva Rao Madia , the Talukdar of Lingagiri Taluka of Bhopalpatnam Zamindari area, organized an armed revolt against the British. On March 3, 1856, there was a war between the British and the soldiers of Dhurva Rao at Chintalwar.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 11: Revolt of Lingagiri 1856-57 , Dhurva Rao Madia British rule was established in Chhattisgarh in the y..."
+      "text": "With the help of mountains and dense forests, the British were eluded for a year, which the British could not understand. The tribal forest became a strong weapon in front of the English guns.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "British soldiers lost in the dense Abujhmad forest — confused, unable to navigate. Tribal warriors watching from the treetops and behind rocks. The forest as ally, as weapon, as defender. Guerrilla warfare in ancient terrain."
     },
     {
       "id": "s1e02-012",
       "type": "content",
       "image": "images/series1/ep02/slide-012.webp",
-      "text": "The zamindar of Bhopalpatnam was injured while fighting on the side of the British in the war. Dhurva Rao was captured by the British and hanged on March 5, 1856. The taluka of Dhurva Rao was given to the zamindar of Bhopalpatnam because he had helped the British.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 12: The zamindar of Bhopalpatnam was injured while fighting on the side of the British in the war. Dhurv..."
+      "text": "Abujhmadia used to come out in groups of five to five hundred. Some are led by women, some by men. And Gaind Singh kept leading them in a planned manner, using the guerilla method of war.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Abhujmadi warriors emerging from the forest in disciplined groups — small teams and large formations. Women warriors leading some groups. Gaind Singh orchestrating the movement. Drums signaling. Guerrilla tactics in ancient forest."
     },
     {
       "id": "s1e02-013",
       "type": "content",
       "image": "images/series1/ep02/slide-013.webp",
-      "text": "Revolt of Koei 1859 , Nangul Dorla In the year 1859, local landlords and some tribals of southern Bastar revolted against the British officer and outside contractor. The reason for the dissatisfaction of the landlords and Koei tribals was that the British government had given the contract to cut the forests to the traders of Hyderabad and the contractors used to do arbitrariness in connivance with the British officials. When a complaint was made against the contractor Haridas Bhagwandas to the British Government Officer, he did not pay any attention.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Thousands of forest dwellers started attacking by ambushing the English officers and Maratha employees with bows, arrows, and spears. Along with men, women were also participants in this rebellion — wherever the enemy could be seen, he would have been put to death.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 13: Revolt of Koei 1859 , Nangul Dorla In the year 1859, local landlords and some tribals of southern Ba..."
+      "visualDescription": "Ambush scene in the dense forest. Abhujmadi warriors rising from the undergrowth to attack a British patrol — bows drawn, spears raised. Men and women fighting side by side. Dynamic composition, action and courage. Ink illustration."
     },
     {
       "id": "s1e02-014",
       "type": "content",
       "image": "images/series1/ep02/slide-014.webp",
-      "text": "On this sent in the year 1859, the landlords of Kotapalli and Fotkel collectively decided that in the future the Sal tree would not be allowed to be cut in Bastar. Accepting this as a challenge, the British government sent gunmen along with the workers. On hearing this information, some tribals got enraged and ran towards the forests with their weapons carrying torches and attacked the wo odcutters , and raised the slogan \"E k saal vriksh ke pichhe, ek vyakti ka sir\"",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "They used to gather their comrades by playing the drums and attack the Marathas and British officers. The Abujhmadis have the distinction of fighting the British for the first time in the country — an armed resistance that began before 1857.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 14: On this sent in the year 1859, the landlords of Kotapalli and Fotkel collectively decided that in th..."
+      "visualDescription": "Tribal drummer at the forest edge, drumbeat calling warriors from distant villages. The sound of the drum as a call to arms. In the distance, warriors emerging from the tree line. First resistance. First defiance. The beginning of a long war."
     },
     {
       "id": "s1e02-015",
       "type": "content",
       "image": "images/series1/ep02/slide-015.webp",
-      "text": "( In revenge for a tree of Sal , a person's head ) Many contractors were killed in this rebellion. The rebellion was led by Jugga, Jumma, Raju, Dora, Pam Bhoi , etc. In the end, the British were forced to end the contracting system.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "British superintendent of Chhattisgarh, Agnew, had to intervene directly. Despite all the atrocities and lack of weapons, Abhujmadi Gaind Singh did not consider it appropriate to bow down.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 15: ( In revenge for a tree of Sal , a person's head ) Many contractors were killed in this rebellion. T..."
+      "visualDescription": "British Superintendent Agnew on horseback, dispatching orders. Gaind Singh in the forest, unbowed, continuing to lead. The contrast between colonial power and tribal dignity. One man with modern weapons. One man with arrows and resolve."
     },
     {
       "id": "s1e02-016",
       "type": "content",
       "image": "images/series1/ep02/slide-016.webp",
-      "text": "Against the cutting of the Sal tree, this rebellion was led by Nangul Dorla. Revolt of Muria 1876 , Jhada Sirha In the year 1876, the rebellion of the Muria tribesmen against the atrocities of the King of Bastar, especially his Diwan and Munshi and the exploitative policy of the British, is called \" The British government, like the kings of other princely states of India, ordered Raja Bhairamdev of Bastar to attend the Delhi Durbar organized in honor of the Prince of Wales.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Agnew called a large army from Chandrapur. The combined forces of the British and the Marathas laid siege to Paralkot on 10 January 1825 and surrounded Paralkot from all sides.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 16: Against the cutting of the Sal tree, this rebellion was led by Nangul Dorla. Revolt of Muria 1876 ,..."
+      "visualDescription": "The siege of Paralkot — British and Maratha forces encircling the forest village from all directions. January 10, 1825. Cannons, cavalry, modern weapons converging on a village of bows and spears. The encirclement tightening."
     },
     {
       "id": "s1e02-017",
       "type": "content",
       "image": "images/series1/ep02/slide-017.webp",
-      "text": "According to the British orders, when King Bhairamdev of Bastar reached Marenga on his way to Delhi, Muria tribesmen requested him not to go to Delhi. The Muria tribesmen feared that in the absence of the king, the atrocities of Diwan Gopinath and Munshi Adil Prasad would increase. Therefore the Muria tribesmen surrounded the king and requested him to return to Bastar.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "The traditional weapons of the Abujhmadis failed to withstand the modern weaponry. Hundreds of Abujhmadis sacrificed their lives, but in front of the modern weapons of the British, the native guns and arrows of the Abujhmadis could not be effective.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 17: According to the British orders, when King Bhairamdev of Bastar reached Marenga on his way to Delhi,..."
+      "visualDescription": "The final stand at Paralkot — arrows and spears against British rifles and cannons. Tribal warriors falling. The impossible courage of the outnumbered. Smoke and forest. The tragedy of asymmetric war. Somber ink illustration."
     },
     {
       "id": "s1e02-018",
       "type": "content",
       "image": "images/series1/ep02/slide-018.webp",
-      "text": "Seeing the situation deteriorating, Diwan Gopinath opened fire on the crowd in which some people were killed and some were arrested. The king was forced to return to Bastar. Diwan Gopinath started the cycle of repression.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Gaind Singh was arrested and with his arrest, the agitation came to a halt. The rebellion of Paralkot, which had kept the British at bay for months with forest, drums, and courage, was brought to an end.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 18: Seeing the situation deteriorating, Diwan Gopinath opened fire on the crowd in which some people wer..."
+      "visualDescription": "Gaind Singh in chains, surrounded by British soldiers. His head is still raised. The forest is quiet around him. Warriors watching from a distance, unable to help. The arrest of a leader — the silencing of a rebellion. Dignity in defeat."
     },
     {
       "id": "s1e02-019",
       "type": "content",
       "image": "images/series1/ep02/slide-019.webp",
-      "text": "Frustrated by this, the Muria tribesmen decided to revolt under the leadership of Jhada Sirha. He started sending an arrow to each village. Around 700 rebels gathered at a place called Arapur and started gathering arms.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 19: Frustrated by this, the Muria tribesmen decided to revolt under the leadership of Jhada Sirha. He st..."
+      "text": "Ten days after his arrest, on January 20, 1825, Gaind Singh was hanged in front of the palace of Paralkot. Gaind Singh became immortal as the first martyr in the history of Chhattisgarh.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "January 20, 1825. The palace of Paralkot. Gaind Singh standing before the gallows, upright and unbroken. The Abhujmadi people watching. British soldiers with rifles. A moment of historical gravity. Dark sky, single shaft of light. Ink illustration."
     },
     {
       "id": "s1e02-020",
       "type": "content",
       "image": "images/series1/ep02/slide-020.webp",
-      "text": "On coming to know about the activities of the rebel, the king himself reached to pacify and explain them. The rebels attacked the security forces. A battle ensued between the king ' s army and the rebels in which six rebels were killed.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 20: On coming to know about the activities of the rebel, the king himself reached to pacify and explain..."
+      "text": "Gaind Singh, the Zamindar of Paralkot, has the title of Shaheed Shiromani — the crown of martyrs. While leading the first freedom struggle of Chhattisgarh, he laid down his life and sacrificed himself.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Portrait of Gaind Singh — dignified, strong, looking into the distance. The title Shaheed Shiromani written beneath in Devanagari. Around him, the forest he loved, the rivers of Paralkot, the land he died for. Memorial portrait style."
     },
     {
       "id": "s1e02-021",
       "type": "content",
       "image": "images/series1/ep02/slide-021.webp",
-      "text": "When the king ' s elephant soldiers arrived, the rebels laid down their arms and fled from Arapur. The Raja and the Diwan returned to the capital Jagdalpur. They secured the fort from all sides as they feared the attack of the rebels.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 21: When the king ' s elephant soldiers arrived, the rebels laid down their arms and fled from Arapur. T..."
+      "text": "The soil of Dakshin Kosal — present-day Chhattisgarh — lit up with the blood of its first martyr son, and this light further set fire to the piles of dry leaves of the rebellions. A fire was lit that would not be extinguished.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The soil of Chhattisgarh illuminated with a warm fire-like light. Dry leaves of the forest catching flame one by one across the map — each flame a future rebellion. Blood becoming light becoming fire. Visual metaphor of sacrifice and consequence."
     },
     {
       "id": "s1e02-022",
       "type": "content",
       "image": "images/series1/ep02/slide-022.webp",
-      "text": "His guess turned out to be correct. The rebels under the leadership of Jhada Sirha surrounded the palace on March 2, 1876. To get rid of this, the king requested the British officer.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 22: His guess turned out to be correct. The rebels under the leadership of Jhada Sirha surrounded the pa..."
+      "text": "The Revolt of Halba 1774–79, led by Ajmer Singh, took place in the Dongar area against British armies and the Marathas. Raja Dalpat Singh of Bastar appointed his son Ajmer Singh as the governor of Dongar.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Ajmer Singh of Dongar leading the Halba rebellion — warriors on horseback through forest. 1774. The Dongar area with its forts and forests. A chain of rebellion beginning before Paralkot. Timeline of resistance lit like a fuse."
     },
     {
       "id": "s1e02-023",
       "type": "content",
       "image": "images/series1/ep02/slide-023.webp",
-      "text": "The responsibility of controlling the administration of Bastar was entrusted to the Deputy Commissioner, Sironcha. The Deputy Commissioner sent a British army under the leadership of Make George to protect the king. Make George first tried to find out from the rebels was the reason for the rebellion.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 23: The responsibility of controlling the administration of Bastar was entrusted to the Deputy Commissio..."
+      "text": "In the year 1774, when Dariyavdev became the new king of Bastar, he grossly neglected the Dongar area and started putting pressure on Ajmer Singh out of enmity. In the same year, there was a severe famine in the Dongar area and there was chaos.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Famine in Dongar — parched fields, gaunt villagers, an indifferent king in his palace. Dariyavdev attacking Dongar while the famine rages. The double injustice of neglect and violence. Sepia tones, desperation and defiance."
     },
     {
       "id": "s1e02-024",
       "type": "content",
       "image": "images/series1/ep02/slide-024.webp",
-      "text": "The rebels told that their fight is not with the king but with the Diwan and Munshi. The rebel tribals put their one-point demand before the administration that Dewan Gopinath and Munshi Adil Prasad should be expelled from Bastar. Mc George organized a special court on April 8, 1876, and instructed according to the demand of the rebels.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 24: The rebels told that their fight is not with the king but with the Diwan and Munshi. The rebel triba..."
+      "text": "Daryavadev made separate treaties with the Company Government, the Marathas, and the Raja of Jaipur and prepared a large army of 20,000 soldiers. With the help of this army, he defeated the rebels at Jagdalpur. Ajmer Singh was killed in the battle.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The battle at Jagdalpur — a 20,000-strong combined army against Halba rebels. The Halba rebels massacred on a large scale. Ajmer Singh falling in battle. The end of one rebellion — but the beginning of Bastar's subjugation to the Marathas and British."
     },
     {
       "id": "s1e02-025",
       "type": "content",
       "image": "images/series1/ep02/slide-025.webp",
-      "text": "As soon as the demand was met, the rebellious tribals lifted their siege. Thus, the Muria rebellion ended with success. Revolt of Rani (Queen) Choris 1878-82 , Jugraj Kunwar Queen ' s rebellion was limited and short-lived.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 25: As soon as the demand was met, the rebellious tribals lifted their siege. Thus, the Muria rebellion..."
+      "text": "Thus, the Halba rebellion came to an end. But due to this, the position of the Raja of Jagdalpur became very weak. Bastar fell under the Maratha Bhonslas and paved the way for the arrival of the British in the future.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The aftermath of the Halba rebellion — a weakened king, a land now under Maratha control, British interests watching from the distance. The path being cleared for colonial expansion. Seeds of future suffering sown in present defeat."
     },
     {
       "id": "s1e02-026",
       "type": "content",
       "image": "images/series1/ep02/slide-026.webp",
-      "text": "Rani Ka Kop \" (Queen ' s wrath). The queen of Bastar, Jugraj Kunwar, revolted against the wrong actions of her husband Bhairamdev. In favor of the queen and the king, two conflicting parties of tribals were formed, which became enemies of each other.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 26: Rani Ka Kop ' (Queen ' s wrath). The queen of Bastar, Jugraj Kunwar, revolted against the wrong act..."
+      "text": "The Revolt of Bhopalpatnam 1795 was limited and short-lived. When the British traveler Captain JT Blunt reached the border of Bastar, the tribals did not allow him, opposing his entry into Jagdalpur. Blunt was forced to return to Calcutta.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Captain Blunt at the border of Bastar, 1795. Tribal warriors blocking the road with bows and spears. The Captain turning back. A small, brief, but proud moment of resistance. The forest as a gate that tribals controlled. Defiant stance."
     },
     {
       "id": "s1e02-027",
       "type": "content",
       "image": "images/series1/ep02/slide-027.webp",
-      "text": "The British conspiracy was suspected behind this. Ultimately the queen won and the king was back on the right track. Revolt of Bhumkal 1910 , Gundadhur Bhumak or Bhumkal means earthquake or vibration of the land.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 27: The British conspiracy was suspected behind this. Ultimately the queen won and the king was back on..."
+      "text": "The Revolt of Tarapur 1842–54 saw Lal Dalganjan Singh, the governor of Tarapur, oppose increased taxation by the Maratha rule. The tribal farmers of Tarapur Pargana were facing many difficulties due to foreign rule — illegal taxes were being collected.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Lal Dalganjan Singh — the governor of Tarapur — standing with farmers against a Maratha tax collector. The Pargana landscape of Tarapur. Another resistance, another brave leader. The pattern of tribal defiance continuing across decades."
     },
     {
       "id": "s1e02-028",
       "type": "content",
       "image": "images/series1/ep02/slide-028.webp",
-      "text": "The tribal movement in Bastar in the year 1910 was large and widespread . That is why it is called the \" The prominent leaders who participated in this movement were Gundadhur, Kunwar Bahadur Singh, Bala Prasad, Dular Singh , and Nazir.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 28: The tribal movement in Bastar in the year 1910 was large and widespread . That is why it is called t..."
+      "text": "The Revolt of Meria 1842–63 was a rebellion against British interference in the local tradition of the Meria tribesmen at the Dantewada temple. Led by Hidma Manjhi, the Meria demanded the withdrawal of troops from the sacred site.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The Dantewada temple — sacred, ancient. British soldiers deployed at its entrance to stop the practice of traditional sacrifice. Hidma Manjhi and the Meria tribesmen confronting them. A battle over faith and sovereignty."
     },
     {
       "id": "s1e02-029",
       "type": "content",
       "image": "images/series1/ep02/slide-029.webp",
-      "text": "Another literal meaning of Bhumkal is to fight for one's land. In this battle, the entire community of tribals unitedly fought against the British rule. In this movement, thousands of tribals of Bastar fought a war for their water, forest and land.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 29: Another literal meaning of Bhumkal is to fight for one's land. In this battle, the entire community..."
+      "text": "The Revolt of Koei 1859 saw local landlords and tribals of southern Bastar rise against British officers and outside contractors who were given the right to cut the forests. The rebels raised the slogan: 'Ek saal vriksh ke pichhe, ek vyakti ka sir.'",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Sal trees of Bastar — majestic, ancient. Contractors with axes backed by British gunmen. Tribal warriors with torches attacking the woodcutters. The slogan burning in the air: In revenge for a Sal tree, a person's head. Forest as identity."
     },
     {
       "id": "s1e02-030",
       "type": "content",
       "image": "images/series1/ep02/slide-030.webp",
-      "text": "The tribals had waged war against the British rule and their exploiting class and faced them with their traditional weapons. Due to this war the tribals of Bastar had to suffer a lot. Many tribals lost their lives during the fighting.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 30: The tribals had waged war against the British rule and their exploiting class and faced them with th..."
+      "text": "The Revolt of Muria 1876 saw the Muria tribesmen, led by Jhada Sirha, surround the palace on March 2, 1876. The rebels' one-point demand: Dewan Gopinath and Munshi Adil Prasad should be expelled from Bastar. Their demand was met — the Muria rebellion ended with success.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Jhada Sirha leading Muria warriors to surround the king's palace. The palace fort encircled by tribal warriors with traditional weapons. Then: the Dewan expelled, the siege lifted, a rare moment of tribal victory. Success against the odds."
     },
     {
       "id": "s1e02-031",
       "type": "content",
       "image": "images/series1/ep02/slide-031.webp",
-      "text": "The tribals faced their guns while fighting the British rule with their traditional weapons. Gundadhur is considered the lionheart of Bhumkal . Gundadhur fought a long battle to rid the tribals of Bastar from the exploiting class and during this he became a martyr.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 31: The tribals faced their guns while fighting the British rule with their traditional weapons. Gundadh..."
+      "text": "The Revolt of Rani Choris 1878–82, also known as Rani Ka Kop — Queen's Wrath — saw Queen Jugraj Kunwar of Bastar revolt against the wrong actions of her husband Bhairamdev. British conspiracy was suspected behind this internal conflict.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Queen Jugraj Kunwar of Bastar — regal, fierce, standing in her palace. The political division of Bastar into two factions. A woman's rebellion against her own king. The British shadow behind the conflict. Power, gender, and resistance."
     },
     {
       "id": "s1e02-032",
       "type": "content",
       "image": "images/series1/ep02/slide-032.webp",
-      "text": "The then king of Bastar princely state, Praveen Chand, was assassinated by the British in the la nd itself. Even today, Bhumkal day is celebrated on 10 February every year in Bastar. The Indian Rebellion of 1857 i n Chhattisgarh Second Era of the F reedom Struggle Veer Narayan Singh and the rebellions Ra ipur Military Mutiny and the 18 Rebellions Revolt of Sambalpur &amp; Saranggarh On May 10, 1857, a troop of soldiers, filled with passion for independence, reached Delhi on May 11 , revolting from Meerut, Convincing him in the 17th and last Mughal Emperor of India, Mirza Abu Zafar Siraj-ud-din Mohammad Bahadur Shah Zafar known as Bahadur Shah Zafar , elected him his leader, and crowned him again.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 32: The then king of Bastar princely state, Praveen Chand, was assassinated by the British in the la nd..."
+      "text": "Each rebellion — Halba, Paralkot, Tarapur, Meria, Koei, Muria, Choris — forms a chain of fire across Chhattisgarh's history. Each martyr's blood watered the soil from which the next resistance grew.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A timeline of flames — each rebellion a fire on the map of Chhattisgarh. From 1774 to 1882. Each flame feeding the next. A visual chain of sacrifice and defiance leading toward a greater conflagration. The genealogy of resistance."
     },
     {
       "id": "s1e02-033",
       "type": "content",
       "image": "images/series1/ep02/slide-033.webp",
-      "text": "Till then the helpless Zafar aged 82 lost his rule at the hands of the British since the vicious British had confined their power to the Red Fort, asking these soldiers where they had the treasure they would pay them, the soldiers like . They have already come up thinking about the answer to this question, promised that they will bring all their treasures looted by the British again , and put it in their footsteps. The news of Bahadur Shah Zafar being proclaimed e mperor spread like a current across the country, the slogans of \"",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 33: Till then the helpless Zafar aged 82 lost his rule at the hands of the British since the vicious Bri..."
+      "text": "The area of Bastar division adjacent to the border of Maharashtra and Madhya Pradesh is called Paralkot. In this area now exists the city of Pakhanjur, and there are villages of Bengalis who have migrated from Bangladesh. The members of the Paralkot Zamindar family are leading a life of oblivion.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Present-day Pakhanjur — a modern town where Paralkot once stood. Bengali migrant settlements. The descendants of Gaind Singh living in obscurity, their connection to history unrecognised. Memory erased, landscape changed. Melancholic."
     },
     {
       "id": "s1e02-034",
       "type": "content",
       "image": "images/series1/ep02/slide-034.webp",
-      "text": "Bahadur Shah Zafar Zindabad \" e rupted all over the country and rebellion started. The Indian Rebellion of 1857 was a major, but ultimately unsuccessful, uprising in India in 18 57- 58 against the rule of the British East India Company, which functioned as a sovereign power on behalf of the British Crown. Revolt of 1857 in Chhattisgarh, and Veer Narayan Singh Veer Narayan Singh challenged the British policies even before the R evolt of 1857.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 34: Bahadur Shah Zafar Zindabad ' e rupted all over the country and rebellion started. The Indian Rebel..."
+      "text": "In the context of Chhattisgarh, the tribal movement means the movement of the tribals of Bastar, because Bastar is a tribal-dominated area and almost all the tribal movements have taken place in this region's Parganas.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Map of Bastar showing all Parganas — each one a site of rebellion. The tribal geography of resistance. A land that defined its identity through its refusal to surrender. Ink-wash map, each rebellion site marked with a flame."
     },
     {
       "id": "s1e02-035",
       "type": "content",
       "image": "images/series1/ep02/slide-035.webp",
-      "text": "When there was a famine in Sonakhan in 1856, he sought help from the moneylender and assured that his grain would be returned when the harvest was done. When the moneylender refused to give food grains, he broke the godown and distributed the grains to the public. The incident was reported to Deputy Commissioner Elliot at that time.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 35: When there was a famine in Sonakhan in 1856, he sought help from the moneylender and assured that hi..."
+      "text": "Although the war of the land could not get respect in national history, it is still immortal in folk songs. The words recorded on the pages of history may be blurred, but the words inscribed in the mind, heart, and memory of the people are indelible.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A tribal elder in present-day Bastar singing a folk song under a Sal tree, young children listening. The song carrying the names of the martyrs. Memory as music. History as living tradition. Warm afternoon light, continuity of resistance."
     },
     {
       "id": "s1e02-036",
       "type": "content",
       "image": "images/series1/ep02/slide-036.webp",
-      "text": "Veer N arayan Singh took notice of the complaint and made Karurupat Dongri his shelter. W ith the help of the landlord of Deori, who was Narayan Singh ' s brother-in-law, took him captive by making allegations of traitor s a nd robber s , some false cases were also run by the British rule so that this revolutionary could be stopped, which the British were successful. In 1857, as the news of Bahadur Shah Zafar ' s overthrow, the independence of the rebellion intensified, in the meantime , the people of Chhattisgarh accepted the jailed Veer Narayan Singh as their leader and joined in the rebel .",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 36: Veer N arayan Singh took notice of the complaint and made Karurupat Dongri his shelter. W ith the he..."
+      "text": "Gaind Singh — Shaheed Shiromani — first martyr of Chhattisgarh. He died on January 20, 1825. He has no monument. He has no official remembrance. He has only this: the soil he bled for, and the fire he started that never went out.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The banks of river Kotri at Paralkot — a simple, beautiful river landscape. No monument, no marker. Just water, forest, soil. The place where history happened and was forgotten. A candle flame reflected in the river. Memory over stone."
     },
     {
       "id": "s1e02-037",
       "type": "content",
       "image": "images/series1/ep02/slide-037.webp",
-      "text": "He was determined to revolt against the gro wing atrocities of the British. W ith the help of the soldiers of the British Army at Raipur, Veer Narayan Singh escaped from the prison. He reached Sonakhan and formed an army of 500 men.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 37: He was determined to revolt against the gro wing atrocities of the British. W ith the help of the so..."
-    },
-    {
-      "id": "s1e02-038",
-      "type": "content",
-      "image": "images/series1/ep02/slide-038.webp",
-      "text": "A powerful British army was dispatc hed to crush the Sonakhan army, u nder the leadership of Smith, which crushed the Sonakhan revolt and apprehend s the Narayan again. Veer Narayan was prosecuted and was blown up in the middle of Raipur C ity on the charge of rebelling against the British Raj . The place where Veer Narayan was martyred is currently known as Jaistambh Chowk in Raipur near the Kaiser-e-Hind Darwaza .",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 38: A powerful British army was dispatc hed to crush the Sonakhan army, u nder the leadership of Smith,..."
-    },
-    {
-      "id": "s1e02-039",
-      "type": "content",
-      "image": "images/series1/ep02/slide-039.webp",
-      "text": "Raipur Military Mutiny of 1858 , and the 18 Rebellions On December 10, 1857, the patriotic Zamindar of Sonakhan, Veer Narayan Singh, was martyred by the British Raj at the intersection of Raipur in the crime of sedition. All the soldiers of Raipur were ordered to be present to see this. This was done so that the people became terrorized and did not dare to raise their heads against the British.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 39: Raipur Military Mutiny of 1858 , and the 18 Rebellions On December 10, 1857, the patriotic Zamindar..."
-    },
-    {
-      "id": "s1e02-040",
-      "type": "content",
-      "image": "images/series1/ep02/slide-040.webp",
-      "text": "But 39 days later, on January 18, 1858, a group of soldiers revolted against the British. Although this rebellion lasted only for 6 - 7 hours, the 17 soldiers and gunmen who had been arrested had to bear the punishment by giving their lives. At that time there was a military cantonment in Raipur.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 40: But 39 days later, on January 18, 1858, a group of soldiers revolted against the British. Although t..."
-    },
-    {
-      "id": "s1e02-041",
-      "type": "content",
-      "image": "images/series1/ep02/slide-041.webp",
-      "text": "It was called the Third Regular Regiment. Some Faizis planned an armed attack on the night of January 18, 1858, at 7 : 30 p . m. Sergeant Major Sidbell of the Third Regiment of the Native Infantry was at that time resting alone in his room.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 41: It was called the Third Regular Regiment. Some Faizis planned an armed attack on the night of Januar..."
-    },
-    {
-      "id": "s1e02-042",
-      "type": "content",
-      "image": "images/series1/ep02/slide-042.webp",
-      "text": "One of these soldiers, Soldier Hanuman Singh, inflicted several fatal blows on Sergeant Major Sidbell of the Third Regiment of the Native Infantry, who was at that time resting alone in his chamber, killing him in a short time. This 18-man contingent reached the camp after the killing of Sergeant Major Sidbell, and he invited other soldiers to join the rebellion. The other soldiers did not agree with the killing of Sergeant Major Sidbell, and by the time the news of the killing of Sergeant Major had spread, the British officers were alert, they surrounded all these 18 soldiers from all sides.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 42: One of these soldiers, Soldier Hanuman Singh, inflicted several fatal blows on Sergeant Major Sidbel..."
-    },
-    {
-      "id": "s1e02-043",
-      "type": "content",
-      "image": "images/series1/ep02/slide-043.webp",
-      "text": "After firing that lasted for about 6 - 7 hours, the rebel soldiers ran out of cartridges. Meanwhile, Hanuman Singh, the main accused in the murder of Sergeant Major Sidbell, escaped, but all the other 17 accomplices were arrested by the British. Those who were tried and all were sentenced to death for the crime of rebellion.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 43: After firing that lasted for about 6 - 7 hours, the rebel soldiers ran out of cartridges. Meanwhile,..."
-    },
-    {
-      "id": "s1e02-044",
-      "type": "content",
-      "image": "images/series1/ep02/slide-044.webp",
-      "text": "He was hanged on 22 February 1858 in the presence of all the soldiers of the army. People of all castes and religions were among the seventeen martyrs of the rebellion led by Hanuman Singh, which is a symbol of the great sense of national interest instilled in the people of this region. It seems from Captain Smith ' s statement that Hanuman Singh had also tried to attack the bungalow of the Deputy Commissioner of Chhattisgarh on the night of 20 January 1858, two days after the rebellion in the cantonment.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 44: He was hanged on 22 February 1858 in the presence of all the soldiers of the army. People of all cas..."
-    },
-    {
-      "id": "s1e02-045",
-      "type": "content",
-      "image": "images/series1/ep02/slide-045.webp",
-      "text": "At that time several prominent senior officers of the area were sleeping in the bungalow. Captain Smith was appointed to protect these officers. Hanuman Singh had to run away after Smith and his companions woke up at the right time.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 45: At that time several prominent senior officers of the area were sleeping in the bungalow. Captain Sm..."
-    },
-    {
-      "id": "s1e02-046",
-      "type": "content",
-      "image": "images/series1/ep02/slide-046.webp",
-      "text": "The British government had announced a cash reward of Rs 500 for his arrest. Despite the lure of such a huge amount, he could not be arrested. After this incident of the escape of Hanuman Singh, no details of him were received, he never came back.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 46: The British government had announced a cash reward of Rs 500 for his arrest. Despite the lure of suc..."
-    },
-    {
-      "id": "s1e02-047",
-      "type": "content",
-      "image": "images/series1/ep02/slide-047.webp",
-      "text": "The 17 Rebellions Those Martyrs S.No. Names Ghazi Khan Havaldar Badlu Hayat Golanadaj Munim Golanadaj Shivnarayan Golanadaj Pannalal Golanadaj M a atadin Golanadaj Bukaram Golanadaj Bilhu Golanadaj Akbar Hussain Golanadaj Lalsingh Golandaj Bablu Golandaj Paranand Golandaj Shobharam Golandaj Durgaprasad Golandaj Nazar Muhammad Golanadaj Shiva Golanadaj Devidin Golanadaj Revolt of Sambalpur in Chhattisgarh, and Surendra Sai Surendra Sai, a freedom fighter of 1857, was a zamindar of Sambalpur , Or is sa . Narayan Singh, Balabhadra Dau, Udwant Sai supported this rebellion started by Surendra Sai .",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 47: The 17 Rebellions Those Martyrs S.No. Names Ghazi Khan Havaldar Badlu Hayat Golanadaj Munim Golanada..."
-    },
-    {
-      "id": "s1e02-048",
-      "type": "content",
-      "image": "images/series1/ep02/slide-048.webp",
-      "text": "This rebellion gradually spread to many places in Chhattisgarh. Chauhan Raja Maharaj Sai of Sambalpur died in 1827. The king had no heir (progeny).",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 48: This rebellion gradually spread to many places in Chhattisgarh. Chauhan Raja Maharaj Sai of Sambalpu..."
-    },
-    {
-      "id": "s1e02-049",
-      "type": "content",
-      "image": "images/series1/ep02/slide-049.webp",
-      "text": "According to the Chauhan dynasty tradition, despite being the rightful heir of the princely state of Sambalpur, the King ' s widow Queen Mohankumari was placed on the throne by the British in place of Surendra Sai. Later, due to dissatisfaction, Narayan Singh (Prince of Chauhan Zamindar family of Barpali) was made the king. As a result, Surendra Sai and his six brothers revolted.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 49: According to the Chauhan dynasty tradition, despite being the rightful heir of the princely state of..."
-    },
-    {
-      "id": "s1e02-050",
-      "type": "content",
-      "image": "images/series1/ep02/slide-050.webp",
-      "text": "Surendra Sai troubled the British a lot in the revolt of 1857. Their activity was spread from Sambalpur to Bilaspur and Kal a handi. Surendra Sai was arrested from his house on 13 January 1862.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 50: Surendra Sai troubled the British a lot in the revolt of 1857. Their activity was spread from Sambal..."
-    },
-    {
-      "id": "s1e02-051",
-      "type": "content",
-      "image": "images/series1/ep02/slide-051.webp",
-      "text": "He was sent from Raipur Jail to Nagpur Jail and then to Asirgarh Fort. Surendra Sai died a natural death on 23 May 1884 in Asirgarh. Although Veer Surendra Sai died a natural death, in honor of his valor, people call him The Last Martyr of the Revolt o f 1857 .",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 51: He was sent from Raipur Jail to Nagpur Jail and then to Asirgarh Fort. Surendra Sai died a natural d..."
-    },
-    {
-      "id": "s1e02-052",
-      "type": "content",
-      "image": "images/series1/ep02/slide-052.webp",
-      "text": "Revolt of Sarangarh, and Kamal Singh In the revolu tion of 1857, the king of Saran garh supported the British government. And the revolutionary named Kamal Singh was tricked and handed over to the British and in 1867, Kamal Singh was hanged. According to the British so urce, the freedom struggle of 1 857 was crushed but the fire of freedom never extinguished in this region.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 52: Revolt of Sarangarh, and Kamal Singh In the revolu tion of 1857, the king of Saran garh supported th..."
-    },
-    {
-      "id": "s1e02-053",
-      "type": "content",
-      "image": "images/series1/ep02/slide-053.webp",
-      "text": "As a spark within the pile of ashes, it kept smoldering. It erupt s as time passed, sometimes in the Rajnandgaon Riyasat under the leadership of Sevata Thakur, sometimes in Sarguja under the leadership of the Bagud Baniya, and sometimes in the Kawardha Riyasat under the leadership of Ganpatlal Chandravanshi, and sometimes in Bastar under the leadership of Gundadhur . They al l became revolutionary martyrs.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 53: As a spark within the pile of ashes, it kept smoldering. It erupt s as time passed, sometimes in the..."
-    },
-    {
-      "id": "s1e02-054",
-      "type": "content",
-      "image": "images/series1/ep02/slide-054.webp",
-      "text": "In Chhattisgarh , the national level movements were in effect and they were led by the freedom fighters of the state, they started with the revolution of 1857 which continued till the attainment of independence of India. T here was a substantial revolution against the British Empire, as a result of this revolution in Chhattisgarh, there were rebellions in many areas against the exploitative governance of the British. Gandhian Independence Movement i n Chhattisgarh Third Era o f the Final Solution to the Freedom Mahatma Gandhi had taken a stand - in Chhattisgarh to find out that the \"˜ Non-Cooperation Movement ' which is the Congress was still contemplating how to do, but in a small village in Chhattisgarh h ad already started this movement by Babu Chhotelal Shrivastava , which became the pave way of non-cooperation movements in subsequent movements.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 54: In Chhattisgarh , the national level movements were in effect and they were led by the freedom fight..."
-    },
-    {
-      "id": "s1e02-055",
-      "type": "content",
-      "image": "images/series1/ep02/slide-055.webp",
-      "text": "The Kandel Canal Satyagraha, the Jungle Satyagraha of Nagri, Sihawa , and Nawapara-Tan w at, and the Jungle Satyagraha of Badratola w as the result of the colonial law of the British administration. The manner in which the British Indian forces presented a model of coercion and inhumanity to obey orders gave further impetus to the struggle and the people of Chhattisgarh set an example of indomitable struggle and discipline. The Kandel Canal Satyagraha was an independent struggle, but we remember it only in the context of Gandhi ' s first arrival in Chhattisgarh.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 55: The Kandel Canal Satyagraha, the Jungle Satyagraha of Nagri, Sihawa , and Nawapara-Tan w at, and the..."
-    },
-    {
-      "id": "s1e02-056",
-      "type": "content",
-      "image": "images/series1/ep02/slide-056.webp",
-      "text": "Then Kandel ' s Satyagraha goes back in front of Gandhi ' s personality. Similarly, the struggle of the tribals in the Nagri-Sihawa Jungle Satyagraha also finds a place on the pages of history in context, even though it was an independent movement. The Jungle Satyagraha in Nawapara-Tawwat, Tamora , and Khariar of the then Mahasamund tehsil is also mentioned in the context.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 56: Then Kandel ' s Satyagraha goes back in front of Gandhi ' s personality. Similarly, the struggle of..."
-    },
-    {
-      "id": "s1e02-057",
-      "type": "content",
-      "image": "images/series1/ep02/slide-057.webp",
-      "text": "In these places, the British administration had presented such a horrific scene of repression that in 1931 the Mahakoshal Congress Committee had to ask the Raipur District Congress Committee to investigate the matter. Thakur Pyarelal Singh was then a minister of the Mahakoshal Congress Committee. Under his leadership, Pandit Bhagwatiprasad Mishra, Yeti Yatanlal , and Maulana Abdul Rauf Khan visited some of the affected villages and recorded the statements of the victims.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 57: In these places, the British administration had presented such a horrific scene of repression that i..."
-    },
-    {
-      "id": "s1e02-058",
-      "type": "content",
-      "image": "images/series1/ep02/slide-058.webp",
-      "text": "The investigation team had only 4 - 5 days of deferment. Tha kur Pyarelal Singh has admitted that he did not get enough time to investigate and make a report. But from the statements of more than a hundred victims, it can only be estimated how m any atrocities were committed in Mahasamund Tehsil.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 58: The investigation team had only 4 - 5 days of deferment. Tha kur Pyarelal Singh has admitted that he..."
-    },
-    {
-      "id": "s1e02-059",
-      "type": "content",
-      "image": "images/series1/ep02/slide-059.webp",
-      "text": "If such atrocities had been committed in the villages near Raipur, there would have been a huge reaction, no doubt. Headless villagers faced the British administration with great courage. People were beaten up, heavy fines were levied, and cash and jewelry looted from people ' s homes, rice, ghee, vegetables, goats, poultry, cow , and bulls were also taken away.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 59: If such atrocities had been committed in the villages near Raipur, there would have been a huge reac..."
-    },
-    {
-      "id": "s1e02-060",
-      "type": "content",
-      "image": "images/series1/ep02/slide-060.webp",
-      "text": "Not only this, agricultural implements like Rampa, K u dari, Tangia, Bas ul a were also not discarded. In the Jungle Satyagraha at Mahasamund, women showed courage compared to men. On many occasions, the men of the village used to run away and hide in the jungles to avoid being beaten.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 60: Not only this, agricultural implements like Rampa, K u dari, Tangia, Bas ul a were also not discarde..."
-    },
-    {
-      "id": "s1e02-061",
-      "type": "content",
-      "image": "images/series1/ep02/slide-061.webp",
-      "text": "Then women would go ahead and stand on the front, many times even the administration ' s officers had to run away with pressure. Dayawati of Tamora presented a unique example of bravery and courage. Dayawati dared to stand in front of the soldier who threatened to fire the bullets and put the gun on his chest.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 61: Then women would go ahead and stand on the front, many times even the administration ' s officers ha..."
-    },
-    {
-      "id": "s1e02-062",
-      "type": "content",
-      "image": "images/series1/ep02/slide-062.webp",
-      "text": "Such examples will rarely be found in cities. If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 62: Such examples will rarely be found in cities. If the forest Satyagraha of Mahasamund tehsil was made..."
-    },
-    {
-      "id": "s1e02-063",
-      "type": "content",
-      "image": "images/series1/ep02/slide-063.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 63: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-064",
-      "type": "content",
-      "image": "images/series1/ep02/slide-064.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 64: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-065",
-      "type": "content",
-      "image": "images/series1/ep02/slide-065.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 65: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-066",
-      "type": "content",
-      "image": "images/series1/ep02/slide-066.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 66: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-067",
-      "type": "content",
-      "image": "images/series1/ep02/slide-067.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 67: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-068",
-      "type": "content",
-      "image": "images/series1/ep02/slide-068.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 68: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-069",
-      "type": "content",
-      "image": "images/series1/ep02/slide-069.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 69: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-070",
-      "type": "content",
-      "image": "images/series1/ep02/slide-070.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 70: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-071",
-      "type": "content",
-      "image": "images/series1/ep02/slide-071.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 71: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-072",
-      "type": "content",
-      "image": "images/series1/ep02/slide-072.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 72: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-073",
-      "type": "content",
-      "image": "images/series1/ep02/slide-073.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "But the fire never died. In 1910, the greatest tribal rebellion in Chhattisgarh's history would shake the earth of Bastar like an earthquake. Next: Episode 3 — The Earthquake of Bastar.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 73: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-074",
-      "type": "content",
-      "image": "images/series1/ep02/slide-074.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 74: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-075",
-      "type": "content",
-      "image": "images/series1/ep02/slide-075.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 75: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-076",
-      "type": "content",
-      "image": "images/series1/ep02/slide-076.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 76: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-077",
-      "type": "content",
-      "image": "images/series1/ep02/slide-077.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 77: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-078",
-      "type": "content",
-      "image": "images/series1/ep02/slide-078.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 78: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-079",
-      "type": "content",
-      "image": "images/series1/ep02/slide-079.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 79: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-080",
-      "type": "content",
-      "image": "images/series1/ep02/slide-080.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 80: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-081",
-      "type": "content",
-      "image": "images/series1/ep02/slide-081.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 81: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-082",
-      "type": "content",
-      "image": "images/series1/ep02/slide-082.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 82: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-083",
-      "type": "content",
-      "image": "images/series1/ep02/slide-083.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 83: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-084",
-      "type": "content",
-      "image": "images/series1/ep02/slide-084.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 84: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
-    },
-    {
-      "id": "s1e02-085",
-      "type": "content",
-      "image": "images/series1/ep02/slide-085.webp",
-      "text": "If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would have been studying the history of Chhattisgarh in some way today",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gaind Singh leading Abhujmadi tribal warriors, Paralkot forest, bows and arrows, British soldiers, January 1825. Slide 85: If the forest Satyagraha of Mahasamund tehsil was made an issue at the all-India level then we would..."
+      "visualDescription": "The Sal forest of Bastar at night — quiet, immense, holding its secrets. Then: a tremor in the earth, leaves shaking, a drum beginning to beat in the distance. The buildup to something enormous. Title card: Episode 3 — The Earthquake of Bastar."
     }
   ]
 }

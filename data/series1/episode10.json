@@ -2,1028 +2,341 @@
   "series": 1,
   "episode": 10,
   "title": "The Spark That Stayed",
-  "duration": "~40 min",
-  "slideCount": 85,
+  "duration": "~20 min",
+  "slideCount": 37,
   "slides": [
     {
       "id": "s1e10-001",
       "type": "title",
       "image": "images/series1/ep10/slide-001.webp",
-      "text": "His self-image, which was built from mineral resources, river s , art-culture-philosophy, etc., was not ready to consider him as non-Chhattisgarhi. Rather he used to have a sarcastic attitude towards him.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "With the arrival of Gandhi, the movement for national independence reached every village, street-by-street, in Chhattisgarh. The Non-Cooperation Movement transformed lawyers into Satyagrahis and titles into surrendered medals.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 1: His self-image, which was built from mineral resources, river s , art-culture-philosophy, etc., was..."
+      "visualDescription": "Title card: A charkha spinning in a lamplit room, its thread catching the light. The thread becoming a tricolor. Outside the window: Chhattisgarh's villages awakening. Series 1 finale. Ink-wash, warm gold tones, the quiet power of sustained resistance."
     },
     {
       "id": "s1e10-002",
       "type": "content",
       "image": "images/series1/ep10/slide-002.webp",
-      "text": "Over the years, as the opposition between self-image and paid-image grew, the demand for separate Chhattisgarh became emotionally strong. The bearers of this demand were mostly those who were dissatisfied with this conferred image.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "December 26, 1920. The Nagpur Congress session. The Non-Cooperation resolution passes. Five hundred delegates from Dhamtari are in the hall, their hands raised among thousands. Chhattisgarh voted for this — not as spectators, but as participants.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 2: Over the years, as the opposition between self-image and paid-image grew, the demand for separate Ch..."
+      "visualDescription": "The Nagpur Congress session — a vast hall, thousands of delegates. 500 from Dhamtari visible in their section, hands raised as the Non-Cooperation resolution passes. The resolution as text on screen. History being formally voted into existence."
     },
     {
       "id": "s1e10-003",
       "type": "content",
       "image": "images/series1/ep10/slide-003.webp",
-      "text": "Habib Tanveer and Chhattigarhi theatre After two-three decades of independence, the veteran leaders of Chhattisgarh had left the world, and due to their association in Madhya Pradesh, the Hindi language became dominant, the Chhattisgarhi language was considered insignificant by the people. Chhattisgarhi was spoken in the village, but if a youth of the same village gets a job in the cities, then speaking Chhattisgarhi language from offices to common people has become a cause of inferiority complex.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Vamanrao Lakhe surrendered his Rai Sahab title — the very day the Nagpur Congress announced Non-Cooperation. The people of Raipur immediately gave him the title of Popular. The people's title replacing the empire's medal.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 3: Habib Tanveer and Chhattigarhi theatre After two-three decades of independence, the veteran leaders..."
+      "visualDescription": "Vamanrao Lakhe placing his Rai Sahab medal on a British officer's desk — walking out with nothing. Then: the crowd of Raipur garlanding him with the word Popular. Two titles: one surrendered, one received. The exchange of allegiances made visible."
     },
     {
       "id": "s1e10-004",
       "type": "content",
       "image": "images/series1/ep10/slide-004.webp",
-      "text": "At such a time, Habib Tanveer not only got the Chhattisgarhi language back its pride through folk plays made in typical Chhattisgarhi language, but also established Hindustani Theater on the world stage. Habib spent months in the rugged village of Chhattisgarh, engaged the typical Chhattisgarhi youth in his theater through workshops and his theatrical education and also featured in his theater shows in over a hundred countries of the world, a unique nexus of art and language. gave Chhattisgarh the courage once again to stand up with pride and to speak and speak its language with ease and sovereignty.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "Thakur Pyarelal Singh and Ramdayal Tiwari left the practice of law. Barrister Thakkar boycotted the assembly elections he was standing for. The men closest to Gandhi's visit paid the highest personal prices — and paid them without hesitation.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 4: At such a time, Habib Tanveer not only got the Chhattisgarhi language back its pride through folk pl..."
+      "visualDescription": "Pyarelal Singh and Tiwari hanging up their barrister robes for the last time. Barrister Thakkar withdrawing his election papers. Three men closing the professional doors that took years to open. Sacrifice as the most personal form of commitment."
     },
     {
       "id": "s1e10-005",
       "type": "content",
       "image": "images/series1/ep10/slide-005.webp",
-      "text": "Havib was an artist, but his linguistic use removed Chhattisgarhi and Chhattisgarhi language from the darkness of inferiority complex. An assessment of Habib Tanveer's vast and very bright contribution makes it known that his name is worthy of being written in golden letters to the makers of modern Indian theater and the revival of the Chhattisgarhi language.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "National schools opened across Chhattisgarh — Madhav Rao Sapre in Raipur, Chhotelal Srivastava in Dhamtari, Badrinath Saw in Bilaspur. Refusing British schools, building Indian ones. Education as an act of non-cooperation.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 5: Havib was an artist, but his linguistic use removed Chhattisgarhi and Chhattisgarhi language from th..."
+      "visualDescription": "Three national schools opening simultaneously across Chhattisgarh — children streaming through new gates. Teachers unafraid. Parents proud. The British school system being refused. Knowledge as resistance. The classroom as a front line."
     },
     {
       "id": "s1e10-006",
       "type": "content",
       "image": "images/series1/ep10/slide-006.webp",
-      "text": "Those who boldly and imaginatively, risk-aversely and perseveringly built India's twentieth century and its modernity and creativity decisively, opening the way and direction for others, creatively overriding the duality of ethnic tradition and modernity. Habib Tanveer's name is of very high quality and unforgettable.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Prabhu Lal Kabra and Ratnakar Jha led a huge procession to boycott foreign goods on August 1, 1921. The boycott spreading from platform and podium to the streets, to the market, to the daily choices of ordinary people.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 6: Those who boldly and imaginatively, risk-aversely and perseveringly built India's twentieth century..."
+      "visualDescription": "August 1, 1921 — Kabra and Jha leading a procession through Raipur. Long line of people in khadi, foreign cloth burning in a pile at the market. The Non-Cooperation Movement as daily practice, not just political declaration. The street as the movement's ground."
     },
     {
       "id": "s1e10-007",
       "type": "content",
       "image": "images/series1/ep10/slide-007.webp",
-      "text": "His struggle was on one level with the imitation of the bhadralok and middle class of his society, and on the other level also with the contemporaries who were so infatuated with the West that the ethnic color traditions did not exist for them. Another problem was the horror of Western realism on the theatre.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 7: His struggle was on one level with the imitation of the bhadralok and middle class of his society, a..."
+      "text": "Mohammad Yunus stood before the British magistrate and said: 'I am involved in Mahatma Gandhi's non-cooperation movement from now on.' He walked from the courtroom to the jail. His seventeen-village zamindari, hundreds of acres, cattle, and gold — all confiscated.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Mohammad Yunus before the magistrate — his declaration ringing out in the courtroom. Then: walking directly to jail. His zamindari — seventeen villages, vast land, cattle, gold — disappearing into British confiscation behind him. He does not look back."
     },
     {
       "id": "s1e10-008",
       "type": "content",
       "image": "images/series1/ep10/slide-008.webp",
-      "text": "He faced all these challenges with great strength and eventually his own complexion, color behavior emerged as a challenge for others. Havib did not perform or stage plays, he used to play plays.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 8: He faced all these challenges with great strength and eventually his own complexion, color behavior..."
+      "text": "January 1922. The Nagari-Sihawa Jungle Satyagraha. Tribals entered the reserved forest in protest of the Forest Act — which banned them from their own ancestral forest. Thirty-nine were arrested. Not one apologised to the British.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "January 1922. Tribal Satyagrahis entering the reserved forest deliberately, peacefully, in organised groups. British forest officers arresting them one by one. 39 people taken. Each one standing straight. Not one bowing. The forest as the site of conscience."
     },
     {
       "id": "s1e10-009",
       "type": "content",
       "image": "images/series1/ep10/slide-009.webp",
-      "text": "They rehabilitated and reinvented for our time the long Indian tradition of Leela and Krida in the arts. He did it and expressed that folk artists living far away from the pretense of modernity, education and rituals can play such plays in their own dialect, w ho can describe the human condition and the crisis, the destiny and the struggle, which has been the goal of even the very finicky modernity.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 9: They rehabilitated and reinvented for our time the long Indian tradition of Leela and Krida in the a..."
+      "text": "The Jungle Satyagrahis were sentenced to 3 to 5 months imprisonment. But the forest department conceded: minimum wages for forest workers were established, forced labour stopped. Small victories, won through organised dignity.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The Jungle Satyagrahis in Raipur jail — 39 people, calm, unbroken. Outside: the forest department officials signing the wage agreement and forced labour prohibition. The Satyagraha winning in jail what weapons could not win in the forest."
     },
     {
       "id": "s1e10-010",
       "type": "content",
       "image": "images/series1/ep10/slide-010.webp",
-      "text": "It is difficult to find an example of such a theater artist not only in Hindustani theatre, but in the entire world history of theatre. One who has performed the same type of theater in the same day continuously and with the same drama group for almost 50 years with the same group of actors till the end.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 10: It is difficult to find an example of such a theater artist not only in Hindustani theatre, but in t..."
+      "text": "Pt. Sundarlal Sharma arrived and explained that AIC approval had not been obtained for the full Satyagraha expansion. The movement was temporarily postponed. But the forest department had already conceded the minimum wages. The partial victory was permanent.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Pt. Sundarlal Sharma arriving at the Jungle Satyagraha site — gently but firmly explaining the procedural requirement. The leaders accepting his counsel. The movement pausing. But the concession from the forest department already in writing. The win secured."
     },
     {
       "id": "s1e10-011",
       "type": "content",
       "image": "images/series1/ep10/slide-011.webp",
-      "text": "Habib Tanveer, the purpose with which he entered the theatre, continued till the end, he used to say. I am in favor of indigenous, art-skills and methods, and I want this not only in the field of culture but in agriculture, factories, education in all fields.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 11: Habib Tanveer, the purpose with which he entered the theatre, continued till the end, he used to say..."
+      "text": "February 5, 1922. Gandhi withdrew the Non-Cooperation Movement after the Chauri Chaura incident — where a crowd burned a police station, killing 22 officers. Gandhi could not accept violence. Chhattisgarh heard the withdrawal with discipline.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The news of Chauri Chaura reaching Chhattisgarh — a burning police station in one frame, Gandhi's anguished face in another. The movement withdrawn. Chhattisgarh leaders receiving the news — disappointed but disciplined. The movement pausing, not ending."
     },
     {
       "id": "s1e10-012",
       "type": "content",
       "image": "images/series1/ep10/slide-012.webp",
-      "text": "At the same time, I have a strong belief in the authenticity of the culture. \" This is why, he was associated with the art and culture of Chhattisgarh for life and he worked hard for the upliftment and preservation of his culture.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 12: At the same time, I have a strong belief in the authenticity of the culture. ' This is why, he was..."
+      "text": "The Swaraj Party was formed in response to the withdrawal — Motilal Nehru and CR Das creating a mechanism for continued political pressure through the legislative councils. Chhattisgarh's leaders aligned with this new instrument of the freedom struggle.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The Swaraj Party formation — a new political structure emerging from the withdrawal of Non-Cooperation. Chhattisgarh leaders in consultation about the new path. The movement adapting rather than stopping. Political creativity in the face of disappointment."
     },
     {
       "id": "s1e10-013",
       "type": "content",
       "image": "images/series1/ep10/slide-013.webp",
-      "text": "H e believed that , \"Any true theatre, especially one that is socially manipulative and artistically interesting, it is not possible unless man establishes his art in his cultural traditions. Therfore after returning to India after studying from Royal Academy of Dramatic Art , he started in search of his local indigenous idiom.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "The Jhanda Satyagraha of 1923. Pt. Sundarlal Sharma was arrested and sentenced to 6 months' imprisonment for hoisting the national flag in Jabalpur. The tricolor as an act of defiance — a piece of cloth that the British treated as a weapon.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 13: H e believed that , 'Any true theatre, especially one that is socially manipulative and artistically..."
+      "visualDescription": "Pt. Sundarlal Sharma hoisting the tricolor flag at Jabalpur. British officers arresting him. The flag continuing to fly as he is led away. A flag as a Satyagraha. The cloth of three colors carrying the weight of a nation's aspiration. Six months in jail."
     },
     {
       "id": "s1e10-014",
       "type": "content",
       "image": "images/series1/ep10/slide-014.webp",
-      "text": "He was also influenced by the dramas of Breast . After Bharatendu, Habib Tanveer was also among the few people who led the cultural struggle of Indian society.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "Five leaders arrested in 1922 and imprisoned in Raipur Jail: Pt. Sundarlal Sharma, Narayan Rao Meghawale, Maulana Rauf, Maulana Hamid Ali, Bhagwati Prasad Mishra. Five men of different backgrounds sharing a cell and a cause.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 14: He was also influenced by the dramas of Breast . After Bharatendu, Habib Tanveer was also among the..."
+      "visualDescription": "Raipur Jail — five men in one cell: Sharma, Meghawale, Maulana Rauf, Maulana Hamid Ali, Bhagwati Prasad Mishra. Hindu and Muslim leaders sharing imprisonment as they shared the movement. The jail cell as a microcosm of the unity they were fighting for."
     },
     {
       "id": "s1e10-015",
       "type": "content",
       "image": "images/series1/ep10/slide-015.webp",
-      "text": "He did not stage a single play of Bhartendu, yet he remained closest to Bhartendu in his theatre. He amazes the audience with the magic of a new theater of expression, using the broader concept of folk as the basis of his experiment.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "In jail, they remained unbroken. They read, they discussed, they planned. The British had imprisoned the leaders but could not imprison the movement. The Raipur DCC continued to function under other hands. The structure Shukla built proved its durability.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 15: He did not stage a single play of Bhartendu, yet he remained closest to Bhartendu in his theatre. He..."
+      "visualDescription": "Inside Raipur Jail — the five leaders in discussion, books and papers, planning continuing. Outside: the DCC under new leadership, still functioning. The movement proved to be larger than any individual. The organisation outlasting the imprisonment of its founders."
     },
     {
       "id": "s1e10-016",
       "type": "content",
       "image": "images/series1/ep10/slide-016.webp",
-      "text": "Amazement often takes root in our consciousness, but the magic of Habib Tanveer's theater amazes us because in his productions, all the wonders, which have been created by man to keep man enslaved for centuries, with ease are going. Coming down ruthlessly in the cellars of these prapanchas and opening all the openings to voice what the truth is, is not an easy task today, it has double dangers in the work of creation.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "March 12, 1930. Gandhi and 79 companions walked toward Dandi. Two hundred miles. Twenty-four days. April 6: Gandhi made salt on the seashore. The Salt March reached Chhattisgarh as electric news — and the province responded.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 16: Amazement often takes root in our consciousness, but the magic of Habib Tanveer's theater amazes us..."
+      "visualDescription": "The Salt March — Gandhi and companions walking through Gujarat. Then the news arriving in Chhattisgarh — people gathered around a radio, around a newspaper, faces transforming with the realisation of what is happening. The march reaching them through the air."
     },
     {
       "id": "s1e10-017",
       "type": "content",
       "image": "images/series1/ep10/slide-017.webp",
-      "text": "Artists and litterateurs have contributed immensely in the rise of Chhattisgarh, Charankavi Dalram Rao, P t. Sundarlal Sharma, and Habib Tanveer succour the Chhattisgarh and Chhattisgarhi language when it was most needed.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "In Dhamtari, Pt. Narayan Rao Meghawale made salt from soil using an ancient method. Karan C. Tejpal bought two grams of that salt for Rs 61. A symbolic act that cost a man's life savings for two grams of earth and water — and worth every rupee.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 17: Artists and litterateurs have contributed immensely in the rise of Chhattisgarh, Charankavi Dalram R..."
+      "visualDescription": "Narayan Rao Meghawale at the edge of the Dhamtari pond, making salt from soil and water using ancient methods. Karan Tejpal paying Rs 61 for two grams. The transaction as ceremony, as defiance, as solidarity with Dandi from 700 kilometres away."
     },
     {
       "id": "s1e10-018",
       "type": "content",
       "image": "images/series1/ep10/slide-018.webp",
-      "text": "Chhattisgarh Mukti Morcha The second ideology of separate Chhattisgarh was to liberate the neglected people, a reinterpretation of industrialization, revitalize Chhattisgarh, keeping tribal-tribal tribes and agriculture at the center. Since Chhattisgarhi 's language was not an emotional issue for him.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Gandhi was arrested on May 5, 1930. Jungle Satyagrahas erupted across Chhattisgarh. The tribals entered the reserved forests again. The farmers refused the taxes again. The lawyers refused the courts again. The movement did not wait for Gandhi.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 18: Chhattisgarh Mukti Morcha The second ideology of separate Chhattisgarh was to liberate the neglected..."
+      "visualDescription": "Gandhi arrested on May 5, 1930. Then across Chhattisgarh: Jungle Satyagrahis entering forests, farmers refusing tax collectors, lawyers closing offices. The movement continuing without its leader — proof that it had become genuinely the people's own."
     },
     {
       "id": "s1e10-019",
       "type": "content",
       "image": "images/series1/ep10/slide-019.webp",
-      "text": "Therefore, such powers continued to be neglected in the separate state of Chhattisgarh. Shankar Guha Niyogi and his party \"",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "The Tamora Jungle Satyagraha of 1930 — seventeen days of sustained non-violent resistance in Mahasamund tehsil. Women standing before bayonets. Amar Singh shouting 'Mahatma Gandhi ki Jai' while being beaten. The land proving what it had learned.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 19: Therefore, such powers continued to be neglected in the separate state of Chhattisgarh. Shankar Guha..."
+      "visualDescription": "Tamora village, 1930 — tribal women standing in a line before British soldiers with bayonets, not moving. Amar Singh being beaten, still shouting Gandhi's name. Seventeen days of daily Satyagraha. The movement practiced with absolute discipline."
     },
     {
       "id": "s1e10-020",
       "type": "content",
       "image": "images/series1/ep10/slide-020.webp",
-      "text": "Chhattisgarh Mukti Morcha \" were similar powers, which w ere completely ignored in separate Chhattisgarh. The movements of the creation of separate Chhattisgarh and its history-writing were mentioned many times about the exploitation of the Chhattisgarh people, but the reasons and methods of exploitation were not disclosed.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 20: Chhattisgarh Mukti Morcha ' were similar powers, which w ere completely ignored in separate Chhatti..."
+      "text": "In 1932, Congress was declared illegal. The leaders went underground or to jail. But the Raipur Congress Bhavan — constructed in 1940, inaugurated by Sardar Vallabhbhai Patel — stood as proof that the organisation had not been killed by illegality.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The Raipur Congress Bhavan — a building of purpose and permanence, constructed 1940. Sardar Vallabhbhai Patel at the inauguration. The Congress declared illegal but building its house in Raipur. An institution that outlasted its suppression."
     },
     {
       "id": "s1e10-021",
       "type": "content",
       "image": "images/series1/ep10/slide-021.webp",
-      "text": "The passionate imagination of a class-zero Chhattisgarhi society was deliberate so that the Chhattisgarhi spirit could be used against non-Chhattisgarh people. Niyogi considered such sentiment a threat to Chhattisgarh.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 21: The passionate imagination of a class-zero Chhattisgarhi society was deliberate so that the Chhattis..."
+      "text": "The Raipur Conspiracy Case. Parasram Soni and BB Sur were charged with making explosives. Even as Gandhi preached non-violence, there were those in Chhattisgarh who chose harder paths. The freedom struggle contained multitudes.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The Raipur Conspiracy Case — Parasram Soni and BB Sur in the British court on charges of making explosives. The harder edge of the freedom struggle that Gandhi's non-violence sought to channel. The movement containing both the charkha and the bomb."
     },
     {
       "id": "s1e10-022",
       "type": "content",
       "image": "images/series1/ep10/slide-022.webp",
-      "text": "Chhattisgarhi Kaun \" , how the Chhattisgarh Mukti Morcha presented itself and identified the enemies of Chhattisgarh, it is evident that the potential rulers of Chhattisgarh did not like it at all. For Chhattisgarh Mukti Morcha, all those people were enemies of Chhattisgarhi people who are associated with any process of exploitation, even if their language is Chhattisgarhi.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 22: Chhattisgarhi Kaun ' , how the Chhattisgarh Mukti Morcha presented itself and identified the enemie..."
+      "text": "August 8, 1942. Gandhi's call: 'Karo ya Maro' — Do or Die. The Quit India Movement. Chhattisgarh's response was immediate. Leaders imprisoned, newspapers shut, public gatherings banned — and the movement continuing underground regardless.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "August 8, 1942 — the Quit India resolution. Karo ya Maro burning across Chhattisgarh. Leaders being rounded up. Newspapers shuttered. But in the back lanes and village squares, the movement continuing. The underground as the new front."
     },
     {
       "id": "s1e10-023",
       "type": "content",
       "image": "images/series1/ep10/slide-023.webp",
-      "text": "For this reason, many people from the rural areas joined the Chhattisgarh Mukti Morcha. Shankar Guha Niyogi and Chhattisgarh Mukti Morcha supported the separate Chhattisgarh state.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 23: For this reason, many people from the rural areas joined the Chhattisgarh Mukti Morcha. Shankar Guha..."
+      "text": "Through it all — 1920 to 1947 — the leaders of Chhattisgarh held. Ravi Shankar Shukla. Pt. Sundarlal Sharma. Babu Chhotelal Srivastava. Thakur Pyarelal Singh. Ghanshyam Singh Gupta. E. Raghavendra Rao. Each paying their price and not stopping.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "A gallery of the six major leaders across 27 years — each face showing the marks of time, of imprisonment, of sustained commitment. Not diminished — deepened. The faces of people who chose something and stayed with the choice across decades."
     },
     {
       "id": "s1e10-024",
       "type": "content",
       "image": "images/series1/ep10/slide-024.webp",
-      "text": "Organized people for this by issuing several small booklets. But his Chhattisgarh was not merely a linguistic unit or a linguistic facility, but after independence, the area for which Chhattisgarh was being used was a dream of liberation.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 24: Organized people for this by issuing several small booklets. But his Chhattisgarh was not merely a l..."
+      "text": "November 1933. Gandhi announces a nationwide Harijan tour to fight untouchability. After his agreement with Dr. Ambedkar — the Poona Pact — he has made a promise: to fight untouchability for the rest of his life. The tour starts from Chhattisgarh.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Gandhi at Sevagram Ashram planning his Harijan tour — maps, itinerary, the Poona Pact on the table before him. The tour being announced. Then: the first pin placed on the map — Chhattisgarh. The second visit beginning to take shape thirteen years later."
     },
     {
       "id": "s1e10-025",
       "type": "content",
       "image": "images/series1/ep10/slide-025.webp",
-      "text": "By issuing a booklet, he also propagated that the demand for a new Chhattisgarh is democratic. In Chhattisgarh Mukti Morcha ' s concept of Chhattisgarh, the linguistic element was not neglected, rather it was used as a supporting element of nationality.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 25: By issuing a booklet, he also propagated that the demand for a new Chhattisgarh is democratic. In Ch..."
+      "text": "Between 1920 and 1933 — thirteen years. In those years, Chhattisgarh had Jungle Satyagrahas, a Salt March echo, civil disobedience, conspiracy cases, and the Quit India buildup. Not a quiet decade. A decade of sustained fire.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Thirteen years compressed into a visual timeline: 1920, 1922, 1923, 1930, 1932, 1933. Each year a flame on the map of Chhattisgarh. The fire never going out between Gandhi's two visits. The province burning with its own purpose throughout."
     },
     {
       "id": "s1e10-026",
       "type": "content",
       "image": "images/series1/ep10/slide-026.webp",
-      "text": "In 1989, he issued a communique demanding that education should be imparted in Gondi, Halbi, and Chhattisgarhi in Chhattisgarh. Not only this, while disclosing the intentions of the Chhattisgarh leaders active in the movement of separate Chhattisgarh state formation, wrote: Today Chhattisgarh capitalists and lower capitalists are getting more and more excited about the idea of \"‹\"‹ the formation of Chhattisgarh state and are adopting it.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 26: In 1989, he issued a communique demanding that education should be imparted in Gondi, Halbi, and Chh..."
+      "text": "Gandhi had changed too. Between 1920 and 1933, he had led the Salt March, been imprisoned multiple times, signed the Poona Pact, made his promise to Ambedkar, and established Sevagram as his base. He was no longer Mohandas. He was The Mahatma.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Gandhi's transformation between 1920 and 1933 — the younger, energetic Mohandas of the first visit becoming the aged, iconic Mahatma. The Salt March, imprisonment, Poona Pact shown in brief images. The man who returns will be different. The land will be the same."
     },
     {
       "id": "s1e10-027",
       "type": "content",
       "image": "images/series1/ep10/slide-027.webp",
-      "text": "The demand for the formation of a separate state is also growing among the farmers. Therefore, the working class has to take an active part in this subject.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 27: The demand for the formation of a separate state is also growing among the farmers. Therefore, the w..."
+      "text": "Pt. Sundarlal Sharma had continued his work on untouchability through all those years. By 1933, when Gandhi arrived, Sharma had been fighting this cause for nearly two decades. Gandhi would recognise this — and name him as his own guru.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Pt. Sundarlal Sharma through the years — 1920, 1925, 1930, 1933 — each image showing him continuing his work on untouchability regardless of what else was happening in the movement. A man with one mission, pursued across decades without deviation."
     },
     {
       "id": "s1e10-028",
       "type": "content",
       "image": "images/series1/ep10/slide-028.webp",
-      "text": "If this campaign is not run in a clear direction and it is not combined with the question of people ' s freedom struggle, then it can go in the wrong direction. Fiery superstition can harm the entire campaign.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 28: If this campaign is not run in a clear direction and it is not combined with the question of people..."
+      "text": "The women of Chhattisgarh had not stopped either. From the gold at Machilabad in 1920 to the bayonet line at Tamora in 1930 — ten years of women at the front of the movement, giving what they had, standing where they were needed.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The women of Chhattisgarh's freedom movement from 1920 to 1933 — a visual sequence. Machilabad 1920: gold rings given. Tamora 1930: bayonet line held. Each image showing women not as supporters but as the core of the movement. Always there."
     },
     {
       "id": "s1e10-029",
       "type": "content",
       "image": "images/series1/ep10/slide-029.webp",
-      "text": "For those who were associated with active politics or supported it psychologically concerning the segregation of Chhattisgarh, the whole emphasis was focused on the reach of Chhattisgarh at the top of governance. He was often silent about criticism of policies.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 29: For those who were associated with active politics or supported it psychologically concerning the se..."
+      "text": "The spark that Gandhi's first visit left in December 1920 — it stayed. It stayed through withdrawals and arrests and suppressions. It stayed in the homes where stage bricks sat on family altars. It stayed in Kandel, where the canal water flowed free.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A Raipur family home — a brick from the Kankalipara stage on the family altar, a small lamp beside it. The canal at Kandel flowing. The charkha still turning. The spark made visible in small domestic sacred objects. History living in homes."
     },
     {
       "id": "s1e10-030",
       "type": "content",
       "image": "images/series1/ep10/slide-030.webp",
-      "text": "Khubchand Baghel did raise important issues in the early days of Chhattisgarh state demand such as criticism of Nehru ' s policies and declaring the support price of paddy, but later he was satisfied with the post of president of the Kurmi organization. His Chhattisgarh was not inconvenient for any Chhattisgarhi because only being Chhattisgarhi proved his love for this region valid.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 30: Khubchand Baghel did raise important issues in the early days of Chhattisgarh state demand such as c..."
+      "text": "Ravi Shankar Shukla — first secretary of the Raipur DCC in 1920 — would become the first Chief Minister of Madhya Pradesh in 1947. The thread from December 1920 runs straight to August 15, 1947. One man, one city, one unbroken commitment.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Ravi Shankar Shukla in 1920 — signing the DCC papers. Then Shukla in 1947 — hoisting the tricolor at Sitabardi Fort, Nagpur, as first CM of Madhya Pradesh. Twenty-seven years between the two images. The same man. The same commitment. The arc complete."
     },
     {
       "id": "s1e10-031",
       "type": "content",
       "image": "images/series1/ep10/slide-031.webp",
-      "text": "Whereas to walk the path of Niyogi, it was necessary to abandon the conditions and facilities of the exploiters. How deep the relation of nationalism to language is, the biggest proof of this is the neglect of Niyogi in the memory of the state of Chhattisgarh.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 31: Whereas to walk the path of Niyogi, it was necessary to abandon the conditions and facilities of the..."
+      "text": "Gandhi came to Chhattisgarh once as Mohandas. He was in the third-class compartment. He collected for the Tilak Fund. He went to a women's gathering. He stayed three days. And nothing was ever the same. Series 1 closes here.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The closing image of Series 1 — Gandhi at the door of the third-class compartment, December 20, 1920, hands folded, the train moving. The simplest image. The most consequential. Three days that changed a province. Series 1: MOHANDAS — complete."
     },
     {
       "id": "s1e10-032",
       "type": "content",
       "image": "images/series1/ep10/slide-032.webp",
-      "text": "Niyogi ' s path was the complete opposite of achieving \" Swabhasha se Swarajya \" (Self State By Self Language) .",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 32: Niyogi ' s path was the complete opposite of achieving ' Swabhasha se Swarajya ' (Self State By Sel..."
+      "text": "November 1, 2000. The state of Chhattisgarh is formally established — separated from Madhya Pradesh after decades of campaigning. The land that Gandhi visited twice in 1920 and 1933 finally receives its own name, its own government, its own recognition.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "November 1, 2000 — the formation of Chhattisgarh state. The new state flag being raised. The map of India showing the new state boundary. The culmination of a struggle that Gandhi had touched in 1920 and 1933. The land named for itself at last."
     },
     {
       "id": "s1e10-033",
       "type": "content",
       "image": "images/series1/ep10/slide-033.webp",
-      "text": "He considered language a tool in the way of achieving \" So although he survived being a victim of ideological contradictions, he was unsuccessful as far as evoking an emotional outlook in the context of Chhattisgarh was concerned.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 33: He considered language a tool in the way of achieving ' So although he survived being a victim of id..."
+      "text": "Johar — the Chhattisgarhi word of greeting and farewell. An expression of respect, of seeing, of meeting. To Gandhi, to his two visits, to the land that gave so much and asked so little: Johar.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The word JOHAR in Devanagari script, large, golden, against the landscape of Chhattisgarh — its forests, its rivers, its ancient forts. The greeting and the farewell. Spoken now to the first series, to the first visit, to the men and women of this land."
     },
     {
       "id": "s1e10-034",
       "type": "content",
       "image": "images/series1/ep10/slide-034.webp",
-      "text": "In his new Chhattisgarh, only those people joined, whose status was that of a laborer in Chhattisgarh. In terms of language, he was very close to Stalin, who considered language as a mere tool like a machine.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 34: In his new Chhattisgarh, only those people joined, whose status was that of a laborer in Chhattisgar..."
+      "text": "The words recorded on the pages of history may be blurred, but the words inscribed in the mind, heart, and memory of the people are indelible. Chhattisgarh gave strength and unconditional support to Mahatma Gandhi for the successful Indian freedom movement.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "History books with faded text — some pages blurred, some names missing. Then: the faces of ordinary people who remember. The elder who was there. The family who keeps the stage brick. The farmer whose grandfather won the Kandel Satyagraha. Living memory."
     },
     {
       "id": "s1e10-035",
       "type": "content",
       "image": "images/series1/ep10/slide-035.webp",
-      "text": "The Chhattisgarhi experiment of Niyogi challenged the concept of the basic concept on which the development of the nation-state as India was based. The leadership class that reached the top of politics in colonial India fell victim to many contradictions on the question of language.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 35: The Chhattisgarhi experiment of Niyogi challenged the concept of the basic concept on which the deve..."
+      "text": "Thirteen years will pass. He will return — not as Mohandas the lawyer and organiser, but as The Mahatma — the global icon returning to fight untouchability. The land will be different. The man will be different. The love will be the same.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "November 1933 — a train approaching Durg station. A different man inside than came in 1920. The elder Gandhi — iconic, global, transformed. Chhattisgarh in 1933 — also transformed by thirteen years of movement. Both changed. Both ready. The return."
     },
     {
       "id": "s1e10-036",
       "type": "content",
       "image": "images/series1/ep10/slide-036.webp",
-      "text": "The national politics of building a liberal nation by sensing linguistic society was bound to face the problem of clashes of nationalities and sub-nationalities since the 1930s. In such a situation, conflicts in the name of national unity could be kept for a time, but they could not be finally settled.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 36: The national politics of building a liberal nation by sensing linguistic society was bound to face t..."
+      "text": "Series 1 — MOHANDAS — is complete. Ten episodes. The land of 36 forts. The first martyr. The earthquake of Bastar. The cannon at Jaistambh. The awakening. The water and the tax. The invitation. Mohandas arrives. The day in Dhamtari. The spark that stayed.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The ten episode titles of Series 1 appearing one by one in their sequence — each with its defining image. A visual index of Series 1. The complete arc of MOHANDAS from 1825 to 1920. The foundation laid. Series 2 waiting."
     },
     {
       "id": "s1e10-037",
       "type": "content",
       "image": "images/series1/ep10/slide-037.webp",
-      "text": "Nehru also adopted the policy of avoiding conflicts, its impact on regional politics was not good. The linguistic nations had moved towards being aggressive.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 37: Nehru also adopted the policy of avoiding conflicts, its impact on regional politics was not good. T..."
-    },
-    {
-      "id": "s1e10-038",
-      "type": "content",
-      "image": "images/series1/ep10/slide-038.webp",
-      "text": "He had taken a certain emotional form. No wonder, if the people are indifferent to the efforts of Niyogi and Chhattisgarh Mukti Morcha to implement Chhattisgarhi nationality amid all these circumstances.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 38: He had taken a certain emotional form. No wonder, if the people are indifferent to the efforts of Ni..."
-    },
-    {
-      "id": "s1e10-039",
-      "type": "content",
-      "image": "images/series1/ep10/slide-039.webp",
-      "text": "Social Reformers of Chhattisgarh The History of Chhattisgarh speaks about the varied socio-religious movement and rebellions it's witnessed. For time and again one or the opposite rose against the established social structures and practices.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 39: Social Reformers of Chhattisgarh The History of Chhattisgarh speaks about the varied socio-religious..."
-    },
-    {
-      "id": "s1e10-040",
-      "type": "content",
-      "image": "images/series1/ep10/slide-040.webp",
-      "text": "While the tribal people fought for his or her rights and to preserve their culture, the opposite weaker sections just like the Dalits condemned the religious and social atrocities. As a result of this revolting mentality many spiritual sects just like the Ramnami Panth, Satnam Panth, Kabir Panth, and therefore the Rae Das Panth were formed.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 40: While the tribal people fought for his or her rights and to preserve their culture, the opposite wea..."
-    },
-    {
-      "id": "s1e10-041",
-      "type": "content",
-      "image": "images/series1/ep10/slide-041.webp",
-      "text": "Ramananda was an eminently social and non-secular reformer who had an enormous fan following. one among his many fans, a Dalit - Ravi Das, or fondly called Rae Das was a committed disciple of Ramananda. Rae Das was highly influenced by his teachings and adding his philosophical ideology, he started spreading the message of equality.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 41: Ramananda was an eminently social and non-secular reformer who had an enormous fan following. one am..."
-    },
-    {
-      "id": "s1e10-042",
-      "type": "content",
-      "image": "images/series1/ep10/slide-042.webp",
-      "text": "Soon he caught the attention of the poorer section of the world and that they realized that they need found a pacesetter who will represent them. In this manner, the Rae Das Panth came into existence.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 42: Soon he caught the attention of the poorer section of the world and that they realized that they nee..."
-    },
-    {
-      "id": "s1e10-043",
-      "type": "content",
-      "image": "images/series1/ep10/slide-043.webp",
-      "text": "The followers of the Rae Das Panth call themselves because the Raedasis or the Rae Das Panthis. Mostly the Dalits follow this sect, which beliefs in social and non-secular equality.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 43: The followers of the Rae Das Panth call themselves because the Raedasis or the Rae Das Panthis. Most..."
-    },
-    {
-      "id": "s1e10-044",
-      "type": "content",
-      "image": "images/series1/ep10/slide-044.webp",
-      "text": "Ramnami Panth; The Ramnami Panth is one of the religious sects in Chhattisgarh, which has many followers from the Dalit community. almost like many other reform movements within the History of Chhattisgarh, the Ramnami Panth Sect came into existence in protest against the Brahman atrocities within the Hindu society. The Dalits at one point in your time faced severe discrimination and suppression.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 44: Ramnami Panth; The Ramnami Panth is one of the religious sects in Chhattisgarh, which has many follo..."
-    },
-    {
-      "id": "s1e10-045",
-      "type": "content",
-      "image": "images/series1/ep10/slide-045.webp",
-      "text": "They revolted against the parable that Brahmans were the supreme bosses. This mentality brought the concept of the sect, which believed Rama as their god.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 45: They revolted against the parable that Brahmans were the supreme bosses. This mentality brought the..."
-    },
-    {
-      "id": "s1e10-046",
-      "type": "content",
-      "image": "images/series1/ep10/slide-046.webp",
-      "text": "Even today, the follower of the sect of Ramnami denounces the Brahmans because the medium of god. they might rather pray to their lord by themselves. The Ramnamis are distinguished by their caps designed with beautiful peacock feathers.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 46: Even today, the follower of the sect of Ramnami denounces the Brahmans because the medium of god. th..."
-    },
-    {
-      "id": "s1e10-047",
-      "type": "content",
-      "image": "images/series1/ep10/slide-047.webp",
-      "text": "They also carry flutes and sing songs in praise of their Lord Rama. The practice of tattooing the body with the name of Rama is extremely popular among the followers of Ramnami Panth.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 47: They also carry flutes and sing songs in praise of their Lord Rama. The practice of tattooing the bo..."
-    },
-    {
-      "id": "s1e10-048",
-      "type": "content",
-      "image": "images/series1/ep10/slide-048.webp",
-      "text": "Satnam Panth; Chhattisgarh has always been a tribal-dominated area. the massive number tribal population has its own culture and customs. The history of Chhattisgarh suggests that although their culture was under the influence of orthodox Hindu religion, they rose against the hierarchal, religious, and social order. many spiritual and social reform movements happened and new sects just like the Satnam Panth, Kabir Panth, Ramnami Panth, and Rae Das Panth came into existence.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 48: Satnam Panth; Chhattisgarh has always been a tribal-dominated area. the massive number tribal popula..."
-    },
-    {
-      "id": "s1e10-049",
-      "type": "content",
-      "image": "images/series1/ep10/slide-049.webp",
-      "text": "To protest against the social atrocities and demand for equality gave birth to the Satnam Panth. The movement was initiated by small groups of Dalits within the nineteenth century.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 49: To protest against the social atrocities and demand for equality gave birth to the Satnam Panth. The..."
-    },
-    {
-      "id": "s1e10-050",
-      "type": "content",
-      "image": "images/series1/ep10/slide-050.webp",
-      "text": "Led by a humble farmer - Ghasidas, the movement gained momentum among the poor. They formed the Satnam Panth sect and called themselves \"Satnami\" (Etymology: From Sat (truth)+ Nami (Named by follower), \"Follower of truth\") .",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 50: Led by a humble farmer - Ghasidas, the movement gained momentum among the poor. They formed the Satn..."
-    },
-    {
-      "id": "s1e10-051",
-      "type": "content",
-      "image": "images/series1/ep10/slide-051.webp",
-      "text": "Th ey believe the superpower that's formless and that they follow the name of the eternal truth only. they are doing not enjoy drinking liquor, smoking, chewing tobacco, and refrain from eating few sorts of vegetables, red pulses, and meat. They denounce the normal Hindu idols and deities.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 51: Th ey believe the superpower that's formless and that they follow the name of the eternal truth only..."
-    },
-    {
-      "id": "s1e10-052",
-      "type": "content",
-      "image": "images/series1/ep10/slide-052.webp",
-      "text": "They believe in a caste-less society and promote equality. The Satnam community comprises mainly sharecroppers and landless laborers. the primary leader of the sect Guru Ghasidas initiated the hierarchy of Gurus, which is hereditary.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 52: They believe in a caste-less society and promote equality. The Satnam community comprises mainly sha..."
-    },
-    {
-      "id": "s1e10-053",
-      "type": "content",
-      "image": "images/series1/ep10/slide-053.webp",
-      "text": "Bhandar and Girodh puri in Chhattisgarh are the most centers of the sect of Satnam Panth. Formation of Chhattisgarh in chronological order In the 1941 census, the Chhattisgarh region was in Central Provinces and Berar also called C.P. &amp; Berar.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 53: Bhandar and Girodh puri in Chhattisgarh are the most centers of the sect of Satnam Panth. Formation..."
-    },
-    {
-      "id": "s1e10-054",
-      "type": "content",
-      "image": "images/series1/ep10/slide-054.webp",
-      "text": "In 1854, Chhattisgarh became three divisions, Raipur, Ratanpur, and Dhamtari. Tehsils were reconstituted and 5 Tehsils were established - Raipur, Dhamtari, Ratanpur, Dhamdha, Jawagarh.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 54: In 1854, Chhattisgarh became three divisions, Raipur, Ratanpur, and Dhamtari. Tehsils were reconstit..."
-    },
-    {
-      "id": "s1e10-055",
-      "type": "content",
-      "image": "images/series1/ep10/slide-055.webp",
-      "text": "In the 1951 census, the Chhattisgarh region was with CP and Berar. When the states were formed on a linguistic basis in the year 1956, the then MLA Thakur Ramakrishna Singh demanded the formation of a separate state with the Chhattisgarhi dialect as the basis.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 55: In the 1951 census, the Chhattisgarh region was with CP and Berar. When the states were formed on a..."
-    },
-    {
-      "id": "s1e10-056",
-      "type": "content",
-      "image": "images/series1/ep10/slide-056.webp",
-      "text": "In 1920 , Sundarlal Sharma was envisaged in Chhattisgarh state. In 1924, Vamanrao Lakhe demanded a separate Congress Committee for Chhattisgarh.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 56: In 1920 , Sundarlal Sharma was envisaged in Chhattisgarh state. In 1924, Vamanrao Lakhe demanded a s..."
-    },
-    {
-      "id": "s1e10-057",
-      "type": "content",
-      "image": "images/series1/ep10/slide-057.webp",
-      "text": "In 1966, the establishment of Bhavasangh under the chairmanship of Dr. Khubchand Baghel and public awareness campaign through Chhattisgarh poetry.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 57: In 1966, the establishment of Bhavasangh under the chairmanship of Dr. Khubchand Baghel and public a..."
-    },
-    {
-      "id": "s1e10-058",
-      "type": "content",
-      "image": "images/series1/ep10/slide-058.webp",
-      "text": "In 1993, Chhattisgarh was mentioned in Congress ' s election manifesto. In the Madhya Pradesh Assembly Election on March 18, 1994, a separate government resolution related to Chhattisgarh formally and unanimously passed.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 58: In 1993, Chhattisgarh was mentioned in Congress ' s election manifesto. In the Madhya Pradesh Assemb..."
-    },
-    {
-      "id": "s1e10-059",
-      "type": "content",
-      "image": "images/series1/ep10/slide-059.webp",
-      "text": "After the Lok Sabha elections on March 25, 1998, the mention of the formation of a separate Chhattisgarh state in the President ' s address to the joint session of the House. Resolution on the constitution of a separate state of Chhattisgarh in Madhya Pradesh Legislative Assembly on May 1, 1998 Mentioned in the election manifesto of Congress and Bharatiya Janata Party in assembly elections of 1998 The then Prime Minister Late Atal Bihari Bajpai announced in a general meeting that, if Bharatiya Janata Party wins all the 11 Lok Sabha constituencies, then state formation.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 59: After the Lok Sabha elections on March 25, 1998, the mention of the formation of a separate Chhattis..."
-    },
-    {
-      "id": "s1e10-060",
-      "type": "content",
-      "image": "images/series1/ep10/slide-060.webp",
-      "text": "A bill for the formation of 3 new states in the Lok Sabha on 25 July 2000. On July 25, 2000, the then Home Minister LK Advani presented the Chhattisgarh Amendment Bill 2000 in the Lok Sabha.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 60: A bill for the formation of 3 new states in the Lok Sabha on 25 July 2000. On July 25, 2000, the the..."
-    },
-    {
-      "id": "s1e10-061",
-      "type": "content",
-      "image": "images/series1/ep10/slide-061.webp",
-      "text": "Chhattisgarh State Formation Bill passed by Lok Sabha on 31 July 2000. On August 9, 2000, the Rajya Sabha passed a bill with an amendment to keep the number of Rajya Sabha members intact.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 61: Chhattisgarh State Formation Bill passed by Lok Sabha on 31 July 2000. On August 9, 2000, the Rajya..."
-    },
-    {
-      "id": "s1e10-062",
-      "type": "content",
-      "image": "images/series1/ep10/slide-062.webp",
-      "text": "Bill passed by Lok Sabha and Rajya Sabha for approval of the President. Signed by the President on 28 August 2000 and notified as Act No. 28 in the Gazette of the Government of India.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 62: Bill passed by Lok Sabha and Rajya Sabha for approval of the President. Signed by the President on 2..."
-    },
-    {
-      "id": "s1e10-063",
-      "type": "content",
-      "image": "images/series1/ep10/slide-063.webp",
-      "text": "Location of Chhattisgarh State History of Journalism in Chhattisgarh The history of journalism in Chhattisgarh dates back to pre-independence, Madhavrao Sapre is called the father of journalism in Chhattisgarh. Currently the number of newspapers and magazines being published in Chhattisgarh is more than 400.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 63: Location of Chhattisgarh State History of Journalism in Chhattisgarh The history of journalism in Ch..."
-    },
-    {
-      "id": "s1e10-064",
-      "type": "content",
-      "image": "images/series1/ep10/slide-064.webp",
-      "text": "Newspapers in Chhattisgarh Year Newspaper First Editor 1889 Praja Hitaishi * Bhagwandin Sirokia 1900 Chhattisgarh Mitra Madhav Rao Sapre 1910 Rashtra Bandhu Thakur Pyarelal Singh 1920 Karmabhoomi Makhanlal Chaturvedi 1924 Kanya Kubj Pandit Ravi Shankar Shukla 1933 Utthan Sundarlal Tripathi 1936 Mahakaushal ** Pt. Ravi Shankar Shukla 1942 Agrdut Saptahik *** Swarajya Prasad Trivedi 1948 Amrit Sandesh Govindlal Vora 1953 India Colling **** 1955 Chhattisgarhi Gajanand Madhav Muktibodh 1974 Naiduniya (deshbandhu) Mayaram Surjan 1959 Navbharat Shivnarayan Dwivedi 1984 Bastaria ***** Lala Jagdalpuri 1991 Dainik Bhaskar Unknown 2012 Times of India Rajendra Singh *Not considered as the first newspaper of Chhattisgarh, due to not get any printed copy. **First it was published as a weekly newspaper, then in 1951 it was published as a daily newspaper.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 64: Newspapers in Chhattisgarh Year Newspaper First Editor 1889 Praja Hitaishi * Bhagwandin Sirokia 1900..."
-    },
-    {
-      "id": "s1e10-065",
-      "type": "content",
-      "image": "images/series1/ep10/slide-065.webp",
-      "text": "It is the first daily newspaper of Chhattisgarh. ***Started as Forerunner Weekly, weekly in 1982, currently an evening daily. ****The first newspaper published in English in Chhattisgarh *****The first newspaper published in Halbi language. Modern Chhattisgarh Industries Agriculture Irrigation and power Mineral resources Information technology Transport Tourist centers Chhattisgarh as the 26th State of the Union fulfills the long-cherished demand of the people.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 65: It is the first daily newspaper of Chhattisgarh. ***Started as Forerunner Weekly, weekly in 1982, cu..."
-    },
-    {
-      "id": "s1e10-066",
-      "type": "content",
-      "image": "images/series1/ep10/slide-066.webp",
-      "text": "In 1904 Sambalpur was transferred to Odisha and the estates of Sarguja were transferred from Bengal to Chhattisgarh. Chhattisgarh is bounded by southern Jharkhand and Odisha in the east, Madhya Pradesh and Maharashtra in the west, Uttar Pradesh and western Jharkhand in the north, and Andhra Pradesh in the south.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 66: In 1904 Sambalpur was transferred to Odisha and the estates of Sarguja were transferred from Bengal..."
-    },
-    {
-      "id": "s1e10-067",
-      "type": "content",
-      "image": "images/series1/ep10/slide-067.webp",
-      "text": "Area-wise Chhattisgarh is the ninth-largest State and population-wise it is the seventeenth state of the nation. Industries The economy of Chhattisgarh is largely natural resource-driven and it leverages the state ' s rich mineral resources.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 67: Area-wise Chhattisgarh is the ninth-largest State and population-wise it is the seventeenth state of..."
-    },
-    {
-      "id": "s1e10-068",
-      "type": "content",
-      "image": "images/series1/ep10/slide-068.webp",
-      "text": "The key sectors where Chhattisgarh has a competitive advantage include cement, mining, steel, aluminum, and power. One of the most mineral-rich states in India, Chhattisgarh provides a lucrative opportunity for cement production at the most competitive prices.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 68: The key sectors where Chhattisgarh has a competitive advantage include cement, mining, steel, alumin..."
-    },
-    {
-      "id": "s1e10-069",
-      "type": "content",
-      "image": "images/series1/ep10/slide-069.webp",
-      "text": "Agriculture Chhattisgarh has been dubbed \"Dhaan ka Katora\" ( Bowl of Rice ) of Central India, with the main crop being Paddy. Apart from paddy, cereals like maize, Kodo-K utki , and other smal l millets, pulses like tur and K ulthi , and oilseeds like Groundnut, Soybean, Niger , and Sunflower are also grown.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 69: Agriculture Chhattisgarh has been dubbed 'Dhaan ka Katora' ( Bowl of Rice ) of Central India, with..."
-    },
-    {
-      "id": "s1e10-070",
-      "type": "content",
-      "image": "images/series1/ep10/slide-070.webp",
-      "text": "Agriculture and allied activities account for nearly 80 percent of the workforce in the State. Out of the geographical area of 13,790 thousand hectares, the gross cropped area is about 35 percent of the total geographical area.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 70: Agriculture and allied activities account for nearly 80 percent of the workforce in the State. Out o..."
-    },
-    {
-      "id": "s1e10-071",
-      "type": "content",
-      "image": "images/series1/ep10/slide-071.webp",
-      "text": "Kharif is the main cropping season. Rice is the predominant crop of the state.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 71: Kharif is the main cropping season. Rice is the predominant crop of the state...."
-    },
-    {
-      "id": "s1e10-072",
-      "type": "content",
-      "image": "images/series1/ep10/slide-072.webp",
-      "text": "Other important crops are maize, wheat, niger, groundnut, and pulses. The State has one of the biggest collections of rice germplasm.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 72: Other important crops are maize, wheat, niger, groundnut, and pulses. The State has one of the bigge..."
-    },
-    {
-      "id": "s1e10-073",
-      "type": "content",
-      "image": "images/series1/ep10/slide-073.webp",
-      "text": "Horticulture crops are grown in an area of about 540 thousand hectares. Irrigation and Power When the State came into being, the total irrigation capacity was 13.28 lakh hectares, which has now increased to 18.09 lakh hectares.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Thirteen years later, a changed man returns to a changed land. Series 2: THE MAHATMA — begins now.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 73: Horticulture crops are grown in an area of about 540 thousand hectares. Irrigation and Power When th..."
-    },
-    {
-      "id": "s1e10-074",
-      "type": "content",
-      "image": "images/series1/ep10/slide-074.webp",
-      "text": "Major completed projects are the Mahanadi Reservoir project, Hasdeo Bango project, Tandula, Kodar, Jonk D/S, Kharung, Maniyari Tank, and Pairi (Sikasar) project, Jonk project, Kharang project, Maniyani project. The installed capacity of the state sector is 1924. 70 MW out of which 1786 MW is thermal and 138.7 MW is hydroelectric.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 74: Major completed projects are the Mahanadi Reservoir project, Hasdeo Bango project, Tandula, Kodar, J..."
-    },
-    {
-      "id": "s1e10-075",
-      "type": "content",
-      "image": "images/series1/ep10/slide-075.webp",
-      "text": "Power from 500 MW Korba west TPS and 1000 MW Madwa TPS shall be available. In Chhattisgarh, 97 percent of villages and 67.5 percent of Majra/Tola (hamlets) are electrified.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 75: Power from 500 MW Korba west TPS and 1000 MW Madwa TPS shall be available. In Chhattisgarh, 97 perce..."
-    },
-    {
-      "id": "s1e10-076",
-      "type": "content",
-      "image": "images/series1/ep10/slide-076.webp",
-      "text": "Mineral Resources Chhattisgarh has the perfect geological set up to host several economically crucial minerals. Large deposits of coal, iron ore, limestone, bauxite, and dolomite are found in various parts of the state.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 76: Mineral Resources Chhattisgarh has the perfect geological set up to host several economically crucia..."
-    },
-    {
-      "id": "s1e10-077",
-      "type": "content",
-      "image": "images/series1/ep10/slide-077.webp",
-      "text": "Districts of North Chhattisgarh such as Surguja, Raigarh, Koriya, and Bilaspur are known for huge coal deposits. The state has a 46 , 682 million to n nes reserve in coal.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 77: Districts of North Chhattisgarh such as Surguja, Raigarh, Koriya, and Bilaspur are known for huge co..."
-    },
-    {
-      "id": "s1e10-078",
-      "type": "content",
-      "image": "images/series1/ep10/slide-078.webp",
-      "text": "Chhattisgarh ranks first among states in the production of coal. The rich deposits of coal have attracted huge investment in the power sector and in the coming years, the state will emerge as a major power supplier to the national grid.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 78: Chhattisgarh ranks first among states in the production of coal. The rich deposits of coal have attr..."
-    },
-    {
-      "id": "s1e10-079",
-      "type": "content",
-      "image": "images/series1/ep10/slide-079.webp",
-      "text": "Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for efficiency and improvement of its working, services to its citizen, and business.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 79: Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for e..."
-    },
-    {
-      "id": "s1e10-080",
-      "type": "content",
-      "image": "images/series1/ep10/slide-080.webp",
-      "text": "Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for efficiency and improvement of its working, services to its citizen, and business.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 80: Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for e..."
-    },
-    {
-      "id": "s1e10-081",
-      "type": "content",
-      "image": "images/series1/ep10/slide-081.webp",
-      "text": "Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for efficiency and improvement of its working, services to its citizen, and business.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 81: Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for e..."
-    },
-    {
-      "id": "s1e10-082",
-      "type": "content",
-      "image": "images/series1/ep10/slide-082.webp",
-      "text": "Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for efficiency and improvement of its working, services to its citizen, and business.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 82: Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for e..."
-    },
-    {
-      "id": "s1e10-083",
-      "type": "content",
-      "image": "images/series1/ep10/slide-083.webp",
-      "text": "Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for efficiency and improvement of its working, services to its citizen, and business.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 83: Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for e..."
-    },
-    {
-      "id": "s1e10-084",
-      "type": "content",
-      "image": "images/series1/ep10/slide-084.webp",
-      "text": "Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for efficiency and improvement of its working, services to its citizen, and business.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 84: Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for e..."
-    },
-    {
-      "id": "s1e10-085",
-      "type": "content",
-      "image": "images/series1/ep10/slide-085.webp",
-      "text": "Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for efficiency and improvement of its working, services to its citizen, and business.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi departing Chhattisgarh December 22 1920, non-cooperation movement spreading, spark igniting revolution across region. Slide 85: Information Technology Chhattisgarh has a strong history of the adoption of modern technology, for e..."
+      "visualDescription": "Bridge card between Series 1 and 2. Split image: Gandhi in 1920 (Mohandas) on the left, Gandhi in 1933 (The Mahatma) on the right. Thirteen years between them. The same man. Different weight. Different title. Series 2: THE MAHATMA — begins."
     }
   ]
 }

@@ -2,1028 +2,341 @@
   "series": 1,
   "episode": 8,
   "title": "Mohandas Arrives",
-  "duration": "~40 min",
-  "slideCount": 85,
+  "duration": "~20 min",
+  "slideCount": 37,
   "slides": [
     {
       "id": "s1e08-001",
       "type": "title",
       "image": "images/series1/ep08/slide-001.webp",
-      "text": "r a while in Simga and Nandghat. Returned to Raipur by train on the night of 25 November. He visited Saragaon, Kharora, Palari, Kanaki, Balodabazar, and Sim ga on the 26th.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Seeing Gandhi going in the third class, the public got emotional after realising his simplicity and people became convinced that only Gandhi can lead the poor and downtrodden Indian people properly.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 1: r a while in Simga and Nandghat. Returned to Raipur by train on the night of 25 November. He visited..."
+      "visualDescription": "Title card: Raipur railway platform, December 20, 1920. Gandhi in dhoti and bandage kurta standing at the door of the third-class compartment, hands folded in namaste, the train still moving slowly. A sea of faces below. Ink-wash, sepia and gold."
     },
     {
       "id": "s1e08-002",
       "type": "content",
       "image": "images/series1/ep08/slide-002.webp",
-      "text": "On 27 November, they went to Dumtarai, Mana, Abhanpur, Bhothidih, Maraud, and Kurud to Dhamtari. On November 28, at eight in the morning, he left for Balaghat by train. Gandhian Movement and Women's o f Chhattisgarh Freedom was not something achieved in a day, Gandhi understood that rebellion only leads to bloodshed and they are suppressed in any case, not as an instant success for the Indian independence movement.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "December 20, 1920. Raipur railway station. Every leader of the district is on the platform. Every volunteer has a position. Every garland is ready. The postal train from Calcutta is expected. The crowd has been here since before dawn.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 2: On 27 November, they went to Dumtarai, Mana, Abhanpur, Bhothidih, Maraud, and Kurud to Dhamtari. On..."
+      "visualDescription": "Raipur station in the early morning of December 20, 1920. Platform packed. Volunteers in position. Garlands of marigold waiting. Leaders at the front — Shukla, Pyarelal Singh, Sakharam Dubey. The crowd pressing forward. A city holding its breath."
     },
     {
       "id": "s1e08-003",
       "type": "content",
       "image": "images/series1/ep08/slide-003.webp",
-      "text": "See, by making the non-cooperation movement and Charkha a symbol, he first broke the law and then economically the British in four decades, made the British law ineffective by public opinion as well as broke the whole system financially. If you want to give credit to the sacrifices of men to make the law meaningless, then maybe you can because for that they suffered torture and also spent years in jail. But the women did what the British could not even imagine!",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "The train arrives. First class doors open: Dadasaheb Khaparde, Dr. Munje, and other prominent leaders descend. The crowd scans their faces. Gandhi is not among them. Second class — no Gandhi. A wave of confusion passes through the platform.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 3: See, by making the non-cooperation movement and Charkha a symbol, he first broke the law and then ec..."
+      "visualDescription": "The train pulling in. First-class doors opening — Khaparde, Munje descending. The crowd searching. No Gandhi. Second class — same. The confusion of a crowd that prepared for one moment and is suddenly unsure. Where is he? Where is Gandhi?"
     },
     {
       "id": "s1e08-004",
       "type": "content",
       "image": "images/series1/ep08/slide-004.webp",
-      "text": "The women adopted Bapu ' s \" Charkha \" , and brought the biggest economy of the British, the textile mill, on the verge of closure. Textile mills used to be the largest and only organized industry at that time.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "Then: someone says it — he is in the third-class compartment. The crowd turns and surges toward the far end of the train. What they see stops them. Gandhi in a Lungi and Bandage Kurta, standing at the door with folded hands. The train still moving.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 4: The women adopted Bapu ' s ' Charkha ' , and brought the biggest economy of the British, the textil..."
+      "visualDescription": "The moment of recognition — the crowd turning, surging to the third-class end of the train. Then stopping. Gandhi at the door: simple cloth, folded hands, gentle eyes. The train still rolling. The crowd stilled by what it sees. Simplicity as revelation."
     },
     {
       "id": "s1e08-005",
       "type": "content",
       "image": "images/series1/ep08/slide-005.webp",
-      "text": "Gandhi boycotted British goods from the Swadeshi movement, the biggest part of it was cloth, how could men boycott it even if they wanted to. Charkha \" , and over three decades wreaked havoc on the British economy across the country. Mahatma Gandhi with Abha and Manu ( Representative Image ) In Chhattisgarh, Dr.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "As eyewitness Prabhu Lal Kabra recorded: 'Gandhi, wearing a Lungi and Bandage Kurta, was standing at the door of the third-class compartment with folded hands, till then the train started moving.' The train was in motion as Gandhi greeted Chhattisgarh.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 5: Gandhi boycotted British goods from the Swadeshi movement, the biggest part of it was cloth, how cou..."
+      "visualDescription": "Prabhu Lal Kabra as a young man in the crowd — witnessing, recording in his memory what he will write about for the rest of his life. His eyewitness account as text beside the scene. The historian in the crowd. The moment preserved through one man's memory."
     },
     {
       "id": "s1e08-006",
       "type": "content",
       "image": "images/series1/ep08/slide-006.webp",
-      "text": "Radhabai worked to take this Swadeshi movement from door to door, although Pandit Sundarlal Sharma led the Swadeshi movement in Chhattisgarh, Babu Chhotelal Srivastava ' s house in Kosta Para was a haven for women, for the Khadi production by Charkha. In the freedom movement of Chhattisgarh, many women a long with Dr. Radha Bai, Rohini Bai Parganiha, Phoolkunwar Bai, Bela Bai, Kekti Bai Baghel, Rukmini Bai, Daya Bai, Manotara Bai , Bhagwati Bai have been instrumental in the freedom struggle .",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Seeing Gandhi going in third class, the public got emotional. This man — this leader of the nation — chose to sit where the poorest sat. Not as a gesture, but as a way of life. In that choice, Chhattisgarh understood everything about him.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 6: Radhabai worked to take this Swadeshi movement from door to door, although Pandit Sundarlal Sharma l..."
+      "visualDescription": "The third-class compartment interior — wooden benches, crowded, no cushions. Then Gandhi visible within it as if he belongs. The contrast: first-class compartment in the same frame, plush and empty. Gandhi's choice as a statement louder than any speech."
     },
     {
       "id": "s1e08-007",
       "type": "content",
       "image": "images/series1/ep08/slide-007.webp",
-      "text": "Mahatma Gandhi 's freedom movement took a new turn and the movements under his leadership made the dreams of Indian social reformers come true. Efforts for women ' s uplift that began in the nineteenth century rose one notch. Mahatma Gandhi considered women superior to m en for non - violent movement s .",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 7: Mahatma Gandhi 's freedom movement took a new turn and the movements under his leadership made the d..."
+      "text": "Gandhi was lodged at Barrister Thakkar's bungalow in Raipur. The Ali brothers — Shaukat Ali and Muhammad Ali — stayed with him. The leaders of Chhattisgarh's freedom movement gathered in the bungalow courtyard. The first day had begun.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Barrister Thakkar's bungalow — a fine colonial structure. Gandhi welcomed at the entrance. The Ali brothers arriving. Ravi Shankar Shukla, Pt. Sharma, Srivastava, Pyarelal Singh gathered in the courtyard. A room full of history, waiting for the moment."
     },
     {
       "id": "s1e08-008",
       "type": "content",
       "image": "images/series1/ep08/slide-008.webp",
-      "text": "He called upon women to come forward to fulfill their responsibility for the country. She believed that freedom fight ers cannot be conducted successfully till women do not participate actively in public life nor can Swaraj be attained. Mahatma Gandhi called women physically or mentally weak strongly opposed going and joined them in the mainstream of the national movement by connecting them with active creative programs, movements , and organizational work at every level in such a way that it was not possible to complete any movement without them.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 8: He called upon women to come forward to fulfill their responsibility for the country. She believed t..."
+      "text": "That evening: the massive public meeting at the ground near Kankalipara — what would become Gandhi Chowk. About fifteen thousand people gathered. The whole district had come to one place, to hear one man speak for the first time.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Kankalipara ground filling with people as evening comes. Fifteen thousand faces lit by torches and lamps. The stage prepared. The Ali brothers taking their places. Gandhi approaching the podium. The ground shaking slightly with the weight of the gathering."
     },
     {
       "id": "s1e08-009",
       "type": "content",
       "image": "images/series1/ep08/slide-009.webp",
-      "text": "Mahatma Gandhi ' s mass appeal was nationwide. The then Chhattisgarh was a part of Madhya Pradesh. Activities of the movement were also conducted here and the first Satyagraha movement Kandel Canal Satyagraha started in July 1920 in the village called Kandel of Dhamtari Tehsil under the leadership of Pandit Sundarlal, Narayana Medhawale , and Babu Chhotelal .",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 9: Mahatma Gandhi ' s mass appeal was nationwide. The then Chhattisgarh was a part of Madhya Pradesh. A..."
+      "text": "Shaukat Ali spoke first, introducing himself with humour: 'I am like an elephant and Gandhi is like a goat.' The crowd laughed. Then his deeper point: 'Even if I die, it will not be of any use, but Gandhi is still useful for everyone.'",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Shaukat Ali towering at the podium — his size and presence filling the stage. Gandhi seated beside him, small and still. The crowd laughing at the elephant-goat comparison, then growing thoughtful as the deeper meaning arrives. Wit becoming wisdom."
     },
     {
       "id": "s1e08-010",
       "type": "content",
       "image": "images/series1/ep08/slide-010.webp",
-      "text": "When the information about this S atyagraha was sent to Mahatma Gandhi, he was visiting Bengal. Pandit Sundarlal Sharma from Chhattisgarh went to fetch him. Mahatma Gandhi ' s first arrival in Raipur was on 20 December 1920.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 10: When the information about this S atyagraha was sent to Mahatma Gandhi, he was visiting Bengal. Pand..."
+      "text": "Then Gandhi stood and spoke. He outlined the Non-Cooperation Movement. He spoke of Swaraj — self-rule — not as a distant dream but as an immediate practical commitment. He spread his bag for the Tilak Swaraj Fund.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Gandhi at the Kankalipara podium — his voice measured, his presence immense despite his small frame. The Tilak Fund bag spread open before him. The crowd pressing forward with money, jewelry, silver. A practical collection in service of an immense idea."
     },
     {
       "id": "s1e08-011",
       "type": "content",
       "image": "images/series1/ep08/slide-011.webp",
-      "text": "He addressed a huge general meeting at Raipur, the place known as Gandhi Chowk now. He then departed for Dhamtari, and returned via Dhamtari and Kurud and stayed again in Raipur. Here Mahatma Gandhi addressed a large gathering of women and asked for his support for the Tilak Swaraj Fund.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 11: He addressed a huge general meeting at Raipur, the place known as Gandhi Chowk now. He then departed..."
+      "text": "At the women's gathering in Machilabad, Tatyapara — a large number of Muslim women attended openly. They donated to the Tilak Fund publicly. Hindu and Muslim women, standing on the same ground, giving from the same impulse. Unity made material.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The women's gathering in Machilabad — Muslim women in purdah and Hindu women in saris standing together. Gold bangles and silver rings being placed in the Tilak Fund bag. Hands of different communities reaching toward the same purpose. Unity visible."
     },
     {
       "id": "s1e08-012",
       "type": "content",
       "image": "images/series1/ep08/slide-012.webp",
-      "text": "The women presented him jewels worth two thousand rupees. Undoubtedly, the influence of Mahatma Gandhi was also awakening political consciousness among women of Chhattisgarh. In 1920, a gathering of women was also addressed by Mahatma Gandhi at Jani Hussain ka Baada in Dhamtari and appealed to donate for Tilak and Swaraj Fund .",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 12: The women presented him jewels worth two thousand rupees. Undoubtedly, the influence of Mahatma Gand..."
+      "text": "Gandhi visited the Jaitasava monastery that evening. The meeting of activist and monastery — the political and the spiritual sharing the same December night in Raipur. Gandhi moved through both worlds with equal ease and equal reverence.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Gandhi at the Jaitasava monastery — an ancient, lamp-lit space. He removes his sandals at the entrance. The monks receiving him with folded hands. The meeting of two kinds of dedication: political and spiritual, both in service of the same truth."
     },
     {
       "id": "s1e08-013",
       "type": "content",
       "image": "images/series1/ep08/slide-013.webp",
-      "text": "These women freely donated to the fund. W omen were also going from house to house promoting Khadi and Swadeshi and spinning Charkha at home. Babu Chhote Lal ' s house became the center of the activities of these women.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "The Raipur District Congress Committee was formed that same evening. Pt. Ravi Shankar Shukla was made its first secretary. A permanent structure of resistance — not dependent on any one person's visit, but capable of sustaining the movement long after Gandhi leaves.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 13: These women freely donated to the fund. W omen were also going from house to house promoting Khadi a..."
+      "visualDescription": "The founding of the Raipur DCC — Shukla signing by lamplight, Gandhi's hand on his shoulder. The document: the founding charter. An institution born from a single night's meeting. Chhattisgarh organising itself permanently. History being made quietly."
     },
     {
       "id": "s1e08-014",
       "type": "content",
       "image": "images/series1/ep08/slide-014.webp",
-      "text": "Old women of Dhamtari Nagar and adjoining village had learned cotton spinning as a child, now they were working as a teacher and due to the revival and re-emergence of this business very w ere delighted. Middle - class women, after completing their homework, were giving a full share in this program of non-cooperation movement for the remaining time. Cotton spinning became popular from house to house.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "The next morning — December 21 — Abbas Bhai's motor waited at Azad Chowk. Destination: Dhamtari. On receiving information about Gandhi's arrival, irrigation officials had already withdrawn the anti-farmer order. The Satyagraha had won. Gandhi was still going.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 14: Old women of Dhamtari Nagar and adjoining village had learned cotton spinning as a child, now they w..."
+      "visualDescription": "Abbas Bhai's motor at Azad Chowk at dawn, December 21. Gandhi and the Ali brothers boarding. The news of the canal order's withdrawal already spreading among the crowd. The Satyagraha won — but the visit continues. Going to honour what was earned."
     },
     {
       "id": "s1e08-015",
       "type": "content",
       "image": "images/series1/ep08/slide-015.webp",
-      "text": "The second event in which women participated in a big way was Harijanodhar. This program was conducted by Radhabai in Raipur C ity. Radhabai was a midwife but she became successful as a social worker in the 1920-30s, she gained so much popularity that people started calling her Dr.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "The road to Dhamtari: people lining both sides from Raipur all the way to the destination. Villages emptied as people came to the road. Children in trees. Women on rooftops. Farmers leaving their fields. A nation refusing to miss this moment.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 15: The second event in which women participated in a big way was Harijanodhar. This program was conduct..."
+      "visualDescription": "The Raipur-Dhamtari road as a human corridor — people ten deep on both sides. The motor moving through them slowly. Flowers thrown. Abbas Bhai navigating carefully. Gandhi's hand raised continuously. Every person trying to catch Gandhi's eye for a single moment."
     },
     {
       "id": "s1e08-016",
       "type": "content",
       "image": "images/series1/ep08/slide-016.webp",
-      "text": "Radhabai with love and respect. Harijan was Ketaki Bai, the mother of Dr. Khubchand Baghel, who supported him in this work of salvation.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 16: Radhabai with love and respect. Harijan was Ketaki Bai, the mother of Dr. Khubchand Baghel, who supp..."
+      "text": "Makai Chowk, Dhamtari. Within Seth Hussain's enclosure — a crowd beyond count. The motor cannot approach the stage. At that moment, Omar Seth — a businessman from Gurur — stepped forward and lifted Gandhi onto his shoulders.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Makai Chowk — packed wall to wall. Omar Seth of Gurur — powerful, decisive — lifting Gandhi onto his shoulders and carrying him through the crowd to the stage. Gandhi above the sea of heads, hand raised. The crowd parting slightly, then closing again behind them."
     },
     {
       "id": "s1e08-017",
       "type": "content",
       "image": "images/series1/ep08/slide-017.webp",
-      "text": "Women often went to every locality and called a meeting of the women there and did the work of public awakening. Swadeshi and boycott were given prominence under the Non-cooperation movement and Raipur Khadi Week was observed from 8 October to 15 October. The huge Khadi exhibition at Ravana Bhatha Raipur was organized on 13 October by an organization of 200 women volunteers under the leadership of Smt.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 17: Women often went to every locality and called a meeting of the women there and did the work of publi..."
+      "text": "Gandhi spoke for an hour at Dhamtari. He praised Chhotelal Babu, Narayan Rao Meghawale, and Pt. Sundarlal Sharma by name. He made the heroes of the Kandel Satyagraha known to 15,000 people who had gathered to see him.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Gandhi speaking at the Dhamtari podium. His voice carrying across the enormous crowd. He points to Chhotelal Srivastava in the crowd — naming him. Naming Meghawale. Naming Sharma. The act of naming as the highest honour. Heroes made visible."
     },
     {
       "id": "s1e08-018",
       "type": "content",
       "image": "images/series1/ep08/slide-018.webp",
-      "text": "This was probably the first time that such a large number of women living in the walls of the house came out after abandoning the curtains to participate in such a national movement. There was also a spinning competition at the exhibition site. In this too, the women participated enthusiastically.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 18: This was probably the first time that such a large number of women living in the walls of the house..."
+      "text": "Bajirao Kridatta presented Rs 501 to Gandhi. More than 500 activists committed to attend the Nagpur session. The movement was not just heard — it was joined. Dhamtari chose, publicly and formally, to be part of what India was becoming.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Kridatta presenting the bag of Rs 501. Gandhi accepting with both hands. Five hundred raised hands for Nagpur. The joining formal and public. Dhamtari — the city of the Kandel Satyagraha — now formally in the national movement. Commitment visible."
     },
     {
       "id": "s1e08-019",
       "type": "content",
       "image": "images/series1/ep08/slide-019.webp",
-      "text": "The women participating in the exhibition were both Hindus and Muslims. While urban women of Chhattisgarh were involved in making the non-cooperation movement successful by participating in demonstrations and picketing, Khadi , and charkha programs, rural and tribal women were partici pating equally with men in the J ungle Satyagrah and peasant movements. Thus in the Non-Cooperation Movement, the women of Chhattisgarh made every possible contribution to make the movement successful and were ready to sacrifice themselves.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 19: The women participating in the exhibition were both Hindus and Muslims. While urban women of Chhatti..."
+      "text": "The return journey from Dhamtari to Raipur. The same roads, the same crowds. Abbas Bhai at the wheel. Gandhi quiet in the back seat, perhaps aware that he has been present at the birth of something he cannot fully measure yet.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The return journey in the evening light. Abbas Bhai driving. Gandhi in the back seat looking out at the passing landscape — the fields, the villages, the people still lining the road to see him pass. Quiet. Contemplative. The land receiving him."
     },
     {
       "id": "s1e08-020",
       "type": "content",
       "image": "images/series1/ep08/slide-020.webp",
-      "text": "Women in the Civil Disobedience Movement The result of increasing awareness among women was that they also participated in large numbers in the Civil Disobedience Movement of 1930. In almost all the provinces, they broke the law, from the processions and let them sit in front of the shops of foreign goods. Gandhi planned that if the women do not participate in the Dandi Yatra, strike, picket , and exhibit at the local level, then their power could only be properly utilized.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 20: Women in the Civil Disobedience Movement The result of increasing awareness among women was that the..."
+      "text": "Evening in Raipur. The massive Kankalipara meeting. A drama had played on this stage the night before — Bhishma Pitamah. Now it holds Gandhi. After the meeting, people took bricks from the stage as mementos until the stage itself was gone.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The Kankalipara stage being dismantled by devotion — brick by brick, people taking pieces of the wood and earth that Gandhi stood on. The stage disappearing into a thousand hands. Sacred objects made from ordinary materials by the touch of one man."
     },
     {
       "id": "s1e08-021",
       "type": "content",
       "image": "images/series1/ep08/slide-021.webp",
-      "text": "He believed that the British government would hesitate to attack women. In his words, like a Hindu cannot torture a cow, the British will not attack a woman as far as possible. As per Gandhi ' s instructions, women organized a sit-in in front of foreign clothing and liquor shops all over India.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 21: He believed that the British government would hesitate to attack women. In his words, like a Hindu c..."
+      "text": "That night, the Raipur District Congress Committee founding was formally completed. Ravi Shankar Shukla signed as first secretary. What had been informal resistance was now a formal organisation — accountable, structured, permanent.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Late night in Raipur — the DCC founding documents signed. Shukla, Sharma, Pyarelal Singh, Srivastava around a table by lamplight. Gandhi present but not presiding — this is theirs, not his. The organisation that will carry his work when he is gone."
     },
     {
       "id": "s1e08-022",
       "type": "content",
       "image": "images/series1/ep08/slide-022.webp",
-      "text": "The women ' s picket program was very effective. She used to sit in groups of two or three in front of foreign goods and liquor shops from morning to evening. He prohibited many traders from selling foreign goods.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 22: The women ' s picket program was very effective. She used to sit in groups of two or three in front..."
+      "text": "December 22, 1920. The third and final day of Gandhi's first visit to Chhattisgarh. The morning of departure. Gandhi at Raipur station, bag in hand, the familiar simplicity of the man who arrived in third class preparing to leave the same way.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Raipur station, morning of December 22. Gandhi at the platform with his small bag. No ceremony beyond what the crowd provides. The leaders seeing him off. Some faces showing what they cannot say: will he come back? When will we see him again?"
     },
     {
       "id": "s1e08-023",
       "type": "content",
       "image": "images/series1/ep08/slide-023.webp",
-      "text": "If a customer used to come to these shops, they would urge him not to buy foreign goods. If the customer did not listen to their request and tried to go to the shops, then she would lie down in front. They thus attempted to make the exclusion of foreign objects from theatrical style a success.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 23: If a customer used to come to these shops, they would urge him not to buy foreign goods. If the cust..."
+      "text": "Gandhi boards the Nagpur-bound train. He boards third class. The crowd watches until the train is out of sight. Three days — a Satyagraha honoured, a committee founded, 15,000 mobilised twice, the Tilak Fund enriched, and a province changed.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Gandhi boarding the third-class compartment for Nagpur — the same simplicity as his arrival. The crowd on the platform. The train pulling away. The crowd watching until nothing is visible. The departure that will echo for thirty more years."
     },
     {
       "id": "s1e08-024",
       "type": "content",
       "image": "images/series1/ep08/slide-024.webp",
-      "text": "Gandhi ' s encouragement for women to picket was criticized by other Congressmen. In his view, this program creates maliciousness in women against women, as well as women , who had to sit in areas that were the base of alcoholics and anti-social elements. According to him - this would disturb the women of the elite houses.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 24: Gandhi ' s encouragement for women to picket was criticized by other Congressmen. In his view, this..."
+      "text": "What remained? The Raipur DCC. The 500 committed to Nagpur. The bricks from the Kankalipara stage in people's homes. The names of Srivastava, Meghawale, Sharma now known beyond their villages. The memory of a man in a third-class compartment.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The aftermath of Gandhi's first visit: a brick from the Kankalipara stage on a family's altar, the DCC headquarters sign being put up, Srivastava being greeted differently in his village now. The residue of greatness distributed across many lives."
     },
     {
       "id": "s1e08-025",
       "type": "content",
       "image": "images/series1/ep08/slide-025.webp",
-      "text": "Gandhi , while justifying his programs, wrote that the women ' s sit-ins and urges would reduce people ' s foreign goods and foreign liquor. To prevent men from going to those shops and the re There was no better way to end the habit of using foreign goods than this. During this civil disobedience movement, the women of Chhattisgarh showed great understanding.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 25: Gandhi , while justifying his programs, wrote that the women ' s sit-ins and urges would reduce peop..."
+      "text": "Lawyers who had attended the meetings began discussions about leaving their practices. Titleholders began reconsidering their British honours. Teachers began organising national schools. The Non-Cooperation Movement was no longer a resolution — it was a way of life beginning.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The movement spreading after Gandhi's departure — lawyers discussing in their offices, a titleholder removing his colonial medal, teachers organising. The ripple effect of three days spreading outward through weeks and months. Action following inspiration."
     },
     {
       "id": "s1e08-026",
       "type": "content",
       "image": "images/series1/ep08/slide-026.webp",
-      "text": "The official report also confirms that the women activists of Raipur played an important role in the dharna program of the movement. The women of Raipur C ity also participated in this movement with unprecedented enthusiasm. The women of the upper class and rich families as well as women of the middle class and working class also made an active contribution to the Civil Disobedience Movement.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 26: The official report also confirms that the women activists of Raipur played an important role in the..."
+      "text": "The Nagpur Congress session of December 26, 1920. The Non-Cooperation resolution passed. Five hundred from Dhamtari voted for it. Chhattisgarh was not a province receiving the national movement — it was a province shaping it with its own votes and voices.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The Nagpur Congress session — a massive gathering. 500 delegates from Dhamtari visible among thousands. The Non-Cooperation resolution being read and voted on. Chhattisgarh's hands among the thousands raised in assent. The province choosing its destiny."
     },
     {
       "id": "s1e08-027",
       "type": "content",
       "image": "images/series1/ep08/slide-027.webp",
-      "text": "Pandit Ravishankar Shukla ' s wife Bhavani Bai Shukla encouraged women to take an active part in politics. As a result of this encouragement, the women of Raipur supported the movement. Prabhat ferries were removed, the foreign cloth was discarded and liquor shops were staged.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 27: Pandit Ravishankar Shukla ' s wife Bhavani Bai Shukla encouraged women to take an active part in pol..."
+      "text": "Vamanrao Lakhe surrendered his Rai Sahab title on the very day it was announced at the Nagpur Congress. The people of Raipur immediately gave him the title of Popular. What the British had given in honor was surrendered; what the people gave was kept.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Vamanrao Lakhe surrendering his Rai Sahab medal — placing it on a table before a British officer. Walking out. Then: the people of Raipur garlanding him with the title Popular. Two titles: one from empire, surrendered; one from the people, accepted."
     },
     {
       "id": "s1e08-028",
       "type": "content",
       "image": "images/series1/ep08/slide-028.webp",
-      "text": "Many of the Arang women attended the programs. In 1930, to the contribution of Khadi propaganda and women during the movement in Raipur, the song of chanting written by Alhakar: \" Bah oo betiyaan hamaari kahiye, Ran chandi ki hi hain avataar, Khadi aaj desh me vipat padi hain, Tum sab ho taiyaar.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 28: Many of the Arang women attended the programs. In 1930, to the contribution of Khadi propaganda and..."
+      "text": "Thakur Pyarelal Singh and Ramdayal Tiwari left the practice of law. Barrister Thakkar — in whose bungalow Gandhi had stayed — boycotted the assembly elections he was standing for. The men closest to Gandhi's visit paid the highest personal prices.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Pyarelal Singh and Tiwari closing their law offices — hanging up their barrister's robes. Barrister Thakkar withdrawing his election papers. The cost of proximity to Gandhi's ideas made concrete in three men's professional lives. Sacrifice as commitment."
     },
     {
       "id": "s1e08-029",
       "type": "content",
       "image": "images/series1/ep08/slide-029.webp",
-      "text": "Kapada pahano tum khadi ka, Ghar charkha dekho chalay, Kat-kat soot dher jo laage, Meel vilaayat jaaye ne paaye. \" Four women workers ' centers were functioning in Raipur district where Satyagrahi women were trained. Also, Prabhat Pheri, dharna , and boycott s were set in the design of future programs of public awareness.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 29: Kapada pahano tum khadi ka, Ghar charkha dekho chalay, Kat-kat soot dher jo laage, Meel vilaayat jaa..."
+      "text": "National schools were established. Madhav Rao Sapre in Raipur, Chhotelal Srivastava in Dhamtari, Badrinath Saw in Bilaspur. Education as a weapon of the Non-Cooperation Movement — refusing British schools, building Indian ones.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Three national schools opening simultaneously — Sapre's in Raipur, Srivastava's in Dhamtari, Saw's in Bilaspur. Children pouring in through new gates. Teachers unafraid of British disapproval. Education as an act of non-cooperation. Learning as resistance."
     },
     {
       "id": "s1e08-030",
       "type": "content",
       "image": "images/series1/ep08/slide-030.webp",
-      "text": "It is noteworthy that all these tasks were done by women themselves. Mostly the leadership used to be the wives or mo thers of prominent leaders and S atyagrahis in the f ield, but Dr. Radhabai was a woman S atyagrahi who single-handedly created her own independent identity.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 30: It is noteworthy that all these tasks were done by women themselves. Mostly the leadership used to b..."
+      "text": "Mohammad Yunus, told to pay tax or go to jail, said to the judge: 'I am involved in Mahatma Gandhi's non-cooperation movement from now on.' He went directly from court to jail. His seventeen-village zamindari, hundreds of acres, cattle, and gold were all confiscated.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Mohammad Yunus before the British judge — calm, dignified, making his declaration. The judge's pen poised. Yunus turning from court to jail without hesitation. His zamindari — seventeen villages, hundreds of acres — disappearing into British confiscation behind him."
     },
     {
       "id": "s1e08-031",
       "type": "content",
       "image": "images/series1/ep08/slide-031.webp",
-      "text": "Raipur ' s famous social worker Dr. Radhabai began to feel that the people of Raipur can experience happiness and peace only when India will get rid of the clutches of the British administration. Radhabai, a batch of Satyagrahi sisters was prepared, in which well-known social worker Dr.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 31: Raipur ' s famous social worker Dr. Radhabai began to feel that the people of Raipur can experience..."
+      "text": "Abbas Bhai received the notice of his transport license cancellation. His Raipur Bus Service was shut down. He had driven Gandhi to Dhamtari. For this, he paid with his livelihood. He is among the most ordinary and most complete of all the heroes in this story.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Abbas Bhai reading the license cancellation notice outside his shuttered Raipur Bus Service office. His motor parked behind him, unable to operate. The quiet tragedy of the ordinary man who paid for a single act of solidarity with everything he had built."
     },
     {
       "id": "s1e08-032",
       "type": "content",
       "image": "images/series1/ep08/slide-032.webp",
-      "text": "The eldest mother of Khoobchand Baghel was Ketki Bai, Phulkunwar Bai, Rukhamani Bai, mother of Congress volunteer Manohar Lali, Parvati Bai (wife of Shankar Rao Ganaudwale), Mrs. Rohini Bai Parganiha and Jamuna Bai. Radhabai was arrested while picketing .",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 32: The eldest mother of Khoobchand Baghel was Ketki Bai, Phulkunwar Bai, Rukhamani Bai, mother of Congr..."
+      "text": "Prabhu Lal Kabra and Ratnakar Jha took out a huge procession to boycott foreign goods on August 1, 1921. The movement had moved from platform and podium to the streets. Gandhi's three days had become Chhattisgarh's permanent commitment.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "August 1, 1921. Kabra and Jha leading a procession through Raipur — a long line of people carrying khadi, burning foreign cloth, marching in discipline. The movement in the streets. Gandhi's platform moment become a daily practice across the province."
     },
     {
       "id": "s1e08-033",
       "type": "content",
       "image": "images/series1/ep08/slide-033.webp",
-      "text": "Ketki Bai was left out after seeing her as old, which made her very guilty. He did not take food and water until he was arrested. The monasteries and temples of Raipur were converted into training sites for Satyagrahis.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 33: Ketki Bai was left out after seeing her as old, which made her very guilty. He did not take food and..."
+      "text": "Three days. That is all Gandhi spent in Chhattisgarh on his first visit. Three days in December 1920. And from those three days: a DCC, a Satyagraha honoured, 500 delegates committed, schools founded, lawyers resigned, titles surrendered.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A visual inventory of everything Gandhi's three days produced: the DCC banner, the Kandel canal flowing free, the Nagpur delegates, the national schools, the surrendered titles, the burned foreign cloth. Three days made into years of consequence."
     },
     {
       "id": "s1e08-034",
       "type": "content",
       "image": "images/series1/ep08/slide-034.webp",
-      "text": "The Mahahat Laxmi Narayan Das and the Jatusava monastery located in the old settlement was the l argest training center for the S atyagrahis. The leadership of this center was in the hands of Anjani Bai (wife of Nandkumar Dani), Rajnibai, Phulkunwar Bai Shrivastava , and Janaki Bai. Parvati Bai, the old mother of Mahant Lakshmi Narayan Das, blessed the batch of Satyagrahi women and sent them in procession . .",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 34: The Mahahat Laxmi Narayan Das and the Jatusava monastery located in the old settlement was the l arg..."
+      "text": "He came as Mohandas. He left as something more in the hearts of Chhattisgarh. Not yet The Mahatma — that would come later — but already the proof that a man who travels third class, who listens before he speaks, can move a province.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Gandhi's departing train against the Chhattisgarh landscape — small on the horizon, growing smaller. But in the people left behind: something lit. The man diminishing in physical distance, growing in importance in every heart that watched him go."
     },
     {
       "id": "s1e08-035",
       "type": "content",
       "image": "images/series1/ep08/slide-035.webp",
-      "text": "Women who came here to listen to Ekadashi Mahatmya used to discuss the situation in the country. This was a major change in women. The second major center of Satyagraha was the enclosure of Vaman Rao Lakhe located at Budhapara.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 35: Women who came here to listen to Ekadashi Mahatmya used to discuss the situation in the country. Thi..."
+      "text": "The women of Chhattisgarh were part of this from the beginning — the gathering at Machilabad, the Muslim women donating openly, the bricks of the Kankalipara stage carried home by their hands. The movement was never just male. It was never just one community.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The women of the first visit: at Machilabad donating gold, at Kankalipara carrying bricks, at Dhamtari listening to Gandhi praise Srivastava. Women present at every moment of Gandhi's Chhattisgarh visit — seen, active, essential. Not peripheral. Central."
     },
     {
       "id": "s1e08-036",
       "type": "content",
       "image": "images/series1/ep08/slide-036.webp",
-      "text": "This center was led by Bhavani Bai, wife of Pt. The procession was led by Smt. Indira Bai Lakhe, Uma Bai and Kashi Bai.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 36: This center was led by Bhavani Bai, wife of Pt. The procession was led by Smt. Indira Bai Lakhe, Uma..."
+      "text": "Gandhi would not return to Chhattisgarh for thirteen years. But the movement he touched would not pause. The decade between 1920 and 1933 — filled with Jungle Satyagrahas, civil disobedience, Salt March echoes — would build Chhattisgarh into something stronger.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The calendar advancing from December 1920 — each year marked with an event in Chhattisgarh: 1922 Jungle Satyagraha, 1923 Jhanda Satyagraha, 1930 Salt March, 1932 Civil Disobedience. Thirteen years of movement building toward the Mahatma's return."
     },
     {
       "id": "s1e08-037",
       "type": "content",
       "image": "images/series1/ep08/slide-037.webp",
-      "text": "The temple of Lakshminarayana in Kamasipara was the third place of Satyagraha and its chief was Rukhmani Bai Tiwari. Leading the movement by Smt. Annapurna Devi Shukla, Sushila Bai Gujratin, Gomti Bai Marwadin, Ambika Pateria, Yashoda Bai Gangel.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 37: The temple of Lakshminarayana in Kamasipara was the third place of Satyagraha and its chief was Rukh..."
-    },
-    {
-      "id": "s1e08-038",
-      "type": "content",
-      "image": "images/series1/ep08/slide-038.webp",
-      "text": "The fourth place was at Tatyapara Dr. Radhabai, Parvati Bai Ganoudwale, Rohini Bai, Krishnabai, Sitabai, Rajkunwar Bai Baghel (wife of Dr. Khubchand Baghel), Ketaki Bai Baghel, Gangabai, Yashoda Bai Parganiha.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 38: The fourth place was at Tatyapara Dr. Radhabai, Parvati Bai Ganoudwale, Rohini Bai, Krishnabai, Sita..."
-    },
-    {
-      "id": "s1e08-039",
-      "type": "content",
-      "image": "images/series1/ep08/slide-039.webp",
-      "text": "Khubchand Baughel ' s mother during picketing. And the wife and Prakashwati Mishra used to inspire all women to picket. These women went door-to-door selling Khadi clothes and taught people how to drive Charkha .",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 39: Khubchand Baughel ' s mother during picketing. And the wife and Prakashwati Mishra used to inspire a..."
-    },
-    {
-      "id": "s1e08-040",
-      "type": "content",
-      "image": "images/series1/ep08/slide-040.webp",
-      "text": "At the same time, they were requested not to wear foreign clothes and jewelry. It is noteworthy that the curtain system used to come in the way of this national work, so the curtain system was also attacked. The rural women of Chhattisgarh did not have the practice of wearing blouses at that time.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 40: At the same time, they were requested not to wear foreign clothes and jewelry. It is noteworthy that..."
-    },
-    {
-      "id": "s1e08-041",
-      "type": "content",
-      "image": "images/series1/ep08/slide-041.webp",
-      "text": "Sundar Lal ' s wife was the first to wear a blouse with a sari. Moti Lal Kothari ' s enclosure was a women ' s gathering place. The Jagannath temple of Sadar Bazar had become a major site of political Satyagrah.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 41: Sundar Lal ' s wife was the first to wear a blouse with a sari. Moti Lal Kothari ' s enclosure was a..."
-    },
-    {
-      "id": "s1e08-042",
-      "type": "content",
-      "image": "images/series1/ep08/slide-042.webp",
-      "text": "Efforts were made by the government to stop this growing enthusiasm of women and women Satyagrahis. Some new means were to be adopted because the use of force by the government and direct repression would have given women sympathy. He decided that some elite family members should explain the satyagrahi women.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 42: Efforts were made by the government to stop this growing enthusiasm of women and women Satyagrahis...."
-    },
-    {
-      "id": "s1e08-043",
-      "type": "content",
-      "image": "images/series1/ep08/slide-043.webp",
-      "text": "They also thought of using women. The government was also worried about the arrested women satyagrahis. She was under the care of female warders.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 43: They also thought of using women. The government was also worried about the arrested women satyagrah..."
-    },
-    {
-      "id": "s1e08-044",
-      "type": "content",
-      "image": "images/series1/ep08/slide-044.webp",
-      "text": "Still , the government feared that there should be no dispute or complaint of any kind. It was psychological pressure on the administration. But later, the administration adopted a strict policy.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 44: Still , the government feared that there should be no dispute or complaint of any kind. It was psych..."
-    },
-    {
-      "id": "s1e08-045",
-      "type": "content",
-      "image": "images/series1/ep08/slide-045.webp",
-      "text": "A total of 23 women from the Raipur district participated in the Civil Disobedience Movement of 1932, out of which 11 women Satyagrahis were sentenced to jail. Ketki Bai, Rukhmanibai , and Rambati participated in two picketing s . On March 23, 1932, the police dragged Smt.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 45: A total of 23 women from the Raipur district participated in the Civil Disobedience Movement of 1932..."
-    },
-    {
-      "id": "s1e08-046",
-      "type": "content",
-      "image": "images/series1/ep08/slide-046.webp",
-      "text": "Futeniyabai, Mantorobai, Matolin, Mutkibai and Kejabai to the Kotwali, staging a sit-in in front of Kika Bhai ' s shop. A similar incident occurred in front of Kika Bhai ' s shop in April. Rambatibai, Kanuvarbai, Amritbai were arrested and brought to Kotwali, dragging Rambatibai and pushing other women.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 46: Futeniyabai, Mantorobai, Matolin, Mutkibai and Kejabai to the Kotwali, staging a sit-in in front of..."
-    },
-    {
-      "id": "s1e08-047",
-      "type": "content",
-      "image": "images/series1/ep08/slide-047.webp",
-      "text": "He was treated abusively in Kotwali. He was pressured to apologize and was kept till night. They were released at night.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 47: He was treated abusively in Kotwali. He was pressured to apologize and was kept till night. They wer..."
-    },
-    {
-      "id": "s1e08-048",
-      "type": "content",
-      "image": "images/series1/ep08/slide-048.webp",
-      "text": "They stopped at Dharamshala near the station where they were abused by the police. He complained about this From Radhabai. On April 13, a general meeting was organized under the chairmanship of Dr.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 48: They stopped at Dharamshala near the station where they were abused by the police. He complained abo..."
-    },
-    {
-      "id": "s1e08-049",
-      "type": "content",
-      "image": "images/series1/ep08/slide-049.webp",
-      "text": "Radhabai in which informed the public about the mistreatment of women satyagrahis. Police behavior was sharply condemned in this meeting. 22 women Satyagrahis were arrested while picketing in front of Kika Bhai ' s shop. The first female freedom fighter of Raipur C ity, Dr.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 49: Radhabai in which informed the public about the mistreatment of women satyagrahis. Police behavior w..."
-    },
-    {
-      "id": "s1e08-050",
-      "type": "content",
-      "image": "images/series1/ep08/slide-050.webp",
-      "text": "Radhabai continued to participate in Satyagraha from 1930 to 1942. Many women from Chhattisgarh participated in the Satyagraha due to his inspiration. Similarly, during the Jungle Satyagraha at Jungle Satyagraha in Tamora village of Raipur district, on 13 September 1930, a young woman named Dayawati Bai led the batch of Satyagrahis.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 50: Radhabai continued to participate in Satyagraha from 1930 to 1942. Many women from Chhattisgarh part..."
-    },
-    {
-      "id": "s1e08-051",
-      "type": "content",
-      "image": "images/series1/ep08/slide-051.webp",
-      "text": "This was an important contribution of the women of Chhattisgarh to the national movement. Mahatma Gandhi ' s influence was that on the one hand, women of the family of Congress leaders of Chhattisgarh like Bhavani Bai Shukla, wife of Pt. Khatki Bai Baghel, the mother of Khoobchand Baghel, etc., was , on the other hand, Radhabai, who came from the very general category, was giving leadership and Mantora Bai, Muraki Bai, etc. were arrested.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 51: This was an important contribution of the women of Chhattisgarh to the national movement. Mahatma Ga..."
-    },
-    {
-      "id": "s1e08-052",
-      "type": "content",
-      "image": "images/series1/ep08/slide-052.webp",
-      "text": "All these women were Satyagrahis. Who used to picketing, picketing, and performing. Apart from this, freehand donations were also made to the women of Chhattisgarh on Mahatma Gandhi ' s arrival in Chhattisgarh.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 52: All these women were Satyagrahis. Who used to picketing, picketing, and performing. Apart from this,..."
-    },
-    {
-      "id": "s1e08-053",
-      "type": "content",
-      "image": "images/series1/ep08/slide-053.webp",
-      "text": "Women have played their most important role in the national movement, in their service to the nation with their mind, in their call with Mahatma Gandhi. The mother and sister of Chhattisgarh did not lag behind any region in contributing to the freedom struggle. Temples and monasteries used to be their meeting place where they used to have meetings, so no one was suspicious.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 53: Women have played their most important role in the national movement, in their service to the nation..."
-    },
-    {
-      "id": "s1e08-054",
-      "type": "content",
-      "image": "images/series1/ep08/slide-054.webp",
-      "text": "It was a social revolution, instead of Ekadashi fasting out of the house, women fasted for the country and realized their national responsibility towards political discussions , and played their active role. Chhattisgarh at the Grassroots Chhattisgarh at the grassroots Xuanzang in C hhattisgarh Chhattisgarh Word Mythological significance The thirty - six Garh (Citadel) of Chhattisgarh History writing of separate Chhattisgarh state Dr. Khubchand Baghel Movement Chhattisgarh in historical chronology Chhattisgarh Mukti Morcha The official use of the word Chhattisgarh for the first time was by British Officer J.T.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 54: It was a social revolution, instead of Ekadashi fasting out of the house, women fasted for the count..."
-    },
-    {
-      "id": "s1e08-055",
-      "type": "content",
-      "image": "images/series1/ep08/slide-055.webp",
-      "text": "Blunt mentioned his travelogue of 1795 in the Bilaspur Gazetteer. The ancient name of Chhattisgarh was \" Dakshin Kaushal \" , which later became \"",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 55: Blunt mentioned his travelogue of 1795 in the Bilaspur Gazetteer. The ancient name of Chhattisgarh w..."
-    },
-    {
-      "id": "s1e08-056",
-      "type": "content",
-      "image": "images/series1/ep08/slide-056.webp",
-      "text": "Chhattisgarh \" due to its inclusion in the thirty-six (36) strongholds (Citadel). Mahabharata \" are the major local dynasties ruling here, with a branch of Dakatakas, Nal Rajarshi Tulya, Sharabhpuri, Pand, Baan, Nagavanshi, Chhindak Nagavansh (Bastar), and Somvansh. Nalavansh had a long struggle with his contemporary Vakataka.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 56: Chhattisgarh ' due to its inclusion in the thirty-six (36) strongholds (Citadel). Mahabharata ' ar..."
-    },
-    {
-      "id": "s1e08-057",
-      "type": "content",
-      "image": "images/series1/ep08/slide-057.webp",
-      "text": "It was ruled by the Meghwansh (second century) Banavansha, Rajarshi Tulya clan, Parvadvarak dynasty, Nal dynasty, Sharabhpuri dynasty, Pandu dynasty, Somvansh - Sirpur, Kakshti, Vakataka , and Pandu dynasty - Maikal dynasties. The citadel was an important unit in Kalachuri rule, Ch hattisgarh was divided into thirty - six. Xuanzang, the prominent Chinese traveler, had also visited Chhattisgarh when he came to India in the year 639.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 57: It was ruled by the Meghwansh (second century) Banavansha, Rajarshi Tulya clan, Parvadvarak dynasty,..."
-    },
-    {
-      "id": "s1e08-058",
-      "type": "content",
-      "image": "images/series1/ep08/slide-058.webp",
-      "text": "It is written in his travel account that the capital of Dakshin-Kausal was Sirpur. Hiuensang stayed in Sirpur for a few days. The thirty - six Garh (Citadel) of Chhattisgarh The Garh (Citadel) was an important unit in Kalachuri rule.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 58: It is written in his travel account that the capital of Dakshin-Kausal was Sirpur. Hiuensang stayed..."
-    },
-    {
-      "id": "s1e08-059",
-      "type": "content",
-      "image": "images/series1/ep08/slide-059.webp",
-      "text": "Chhattisgarh was divided into 36. Kalachuris had two branches in Chhattisgarh. It has two partitions between the Shivnath River (Ratanpur branch in the north and the Raipur branch in the south.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 59: Chhattisgarh was divided into 36. Kalachuris had two branches in Chhattisgarh. It has two partitions..."
-    },
-    {
-      "id": "s1e08-060",
-      "type": "content",
-      "image": "images/series1/ep08/slide-060.webp",
-      "text": "S.No. 18 Garh of Ratanpur 18 Garh of Raipur Ratanpur Raipur Uparoda Paatan Maaro Simga Vijayapur Singaarapur Kharaud Lawan Kotagadh Amir Navaagadh Durg Sodhi Saaradha Okhar Sirasa Padarabhattha Mohadee Semariya Khallaaree Madanapur Sirapur Kosagi Phingeshvar Karakatti Suvaramaal Laapha Raajim Kenda Singaaragadh Maatin Gadh Tenganaagad Penda Akalavaada Dakshin Kosal In the Ramayana period, the Chhattisgarh enclave was called Kosala or Praku-Kosal in (Dakshin Kosal) South Kosala and Mahabharata period. In the 15th century, the Charan poet Dalpatram Rao of Raja Lakshminidhi of Khairagarh Riyasat used the word Chhattisgarh in literature, while the court poet Gopal of Kalchuri Naresh Raj Singh of Ratanpur used the word Chhattisgarh in his famous composition Khatamasha in the 17th century. Kalachuris had two branches in Chhattisgarh.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 60: S.No. 18 Garh of Ratanpur 18 Garh of Raipur Ratanpur Raipur Uparoda Paatan Maaro Simga Vijayapur Sin..."
-    },
-    {
-      "id": "s1e08-061",
-      "type": "content",
-      "image": "images/series1/ep08/slide-061.webp",
-      "text": "It has been the center of the development of various cultures since Vedic and mythological times. This region is also mentioned in ancient texts like \" The ancient temples and their ruins indicate that Vaishnavism, Shaivism, Shakta, Buddhist as well as many cultures influence in various periods.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 61: It has been the center of the development of various cultures since Vedic and mythological times. Th..."
-    },
-    {
-      "id": "s1e08-062",
-      "type": "content",
-      "image": "images/series1/ep08/slide-062.webp",
-      "text": "Kalchuri rulers ruled most o f the year from 1165 AD to 1171 . The re was Maratha rule from 1171 to 1858 . Chhattisgarh was popular during the time of the Maratha Empire and the word Chhattisgarh was first used in official docum ents in 1895 .",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 62: Kalchuri rulers ruled most o f the year from 1165 AD to 1171 . The re was Maratha rule from 1171 to..."
-    },
-    {
-      "id": "s1e08-063",
-      "type": "content",
-      "image": "images/series1/ep08/slide-063.webp",
-      "text": "The British rule and capital of Raipur were made in 1858. Sambalpur moved to Bengal in 1905 and Surguja. Chhattisgarh became part of Chhattisgarh.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 63: The British rule and capital of Raipur were made in 1858. Sambalpur moved to Bengal in 1905 and Surg..."
-    },
-    {
-      "id": "s1e08-064",
-      "type": "content",
-      "image": "images/series1/ep08/slide-064.webp",
-      "text": "On 1 November 2000, Chhattisgarh became the 24th state of India. Modern History of Chhattisgarh On 13 March 1854, Lord Dalhousie transferred the kingdom of Nagpur to the British Empire under the usurpation of which Chhattisgarh also joined the British Empire. During this time, Deputy Commissioner was appointed as the Chief Officer of Chhattisgarh.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 64: On 1 November 2000, Chhattisgarh became the 24th state of India. Modern History of Chhattisgarh On 1..."
-    },
-    {
-      "id": "s1e08-065",
-      "type": "content",
-      "image": "images/series1/ep08/slide-065.webp",
-      "text": "The British had divided the administration of Chhattisgarh into goods and civil divisions in two parts. The Deputy Commissioner was entrusted with all the powers to administer the civil branch. During the British rule in Chhattisgarh, all taxes were levied.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 65: The British had divided the administration of Chhattisgarh into goods and civil divisions in two par..."
-    },
-    {
-      "id": "s1e08-066",
-      "type": "content",
-      "image": "images/series1/ep08/slide-066.webp",
-      "text": "There were 14 princely states. Raipur was not under any princely state. It was called Khalsa Kshetra.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 66: There were 14 princely states. Raipur was not under any princely state. It was called Khalsa Kshetra..."
-    },
-    {
-      "id": "s1e08-067",
-      "type": "content",
-      "image": "images/series1/ep08/slide-067.webp",
-      "text": "Here the Deputy Commissioner of the British used to sit as an administrator. The British used to collect takoli (tribute, popular word for rent) from 14 kings of Chhattisgarh. It was increased every 20 years. 20 thousand rupees were taken in the form of takoli from the princely states like Bastar etc.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 67: Here the Deputy Commissioner of the British used to sit as an administrator. The British used to col..."
-    },
-    {
-      "id": "s1e08-068",
-      "type": "content",
-      "image": "images/series1/ep08/slide-068.webp",
-      "text": "At the same time, the maximum 80 thousand takoli was taken from Rajnandgaon, a state created by the British. In every Dussehra, the zamindars came to the capital to meet the king. The ritual was to vaccinate the king.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 68: At the same time, the maximum 80 thousand takoli was taken from Rajnandgaon, a state created by the..."
-    },
-    {
-      "id": "s1e08-069",
-      "type": "content",
-      "image": "images/series1/ep08/slide-069.webp",
-      "text": "Along with one rupee, one tin of ghee and one goat were given as sacrifice. How much takoli the king would take from the zamindars, it was decided. For this, for the first time in 1887, a written agreement was made with the landlords.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 69: Along with one rupee, one tin of ghee and one goat were given as sacrifice. How much takoli the king..."
-    },
-    {
-      "id": "s1e08-070",
-      "type": "content",
-      "image": "images/series1/ep08/slide-070.webp",
-      "text": "According to the book Raipur Rashmi published in the year 1925, Raipur district was spread over 9,824 square miles. At that time, two-thirds of the land was under paddy cultivation. Urad, Moong, Dal etc. were also major crops.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 70: According to the book Raipur Rashmi published in the year 1925, Raipur district was spread over 9,82..."
-    },
-    {
-      "id": "s1e08-071",
-      "type": "content",
-      "image": "images/series1/ep08/slide-071.webp",
-      "text": "In 1921, the population of Raipur district was 14 lakh , out of which 11 lakh people were engaged in agriculture. Whatever was produced at that time,",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 71: In 1921, the population of Raipur district was 14 lakh , out of which 11 lakh people were engaged in..."
-    },
-    {
-      "id": "s1e08-072",
-      "type": "content",
-      "image": "images/series1/ep08/slide-072.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 72: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-073",
-      "type": "content",
-      "image": "images/series1/ep08/slide-073.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "The day in Dhamtari cannot end without one more telling. Omar Seth carried Gandhi on his shoulders. A businessman from Gurur, a crowd of thousands, one man strong enough to lift what the crowd could not move. Next: Episode 9 — The Day in Dhamtari.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 73: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-074",
-      "type": "content",
-      "image": "images/series1/ep08/slide-074.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 74: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-075",
-      "type": "content",
-      "image": "images/series1/ep08/slide-075.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 75: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-076",
-      "type": "content",
-      "image": "images/series1/ep08/slide-076.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 76: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-077",
-      "type": "content",
-      "image": "images/series1/ep08/slide-077.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 77: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-078",
-      "type": "content",
-      "image": "images/series1/ep08/slide-078.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 78: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-079",
-      "type": "content",
-      "image": "images/series1/ep08/slide-079.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 79: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-080",
-      "type": "content",
-      "image": "images/series1/ep08/slide-080.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 80: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-081",
-      "type": "content",
-      "image": "images/series1/ep08/slide-081.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 81: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-082",
-      "type": "content",
-      "image": "images/series1/ep08/slide-082.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 82: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-083",
-      "type": "content",
-      "image": "images/series1/ep08/slide-083.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 83: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-084",
-      "type": "content",
-      "image": "images/series1/ep08/slide-084.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 84: Whatever was produced at that time,..."
-    },
-    {
-      "id": "s1e08-085",
-      "type": "content",
-      "image": "images/series1/ep08/slide-085.webp",
-      "text": "Whatever was produced at that time,",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Gandhi arriving at Raipur station December 20 1920, Gandhi Chowk mass rally, thousands gathered in Raipur. Slide 85: Whatever was produced at that time,..."
+      "visualDescription": "Omar Seth's shoulders — Gandhi above the crowd at Makai Chowk. The image held. The visual that Dhamtari will carry forever. Title card fading in: Episode 9 — The Day in Dhamtari."
     }
   ]
 }

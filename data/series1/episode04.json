@@ -2,1028 +2,341 @@
   "series": 1,
   "episode": 4,
   "title": "The Cannon at Jaistambh",
-  "duration": "~40 min",
-  "slideCount": 85,
+  "duration": "~20 min",
+  "slideCount": 37,
   "slides": [
     {
       "id": "s1e04-001",
       "type": "title",
       "image": "images/series1/ep04/slide-001.webp",
-      "text": "e Establishment of Saraswati Library In 1919, Opposition to the Rowlett Act In 1920, Khilfat Movement in Chhattisgarh In 1920, Bengal Nagpur Cotton Mill Mazdoor Strike In 1920, The First Labor movement In 1922, Nagari-Sihawa Jungle Satyagraha In 1923, T he Jhanda Satyagraha In 1930, Tamora Jungle Satyagraha In 1940, Personal Satyagraha in Chhattisgarh On 28 December 1885, the Indian National Congress was founded at Gokuldas Tejpal Sanskrit College in Bombay, with 72 delegates in attendance. Hume assumed office as the General Secretary, and Womesh Chunder Bonnerjee of Calcutta was elected president.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Veer Narayan Singh challenged the British policies even before the Revolt of 1857. The patriotic Zamindar of Sonakhan was martyred by the British Raj at the intersection of Raipur in the crime of sedition.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 1: e Establishment of Saraswati Library In 1919, Opposition to the Rowlett Act In 1920, Khilfat Movemen..."
+      "visualDescription": "Title card: Jaistambh Chowk, Raipur, December 1857. Veer Narayan Singh standing before British cannons, head raised, unbroken. Crowds forced to watch. Dark colonial sky. Ink-wash illustration, ochre and charcoal palette. Tragedy and dignity."
     },
     {
       "id": "s1e04-002",
       "type": "content",
       "image": "images/series1/ep04/slide-002.webp",
-      "text": "Latter on many leaders of Chhattisgarh from political institution s took active membership and participated in many movements against British rule. In 1889, the Bombay Session In 1889, the annual session of the Indian National Congress was held in Bombay, under the chairmanship of William Wedderburn, for the first time, 214 delegates from C.P. and Berar attended this conference, including CM Thakkar, Pt.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "On May 10, 1857, a troop of soldiers filled with passion for independence revolted from Meerut and reached Delhi on May 11. Convincing Mirza Abu Zafar Siraj-ud-din Mohammad Bahadur Shah Zafar, they elected him their leader and crowned him again.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 2: Latter on many leaders of Chhattisgarh from political institution s took active membership and parti..."
+      "visualDescription": "The Red Fort, Delhi, May 1857. Rebel soldiers presenting themselves before the aged Bahadur Shah Zafar — 82 years old, confined to the Red Fort. His coronation. The slogans of Bahadur Shah Zafar Zindabad erupting across India. A spark becoming a fire."
     },
     {
       "id": "s1e04-003",
       "type": "content",
       "image": "images/series1/ep04/slide-003.webp",
-      "text": "Ramdayal Tiwari, Madhavrao Sapre, Vamanrao Lakhe, etc. were involved. In 1891, the Nagpur Session In 1891, the Congress session was held in the capital of Madhya Pradesh under the chairmanship of P.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "The news of Bahadur Shah Zafar being proclaimed emperor spread like a current across the country. The Indian Rebellion of 1857 was a major but ultimately unsuccessful uprising against the rule of the British East India Company.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 3: Ramdayal Tiwari, Madhavrao Sapre, Vamanrao Lakhe, etc. were involved. In 1891, the Nagpur Session In..."
+      "visualDescription": "The news spreading across India — from Delhi to Lucknow to Kanpur to Chhattisgarh. A current of electric energy moving across the map. Each city lighting up as the rebellion reaches it. The geography of 1857 made visual. Fire spreading."
     },
     {
       "id": "s1e04-004",
       "type": "content",
       "image": "images/series1/ep04/slide-004.webp",
-      "text": "Many freedom activists of Chhattisgarh participated in the Nagpur session, including CM Thakkar, Madhavrao Sapre, Pt. Ramdayal Tiwari, Vamanrao Lakhe and Badriprasad Saw were involved.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "Sonakhan village, Chhattisgarh. 1856. A severe famine grips the land. Veer Narayan Singh — Zamindar of Sonakhan — goes to the moneylender asking for grain for his starving people. The moneylender refuses.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 4: Many freedom activists of Chhattisgarh participated in the Nagpur session, including CM Thakkar, Mad..."
+      "visualDescription": "Sonakhan village in famine — cracked earth, thin cattle, hollow-eyed villagers. Veer Narayan Singh — a man of bearing and conscience — standing before a fat moneylender surrounded by full grain sacks. The refusal. Moral clarity facing greed."
     },
     {
       "id": "s1e04-005",
       "type": "content",
       "image": "images/series1/ep04/slide-005.webp",
-      "text": "The Nagpur session was also attended by the Malguzars of the villages. These people passed resolutions to withdraw the canal tax and forest tax, during the visit of the Chief Commissioner of Madhya Pradesh to Bilaspur, farmers and Malguzars of Chhattisgarh gave a memorandum regarding canal tax and forest tax, in which both taxes were demanded to be withdrawn.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "When the moneylender refused to give food grains, Veer Narayan Singh broke open the godown and distributed the grains to the public. The incident was reported to Deputy Commissioner Elliot. Narayan Singh was arrested on false charges of traitor and robber.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 5: The Nagpur session was also attended by the Malguzars of the villages. These people passed resolutio..."
+      "visualDescription": "Veer Narayan Singh breaking the lock of the moneylender's godown. Grain pouring out. Starving villagers' hands reaching forward to receive it. A revolutionary act of conscience. Then: British officers arriving to arrest him. Right made crime."
     },
     {
       "id": "s1e04-006",
       "type": "content",
       "image": "images/series1/ep04/slide-006.webp",
-      "text": "In 1905, Bang Bhang and Swadeshi Movement The enthusiasm of the outspoken representatives of the intelligentsia and the newly acclaimed leaders of Indian society had waned considerably by the end of the 19th century. Personalities like Gladstone in Britain and Lord Ripon in India, who realized the importance of educated Indians and sympathized with their aspirations, were no longer at the helm of affairs with the passage of time.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "In 1857, as the news of Bahadur Shah Zafar's overthrow spread, the independence of the rebellion intensified. The people of Chhattisgarh accepted the jailed Veer Narayan Singh as their leader and joined in the rebellion.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 6: In 1905, Bang Bhang and Swadeshi Movement The enthusiasm of the outspoken representatives of the int..."
+      "visualDescription": "Raipur jail — news of 1857 reaching through its walls. Veer Narayan Singh inside, the people outside rallying around his name. His imprisonment becoming his election as leader. The jail as a pedestal rather than a cage. The people choosing."
     },
     {
       "id": "s1e04-007",
       "type": "content",
       "image": "images/series1/ep04/slide-007.webp",
-      "text": "It was time for those who, without exception, relied on him, and who disliked any relaxation of Britain's imperialist hold on India, were now the masterminds of India. Due to the growing opposition, more brutal and cruel British lords were installed in India, with the effect of which the authorities completely ignored Indian ideas and turned their backs on acts of racial arrogance.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "With the help of soldiers of the British Army at Raipur, Veer Narayan Singh escaped from prison. He reached Sonakhan and formed an army of 500 men. He was determined to revolt against the growing atrocities of the British.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 7: It was time for those who, without exception, relied on him, and who disliked any relaxation of Brit..."
+      "visualDescription": "The dramatic prison escape — Veer Narayan Singh slipping out of Raipur jail with help from sympathetic soldiers. Running through the night toward Sonakhan. Then: 500 men assembled on the banks of the river, weapons raised, a leader before his army."
     },
     {
       "id": "s1e04-008",
       "type": "content",
       "image": "images/series1/ep04/slide-008.webp",
-      "text": "This was the time when efforts were made to dilute even the nominal concessions of India, which were already given to Indians. The hostility of the British Raj was becoming apparent to the earlier nationalists, who by 1900 their petitions and prayers to the government were becoming futile, with even modest demands practically ignored.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 8: This was the time when efforts were made to dilute even the nominal concessions of India, which were..."
+      "text": "A powerful British army was dispatched to crush the Sonakhan army. Under the leadership of Smith, it crushed the Sonakhan revolt and apprehended Narayan Singh again. He was prosecuted for rebelling against the British Raj.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The British army advancing on Sonakhan — modern weapons, organised formations against Veer Narayan Singh's 500 men with traditional weapons. The battle. The capture. Smith's forces surrounding Sonakhan. The second arrest. Inevitable but undefeated."
     },
     {
       "id": "s1e04-009",
       "type": "content",
       "image": "images/series1/ep04/slide-009.webp",
-      "text": "The repeated demands of the Indian National Congress for constitutional concessions for nearly two decades led to minor reforms. Viceroys like Lord Curzon in India who wanted to see the Congress as an unclean thing rejected the arguments of all the leaders and reserved the civil service exclusively for Europeans.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 9: The repeated demands of the Indian National Congress for constitutional concessions for nearly two d..."
+      "text": "Veer Narayan Singh was blown up in the middle of Raipur City on the charge of rebelling against the British Raj. The place where Veer Narayan was martyred is currently known as Jaistambh Chowk in Raipur near the Kaiser-e-Hind Darwaza.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Jaistambh Chowk, December 10, 1857. The intersection of Raipur. British cannon. Veer Narayan Singh brought forward. The execution — designed as a spectacle of terror. Instead: an act of consecration. The chowk becoming holy ground."
     },
     {
       "id": "s1e04-010",
       "type": "content",
       "image": "images/series1/ep04/slide-010.webp",
-      "text": "The nationalists before Curzon's appearance were worried and distraught but not so disheartened to bear every humiliation. The nationalist leaders of the Congress were those who had learned to believe in themselves from social reformers and thinkers, and had acquired a sufficient degree of self-esteem to demand decent treatment and natural justice.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 10: The nationalists before Curzon's appearance were worried and distraught but not so disheartened to b..."
+      "text": "All the soldiers of Raipur were ordered to be present to see this. This was done so that the people became terrorized and did not dare to raise their heads against the British. The strategy backfired — it lit a fuse instead.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Raipur soldiers standing in formation, forced to witness the execution. Their faces — fear, grief, barely suppressed rage. The British officers watching with satisfaction. The satisfaction misplaced. Among those watching soldiers: Hanuman Singh."
     },
     {
       "id": "s1e04-011",
       "type": "content",
       "image": "images/series1/ep04/slide-011.webp",
-      "text": "In such a situation, there was bound to be a conflict between Curzon and the educated middle class nationalists. This eventually happened in Bengal where the Indian intellectual was most outspoken and where Curzon was the worst in his aggressive form.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 11: In such a situation, there was bound to be a conflict between Curzon and the educated middle class n..."
+      "text": "Thirty-nine days later, on January 18, 1858, a group of soldiers revolted against the British. At that time there was a military cantonment in Raipur — the Third Regular Regiment. Some Faizis planned an armed attack on the night of January 18, at 7:30 p.m.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Night of January 18, 1858. The Raipur military cantonment. Darkness and torchlight. Soldier Hanuman Singh moving toward the chamber of Sergeant Major Sidbell. 7:30 pm. The clock on the cantonment wall. The moment of no return approaching."
     },
     {
       "id": "s1e04-012",
       "type": "content",
       "image": "images/series1/ep04/slide-012.webp",
-      "text": "Curzon first started his lambasting in Bengal. In 1899, the Calcutta Corporation reduced the number of elected members, intended to satisfy European business interests in the city, who often complained of delays in licensing and other similar facilities.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 12: Curzon first started his lambasting in Bengal. In 1899, the Calcutta Corporation reduced the number..."
+      "text": "Soldier Hanuman Singh inflicted several fatal blows on Sergeant Major Sidbell of the Third Regiment of the Native Infantry, who was at that time resting alone in his chamber, killing him in a short time.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The chamber of Sergeant Major Sidbell — Hanuman Singh entering, the confrontation. Dramatic, tense, dark interior. The act of rebellion in its most personal form. A soldier choosing country over orders. The cost of that choice already written in his fate."
     },
     {
       "id": "s1e04-013",
       "type": "content",
       "image": "images/series1/ep04/slide-013.webp",
-      "text": "The proposition behind the action was clear, and its undemocratic nature unmistakable. The citizens of Calcutta felt deeply hurt and injustice, and before they could resist this act, Curzon attacked the autonomous character of the University of Calcutta, which was the pride of the educated classes in Bengal.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "This 18-man contingent reached the camp after the killing and invited other soldiers to join the rebellion. The other soldiers did not agree. By the time the news of the killing had spread, the British officers were alert, surrounding all 18 soldiers from all sides.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 13: The proposition behind the action was clear, and its undemocratic nature unmistakable. The citizens..."
+      "visualDescription": "The 18 rebel soldiers in the cantonment, trying to convince others to join. Fellow soldiers stepping back, afraid. British officers rallying, surrounding them. The isolation of the rebels — 18 against an empire. Surrounded but not surrendered."
     },
     {
       "id": "s1e04-014",
       "type": "content",
       "image": "images/series1/ep04/slide-014.webp",
-      "text": "Filled with the recommendations of the Indian Universities Commission, the only Indian member of which Gurudas Banerjee strongly disagreed with the others, Curzon passed the Universities Act 1904. Curzon's cunning was such that he was a player of paperwork, having previously filled the institutions with sycophants close to him, on the basis of which he was able to legally justify immoral acts.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "After firing that lasted for about 6–7 hours, the rebel soldiers ran out of cartridges. Meanwhile, Hanuman Singh, the main accused, escaped. But all the other 17 accomplices were arrested by the British.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 14: Filled with the recommendations of the Indian Universities Commission, the only Indian member of whi..."
+      "visualDescription": "Six hours of gunfire in the dark Raipur cantonment. Cartridges running out. 17 soldiers captured. Hanuman Singh slipping away into the darkness of Chhattisgarh's night. The last cartridge spent. Silence falling. Capture. Escape."
     },
     {
       "id": "s1e04-015",
       "type": "content",
       "image": "images/series1/ep04/slide-015.webp",
-      "text": "The aim used as an excuse was to \"Raise The Level Of Education\" . The Act first cut the number of elected Senate members, mostly Indians, and transferred the ultimate power to affiliated colleges and schools, as well as grants-in-aid to government officials.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 15: The aim used as an excuse was to 'Raise The Level Of Education' . The Act first cut the number of el..."
+      "text": "Those who were tried were all sentenced to death for the crime of rebellion. They were hanged on 22 February 1858 in the presence of all the soldiers of the army.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "February 22, 1858. The 17 soldiers standing before the gallows in the Raipur cantonment. All of the army's soldiers forced to watch again. The British repeating their tactic of making martyrdom a spectacle — again it will fail. Somber, powerful."
     },
     {
       "id": "s1e04-016",
       "type": "content",
       "image": "images/series1/ep04/slide-016.webp",
-      "text": "This immoral law, accomplished in perfect paperwork, left the angry members of the educated middle class no doubt about the viceroy's nefarious intentions and resolved to break his spirit by all means. It was a period when morale people and leaders of India had to prepare themselves mentally for the worst, and think of offering greater resistance, but the worst was yet to come, coming rapidly and dramatically in July 1905 when Curzon announced the partition of Bengal.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 16: This immoral law, accomplished in perfect paperwork, left the angry members of the educated middle c..."
+      "text": "The seventeen martyrs: Ghazi Khan, Havaldar Badlu, Hayat Golanadaj, Munim, Shivnarayan, Pannalal, Maatadin, Bukaram, Bilhu, Akbar Hussain, Lalsingh, Bablu, Paranand, Shobharam, Durgaprasad, Nazar Muhammad, Shiva, Devidin Golanadaj.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The names of the 17 martyrs appearing one by one — Hindu, Muslim, people of all faiths and communities. Each name lit like a star. The diversity of the sacrifice: Ghazi Khan and Shivnarayan, Akbar Hussain and Pannalal — dying together for one country."
     },
     {
       "id": "s1e04-017",
       "type": "content",
       "image": "images/series1/ep04/slide-017.webp",
-      "text": "The Partition Resolution was officially passed in 1904. The decision to partition Bengal was announced on 19 July 1905 by Lord Curzon, the then Viceroy of India, which came into effect from 16 October 1905.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 17: The Partition Resolution was officially passed in 1904. The decision to partition Bengal was announc..."
+      "text": "People of all castes and religions were among the seventeen martyrs of the rebellion — which is a symbol of the great sense of national interest instilled in the people of this region. One nation in one sacrifice.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The 17 names arranged in a circle — Hindu and Muslim names alternating, a visual statement of unity in sacrifice. Different communities, one purpose. The most powerful rebuke to those who would divide India by faith: these men died as one."
     },
     {
       "id": "s1e04-018",
       "type": "content",
       "image": "images/series1/ep04/slide-018.webp",
-      "text": "The First Provincial Political Conference of the Central Provinces was held in Amravati on 22 April 1905. Gangadhar Chitnavis was the head of the reception committee in this conference, which was presided over by Ganesh Srikrishna Khaparde .",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 18: The First Provincial Political Conference of the Central Provinces was held in Amravati on 22 April..."
+      "text": "Hanuman Singh had also tried to attack the bungalow of the Deputy Commissioner of Chhattisgarh on the night of January 20, 1858, two days after the rebellion. The British government announced a cash reward of Rs 500 for his arrest.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Wanted posters for Hanuman Singh posted across Raipur — Rs 500 reward. British patrols searching. The Deputy Commissioner's bungalow with extra guards. Hanuman Singh nowhere to be found. A man who became a ghost. The empire unable to cage him."
     },
     {
       "id": "s1e04-019",
       "type": "content",
       "image": "images/series1/ep04/slide-019.webp",
-      "text": "Due to this partition, due to high level political unrest all over the country including Chhattisgarh , the eastern and western parts of Bengal were reunited in 1911. The Second Provincial Political Conference in Central Provinces was held in Jabalpur in 1906.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 19: Due to this partition, due to high level political unrest all over the country including Chhattisgar..."
+      "text": "Despite the lure of such a huge amount, he could not be arrested. After this incident of the escape of Hanuman Singh, no details of him were received. He never came back. Like Gundadhur, he walked into history and did not return.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Hanuman Singh's footprints in the dust of Raipur — leading away from the city, into the countryside, growing fainter. Then nothing. The trail ending. The man becoming legend. Another hero absorbed by the land that made him."
     },
     {
       "id": "s1e04-020",
       "type": "content",
       "image": "images/series1/ep04/slide-020.webp",
-      "text": "It was presided over by Gangadhar Chitnavis. In Chhattisgarh, Congress's vision towards the partition of Bengal was propagated in Chhattisgarh by a young man named Tarachandra and his associates.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 20: It was presided over by Gangadhar Chitnavis. In Chhattisgarh, Congress's vision towards the partitio..."
+      "text": "Surendra Sai, freedom fighter of 1857, was the rightful heir of the princely state of Sambalpur. His activity spread from Sambalpur to Bilaspur and Kalahandi. He troubled the British greatly in the revolt of 1857.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Surendra Sai leading his rebellion across a vast territory — from Sambalpur through Bilaspur to Kalahandi. The map showing the breadth of his resistance. A regional uprising of scale. A man whose territory of defiance was larger than many kingdoms."
     },
     {
       "id": "s1e04-021",
       "type": "content",
       "image": "images/series1/ep04/slide-021.webp",
-      "text": "The partition of Bengal in 1905 served as a national awakening, Swadeshi and boycott movement had started in the country, which also affected Chhattisgarh. The promotion of Swadeshi in 1906 also created awareness among the people.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 21: The partition of Bengal in 1905 served as a national awakening, Swadeshi and boycott movement had st..."
+      "text": "Surendra Sai was arrested from his house on 13 January 1862. Sent from Raipur Jail to Nagpur Jail and then to Asirgarh Fort. He died a natural death on 23 May 1884 in Asirgarh. At last, he went blind.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The long arc of Surendra Sai's imprisonment — Raipur jail, then Nagpur jail, then Asirgarh Fort. Each transfer moving him further from home. An old man going blind in a fortress. Twenty-two years of imprisonment. Dignity outlasting the body."
     },
     {
       "id": "s1e04-022",
       "type": "content",
       "image": "images/series1/ep04/slide-022.webp",
-      "text": "Tarachandra led the freedom movement in Bilaspur district, w ho has the credit of being the first worker. Apart from these, Vamanrao Lakhe and Madhavrao Sapre led the Swadeshi and Boycott movement in Chhattisgarh.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 22: Tarachandra led the freedom movement in Bilaspur district, w ho has the credit of being the first wo..."
+      "text": "Although Veer Surendra Sai died a natural death, in honor of his valor, people call him The Last Martyr of the Revolt of 1857. His name links the 1857 uprising to everything that came after in Chhattisgarh.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Surendra Sai's portrait — blind, aged, yet dignified. The title: The Last Martyr of 1857. A bridge between two eras of resistance. His blindness a metaphor for all that history refused to see. Honor in death that was denied in life."
     },
     {
       "id": "s1e04-023",
       "type": "content",
       "image": "images/series1/ep04/slide-023.webp",
-      "text": "In the Banaras session of the Congress in 1905, Khapard proposed the Swadeshi. Vamanrao Lakhe, Ravishankar Shukla , Ram Gopal Tiwari, Badri Prasad Pujari, Ramrao Chicholkar, Madhavrad Sapre and Gajadhar Saw , were present in this convention.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 23: In the Banaras session of the Congress in 1905, Khapard proposed the Swadeshi. Vamanrao Lakhe, Ravis..."
+      "text": "In the revolution of 1857, the king of Sarangarh supported the British government. The revolutionary Kamal Singh was tricked and handed over to the British. In 1867, Kamal Singh was hanged — betrayed by those who should have been his allies.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The betrayal at Sarangarh — Kamal Singh being handed over to British officers by the king who chose colonial comfort. The revolutionary's face as he realises what has happened. Then: 1867, the gallows at Sarangarh. Betrayal as a form of violence."
     },
     {
       "id": "s1e04-024",
       "type": "content",
       "image": "images/series1/ep04/slide-024.webp",
-      "text": "Sundarlal Sharma became a member of the Congress in the year 1905, he established an organization called \"Saumitra Mondal\" in the same year in which many people took membership, and the aim of this Mandal was to create a sense of nationalism among the people of Chhattisgarh with social reform. On 7 August 1905, the Swadeshi Movement was announced in the Town Hall of Kolkata and a 'boycott resolution' was passed.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 24: Sundarlal Sharma became a member of the Congress in the year 1905, he established an organization ca..."
+      "text": "The fire of freedom never extinguished in this region. As a spark within the pile of ashes, it kept smoldering, erupting sometimes in Rajnandgaon under Sevata Thakur, sometimes in Sarguja under the Bagud Baniya.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Chhattisgarh's map at night — multiple embers glowing at different points. Rajnandgaon, Sarguja, Kawardha, Bastar. The geography of persistent resistance. Each ember a name, a story, a refusal to surrender. The land as a living archive."
     },
     {
       "id": "s1e04-025",
       "type": "content",
       "image": "images/series1/ep04/slide-025.webp",
-      "text": "Following this proposal, Congress leaders visited different parts of Bengal and urged people to boycott Manchester clothing and salt made from Liverpool, this protest soon spread to other parts of India. In Bombay this movement was led by Bal Gangadhar Tilak, while in Punjab Lal Lajpat Rai and Ajit Singh, in Delhi Syed Haider Raza and in Madras, Chidambaram Pillai provided the leadership of the movement.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 25: Following this proposal, Congress leaders visited different parts of Bengal and urged people to boyc..."
+      "text": "In Chhattisgarh, the national level movements were in effect and were led by freedom fighters of the state — starting with the revolution of 1857 which continued till the attainment of independence of India in 1947.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A timeline from 1857 to 1947 — ninety years of continuous resistance in Chhattisgarh. Each decade marked with a name, an event, a sacrifice. The longest fight. The most patient people. The freedom of 1947 as the inheritance of 1857."
     },
     {
       "id": "s1e04-026",
       "type": "content",
       "image": "images/series1/ep04/slide-026.webp",
-      "text": "The Swadeshi movement failed to achieve its immediate goals as it did not stop the partition of Bengal, but this movement had far-reaching consequences. Due to this movement Indian industries got encouragement and import of foreign goods came down.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 26: The Swadeshi movement failed to achieve its immediate goals as it did not stop the partition of Beng..."
+      "text": "Jaistambh Chowk in Raipur — the place where Veer Narayan Singh was martyred — stands today as a living reminder. Near the Kaiser-e-Hind Darwaza, on the ground where blood was shed, a city continues its daily life over a sacred wound.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Present-day Jaistambh Chowk, Raipur — traffic, people, modern buildings. But the chowk itself unchanged in spirit. A ghost of 1857 visible in the architecture. The present moving over the past. History underfoot. Sacred ground unmarked but remembered."
     },
     {
       "id": "s1e04-027",
       "type": "content",
       "image": "images/series1/ep04/slide-027.webp",
-      "text": "When the British government wanted to suppress the movement, a feeling of radical nationalism emerged in India. In 1906, the Establishment of Congress in Chhattisgarh In 1906, Barrister CM Thakkar founded the Congress in Raipur, in which many leaders including Pt.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 27: When the British government wanted to suppress the movement, a feeling of radical nationalism emerge..."
+      "text": "Veer Narayan Singh — the Zamindar who broke a godown to feed the starving, who escaped prison to lead an army, who was executed publicly to terrorize others. He achieved the opposite of what his executioners intended.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Portrait of Veer Narayan Singh — strong, righteous, looking ahead. The grain he distributed still metaphorically feeding the movement. The jail he escaped still standing while his name is free. The cannon that killed him now a symbol of the empire's failure."
     },
     {
       "id": "s1e04-028",
       "type": "content",
       "image": "images/series1/ep04/slide-028.webp",
-      "text": "Sundarlal Sharma joined the Congress. Congress session was held in Surat, this session was attended by Pt.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 28: Sundarlal Sharma joined the Congress. Congress session was held in Surat, this session was attended..."
+      "text": "The 17 soldiers who were hanged. Hanuman Singh who vanished. Surendra Sai who went blind in a fortress. Kamal Singh who was betrayed. Each one a different shape of the same sacrifice — the refusal to accept that another man's flag should fly over your land.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Four images in a grid: the 17 soldiers at the gallows, Hanuman Singh's disappearing footprints, Surendra Sai blind in Asirgarh, Kamal Singh betrayed. Four shapes of sacrifice. Four ways to die for one idea. The idea: that this is our land."
     },
     {
       "id": "s1e04-029",
       "type": "content",
       "image": "images/series1/ep04/slide-029.webp",
-      "text": "Sundarlal Sharma, Narayanrao Meghawale , and Dr. At the Surat Congress session, Gokhale belonged to a moderate or moderate ideology.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 29: Sundarlal Sharma, Narayanrao Meghawale , and Dr. At the Surat Congress session, Gokhale belonged to..."
+      "text": "The Indian Rebellion of 1857 was ultimately unsuccessful as a military campaign. But as a declaration of intent — as proof that the people of this land would not stop — it was the most successful statement in Indian history.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The British flag still flying over Chhattisgarh after 1857 — the rebellion suppressed. But below it, in the streets and villages, something has changed. Eyes that no longer look down. A people who now know they can fight. The victory beneath the defeat."
     },
     {
       "id": "s1e04-030",
       "type": "content",
       "image": "images/series1/ep04/slide-030.webp",
-      "text": "On returning from the Surat session, Pandit Sundarlal Sharma and Narayan Rao Meghawale opened indigenous goods shops in Dhamtari, Rajim, and Mahasamud to popularize the movement, in which Pyarelal Singh, Shivlal Master , and Shankarlal Khare together started the Swadeshi movement with the promotion of Khadi. In 1907, Provincial Congress Conference In the year 1907 on 26 March, a political session of Congress leaders and activists of Madhya Pradesh and Berar was held in Raipur C ity, this s ession was presided over by Kelkar and was welcomed by President Harisingh Gaur.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 30: On returning from the Surat session, Pandit Sundarlal Sharma and Narayan Rao Meghawale opened indige..."
+      "text": "The third era of Chhattisgarh's freedom movement begins now. No longer armed revolt alone — but organised political consciousness. Leaders emerge who fight with words, with newspapers, with Congress sessions, with Satyagraha.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The transition: swords and spears being set aside, pens and newspapers taking their place. A printing press beginning to run. Newspapers with anti-British headlines. A Congress session being organised. The new weapons of the new era taking shape."
     },
     {
       "id": "s1e04-031",
       "type": "content",
       "image": "images/series1/ep04/slide-031.webp",
-      "text": "The effect of the Surat session of 1907 was visible in this session even here the Congress got divided into two parts. It split into two faction s , Extremists (Garam Dal) led by Bal Gang a dhar Tilak and Moderates (Naram Dal) led by Gopal Krishna Gokhale.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 31: The effect of the Surat session of 1907 was visible in this session even here the Congress got divid..."
+      "text": "From the soil watered by the blood of Veer Narayan Singh, Gaind Singh, Gundadhur, and the 17 soldiers — from this red soil — new leaders will grow. They will not carry bows and arrows. They will carry something more dangerous: organised truth.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Red Chhattisgarh soil — the same soil where the martyrs fell. From it, green shoots growing upward. Each shoot becoming a leader of the next era — Pt. Sundarlal Sharma, Ravi Shankar Shukla, Chhotelal Srivastava. Blood becomes roots becomes growth."
     },
     {
       "id": "s1e04-032",
       "type": "content",
       "image": "images/series1/ep04/slide-032.webp",
-      "text": "They were termed so because of their attitude towards British rule. Leaders of the Naram Dal from Chhattisgarh Leaders of Garam Dal from Chhattisgarh P t.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 32: They were termed so because of their attitude towards British rule. Leaders of the Naram Dal from Ch..."
+      "text": "Madhavrao Sapre will start a newspaper. Sundarlal Sharma will fight untouchability. Ravi Shankar Shukla will organise a Congress committee. The revolution will not always be visible — but it will never stop.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Three panels: Sapre at a printing press, Sharma at a temple entrance with Harijans, Shukla at a Congress table. Three forms of the same resistance. Ink-wash illustration, 1900s aesthetic, the new generation of Chhattisgarh's freedom movement."
     },
     {
       "id": "s1e04-033",
       "type": "content",
       "image": "images/series1/ep04/slide-033.webp",
-      "text": "Ravishankar Shukla Babu Harisingh Gaur Madhavrao Sapre Dr. Madholkar Dadasaheb Khaparde Dr.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 33: Ravishankar Shukla Babu Harisingh Gaur Madhavrao Sapre Dr. Madholkar Dadasaheb Khaparde Dr...."
+      "text": "The cannon at Jaistambh was meant to end resistance. Instead it announced it. Every cannon shot that kills a man of conscience adds ten more to his cause. The British were learning this lesson slowly, at great cost to Chhattisgarh.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The cannon at Jaistambh Chowk — smoke clearing after the shot. In the smoke, ten new faces of resistance appearing. The mathematics of martyrdom: one taken, many rising. The British miscalculation made visible as a visual equation."
     },
     {
       "id": "s1e04-034",
       "type": "content",
       "image": "images/series1/ep04/slide-034.webp",
-      "text": "Munje Barrister Chhedilal Kelkar E. Raghvendra Rao Vamanrao Lakhe Dadasaheb Khaparde suggested the Vande Mataram national anthem to start the proceedings of the session, but Dr.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 34: Munje Barrister Chhedilal Kelkar E. Raghvendra Rao Vamanrao Lakhe Dadasaheb Khaparde suggested the V..."
+      "text": "The freedom struggle of 1857 was crushed. But the fire of freedom never extinguished in this region. As a spark within the pile of ashes, it kept smoldering, erupting at different times and different places.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Ashes of the 1857 rebellion — cooling, grey, apparently dead. Then: the ember deep within, pulsing. The Gazetteer's words on screen: the freedom struggle was crushed. But underneath those official words, the truth: it was not. The spark lives."
     },
     {
       "id": "s1e04-035",
       "type": "content",
       "image": "images/series1/ep04/slide-035.webp",
-      "text": "Munje did not agree as Pandit Ravi Shankar Shukla was a hot ideologue and requested the moderates to accept Khaparde ' s proposal, hence Khaparde After the proposal was accepted, Dada Saheb Khaparde addressed the public meeting near the Tatya Para Hanuman temple and proclaimed the importance of Swadeshi and foreigner. Dada Saheb Khaparde and his colleagues shouted slogans of Vande Mataram.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 35: Munje did not agree as Pandit Ravi Shankar Shukla was a hot ideologue and requested the moderates to..."
+      "text": "They all became revolutionary martyrs. Their names fill this ground. Their sacrifice fills this soil. And in 1900, a man named Madhavrao Sapre begins publishing a newspaper called Chhattisgarh Mitra — and the awakening takes a new form.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The first issue of Chhattisgarh Mitra, 1900 — fresh ink on paper. Madhavrao Sapre holding it up in lamplight. The names of the 1857 martyrs fading into the background as the newspaper comes forward. Words replacing weapons. The awakening continues."
     },
     {
       "id": "s1e04-036",
       "type": "content",
       "image": "images/series1/ep04/slide-036.webp",
-      "text": "In 1917, Home Rule Movement in Chhattisgarh Lokmanya B a al Gangadhar Tilak and Annabesant opened the branches of the Home Rule League in Madhya Pradesh. The activists and young men of Chhattisgarh also organized the movement by establishing Homerool League in Chhattisgarh.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 36: In 1917, Home Rule Movement in Chhattisgarh Lokmanya B a al Gangadhar Tilak and Annabesant opened th..."
+      "text": "From the first martyr Gaind Singh in 1825 to Veer Narayan Singh in 1857 to the 17 soldiers in 1858 to Surendra Sai in 1884 — each generation of Chhattisgarh paid its price. Now a new generation inherits the debt and the determination.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A genealogy of sacrifice — portraits from each era arranged in sequence: 1825, 1857, 1858, 1884, 1910. Each face passing a torch to the next. The torch now arriving in the hands of a new generation — the Gandhian era leaders waiting."
     },
     {
       "id": "s1e04-037",
       "type": "content",
       "image": "images/series1/ep04/slide-037.webp",
-      "text": "It was founded in Raipur by Pt. Ravi Shankar Shukla, his associates were Laxman Rao Udgikar, Moolchand Bagdi, and Pt.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 37: It was founded in Raipur by Pt. Ravi Shankar Shukla, his associates were Laxman Rao Udgikar, Moolcha..."
-    },
-    {
-      "id": "s1e04-038",
-      "type": "content",
-      "image": "images/series1/ep04/slide-038.webp",
-      "text": "Similarly, a branch of Home Rule was established in Bilaspur, whose active activist E. Raghavendra Rao, Thakur Pyarelal Singh in Rajnandgaon , and Ghanshyam Singh Gupta in Durg opened its branches and started the Home Rule movement.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 38: Similarly, a branch of Home Rule was established in Bilaspur, whose active activist E. Raghavendra R..."
-    },
-    {
-      "id": "s1e04-039",
-      "type": "content",
-      "image": "images/series1/ep04/slide-039.webp",
-      "text": "In 1917, the number of members of the Tilakist Swaraj Union was 99 in Chhattisgarh. In which 18 representatives from Raipur, 11 from Durg , and 70 representatives from Bilaspur were active members.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 39: In 1917, the number of members of the Tilakist Swaraj Union was 99 in Chhattisgarh. In which 18 repr..."
-    },
-    {
-      "id": "s1e04-040",
-      "type": "content",
-      "image": "images/series1/ep04/slide-040.webp",
-      "text": "In 1918, Provincial Political Conference On 30 - 31 March 1918, the Sixth Provincial Conference was held in Raipur. The conf erence was presided over by Haridas and the Chairman was welcomed by D.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 40: In 1918, Provincial Political Conference On 30 - 31 March 1918, the Sixth Provincial Conference was..."
-    },
-    {
-      "id": "s1e04-041",
-      "type": "content",
-      "image": "images/series1/ep04/slide-041.webp",
-      "text": "Madhavrao Sapre , and Vamanrao Lakhe had notable contributions. In 1918, Chhattisgarh in All India Congress Committee The session of the Indian National Congress was held in Delhi on 26 January 1918 under the chairmanship of Pt.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 41: Madhavrao Sapre , and Vamanrao Lakhe had notable contributions. In 1918, Chhattisgarh in All India C..."
-    },
-    {
-      "id": "s1e04-042",
-      "type": "content",
-      "image": "images/series1/ep04/slide-042.webp",
-      "text": "In the All India Congress Committee, 12 members from Madhya Pradesh went to participate in this, given the awareness of the politicians of Chhattisgarh, E. Thakkar was included as a member.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 42: In the All India Congress Committee, 12 members from Madhya Pradesh went to participate in this, giv..."
-    },
-    {
-      "id": "s1e04-043",
-      "type": "content",
-      "image": "images/series1/ep04/slide-043.webp",
-      "text": "Movement for Untouchability ' Sundarlal Sharma launched a movement for untouchability in Chhattisgarh.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 43: Movement for Untouchability ' Sundarlal Sharma launched a movement for untouchability in Chhattisgar..."
-    },
-    {
-      "id": "s1e04-044",
-      "type": "content",
-      "image": "images/series1/ep04/slide-044.webp",
-      "text": "In which Chhabilal Chaubey, Thakur Pyarelal , and Ghanshyam Singh were his associates. In this movement, Chhabilal Choubey fasted for 21 days in protest against untouchability.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 44: In which Chhabilal Chaubey, Thakur Pyarelal , and Ghanshyam Singh were his associates. In this movem..."
-    },
-    {
-      "id": "s1e04-045",
-      "type": "content",
-      "image": "images/series1/ep04/slide-045.webp",
-      "text": "Sundarlal Sharma made victim caste wear \" Janeu \" under this movement .",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 45: Sundarlal Sharma made victim caste wear ' Janeu ' under this movement ...."
-    },
-    {
-      "id": "s1e04-046",
-      "type": "content",
-      "image": "images/series1/ep04/slide-046.webp",
-      "text": "The Janeu is one of the traditional sa á¹ƒ skÄras that marked the acceptance of a student by a guru and an individual's e ntrance to a school in Hinduism . Satnam Ashram, S atyagraha Ashram, Harijan daughter school, hostel , and library, etc. were established in Raipur due to the efforts of Pt.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 46: The Janeu is one of the traditional sa á¹ƒ skÄras that marked the acceptance of a student by a guru..."
-    },
-    {
-      "id": "s1e04-047",
-      "type": "content",
-      "image": "images/series1/ep04/slide-047.webp",
-      "text": "In 1919, the Establishment of Saraswati Library In 1909, Thakur Pyarelal Singh established the Saraswati Library to inspire national sentiment among the residents of Rajnadgaon. Chhabi Lal Choubey contributed to this important work of his.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 47: In 1919, the Establishment of Saraswati Library In 1909, Thakur Pyarelal Singh established the Saras..."
-    },
-    {
-      "id": "s1e04-048",
-      "type": "content",
-      "image": "images/series1/ep04/slide-048.webp",
-      "text": "This Saraswati library had an important contribution in awakening the feeling of nationalism. This was such an institution where there was a gathering of educated people, from here the stream of national consciousness was affected.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 48: This Saraswati library had an important contribution in awakening the feeling of nationalism. This w..."
-    },
-    {
-      "id": "s1e04-049",
-      "type": "content",
-      "image": "images/series1/ep04/slide-049.webp",
-      "text": "In 1919, Opposition to the Rowlett Act In 1919, there was a nationwide strike in protest against the Rowlett Act. The effect of this in Chhattisgarh was also held in Raipur, Dhamtari, Bilaspur, Janjgir, Durg, and Rajnadgaon .",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 49: In 1919, Opposition to the Rowlett Act In 1919, there was a nationwide strike in protest against the..."
-    },
-    {
-      "id": "s1e04-050",
-      "type": "content",
-      "image": "images/series1/ep04/slide-050.webp",
-      "text": "It was decided to celebr ate Black Day on 30 March 1919. A general strike was held on 30 March 1919 in Chhattisgarh.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 50: It was decided to celebr ate Black Day on 30 March 1919. A general strike was held on 30 March 1919..."
-    },
-    {
-      "id": "s1e04-051",
-      "type": "content",
-      "image": "images/series1/ep04/slide-051.webp",
-      "text": "Shiv Dulare, Yadunandan Prasad Srivastava, Thakur Chedilal organized a general strike from Bilaspur. In 1920, Khilfat Movement in Chhattisgarh The Khilafat movement was one of the principal movements in India's efforts to break the chains of British rule.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 51: Shiv Dulare, Yadunandan Prasad Srivastava, Thakur Chedilal organized a general strike from Bilaspur...."
-    },
-    {
-      "id": "s1e04-052",
-      "type": "content",
-      "image": "images/series1/ep04/slide-052.webp",
-      "text": "The Khilafat movement under the leadership of Maulana Muhammad Ali and Maulana Shaukat Ali spread exceedingly all over South Asia. Th is movement demanded that all Islamic holy places in the erstwhile Ottoman Empire remain under the control of the Turkish Sultan or Caliph, and Jazirat-ul-Arab (Arab, Syria, Iraq, Palestine) should be under Islamic sovereignty and the Caliph should have enough territory to be able to secure the Islamic faith.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 52: The Khilafat movement under the leadership of Maulana Muhammad Ali and Maulana Shaukat Ali spread ex..."
-    },
-    {
-      "id": "s1e04-053",
-      "type": "content",
-      "image": "images/series1/ep04/slide-053.webp",
-      "text": "The Khilafat Movement in India lasted from the year 1915 to 1924. In this movement , the Muslim community of erstwhile British India united and agitated against the colonialists at the national level.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 53: The Khilafat Movement in India lasted from the year 1915 to 1924. In this movement , the Muslim comm..."
-    },
-    {
-      "id": "s1e04-054",
-      "type": "content",
-      "image": "images/series1/ep04/slide-054.webp",
-      "text": "This movement got further strength when Mahatma Gandhi combined the non-cooperation movement against colonialism with the Khilafat movement. Hindus and Muslims unitedly opposed the British Raj under the supervision of the Indian National Congress.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 54: This movement got further strength when Mahatma Gandhi combined the non-cooperation movement against..."
-    },
-    {
-      "id": "s1e04-055",
-      "type": "content",
-      "image": "images/series1/ep04/slide-055.webp",
-      "text": "In this way , the Hindus and Muslims of India stood unitedly against the colonialists. In 1920, the Khila f at movement started in every corner of India, even Chhattisgarh could not remain unaffected by this movement.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 55: In this way , the Hindus and Muslims of India stood unitedly against the colonialists. In 1920, the..."
-    },
-    {
-      "id": "s1e04-056",
-      "type": "content",
-      "image": "images/series1/ep04/slide-056.webp",
-      "text": "As the then powerful leaders and mass leaders in the country, it was mostly Muslims, who were fighting for freedom and Khilafat at their level, but all the battles before Gandhi were violent and incestuous. Gandhi , quoting the Islamic festival Muharram, appealed to the Muslims \"",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 56: As the then powerful leaders and mass leaders in the country, it was mostly Muslims, who were fighti..."
-    },
-    {
-      "id": "s1e04-057",
-      "type": "content",
-      "image": "images/series1/ep04/slide-057.webp",
-      "text": "I learned from Hussain how to win during the oppression \" and gained the support of the Muslims by supporting the Khilafat movement. In the small and big cities and villages across the country, Muslim zamindars took part in the Non-Cooperation Movement on the call of Gandhi and left thousands of acres of Malguzari and Zamindaris to go to jail.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 57: I learned from Hussain how to win during the oppression ' and gained the support of the Muslims by..."
-    },
-    {
-      "id": "s1e04-058",
-      "type": "content",
-      "image": "images/series1/ep04/slide-058.webp",
-      "text": "Location Leader s Raipur Asghar Ali Bilaspur Wajir khan, Akbar Khan and Hakim Khan Balod Mohammad Yunus Zakariya In Chhattisgarh, from Raipur, Muslim leader Asghar Ali led this movement and from the Bilaspur region Wajir kha n , Akbar Khan , and Hakim Khan led this. Many independent Malguzars and Zami n dars were sacrifices their land and life in the movement, Mohammad Yunus Zami n dar of Balod was sent to jail directly from the court after he was evicted from his owned 17 village zamidaris for the non-cooper ation movement by b oycot ting tax.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 58: Location Leader s Raipur Asghar Ali Bilaspur Wajir khan, Akbar Khan and Hakim Khan Balod Mohammad Yu..."
-    },
-    {
-      "id": "s1e04-059",
-      "type": "content",
-      "image": "images/series1/ep04/slide-059.webp",
-      "text": "During the Kandel Satyagram Movement, Gandhi was accompanied by prominent leaders of the Khilafat Movement Shaukat Ali and Muhammad Ali. After the meetings of Mahatma Gandhi, the orphanages, when Gandhi was in other discussions, at the same time, the Ali brothers held meetings in Muslim social institutions, madrasas , and Yateemkhana (orphanages) and appealed to the Muslim intellectuals and other Zamindars of the city to join the movement of Mahatma Gandhi.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 59: During the Kandel Satyagram Movement, Gandhi was accompanied by prominent leaders of the Khilafat Mo..."
-    },
-    {
-      "id": "s1e04-060",
-      "type": "content",
-      "image": "images/series1/ep04/slide-060.webp",
-      "text": "Through Yatimkhana and Madrasas, Gandhi ' s direct message was sent to the majority areas and small and big zamindars of Chhattisgarh, which resulted in the fact that the Muslims of Chhattisgarh also joined this movement. On 21 st December 1920, Shaukat Ali and Mohammad Ali took a meeting of Muslim gathering at Yateemkhana, Dhamtari.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 60: Through Yatimkhana and Madrasas, Gandhi ' s direct message was sent to the majority areas and small..."
-    },
-    {
-      "id": "s1e04-061",
-      "type": "content",
-      "image": "images/series1/ep04/slide-061.webp",
-      "text": "Excerpts from the Gazetteer of India, Madhya Pradesh, District Raipur, 1973 : \" Following the Amritsar Congress of 1919, at which the Khil a fat Movement was endorsed and Non-Co-0pration was adopted as a political weapon, the District Conference was held at Raipur in the year1920.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 61: Excerpts from the Gazetteer of India, Madhya Pradesh, District Raipur, 1973 : ' Following the Amrits..."
-    },
-    {
-      "id": "s1e04-062",
-      "type": "content",
-      "image": "images/series1/ep04/slide-062.webp",
-      "text": "A public meeting was held on 17 March 1920 and a Khilafat sub-committee was formed. When Asgar Ali thanked the Hindu brethren for their sympathy for the Muslim cause, Ravi Shankar Shukla retorted, \"We are no more Hindu and Muslims, but Hindustanis in the strictest sense.\" Such was the spirit of those times.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 62: A public meeting was held on 17 March 1920 and a Khilafat sub-committee was formed. When Asgar Ali t..."
-    },
-    {
-      "id": "s1e04-063",
-      "type": "content",
-      "image": "images/series1/ep04/slide-063.webp",
-      "text": "\" Those were the days of brisk and militant political activities. Just before the Nagpur session of the Congress, Mahatma Gandhi visited Raipur, with the Ali brothers, on 20 December 1920in connection with Tilak Fund and Swarajya Fund.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 63: ' Those were the days of brisk and militant political activities. Just before the Nagpur session of..."
-    },
-    {
-      "id": "s1e04-064",
-      "type": "content",
-      "image": "images/series1/ep04/slide-064.webp",
-      "text": "Gandhi visited Dhamtari and Kurud also, where people express their regards by a good deal of contribution to the Fund. It was in such an atmosphere that the Raipur District Committee was formed.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 64: Gandhi visited Dhamtari and Kurud also, where people express their regards by a good deal of contrib..."
-    },
-    {
-      "id": "s1e04-065",
-      "type": "content",
-      "image": "images/series1/ep04/slide-065.webp",
-      "text": "In 1920, Bengal Nagpur Cotton Mill Mazdoor Strike Raja Balaram Das of Rajnandgaon in 1894 C. A textile mill was established by the name CP Mills in 1896; bought by Sha Wallish Company and named it The Bengal Cotton Mill.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 65: In 1920, Bengal Nagpur Cotton Mill Mazdoor Strike Raja Balaram Das of Rajnandgaon in 1894 C. A texti..."
-    },
-    {
-      "id": "s1e04-066",
-      "type": "content",
-      "image": "images/series1/ep04/slide-066.webp",
-      "text": "The struggle of the workers in India started with the mill labor movement in Ahmedabad in 1918. In 1919 and 1920, this struggle had reached the top of its development.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 66: The struggle of the workers in India started with the mill labor movement in Ahmedabad in 1918. In 1..."
-    },
-    {
-      "id": "s1e04-067",
-      "type": "content",
-      "image": "images/series1/ep04/slide-067.webp",
-      "text": "And the workers agitated at various places in India. These movements also took effect in Chhattisgarh.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 67: And the workers agitated at various places in India. These movements also took effect in Chhattisgar..."
-    },
-    {
-      "id": "s1e04-068",
-      "type": "content",
-      "image": "images/series1/ep04/slide-068.webp",
-      "text": "In 1919, Thakur Pyarelal united the laborers of B.N.C. (Bengal Nagpur Cotton Mill) at Rajnandgaon, and in April 1920 the first long successful movement of the state took place.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 68: In 1919, Thakur Pyarelal united the laborers of B.N.C. (Bengal Nagpur Cotton Mill) at Rajnandgaon, a..."
-    },
-    {
-      "id": "s1e04-069",
-      "type": "content",
-      "image": "images/series1/ep04/slide-069.webp",
-      "text": "Between 1920 and 1937, there were three labor movements in the state. In 1920, the f irst Labor M ovement In 1920, Thakur Pyarelal led the first long and successful movement of the state.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 69: Between 1920 and 1937, there were three labor movements in the state. In 1920, the f irst Labor M ov..."
-    },
-    {
-      "id": "s1e04-070",
-      "type": "content",
-      "image": "images/series1/ep04/slide-070.webp",
-      "text": "He was supported by Shankar Khare and Shivlal Master in this movement. This movement lasted for 36 days.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 70: He was supported by Shankar Khare and Shivlal Master in this movement. This movement lasted for 36 d..."
-    },
-    {
-      "id": "s1e04-071",
-      "type": "content",
-      "image": "images/series1/ep04/slide-071.webp",
-      "text": "Giri arrived in Rajnandgaon in 1920 during this movement. Th is movement demanded that the working period of laborers should be fixed for 8 hours, along with an improvement in working conditions and an increase in wages.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 71: Giri arrived in Rajnandgaon in 1920 during this movement. Th is movement demanded that the working p..."
-    },
-    {
-      "id": "s1e04-072",
-      "type": "content",
-      "image": "images/series1/ep04/slide-072.webp",
-      "text": "Another follow major labor movement was held in 1924 and 1937. In 1924 , The Second la bor movement; the success of the first labor movement raised the spirits of the workers and in 1924 a second movement took place under the leadership of Thakur Pyarelal .",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 72: Another follow major labor movement was held in 1924 and 1937. In 1924 , The Second la bor movement;..."
-    },
-    {
-      "id": "s1e04-073",
-      "type": "content",
-      "image": "images/series1/ep04/slide-073.webp",
-      "text": "During the supper, a soldier came wearing shoes and kicked the utensils, causing the workers to furious, and also slapped a man who came with the soldier, on which the police took action and arrested about 13 labor leaders. Gaya, 1 person died and 2 were injured in this whole incident.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "The fire of armed revolt dims. A new kind of warrior emerges — one who fights with truth, with discipline, with sacrifice without violence. Their leader is coming. Next: Episode 5 — Awakening.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 73: During the supper, a soldier came wearing shoes and kicked the utensils, causing the workers to furi..."
-    },
-    {
-      "id": "s1e04-074",
-      "type": "content",
-      "image": "images/series1/ep04/slide-074.webp",
-      "text": "Due to this movement, the British formed the Jackson Commission to consider the demands of the workers. The Third Labor Movement 1937 ; on 16 November 1936, Thakur Pyarelal, the leader of the laborers, was banned from entering the princely state by the Diwan of the Rajnandgaon princely state.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 74: Due to this movement, the British formed the Jackson Commission to consider the demands of the worke..."
-    },
-    {
-      "id": "s1e04-075",
-      "type": "content",
-      "image": "images/series1/ep04/slide-075.webp",
-      "text": "The mill owners tried to break the unity of the workers and reduced the wages by 10%. Pyarelal could not come to the princely state, so he distributed leaflets and reached the laborers through his talks and continued the strike.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 75: The mill owners tried to break the unity of the workers and reduced the wages by 10%. Pyarelal could..."
-    },
-    {
-      "id": "s1e04-076",
-      "type": "content",
-      "image": "images/series1/ep04/slide-076.webp",
-      "text": "The mill owners eventually succumbed and the movement was successful. During the Third Labor Movement, the labor leader Ruikar established the Rajnandgaon State Congress on 1 August 1938.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 76: The mill owners eventually succumbed and the movement was successful. During the Third Labor Movemen..."
-    },
-    {
-      "id": "s1e04-077",
-      "type": "content",
-      "image": "images/series1/ep04/slide-077.webp",
-      "text": "In 1922, Nagari- Sihawa Jungle Satyagraha During the British Raj, forest production was declared offic ial by the British government, w hich simply meant ending the traditional rights of the tribals. Even the firewood obtained from the forest was banned, if the cattle of the tribals entered the forest, the cattle would be taken captive.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 77: In 1922, Nagari- Sihawa Jungle Satyagraha During the British Raj, forest production was declared off..."
-    },
-    {
-      "id": "s1e04-078",
-      "type": "content",
-      "image": "images/series1/ep04/slide-078.webp",
-      "text": "At that time the tribals were dependent on the forest, and even today most of the tribal class is dependent on the forest. Along with the ban on forest produce, the officials there used to take wages from the tribals at a lower rate and forced labor from them.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 78: At that time the tribals were dependent on the forest, and even today most of the tribal class is de..."
-    },
-    {
-      "id": "s1e04-079",
-      "type": "content",
-      "image": "images/series1/ep04/slide-079.webp",
-      "text": "For their small needs, the tribals started stumbling here and there. The tribal community, whose right on the forest is the first, was evicted from their own right.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 79: For their small needs, the tribals started stumbling here and there. The tribal community, whose rig..."
-    },
-    {
-      "id": "s1e04-080",
-      "type": "content",
-      "image": "images/series1/ep04/slide-080.webp",
-      "text": "On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the reserved forest and started t",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 80: On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the..."
-    },
-    {
-      "id": "s1e04-081",
-      "type": "content",
-      "image": "images/series1/ep04/slide-081.webp",
-      "text": "On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the reserved forest and started t",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 81: On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the..."
-    },
-    {
-      "id": "s1e04-082",
-      "type": "content",
-      "image": "images/series1/ep04/slide-082.webp",
-      "text": "On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the reserved forest and started t",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 82: On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the..."
-    },
-    {
-      "id": "s1e04-083",
-      "type": "content",
-      "image": "images/series1/ep04/slide-083.webp",
-      "text": "On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the reserved forest and started t",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 83: On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the..."
-    },
-    {
-      "id": "s1e04-084",
-      "type": "content",
-      "image": "images/series1/ep04/slide-084.webp",
-      "text": "On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the reserved forest and started t",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 84: On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the..."
-    },
-    {
-      "id": "s1e04-085",
-      "type": "content",
-      "image": "images/series1/ep04/slide-085.webp",
-      "text": "On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the reserved forest and started t",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Veer Narayan Singh at Jaistambh Chowk Raipur, 1857 cannon, British execution ground, 17 martyrs, colonial justice. Slide 85: On January 21, 1922, the tribal community entered the forest and as a protest brought wood from the..."
+      "visualDescription": "Dawn over Chhattisgarh — the first light of the 20th century touching the Sal forests and the forts. A new day. A new method. The charkha beginning to turn in a dark room, its thread catching the morning light. Title: Episode 5 — Awakening."
     }
   ]
 }

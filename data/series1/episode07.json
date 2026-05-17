@@ -2,1028 +2,341 @@
   "series": 1,
   "episode": 7,
   "title": "The Invitation",
-  "duration": "~40 min",
-  "slideCount": 85,
+  "duration": "~20 min",
+  "slideCount": 37,
   "slides": [
     {
       "id": "s1e07-001",
       "type": "title",
       "image": "images/series1/ep07/slide-001.webp",
-      "text": "was arranged in the enclosure of Seth Hussain. It was impossible to reach the gathering place by the motor by crossing the sea. At that time, Omar Seth, a businessman from Gurur, lifted Gandhi on his shoulder and took him to the stage.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Pt. Sharma informed Gandhi about the Kandel Satyagraha and accompanied him to Raipur. By this time, Gandhi's personality had already had an impact on the British. The mere announcement of his visit had won the Satyagraha before he arrived.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 1: was arranged in the enclosure of Seth Hussain. It was impossible to reach the gathering place by the..."
+      "visualDescription": "Title card: Pt. Sundarlal Sharma speaking to Gandhi in a lamplit train compartment. Night outside the window. Two profiles — the architect of Chhattisgarh's awakening and the leader of India's freedom. A meeting that changes everything. Ink illustration."
     },
     {
       "id": "s1e07-002",
       "type": "content",
       "image": "images/series1/ep07/slide-002.webp",
-      "text": "Bajirao Kridatta prese nted a bag of Rs 501 to Gandhi . In his hour-long address, he referred to Chhotilal Babu, Narayan Rao Meghawale , and Pt. Sundarlal Sharma for the successful operation of the Kandel Canal Satyagraha, while highlighting the importance of a true, non-violence-based Satyagraha .",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "Calcutta, December 2, 1920. The city buzzes with Congress energy. The Nagpur session is weeks away. Leaders from across India are converging, travelling, organising. Among them: Pt. Sundarlal Sharma, arriving from Chhattisgarh with a specific mission.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 2: Bajirao Kridatta prese nted a bag of Rs 501 to Gandhi . In his hour-long address, he referred to Chh..."
+      "visualDescription": "Calcutta, December 1920 — a busy colonial city on the eve of the Nagpur Congress. Railway station filled with political leaders from across India. Pt. Sundarlal Sharma — travel-worn, determined — arriving with one purpose: to find Gandhi."
     },
     {
       "id": "s1e07-003",
       "type": "content",
       "image": "images/series1/ep07/slide-003.webp",
-      "text": "The result of Gandhi's influence was that more than 500 activists from Dhamtari attended the Nagpur session. After returning from Dhamtari, Gandhi addressed a women's gathering at Machilabad in Tatyapara, Raipur. A large number of Muslim women attended the meeting.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Gandhi was about to come from Calcutta to Nagpur. He would be passing through — and Chhattisgarh lay directly on the route. The logic was simple: if Gandhi was coming this far, a brief detour through Raipur would change Chhattisgarh forever.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 3: The result of Gandhi's influence was that more than 500 activists from Dhamtari attended the Nagpur..."
+      "visualDescription": "A railway map showing the Calcutta-Nagpur route. Raipur visible between them — just slightly off the main line but close enough. Sharma's finger tracing the route. The geography of opportunity. A brief detour with century-long consequences."
     },
     {
       "id": "s1e07-004",
       "type": "content",
       "image": "images/series1/ep07/slide-004.webp",
-      "text": "The women openly donated to the Tilak Fund. Gandhi had elaborated on the outline of the Non-Cooperation Movement in these meetings. The Ali brothers, while giving speeches on the Khilafat Movement, emphasized on Hindu-Muslim unity.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "Sharma found Gandhi and told him about the Kandel Canal Satyagraha — the false tax, the farmers' courage, the British concession. Gandhi listened with the attention he always gave to local struggles. He agreed to stop at Raipur.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 4: The women openly donated to the Tilak Fund. Gandhi had elaborated on the outline of the Non-Cooperat..."
+      "visualDescription": "The meeting in Calcutta — Sharma standing before Gandhi, telling the story of Kandel with quiet intensity. Gandhi seated, listening completely. No aides, no ceremony. Two men and a story that would become history. The moment of agreement."
     },
     {
       "id": "s1e07-005",
       "type": "content",
       "image": "images/series1/ep07/slide-005.webp",
-      "text": "Gandhi also went to the Jaitasava monastery of the old settlement. Abbas Bhai soon got the punishment for taking Gandhi to Dhamtari by sitting in the motor. The license of his transport company Raipur Bus Service was canceled.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "Gandhi was accompanied on this journey by the Ali brothers — Maulana Shaukat Ali and Muhammad Ali — the towering leaders of the Khilafat Movement. Their joint travel symbolised the unity of the Khilafat and Non-Cooperation movements.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 5: Gandhi also went to the Jaitasava monastery of the old settlement. Abbas Bhai soon got the punishmen..."
+      "visualDescription": "The train from Calcutta: Gandhi, Shaukat Ali, Muhammad Ali seated together in a compartment. Three leaders of different backgrounds traveling toward the same destination — Nagpur, and now Raipur. The Khilafat and Non-Cooperation united in one journey."
     },
     {
       "id": "s1e07-006",
       "type": "content",
       "image": "images/series1/ep07/slide-006.webp",
-      "text": "Mahatma Gandhi went directly to Nagpur from Raipur. A Congress session was held there. Pandit Ravi Shankar Shukla, Barrister CM Thakkar, Thakur Pyarelal Singh , and Pt .",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "Sharma accompanied Gandhi on the train from Calcutta. Through the night, through the forests of the Central Provinces, toward Chhattisgarh. Sharma carried in his memory every name, every story, every village that was waiting. He was the bridge.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 6: Mahatma Gandhi went directly to Nagpur from Raipur. A Congress session was held there. Pandit Ravi S..."
+      "visualDescription": "The night train crossing into Chhattisgarh. Through the window: Sal forest, stars, the occasional lamp of a village. Sharma awake, looking out the window with the expression of a man bringing something precious home. Gandhi asleep beside him."
     },
     {
       "id": "s1e07-007",
       "type": "content",
       "image": "images/series1/ep07/slide-007.webp",
-      "text": "Sakharam Dubey also went to Nagpur to hear the non-cooperation movement from Raipur. Khubchand Baghel was studying medic ine in Nagpur. He also attended the session as a member of the Medical Corps.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "In Raipur, preparations were complete. Pt. Ravi Shankar Shukla, Thakur Pyarelal Singh, Sakharam Dubey — the leaders of Chhattisgarh's Congress movement — waited on the platform. Behind them: a city that had been preparing for years without knowing what it was preparing for.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 7: Sakharam Dubey also went to Nagpur to hear the non-cooperation movement from Raipur. Khubchand Baghe..."
+      "visualDescription": "Raipur station platform at dawn, December 20, 1920. Leaders in the front — Shukla, Pyarelal Singh, Dubey — flower garlands in hand. Behind them, hundreds of people pressing forward. The crowd of a city that has made itself ready."
     },
     {
       "id": "s1e07-008",
       "type": "content",
       "image": "images/series1/ep07/slide-008.webp",
-      "text": "Madhavrao Sapre was also present in Nagpur. They were touring across the state and were successful in making the convention successful. As soon as he returned from the session, local leaders started campaigning for the non- cooperati ve movement.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 8: Madhavrao Sapre was also present in Nagpur. They were touring across the state and were successful i..."
+      "text": "The train pulled in. Leaders from first class and second class compartments descended — Dadasaheb Khaparde, Dr. Munje. The crowd looked for Gandhi among them. He was not there. Then someone said: he is in the third-class compartment.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The train arriving at Raipur. First-class passengers descending — Khaparde, Munje, important figures. The crowd searching their faces. No Gandhi. Then: a voice from the back of the crowd — he is in third class. The crowd turns and surges toward the other end."
     },
     {
       "id": "s1e07-009",
       "type": "content",
       "image": "images/series1/ep07/slide-009.webp",
-      "text": "The lawyers left the advocacy among them Thakur Pyarelal Singh and Pt. Ravi Shankar Shukla, a prominent leader of the Congress, continued his advocacy. District Council Chairman Yadav Rao Deshmukh resigned from the post.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 9: The lawyers left the advocacy among them Thakur Pyarelal Singh and Pt. Ravi Shankar Shukla, a promin..."
+      "text": "As captured by eyewitness Prabhu Lal Kabra: 'Gandhi, wearing a Lungi and Bandage Kurta, was standing at the door of the third-class compartment with folded hands, till then the train started moving.' The train was still in motion as Gandhi namasted the people of Chhattisgarh.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The third-class compartment door — Gandhi in his simple dhoti and bandage kurta, hands folded in namaste, the train still slowly moving. The crowd surging forward. The image of simplicity against the backdrop of an enormous welcome. The first sight of Gandhi."
     },
     {
       "id": "s1e07-010",
       "type": "content",
       "image": "images/series1/ep07/slide-010.webp",
-      "text": "Raosaheb Vamanrao Lakhe, Raisahab barrister C. Thakkar, Seth Gopikishan, Khanbahadur Shamsher Khan renounced their titles. The peo ple of Raipur conferred Vamanrao Lakhe with the title of Popular on the same day.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 10: Raosaheb Vamanrao Lakhe, Raisahab barrister C. Thakkar, Seth Gopikishan, Khanbahadur Shamsher Khan r..."
+      "text": "'Seeing Gandhi going in the third class, the public got emotional after realising his simplicity and people became convinced that only Gandhi can lead the poor and downtrodden Indian people properly.' Prabhu Lal Kabra's words carry thirty years of memory.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Close-up of faces in the crowd at Raipur station — emotion breaking across them like a wave as they see Gandhi in third class. Some touching their hearts, some with hands over mouths. The moment of realisation: this man is genuinely like us."
     },
     {
       "id": "s1e07-011",
       "type": "content",
       "image": "images/series1/ep07/slide-011.webp",
-      "text": "Barrister Thakkar was a candidate in the assembly elections, he boycotted the election. \"I am like an elephant and Gandhi is like a goat\" Speeches of Gandhi and Maulana Shaukat Ali were held in the massive presence of a crowd of about 1 5 thousand people , Gandhi gave the message of patriotism and was active in national programs to all. Shaukat Ali jocularly said, \"I am like an elephant and Gandhi is like a goat\", people laughed a lot at this.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 11: Barrister Thakkar was a candidate in the assembly elections, he boycotted the election. 'I am like a..."
+      "text": "Gandhi was lodged in Barrister Thakkar's bungalow in Raipur. The Ali brothers stayed with him. The leaders of Chhattisgarh's freedom movement gathered in that bungalow — the first time so many of them had been in one room with the man they had been preparing to receive.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "Barrister Thakkar's bungalow, Raipur — a fine colonial building. Gandhi being welcomed at the entrance. Leaders of the Chhattisgarh movement crowded into the courtyard. The Ali brothers arriving. A gathering of purpose and history in one bungalow."
     },
     {
       "id": "s1e07-012",
       "type": "content",
       "image": "images/series1/ep07/slide-012.webp",
-      "text": "Then Maulana Shaukat Ali further said that, \"E ven if I die, it will not be of any use, but Gandhi is still useful for everyone, and will remain useful even after death \" . Then people understood the context of the elephant and the goat. Raipur District Congress Committee In the 1920's visit, Gandhi stayed for only one day, but he had woven the dream of independent India in the people of Chhattisgarh , and seeing the resentment among the people against the British, had awakened the spirit of patriotism into the people.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "establishing",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 12: Then Maulana Shaukat Ali further said that, 'E ven if I die, it will not be of any use, but Gandhi i..."
+      "text": "That evening: the massive public meeting at the ground near Kankalipara — what would become Gandhi Chowk. Shaukat Ali spoke first. He jocularly said: 'I am like an elephant and Gandhi is like a goat.' The crowd laughed.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "building",
+      "visualDescription": "The evening meeting at Kankalipara ground. Shaukat Ali at the podium — massive, commanding, speaking with humour. Gandhi seated beside him, small, still, smiling slightly. The crowd's laughter rippling outward. Wit in service of truth."
     },
     {
       "id": "s1e07-013",
       "type": "content",
       "image": "images/series1/ep07/slide-013.webp",
-      "text": "At the same time the Raipur District Congress Committee was formed, and Pt. Ravi Shankar Shukla was made its first secretary. Gandhi traveling in the third class The way the people experienced Gandhi's personality in this journey is as follows in the words of freedom fighter Prabhu Lal Kabra: \"I saw Gandhi on the platform of Raipur, in the same postal train, Dadasaheb Khapard, Dr.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Then Shaukat Ali continued: 'Even if I die, it will not be of any use, but Gandhi is still useful for everyone, and will remain useful even after death.' Then people understood the context of the elephant and the goat. Laughter became reverence.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 13: At the same time the Raipur District Congress Committee was formed, and Pt. Ravi Shankar Shukla was..."
+      "visualDescription": "The crowd's expression shifting — from laughter to deep understanding. The philosophical weight of Shaukat Ali's words settling over 15,000 people. Gandhi still seated, unchanged. His smallness suddenly immense. The goat that outlasts the elephant."
     },
     {
       "id": "s1e07-014",
       "type": "content",
       "image": "images/series1/ep07/slide-014.webp",
-      "text": "Munje, etc. were going to Calcutta . All these leaders got down from the first class or second class compartment on the platform but Gandhi was not visible in them and the eyes of the crowd were looking for Gandhi. Someone told that he was sitting in the third-class compartment, the public ran on the same side and people saw that Gandhi, wearing a Lungi and Bandage Kurta , was standing at the door of the third-class compartment with folded hands, till then the train started moving.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
+      "text": "Gandhi spoke. He outlined the Non-Cooperation Movement. He collected contributions for the Tilak Swaraj Fund. The women of Machilabad attended openly, donating gold and silver. Muslim and Hindu women standing together for the same cause.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 14: Munje, etc. were going to Calcutta . All these leaders got down from the first class or second class..."
+      "visualDescription": "Gandhi at the Kankalipara podium — his voice carrying across 15,000 people in the December evening. His bag spread before him. Women pressing forward with jewelry. The Tilak Fund filling with gold, silver, and coin. Unity made tangible and material."
     },
     {
       "id": "s1e07-015",
       "type": "content",
       "image": "images/series1/ep07/slide-015.webp",
-      "text": "There was only one thing on the face of the people around, that seeing Gandhi going in the third class, the public got emotional after realizing his simplicity and people became convinced that only Gandhi can lead the poor and downtrodden Indian people properly.\" The tilting point of Quit India was a quarter of a century away. Having partook in the South African civil rights movement, and having served paradoxically,non -violently, in the heat of battle with his ambulance brotherhood, he was preparing for a peaceful assault on the jewel in the Crown. His earliest expedient was a recce, a Bharat darshan of the kind that a contemporary Gandhi hazards now and also, with indifferent results.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
+      "text": "The Raipur District Congress Committee was founded that same evening, with Ravi Shankar Shukla as its first secretary. A permanent organisation born from a single night's gathering. What began as a reception became the birth of an institution.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 15: There was only one thing on the face of the people around, that seeing Gandhi going in the third cla..."
+      "visualDescription": "The founding moment of the Raipur DCC — Shukla signing the papers by torchlight, Gandhi nearby, Ali brothers witnessing. The formalisation of thirty years of patient preparation. An organisation now exists where before there was only conscience."
     },
     {
       "id": "s1e07-016",
       "type": "content",
       "image": "images/series1/ep07/slide-016.webp",
-      "text": "Mohandas did it more totally, criss- crossing the country by rail over two and a half times. He spent between six and nine months of that time in third-class chambers, traveling from Karachi to Calcutta, from Lahore to Tranquebar. \"Following the Amritsar Congress of 1919, at which the Khilafat Movement was endorsed and Non-Co-0pration was adopted as a political weapon, the District Conference was held at Raipur in the year1920.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
+      "text": "The next morning, December 21. Abbas Bhai's motor waits at Azad Chowk. The party assembles — Gandhi, the Ali brothers, Pt. Sharma. They are going to Dhamtari. The farmers of Kandel, who have already won, are waiting to see the man who won it for them.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 16: Mohandas did it more totally, criss- crossing the country by rail over two and a half times. He spen..."
+      "visualDescription": "December 21 dawn. Abbas Bhai's motor at Azad Chowk, Raipur. Gandhi and the Ali brothers boarding. The road to Dhamtari stretching ahead through the winter Chhattisgarh landscape. The mission: to honour the Kandel Satyagrahis in person."
     },
     {
       "id": "s1e07-017",
       "type": "content",
       "image": "images/series1/ep07/slide-017.webp",
-      "text": "A public meeting was held on 17 March 1920 and a Khilafat sub-committee was formed. When Asgar Ali thanked the Hindu brethren for their sympathy for the Muslim cause, Ravi Shankar Shukla retorted, \"We are no more Hindu and Muslims, but Hindustanis in the strictest sense.\" Such was the spirit of those times. Those were the days of brisk and militant political activities.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
+      "text": "The road to Dhamtari was filled with people. Villages on both sides of the road, people standing on rooftops, children in trees, farmers abandoning their fields to stand and catch one glimpse of the man. A nation on foot, making itself present.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 17: A public meeting was held on 17 March 1920 and a Khilafat sub-committee was formed. When Asgar Ali t..."
+      "visualDescription": "The Raipur-Dhamtari road in December 1920 — people lining both sides, standing on rooftops, children in trees. Abbas Bhai's motor moving slowly through the living corridor of humanity. Gandhi's hand raised in continuous greeting. The road as a river of people."
     },
     {
       "id": "s1e07-018",
       "type": "content",
       "image": "images/series1/ep07/slide-018.webp",
-      "text": "Just before the Nagpur session of the Congress, Mahatma Gandhi visited Raipur, with the Ali brothers, on 20 December 1920 in connection with Tilak Fund and Swarajya Fund. Gandhiji visited Dhamtari and Kurud also, where people expressed their regard by a good deal of contribution to the Fund. It was in such an atmosphere that the Raipur District Committee was formed.\" - Gazetteer of India, Madhya Pradesh, District Raipur, 1973 1933: Mahatma Gandhi's S econd Visit to Chhattisgarh Tilak &amp; Swaraj Fund November 22, Gandhi Reached Durg, addressed the public gathering in Durg, left for Raipur in the same night, a historic procession from Amapara to Budhapara, in Ra i pur.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "A police officer tried to stop the bus driver from taking Gandhi's group. Abbas Bhai stepped forward and drove them in his own vehicle. The simple courage of an ordinary man. Later, his transport license would be cancelled. He paid the price without regret.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 18: Just before the Nagpur session of the Congress, Mahatma Gandhi visited Raipur, with the Ali brothers..."
+      "visualDescription": "Abbas Bhai confronting the police officer — not with anger but with quiet determination. Then at the wheel of his motor, driving the party forward. His face in the rear-view mirror: calm, committed. A man who knew exactly what he was risking and drove anyway."
     },
     {
       "id": "s1e07-019",
       "type": "content",
       "image": "images/series1/ep07/slide-019.webp",
-      "text": "November 23, Visit Khadi and Swadeshi Exhibition at Victoria Garden (Motibagh), public meeting at Moudapara, visit Satnam Samaj Ashram and Orphanage. November 24, Public m eeting in Bilaspur, returned to Raipur by train, another public meeting in Lauri e School (present Sapre School) November 25, Public Meeting in Dhamtari . November 26, Visit to Saragaon, Kharora, Palari, Kanaki, Balodabazar, and Simga November 27, Dumartarai, Mana, Abhanpur, Bhotidih, Maraud, Kurud November 28, Left for Balaghat, from where he went to Katni.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 19: November 23, Visit Khadi and Swadeshi Exhibition at Victoria Garden (Motibagh), public meeting at Mo..."
+      "text": "Makai Chowk, Dhamtari. A crowd beyond any count. The enclosure of Seth Hussain overflowing. The motor cannot push through. Omar Seth of Gurur sees what needs to be done. He lifts Gandhi onto his shoulders and carries him to the stage.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Makai Chowk — an ocean of people. Omar Seth — large, powerful — lifting Gandhi onto his shoulders. Gandhi above the crowd, hand raised, smiling. A sea of upturned faces. One man carrying another so that thousands can see. The image of the movement itself."
     },
     {
       "id": "s1e07-020",
       "type": "content",
       "image": "images/series1/ep07/slide-020.webp",
-      "text": "For the first time, a rush of people arriving from far and wide was visible in the urban areas. In the cities where Gandhi had meetings, people were arriving a week ago, either on foot or by Bailgadi (bull cart). Even before coming to the city, he was being accorded a grand welcome on the road, almost at all the places where his journeys were according to the schedule, the craze of the people on the route was such that, People were showering flowers and coins on Gandhi, almost everywhere where Gandhi went, it was difficult to handle the crowd.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 20: For the first time, a rush of people arriving from far and wide was visible in the urban areas. In t..."
+      "text": "Gandhi spoke for an hour. He praised Babu Chhotelal Srivastava by name — the man who had led the Kandel Satyagraha with quiet determination. For Srivastava, hearing his name from Gandhi's lips before 15,000 people was the defining moment of his life.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Gandhi at the Dhamtari podium, pointing toward Babu Chhotelal Srivastava in the crowd. Srivastava's face: the overwhelming emotion of being honoured by the person whose name won your battle. The crowd turning to see him. A hero named."
     },
     {
       "id": "s1e07-021",
       "type": "content",
       "image": "images/series1/ep07/slide-021.webp",
-      "text": "Gandhi ' s second journey in Chhattisgarh was more than a week - long, Gandhi had set out in different areas of Chhattisgarh, The primary responsibility of arranging Gandhi's visit to Chhattisgarh was on the Pt. Ravi Shankar Shukla, but since no t a single person was accompanying him throughout the journey, So it was not possible to get the details of his entire journey from any one person. But the towns and villages he passed through, people remembered his tales and stories deeply, and various writers and permanent journalists compiled it over time, which are available in fractions of stories from different cities and places.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 21: Gandhi ' s second journey in Chhattisgarh was more than a week - long, Gandhi had set out in differe..."
+      "text": "Bajirao Kridatta presented Rs 501 to Gandhi in the name of the Tilak Swaraj Fund. More than 500 activists committed to attend the Nagpur Congress session. The movement was not just witnessed — it was joined.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The contribution at Dhamtari — Bajirao Kridatta presenting a bag of Rs 501 to Gandhi. 500 raised hands committing to Nagpur. The meeting as recruitment, as commitment, as formal joining of the national movement. Dhamtari choosing its side."
     },
     {
       "id": "s1e07-022",
       "type": "content",
       "image": "images/series1/ep07/slide-022.webp",
-      "text": "Gandhi ' s second arrival in Chhattisgarh took place on 22 November 1933 in Durg district. Gandhi was accompanied by his secretary Mahadev Desai, Thakkar Bapa, Kumari Meera Ben (Madelaine Slade), and Jamunalal Bajaj ' s daughter Madalsa Narayan also came to Raipur. O n this journey , he went to places like Durg, Dhamtari, Bhatapara, Bilaspur , etc.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 22: Gandhi ' s second arrival in Chhattisgarh took place on 22 November 1933 in Durg district. Gandhi wa..."
+      "text": "Shaukat Ali and Muhammad Ali addressed the Muslim gathering at Yateemkhana in Dhamtari, December 21. The Khilafat message given in the same town where the Kandel Satyagraha had just succeeded. Two movements meeting in one geography.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Yateemkhana, Dhamtari — a Muslim community gathering. Shaukat Ali speaking — his large frame at the podium, his voice powerful. The Khilafat Movement addressing its community in the same town as the Kandel Satyagraha. Convergence of national causes."
     },
     {
       "id": "s1e07-023",
       "type": "content",
       "image": "images/series1/ep07/slide-023.webp",
-      "text": "U ntouchability was the main reason of Gandhi's second arrival , during his visit to Chhattisgarh , he came to know that the work of untouchability is a lready going on in Chhattisgarh, from 1917 by Pt . Gandhi was happy to know this and he said to P t. Harijan Uddhar me aap mere bhi guru hain \" ( You are even my G uru in Untouchability salvation or y ou are better than me in untouchability salvation ).",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 23: U ntouchability was the main reason of Gandhi's second arrival , during his visit to Chhattisgarh ,..."
+      "text": "The evening meeting back in Raipur — the massive gathering at Kankalipara near the Anand Samaj library. A drama had played the night before on this same stage. Now it holds Gandhi, the Ali brothers, 15,000 people, and the birth of an organisation.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "Kankalipara ground, evening of December 21. The stage that hosted a drama the night before now hosting Gandhi. 15,000 people under the stars. The contrast: yesterday's drama, tonight's history. The same ground, a different kind of theatre."
     },
     {
       "id": "s1e07-024",
       "type": "content",
       "image": "images/series1/ep07/slide-024.webp",
-      "text": "Gandhi in Durg November 22, Gandhi Reached Durg, addressed the public gathering in Durg, left for Raipur in the same night, a historic procession from Amapara to Budhapara, Ra i pur. On 22 November at Durg, Gandhi asked about the things to be seen here. Gupta a leader from Durg, told him about the school where since 1926 the children of upper castes and Harijans were studying sitting on the same sackcloth.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 24: Gandhi in Durg November 22, Gandhi Reached Durg, addressed the public gathering in Durg, left for Ra..."
+      "text": "After the meeting, those with reverence took bricks from the stage as mementos. The stage itself was dismantled piece by piece out of pure devotion. What was built to hold Gandhi's meeting was taken apart by the people who loved him.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "After the meeting — people reverently taking bricks from the stage. Hands reaching, faces solemn and joyful. The stage disappearing into the crowd, distributed among thousands as sacred objects. The material of Gandhi's presence made holy by touch."
     },
     {
       "id": "s1e07-025",
       "type": "content",
       "image": "images/series1/ep07/slide-025.webp",
-      "text": "This school was established in 1925. On the same day in the evening , a huge public meeting was held o n the grounds of the Moti Bagh pond of the Durg . In the public meeting, Gandhi delivered a speech.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 25: This school was established in 1925. On the same day in the evening , a huge public meeting was held..."
+      "text": "Gandhi visited the Jaitasava monastery that evening. A moment of spiritual stillness inside the motion of the political movement. The meeting of Gandhian activism and the religious life of Chhattisgarh — both present, both real.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "climax",
+      "visualDescription": "The Jaitasava monastery — ancient, quiet, sacred. Gandhi entering barefoot, head bowed. The monks receiving him. The activist entering a space of contemplation. Politics and spirituality meeting in a monastery courtyard. A man of action in a place of prayer."
     },
     {
       "id": "s1e07-026",
       "type": "content",
       "image": "images/series1/ep07/slide-026.webp",
-      "text": "Gandhi also had food while sitting with the children of the untouchable class at Baithd School located at Shanichari Bazar. Gandhi in Raipur , November 23 Gandhi reached Raipur by motor on the same night, addressing a huge gathering in the Durg at 9 p.m. as a procession from Amapara School (P resent-day RD Tiwari School) he reached the residence of Pt. Ravishankar Shukla at B udhapara .",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 26: Gandhi also had food while sitting with the children of the untouchable class at Baithd School locat..."
+      "text": "December 22, 1920. Gandhi departs from Raipur station for Nagpur. His three days in Chhattisgarh are over. But in those three days, a Satyagraha was honoured, a Congress committee was founded, and 15,000 people were changed.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Raipur station, December 22 morning. Gandhi at the platform, bag in hand, the Ali brothers beside him. Shukla, Sharma, Srivastava seeing them off. The train departing slowly. The crowd on the platform watching until the last carriage disappears."
     },
     {
       "id": "s1e07-027",
       "type": "content",
       "image": "images/series1/ep07/slide-027.webp",
-      "text": "The crowd can only be estimated from the fact that it took them more than three hours to reach Shukla Niwas from Amapara. His A arti (welcoming prayers) was performed every few step s , Mahatma Gandhi was loaded with flower garlands. Flowers and pylons were decorated on both sides of the road and lamps were lit all the way.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 27: The crowd can only be estimated from the fact that it took them more than three hours to reach Shukl..."
+      "text": "What did Pt. Sundarlal Sharma's invitation achieve? A Satyagraha won, a DCC founded, 500 people committed to Nagpur, the Tilak Fund enriched, and the name of Gandhi now spoken in every village of Chhattisgarh. Everything. The invitation achieved everything.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The cascading consequences of the invitation: the Kandel victory, the DCC founding, the Nagpur commitments, the Tilak Fund, and the name Gandhi spreading across Chhattisgarh like a wave. Sharma's simple journey to Calcutta made visible in its full consequence."
     },
     {
       "id": "s1e07-028",
       "type": "content",
       "image": "images/series1/ep07/slide-028.webp",
-      "text": "Such a historical welcome can only be from the heart emperor. Gandhi lived in Raipur till 28 November. He would visit other cities in the morning and take meetings and return for the rest of the night.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 28: Such a historical welcome can only be from the heart emperor. Gandhi lived in Raipur till 28 Novembe..."
+      "text": "Pt. Sundarlal Sharma — who went to Calcutta alone, found Gandhi, told him about Kandel, and brought him to Raipur — is the unacknowledged architect of this entire moment. Without his journey, Gandhi would have gone to Nagpur without stopping.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Pt. Sundarlal Sharma alone at Calcutta station, the city behind him — the moment before he found Gandhi. His journey. His decision. His action. The pivot of history in the form of one man's railway ticket. The bridge that made the meeting possible."
     },
     {
       "id": "s1e07-029",
       "type": "content",
       "image": "images/series1/ep07/slide-029.webp",
-      "text": "Gandhi and the broke n wall On 23 November, Gandhi came for the Khadi and Swadeshi exhibition at Victoria Garden ( Presently know as Moti Bagh ) at four in the evening. Yati yatan wrote in his diary , \" There was a crowd of more than one lakh on this occasion.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 29: Gandhi and the broke n wall On 23 November, Gandhi came for the Khadi and Swadeshi exhibition at Vic..."
+      "text": "The Khilafat and Non-Cooperation movements, traveling together on this journey, represented Gandhi's greatest political achievement: the unity of Hindu and Muslim Indians against colonial rule. In Chhattisgarh, this unity was not abstract — it was a room, a motor, a stage.",
+      "animation": {"type": "zoomIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The unity of the visit made concrete — Gandhi and Ali brothers in one motor, Hindu and Muslim women donating together, Shukla and Asgar Ali standing at the same podium. Unity not as principle but as practice, as daily lived reality in December 1920."
     },
     {
       "id": "s1e07-030",
       "type": "content",
       "image": "images/series1/ep07/slide-030.webp",
-      "text": "It was as if the Raipur district was overflowing. Wherever Narmund, only Narmund was seen. The crowd was so much that Gandhi ha d to be moved by another route \" .",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 30: It was as if the Raipur district was overflowing. Wherever Narmund, only Narmund was seen. The crowd..."
+      "text": "The Tilak Swaraj Fund collected in those three days — cash, gold rings, silver jewelry — was the material expression of a people's commitment. Not a donation to a cause, but a conversion of personal value into collective purpose.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The Tilak Swaraj Fund in close-up — gold rings, silver bracelets, coins of all denominations piled together. Each object was someone's most precious thing. Each one given willingly. The material form of commitment. Personal sacrifice made collective."
     },
     {
       "id": "s1e07-031",
       "type": "content",
       "image": "images/series1/ep07/slide-031.webp",
-      "text": "Ramdayal Tiwari, the author of Gandhi Mimam sa, was also present there. H e mention s that, \"˜ Welcoming Gandhi ' is a fierce display of people ' s reverence. As soon as his car arrived, the whole dam of the system broke.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 31: Ramdayal Tiwari, the author of Gandhi Mimam sa, was also present there. H e mention s that, '˜ Welco..."
+      "text": "Gandhi on the train to Nagpur. Sharma beside him. The Ali brothers in the next compartment. Outside: the forests and fields of Chhattisgarh passing. Behind them: a changed province. Ahead: the Nagpur session that will formally launch Non-Cooperation.",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The Nagpur-bound train moving through Chhattisgarh's landscape. Inside: Gandhi looking out the window, thoughtful. The land passing — its villages, its forests, its rivers. Behind the train: a changed province. Ahead: the next chapter of the freedom struggle."
     },
     {
       "id": "s1e07-032",
       "type": "content",
       "image": "images/series1/ep07/slide-032.webp",
-      "text": "Gandhi ' s car got caught in the whirlwind of the people, had it not been strong enough, it would have been crushed and crushed by the combined power of the people. In summary, Gandhi's reception was so uncontrollable that he went through a lot of difficult ies . The public rallies at the exhibition site and unfortunately the loudspeaker also deteriorated.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 32: Gandhi ' s car got caught in the whirlwind of the people, had it not been strong enough, it would ha..."
+      "text": "The Nagpur Congress session of December 26, 1920 would pass the Non-Cooperation resolution. Five hundred representatives from Dhamtari would be there. Chhattisgarh would not merely observe the national movement — it would vote for it.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The Nagpur Congress session — a vast gathering of delegates from across India. Among them: 500 from Dhamtari, Chhattisgarh. The Non-Cooperation resolution being put to vote. Chhattisgarh's hands raised among thousands. The region casting its vote for freedom."
     },
     {
       "id": "s1e07-033",
       "type": "content",
       "image": "images/series1/ep07/slide-033.webp",
-      "text": "No one could tell exactly what Gandhi said there. The back wall of the garden had to be broken to move out of the exhibition site. On 24 November Gandhi met and was greeted at Lorry School (currently Sapre School).",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 33: No one could tell exactly what Gandhi said there. The back wall of the garden had to be broken to mo..."
+      "text": "After the Nagpur session, the Non-Cooperation Movement would change every village in Chhattisgarh. Lawyers would leave their practices. Titles would be surrendered. Schools would be established. Khadi would be worn. The invitation had set all of this in motion.",
+      "animation": {"type": "zoomOut", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "A cascade of consequences: lawyers closing their offices, titles being surrendered, national schools opening, charkhas spinning, khadi being worn. All of this flowing from one journey — Sharma's invitation, Gandhi's acceptance, three days in Chhattisgarh."
     },
     {
       "id": "s1e07-034",
       "type": "content",
       "image": "images/series1/ep07/slide-034.webp",
-      "text": "They were presented with manne r s, placed in silver cages. Silver trunks were auctioned at the venue itself. The amount received was given in Harijan-Kosh.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 34: They were presented with manne r s, placed in silver cages. Silver trunks were auctioned at the venu..."
+      "text": "This was the first visit. Gandhi came as Mohandas — the lawyer, the organiser, the man of principle. He left having been transformed into something more in the eyes of Chhattisgarh: the proof that one person's presence could change everything.",
+      "animation": {"type": "panLeft", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Gandhi on the train — his profile in the window, the December light on his face. He is still Mohandas. But in the eyes of 15,000 people in Raipur and Dhamtari, something has shifted. The man and the myth beginning to merge. The first visit complete."
     },
     {
       "id": "s1e07-035",
       "type": "content",
       "image": "images/series1/ep07/slide-035.webp",
-      "text": "He attended the meeting held at Moudhapara. He also visited the Satnam Ashram and the orphanage. It is worth remembering that the Satnam Ashram was established by the efforts of Pt.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 35: He attended the meeting held at Moudhapara. He also visited the Satnam Ashram and the orphanage. It..."
+      "text": "Pt. Sundarlal Sharma — the bridge between Gandhi and Chhattisgarh — would continue his work through the 1920s and into the 1930s. When Gandhi returned in 1933 as The Mahatma, he would say of Sharma: 'You are even my Guru in the salvation of Harijans.'",
+      "animation": {"type": "panRight", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "Pt. Sundarlal Sharma in contemplation — a man whose life's work was about to be acknowledged by the person he admired most. Gandhi's future words visible as text: Harijan Uddhar mein aap mere bhi guru hain. A preview of the recognition thirteen years away."
     },
     {
       "id": "s1e07-036",
       "type": "content",
       "image": "images/series1/ep07/slide-036.webp",
-      "text": "When Gandhi was informed about this, the words that came out of his mouth were: \" Sundarlal Sharma is senior than me in the work of salvation of Harijans. Those who have done an ideal in conducting this important work of the country before me \" .",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 36: When Gandhi was informed about this, the words that came out of his mouth were: ' Sundarlal Sharma i..."
+      "text": "The invitation was extended by Pt. Sundarlal Sharma. It was accepted by Gandhi. It was received by 15,000 people in Raipur, 15,000 in Dhamtari, and every village and forest and field between them that heard the name Gandhi spoken afterward.",
+      "animation": {"type": "fadeIn", "duration": 15},
+      "emotion": "resolution",
+      "visualDescription": "The invitation completed — its ripples spreading outward from Raipur across the map of Chhattisgarh. Each village, each field, each river touched by the wave that began with one man's train ticket from Chhattisgarh to Calcutta and back again."
     },
     {
       "id": "s1e07-037",
       "type": "content",
       "image": "images/series1/ep07/slide-037.webp",
-      "text": "I am a Baniya: Mahatma Gandhi After inspecting the Satnam Ashram, Gandhi went to Kanhaiyalal Verma's house in Nayapara. There he addressed a women's gathering. After the speec h , he spread his bag for the Harijan fund.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 37: I am a Baniya: Mahatma Gandhi After inspecting the Satnam Ashram, Gandhi went to Kanhaiyalal Verma's..."
-    },
-    {
-      "id": "s1e07-038",
-      "type": "content",
-      "image": "images/series1/ep07/slide-038.webp",
-      "text": "Jetha Bai donat ed her gold ring. Gandhi said: \"I am a Baniya (tradesman), I will auction it\". and was auctioned at a meeting of Gandhi Chowk in a bid of Rs 500 for a ring of 15 rupees. Avoiding national defects Gandhi was invited to deliver a speech at Rajkumar College.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 38: Jetha Bai donat ed her gold ring. Gandhi said: 'I am a Baniya (tradesman), I will auction it'. and..."
-    },
-    {
-      "id": "s1e07-039",
-      "type": "content",
-      "image": "images/series1/ep07/slide-039.webp",
-      "text": "The principal was Smith Pearce. Children must come in contact with the British and take their virtues but try to avoid their national miseries like alcoholism and gambling \" . The prince of the Riyasat s of Chhattisgarh used to study in Rajkumar College.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 39: The principal was Smith Pearce. Children must come in contact with the British and take their virtue..."
-    },
-    {
-      "id": "s1e07-040",
-      "type": "content",
-      "image": "images/series1/ep07/slide-040.webp",
-      "text": "H e further said in his address: \" Unfortunately we think that the king is a king, he cannot have any relation with the common people.\" So we see that a separate school has to be opened for you. You do not dar e to get an education in ordinary schools.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 40: H e further said in his address: ' Unfortunately we think that the king is a king, he cannot have an..."
-    },
-    {
-      "id": "s1e07-041",
-      "type": "content",
-      "image": "images/series1/ep07/slide-041.webp",
-      "text": "The sense of untouchability is stigma. In such a situation, you have to act with the same courage as Prahlada. This idea is completely contrary to my understanding, that a person becomes a n upper caste or untouchable from birth.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 41: The sense of untouchability is stigma. In such a situation, you have to act with the same courage as..."
-    },
-    {
-      "id": "s1e07-042",
-      "type": "content",
-      "image": "images/series1/ep07/slide-042.webp",
-      "text": "A complaint was made to the Home Secretary about the audacity of Smith Pearce, the principal of Rajkumar College. Abbas Bhai's License seized In 1920, when Gandhi came to Raipur, then Abbas Bhai's motor ride to Gandhi came to Dhamtari. Gandhi and other leaders were to go to Dhamtari o n the bus.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "building",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 42: A complaint was made to the Home Secretary about the audacity of Smith Pearce, the principal of Rajk..."
-    },
-    {
-      "id": "s1e07-043",
-      "type": "content",
-      "image": "images/series1/ep07/slide-043.webp",
-      "text": "The police stopped the driver of the bus at the last moment. All the leaders were waiting for the bus in front of the Children's Society Library at Brahmanpara. When the driver did not come, Abbas Bhai took up the steering and took Gandhi to Dhamtari.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 43: The police stopped the driver of the bus at the last moment. All the leaders were waiting for the bu..."
-    },
-    {
-      "id": "s1e07-044",
-      "type": "content",
-      "image": "images/series1/ep07/slide-044.webp",
-      "text": "After a few days, the license of Abbas Bhai ' s Raipur Bus Service was canceled by Deputy Commissioner C . Gandhi in Dhamtari On 25 November, Gandhi met at Dhamtari at ten - thirty in the morning. He was presented with an honorarium on behalf of the Municipal Corporation of the Local Board.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 44: After a few days, the license of Abbas Bhai ' s Raipur Bus Service was canceled by Deputy Commission..."
-    },
-    {
-      "id": "s1e07-045",
-      "type": "content",
-      "image": "images/series1/ep07/slide-045.webp",
-      "text": "Gandhi auctioned the certificate in the assembly itself, a bid of 15 rupees was made. Meanwhile, a bundle of letters reached him. On his instructions, his secretary Mahadev Desai would reply to the letters.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 45: Gandhi auctioned the certificate in the assembly itself, a bid of 15 rupees was made. Meanwhile, a b..."
-    },
-    {
-      "id": "s1e07-046",
-      "type": "content",
-      "image": "images/series1/ep07/slide-046.webp",
-      "text": "Gandhi reached t he home of Chhotelal Srivastava, A women's meeting was held in front of his house. In the meeting, Gandhi called for an end to untouchability and discrimination of caste and creed. After the meeting, Satnam received fruits from the food brought by the head of the society.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 46: Gandhi reached t he home of Chhotelal Srivastava, A women's meeting was held in front of his house...."
-    },
-    {
-      "id": "s1e07-047",
-      "type": "content",
-      "image": "images/series1/ep07/slide-047.webp",
-      "text": "He was very impressed with the cleanliness of the Harijan locality. Call the Naapi It is about the Dhamtari incident. Hazarilal Jain: \"Bring the Naapi\" Dr.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 47: He was very impressed with the cleanliness of the Harijan locality. Call the Naapi It is about the D..."
-    },
-    {
-      "id": "s1e07-048",
-      "type": "content",
-      "image": "images/series1/ep07/slide-048.webp",
-      "text": "Jain kept asking the people who came with Gandhi, \" Someone told them the Naapi is called a hairdresser. \" Hazarilal rushed to Brahmapara and brought Makhan from there.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 48: Jain kept asking the people who came with Gandhi, ' Someone told them the Naapi is called a hairdres..."
-    },
-    {
-      "id": "s1e07-049",
-      "type": "content",
-      "image": "images/series1/ep07/slide-049.webp",
-      "text": "Makhan shaved Gan dhi after shaved Gandhi said to Hazarilal: ' On hearing this, Makhan fell at the feet of Gandhi and said: \"˜ Jekar Darasan Bar Laakhon Logan Taras Rahithen, Taun La Main Aaj Chhoo Lenv, Ihee Mor Nyochhaavar He ' ( \"˜ To whom millions of people yearn to see, I touched him myself, this is my reward ' .) Then the Gandhi said: \"˜ Feed a green grass of one and a quarter rupees to a cow '",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 49: Makhan shaved Gan dhi after shaved Gandhi said to Hazarilal: ' On hearing this, Makhan fell at the f..."
-    },
-    {
-      "id": "s1e07-050",
-      "type": "content",
-      "image": "images/series1/ep07/slide-050.webp",
-      "text": "Similarly, the Kuber from Raipur also got the opportunity to shave Gandhi. He too refused to take leave, but he also kept Gandhi's hair for years. Turmeric rice in a bundle From Dhamtari, a bundle fell in Mahatma Gandhi's motor at Cornaband Chowk in Raipur.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 50: Similarly, the Kuber from Raipur also got the opportunity to shave Gandhi. He too refused to take le..."
-    },
-    {
-      "id": "s1e07-051",
-      "type": "content",
-      "image": "images/series1/ep07/slide-051.webp",
-      "text": "The bundle was opened on Gandhi's instructions, it contained a turmeric lump, a little yellow rice, two cauldrons, a half-coin , and some flowers. It came out of Gandhi's mouth \"“ \" It is a gift of a true poor \" .",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 51: The bundle was opened on Gandhi's instructions, it contained a turmeric lump, a little yellow rice,..."
-    },
-    {
-      "id": "s1e07-052",
-      "type": "content",
-      "image": "images/series1/ep07/slide-052.webp",
-      "text": "A Potali (B undle ) was auctioned at the House of Nawapara-Rajim for 101 rupees. Gandhi near Nandghat , November 24 E arlier in the morning of November 24, Gandhi left for Bilaspur by an open car. Near Nandghat, an old lady stood in front of her car carrying a flower garland.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 52: A Potali (B undle ) was auctioned at the House of Nawapara-Rajim for 101 rupees. Gandhi near Nandgha..."
-    },
-    {
-      "id": "s1e07-053",
-      "type": "content",
-      "image": "images/series1/ep07/slide-053.webp",
-      "text": "Gandhi did not stay anywhere other than the scheduled program. But looking at the 70 - 75 -year- old wo man, he stopped the car and asked: \" \" The wo man said: \"˜I am a Harijan woman, I want to wash Gandhi's feet once before dying and offer them flowers' .",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 53: Gandhi did not stay anywhere other than the scheduled program. But looking at the 70 - 75 -year- old..."
-    },
-    {
-      "id": "s1e07-054",
-      "type": "content",
-      "image": "images/series1/ep07/slide-054.webp",
-      "text": "Gandhi said with a laugh: \" I'll take one rupee for that \" . Where does that poor old la dy come from?",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 54: Gandhi said with a laugh: ' I'll take one rupee for that ' . Where does that poor old la dy come fr..."
-    },
-    {
-      "id": "s1e07-055",
-      "type": "content",
-      "image": "images/series1/ep07/slide-055.webp",
-      "text": "The woman became frustrated. You stay here, Bab a, I am in search of my house.\" Gandhi thought more jest, he said: \"I don't have time to stop.\" Hearing the answer, the woman was shocked. At suddenly this poi nt, Gandhi put one foot forward, and t he old wo man's wish was complete.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 55: The woman became frustrated. You stay here, Bab a, I am in search of my house.' Gandhi thought more..."
-    },
-    {
-      "id": "s1e07-056",
-      "type": "content",
-      "image": "images/series1/ep07/slide-056.webp",
-      "text": "Gandhi in Bilaspur , November 24 When Gandhi had come to Chhattisgarh for the first time in 1920 under the Kandel Canal Satyagraha movement, he promised to come to Bilaspur soon at the request of the people of Bilaspur. Thirteen years had passed by the time Gandhi had promised to come to Bilaspur, but the people's craze for Gandhi had not diminished, and the proof of this is that like in Raipur, Dhamtari, Durg, people of Bilaspur and its surroundings started camping in Bilaspur weeks in advance to see and hear Gandhi as soon as the information of Gandhi's arrival was received. As soon as the information of Gandhi's arrival in Bilaspur was received, people in and around Bilaspur started camping in Bilaspur weeks before to see Gandhi.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 56: Gandhi in Bilaspur , November 24 When Gandhi had come to Chhattisgarh for the first time in 1920 und..."
-    },
-    {
-      "id": "s1e07-057",
-      "type": "content",
-      "image": "images/series1/ep07/slide-057.webp",
-      "text": "Barristers Chhedilal, Kunjbihari Agnihotri, Dr. Shivdulare Mishra, Amar Singh Sehgal were responsible for making Gandhi's arrival at Bilaspur successful and organizing the meeting. Gandhi was welcomed as soon as he reached the border area of \"‹\"‹ Bilaspur.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 57: Barristers Chhedilal, Kunjbihari Agnihotri, Dr. Shivdulare Mishra, Amar Singh Sehgal were responsibl..."
-    },
-    {
-      "id": "s1e07-058",
-      "type": "content",
-      "image": "images/series1/ep07/slide-058.webp",
-      "text": "At present, he was given a grand welcome near the place called Jarhabhatha Chowk . On 24 November 1933 , Gandhi reached Bilaspur at eight in the morning. The crowd started gathering in the city from dawn itself.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 58: At present, he was given a grand welcome near the place called Jarhabhatha Chowk . On 24 November 19..."
-    },
-    {
-      "id": "s1e07-059",
-      "type": "content",
-      "image": "images/series1/ep07/slide-059.webp",
-      "text": "At seven o'clock, different groups of people turned into a massive crowd, there was no place to walk on the main road, and Gandhi's motor was crawling like an ant. Gandhi had come to Bilaspur in an open car, p eople were showering coins, which was also hurting Gandhi. There was a possibility of a crowd, so the group of volunteers surrounded the car.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 59: At seven o'clock, different groups of people turned into a massive crowd, there was no place to walk..."
-    },
-    {
-      "id": "s1e07-060",
-      "type": "content",
-      "image": "images/series1/ep07/slide-060.webp",
-      "text": "But the enthusiasm of the people and the desire to touch Gandhi was such that many volunteers were injured due to the brunt of the bumps and nails of the people. Yadunandan Prasad Srivastava, who was clearing the path in front of the car, got caught in the grip of the crowd so that his feet got uprooted from the ground and he got hit by the road. Gandhi was then sent to the residence of Kunjbehari Agnihotri for rest, where the cr owd was becoming uncontrollable, Gandhi had greeted the crowd present outside the window of the house.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 60: But the enthusiasm of the people and the desire to touch Gandhi was such that many volunteers were i..."
-    },
-    {
-      "id": "s1e07-061",
-      "type": "content",
-      "image": "images/series1/ep07/slide-061.webp",
-      "text": "After the meal, on the same day , a meeting of women was organized in the Company Garden of the city which is now known as Vivekananda Udyan. Gandhi reached this meeting and for the collection of Tilak and Swaraj fund s , women presented him a bag full of 1000 rupees, which Gandhi considered very little as an aid to independence , and then the women immediately presented their jewelry to Gandhi. After this women's gathering meet, he has to left for addressing a public meeting in Bilaspur, and as Gandhi moved towards the car, one of his legs was on the foot of the car and the other was on the ground when someone caught his leg.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 61: After the meal, on the same day , a meeting of women was organized in the Company Garden of the city..."
-    },
-    {
-      "id": "s1e07-062",
-      "type": "content",
-      "image": "images/series1/ep07/slide-062.webp",
-      "text": "Seeing this, Srivastava without any hesitation pressed the hand of the person with his foot. He writes \"“ \"The work was of cruelty, but Gandhi lost his foot\" After addressing a huge gathering in Bilaspur, he went to the station from where he came to Raipur by train. Fear of locks fail in Bilaspur In 1933, Gandhi's meeting was held at 4 p.m. at the Shanichari Padav ( halt station) in Bilaspur.",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 62: Seeing this, Srivastava without any hesitation pressed the hand of the person with his foot. He writ..."
-    },
-    {
-      "id": "s1e07-063",
-      "type": "content",
-      "image": "images/series1/ep07/slide-063.webp",
-      "text": "Ramsharan Tamboli was a student of 11 th at that time and lived in a hostel behind the government high school. The hostel gate was locked since morning and the warden posted to stay hold the students inside . The student ' s persuasion and outrage did not affect the princi pal, and eve n , on the contrary, they started threatening the students and threatening to restate them.",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 63: Ramsharan Tamboli was a student of 11 th at that time and lived in a hostel behind the government hi..."
-    },
-    {
-      "id": "s1e07-064",
-      "type": "content",
-      "image": "images/series1/ep07/slide-064.webp",
-      "text": "These measures were taken so that the students could not see Gandhi and listen to his speech es . The hostel is located on the way to the station from the assembly site. The students were allowed to play hockey in the hostel grounds from where the road is visible.",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 64: These measures were taken so that the students could not see Gandhi and listen to his speech es . Th..."
-    },
-    {
-      "id": "s1e07-065",
-      "type": "content",
-      "image": "images/series1/ep07/slide-065.webp",
-      "text": "Gandhi's convoy passed rapidly. The students could not even get a glimpse of him. Meanwhile, seeing the oppor tunity, he ran towards Tamboli Gate Station, t he train was standing on the platform.",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 65: Gandhi's convoy passed rapidly. The students could not even get a glimpse of him. Meanwhile, seeing..."
-    },
-    {
-      "id": "s1e07-066",
-      "type": "content",
-      "image": "images/series1/ep07/slide-066.webp",
-      "text": "Gandhi stood at the door with his bag spread. On seeing the student Ramsharan, Gandhi signaled, the crowd made way. Gasping Tamboli came to Gandhi and offered him Duanni ( coin ) in his bag.",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 66: Gandhi stood at the door with his bag spread. On seeing the student Ramsharan, Gandhi signaled, the..."
-    },
-    {
-      "id": "s1e07-067",
-      "type": "content",
-      "image": "images/series1/ep07/slide-067.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 67: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-068",
-      "type": "content",
-      "image": "images/series1/ep07/slide-068.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 68: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-069",
-      "type": "content",
-      "image": "images/series1/ep07/slide-069.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 69: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-070",
-      "type": "content",
-      "image": "images/series1/ep07/slide-070.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 70: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-071",
-      "type": "content",
-      "image": "images/series1/ep07/slide-071.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 71: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-072",
-      "type": "content",
-      "image": "images/series1/ep07/slide-072.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "climax",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 72: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-073",
-      "type": "content",
-      "image": "images/series1/ep07/slide-073.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
+      "text": "Mohandas has arrived. What he ignited next would last for decades. Next: Episode 8 — Mohandas Arrives.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 73: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-074",
-      "type": "content",
-      "image": "images/series1/ep07/slide-074.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 74: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-075",
-      "type": "content",
-      "image": "images/series1/ep07/slide-075.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 75: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-076",
-      "type": "content",
-      "image": "images/series1/ep07/slide-076.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 76: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-077",
-      "type": "content",
-      "image": "images/series1/ep07/slide-077.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 77: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-078",
-      "type": "content",
-      "image": "images/series1/ep07/slide-078.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 78: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-079",
-      "type": "content",
-      "image": "images/series1/ep07/slide-079.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 79: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-080",
-      "type": "content",
-      "image": "images/series1/ep07/slide-080.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 80: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-081",
-      "type": "content",
-      "image": "images/series1/ep07/slide-081.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "zoomIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 81: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-082",
-      "type": "content",
-      "image": "images/series1/ep07/slide-082.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "panLeft",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 82: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-083",
-      "type": "content",
-      "image": "images/series1/ep07/slide-083.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "fadeIn",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 83: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-084",
-      "type": "content",
-      "image": "images/series1/ep07/slide-084.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "panRight",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 84: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
-    },
-    {
-      "id": "s1e07-085",
-      "type": "content",
-      "image": "images/series1/ep07/slide-085.webp",
-      "text": "Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo",
-      "animation": {
-        "type": "zoomOut",
-        "duration": 15
-      },
-      "emotion": "resolution",
-      "visualDescription": "Pt. Sundarlal Sharma travels to Calcutta, meets Gandhi, train journey back to Chhattisgarh, delegation of leaders. Slide 85: Balaghat by train In this journey of Mahatma Gandhi in 1933, he stayed fo..."
+      "visualDescription": "Gandhi's face at the train window — the platform of Raipur in 1920 visible, the crowd surging forward, his hands folded in namaste. The first sight that 15,000 people would carry in their hearts forever. Title card: Episode 8 — Mohandas Arrives."
     }
   ]
 }
