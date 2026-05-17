@@ -27,9 +27,11 @@
   
   <!-- Inline Critical CSS -->
   <style id="critical-css">
+    html { scroll-snap-type: y mandatory; scroll-behavior: smooth; }
     body { background-color: #0A0A0A; color: #F5F0E8; margin: 0; }
     .landing-hero { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative; }
     .landing-hero__bg { position: absolute; inset: 0; background: #0A0A0A; z-index: -2; }
+    .snap-slide { scroll-snap-align: start; scroll-snap-stop: always; }
   </style>
 
   <!-- Styles -->
@@ -39,7 +41,7 @@
 </head>
 <body>
   <!-- ===== HERO SECTION ===== -->
-  <section class="landing-hero" id="hero" role="banner">
+  <section class="landing-hero snap-slide" id="hero" role="banner">
     <!-- Background -->
     <div class="landing-hero__bg" aria-hidden="true"></div>
     <div class="landing-hero__grain" aria-hidden="true"></div>
@@ -85,18 +87,20 @@
     </footer>
   </section>
 
-  <!-- ===== ABOUT SECTION (below fold) ===== -->
-  <section class="about-section" id="about" style="
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: var(--space-3xl) var(--space-xl);
-    text-align: center;
-    max-width: 800px;
-    margin: 0 auto;
-  ">
+  <!-- ===== SLIDE 2 (About & Footer) ===== -->
+  <section class="snap-slide" style="height: 100vh; height: 100dvh; display: flex; flex-direction: column; background-color: #0A0A0A; overflow: hidden;">
+    <div class="about-section" id="about" style="
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: var(--space-3xl) var(--space-xl);
+      text-align: center;
+      max-width: 800px;
+      margin: 0 auto;
+      overflow-y: auto;
+    ">
     <p class="quote-display" style="margin-bottom: var(--space-xl); font-size: clamp(1rem, 2vw, 1.5rem);">
       "History remembers the Gandhi who belonged to the world; this book is about the Gandhi who belonged to my soil, my people, and my Chhattisgarh. It is my attempt to reclaim the forgotten conversations between Mahatma Gandhi and the ordinary lives that shaped the moral courage of this region."
     </p>
@@ -115,14 +119,15 @@
       <p class="caption uppercase" style="color: var(--text-dim); letter-spacing: 0.2em;">Based on the book by</p>
       <p class="heading-md" style="color: var(--accent-gold); margin-top: var(--space-sm);">Amir Hashmi</p>
     </div>
-  </section>
+  </div>
 
   <!-- ===== FOOTER ===== -->
-  <footer style="background-color: #0A0A0A; border-top: 1px solid rgba(255, 255, 255, 0.05); padding: var(--space-lg) var(--space-md); text-align: center; font-size: 0.65rem; color: rgba(255, 255, 255, 0.3); font-family: 'Inter', sans-serif;">
+  <footer style="background-color: #0A0A0A; border-top: 1px solid rgba(255, 255, 255, 0.05); padding: var(--space-lg) var(--space-md); text-align: center; font-size: 0.65rem; color: rgba(255, 255, 255, 0.3); font-family: 'Inter', sans-serif; flex-shrink: 0;">
     <div style="max-width: 1200px; margin: 0 auto;">
       &copy; 2026 Amir Hashmi. Published by Meer Corporation. Initiative: <a href="https://meerfoundation.co.in/" target="_blank" style="color: inherit; text-decoration: none;">Meer Foundation</a> | <a href="privacy.html" style="color: inherit; text-decoration: none;">Privacy Policy</a> | <a href="https://amirhashmi.com/" target="_blank" style="color: inherit; text-decoration: none;">Contact Us</a> | This site uses local storage for seamless playback.
     </div>
   </footer>
+  </section>
 
   <script>
     // LocalStorage Resume Logic
