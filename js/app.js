@@ -46,24 +46,22 @@ class App {
                 scrollEngine.handleSlideActive(firstSlide);
             }
 
-            // Presentation Mode Loop Navigation
+            // Presentation Mode Loop Navigation (Always on for player)
             document.addEventListener('episodeEnd', () => {
-                if (sessionStorage.getItem('presentationMode') === 'true') {
-                    let nextE = this.currentEpisode + 1;
-                    let nextS = this.currentSeries;
-                    
-                    if (nextE > 10) {
-                        nextE = 1;
-                        nextS++;
-                    }
-                    
-                    if (nextS > 2) {
-                        // Loop back to landing page to restart
-                        window.location.href = '../index.html';
-                    } else {
-                        // Go to next episode
-                        window.location.href = `player.html?s=${nextS}&e=${nextE}`;
-                    }
+                let nextE = this.currentEpisode + 1;
+                let nextS = this.currentSeries;
+                
+                if (nextE > 10) {
+                    nextE = 1;
+                    nextS++;
+                }
+                
+                if (nextS > 2) {
+                    // Loop back to landing page to restart
+                    window.location.href = '../index.html';
+                } else {
+                    // Go to next episode
+                    window.location.href = `player.html?s=${nextS}&e=${nextE}`;
                 }
             });
 

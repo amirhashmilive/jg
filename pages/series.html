@@ -104,11 +104,6 @@
     <header class="series-header">
         <h1 class="display-lg" id="series-title">Loading...</h1>
         <p class="body-md text-muted" id="series-subtitle"></p>
-        <div style="margin-top: var(--space-md);">
-            <button onclick="startPresentation()" style="background: var(--accent-gold); color: var(--bg-primary); padding: var(--space-sm) var(--space-lg); border-radius: 30px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; transition: all 0.3s; font-size: 0.8rem;">
-              ▶ Play Series
-            </button>
-        </div>
         <div class="gold-line" style="margin: var(--space-md) auto;"></div>
     </header>
 
@@ -173,11 +168,6 @@
                 </div>
             `;
             gridEl.appendChild(card);
-        }
-
-        function startPresentation() {
-            sessionStorage.setItem('presentationMode', 'true');
-            window.location.href = `player.html?s=${series}&e=1`;
         }
 
         loadEpisodes();

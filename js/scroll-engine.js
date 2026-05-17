@@ -17,7 +17,7 @@ class ScrollEngine {
             visualDuration: 60000,  // 60s default
             speedMultiplier: 1.0,
             autoScrollEnabled: true,
-            inactivityTimeout: 5000 // 5s resume after manual scroll
+            inactivityTimeout: 120000 // 120s resume after manual scroll
         };
 
         this.autoScrollTimer = null;
@@ -53,7 +53,6 @@ class ScrollEngine {
     setupEventListeners() {
         // Detect manual scrolling (wheel or touch)
         const pauseAutoScroll = () => {
-            sessionStorage.removeItem('presentationMode'); // Interrupt presentation
             if (!this.settings.autoScrollEnabled) return;
             
             this.isManualScrolling = true;
@@ -69,6 +68,8 @@ class ScrollEngine {
 
         window.addEventListener('wheel', pauseAutoScroll, { passive: true });
         window.addEventListener('touchstart', pauseAutoScroll, { passive: true });
+        window.addEventListener('mousemove', pauseAutoScroll, { passive: true });
+        window.addEventListener('click', pauseAutoScroll, { passive: true });
         window.addEventListener('keydown', (e) => {
             if (['ArrowUp', 'ArrowDown', 'Space'].includes(e.code)) {
                 pauseAutoScroll();
@@ -143,9 +144,8 @@ class ScrollEngine {
         if (this.activeIndex < this.slides.length - 1) {
             this.slides[this.activeIndex + 1].scrollIntoView({ behavior: 'smooth' });
         } else {
-            if (sessionStorage.getItem('presentationMode') === 'true') {
-                document.dispatchEvent(new CustomEvent('episodeEnd'));
-            }
+            // Reached end of episode, seamlessly loop to next episode
+            document.dispatchEvent(new CustomEvent('episodeEnd'));
         }
     }
 
