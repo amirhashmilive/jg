@@ -49,17 +49,15 @@ class SlideRenderer {
         
         let slideIndex = 0;
 
-        // Implement Correction: "Previously on" recap for episodes 2-20
-        if (epNum > 1) {
-            const recapSlide = this.createRecapSlide(seriesNum, epNum);
-            recapSlide.dataset.index = slideIndex++;
-            this.container.appendChild(recapSlide);
-        }
+        // EVERY EPISODE: Inject a pure Hero Title Card as Slide 1
+        const heroSlide = this.createHeroSlide(seriesNum, epNum, data.title);
+        heroSlide.dataset.index = slideIndex++;
+        this.container.appendChild(heroSlide);
 
-        // We randomly select 5 slides to be "Editor's Choice" for the "Most Downloaded" badges (Correction)
-        // In a real scenario, this would be flagged in the JSON.
+        // We randomly select 5 slides to be "Editor's Choice" for the "Most Downloaded" badges
         const editorsChoiceIndices = this.getEditorsChoiceIndices(data.slides.length);
 
+        // Slide 2+ are the actual story text from the JSON
         data.slides.forEach((slideData, i) => {
             const isEditorsChoice = editorsChoiceIndices.includes(i);
             const slideEl = this.createSlideElement(slideData, isEditorsChoice, data);
@@ -92,21 +90,8 @@ class SlideRenderer {
             slide.appendChild(badge);
         }
 
-        // STORY TEXT OR TITLE CARD
-        if (data.type === 'title') {
-            slide.classList.add('title-card');
-            const textPanel = document.createElement('div');
-            textPanel.className = 'slide-text-panel center-content';
-            
-            const epNumStr = epData.episode.toString().padStart(2, '0');
-            textPanel.innerHTML = `
-                <p class="caption uppercase text-gold">Series ${epData.series} • Episode ${epNumStr}</p>
-                <div class="gold-line"></div>
-                <h2 class="heading-lg">${epData.title || 'Johar Gandhi'}</h2>
-                <p class="slide-text" style="margin-top: 2rem;">${data.text}</p>
-            `;
-            slide.appendChild(textPanel);
-        } else if (data.text) {
+        // STORY TEXT
+        if (data.text) {
             const textPanel = document.createElement('div');
             textPanel.className = 'slide-text-panel';
             
@@ -129,25 +114,27 @@ class SlideRenderer {
         return slide;
     }
 
-    createRecapSlide(series, episode) {
+    createHeroSlide(series, episode, title) {
         const slide = document.createElement('div');
-        slide.className = 'slide title-card recap-card';
-        slide.dataset.type = 'recap';
-        slide.dataset.animation = JSON.stringify({ type: 'zoomOut', duration: 10 });
+        slide.className = 'slide title-card hero-card';
+        slide.dataset.type = 'title';
+        slide.dataset.animation = JSON.stringify({ type: 'zoomIn', duration: 10 });
+        
+        const epNumStr = episode.toString().padStart(2, '0');
         
         // Small placeholder badge (top-right corner)
         const placeholderBadge = document.createElement('div');
         placeholderBadge.className = 'placeholder-badge';
-        placeholderBadge.title = 'Cinematic recap card — image to be generated for this interstitial.';
+        placeholderBadge.title = 'Cinematic Hero Image';
         placeholderBadge.innerHTML = `<span class="badge-label">📷 Image TBD</span>`;
         slide.appendChild(placeholderBadge);
         
         const textPanel = document.createElement('div');
         textPanel.className = 'slide-text-panel center-content';
         textPanel.innerHTML = `
-            <p class="caption uppercase text-gold">Previously on Johar Gandhi</p>
+            <p class="caption uppercase text-gold">Series ${series} • Episode ${epNumStr}</p>
             <div class="gold-line"></div>
-            <h2 class="heading-lg">Series ${series}, Episode ${episode - 1}</h2>
+            <h2 class="heading-lg">${title || 'Johar Gandhi'}</h2>
         `;
 
         const progress = document.createElement('div');
