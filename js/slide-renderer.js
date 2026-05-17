@@ -137,11 +137,23 @@ class SlideRenderer {
             <h2 class="heading-lg">${title || 'Johar Gandhi'}</h2>
         `;
 
+        // Chapter Navigation
+        const navPanel = document.createElement('div');
+        navPanel.className = 'chapter-nav';
+        let navHtml = '<p class="caption uppercase text-muted" style="margin-bottom: 0.5rem; font-size: 0.7rem;">Select Episode</p><div class="chapter-nav-links">';
+        for (let i = 1; i <= 10; i++) {
+            const isActive = i === parseInt(episode) ? 'active' : '';
+            navHtml += `<a href="player.html?s=${series}&e=${i}" class="chapter-link ${isActive}">${i}</a>`;
+        }
+        navHtml += '</div>';
+        navPanel.innerHTML = navHtml;
+
         const progress = document.createElement('div');
         progress.className = 'slide-progress';
         progress.innerHTML = '<div class="progress-bar-fill"></div>';
 
         slide.appendChild(textPanel);
+        slide.appendChild(navPanel);
         slide.appendChild(progress);
 
         return slide;

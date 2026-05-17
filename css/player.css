@@ -269,3 +269,49 @@ html, body {
     letter-spacing: 0.1em;
     text-transform: uppercase;
 }
+
+/* --- Chapter Navigation on Hero Card --- */
+.chapter-nav {
+    position: absolute;
+    bottom: calc(var(--space-2xl) + 40px); /* Above the progress bar */
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 100%;
+    z-index: 100;
+}
+
+.chapter-nav-links {
+    display: flex;
+    gap: var(--space-xs);
+    justify-content: center;
+    align-items: center;
+}
+
+.chapter-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    font-family: var(--font-heading);
+    transition: all var(--transition-fast);
+}
+
+.chapter-link:hover {
+    background: rgba(200, 168, 92, 0.2);
+    border-color: rgba(200, 168, 92, 0.5);
+    color: var(--text-primary);
+}
+
+.chapter-link.active {
+    background: var(--accent-gold);
+    color: var(--bg-primary);
+    border-color: var(--accent-gold);
+    font-weight: 600;
+}
