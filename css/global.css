@@ -304,3 +304,30 @@ button {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* --- Persistent Home Button --- */
+.home-button {
+  position: fixed;
+  top: var(--space-lg);
+  left: var(--space-lg);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  z-index: 1000;
+  color: var(--text-secondary);
+  background: rgba(10, 10, 10, 0.6);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-sm);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: all var(--transition-fast);
+}
+
+.home-button:hover {
+  color: var(--accent-gold);
+  background: rgba(10, 10, 10, 0.9);
+  border-color: rgba(200, 168, 92, 0.3);
+}
