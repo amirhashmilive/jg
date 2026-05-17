@@ -3,9 +3,9 @@
  * Coordinates slide rendering, scroll engine, and state.
  */
 
-import slideRenderer from './slide-renderer.js?v=6';
-import scrollEngine from './scroll-engine.js?v=6';
-import brandEngine from './brand-engine.js?v=6';
+import slideRenderer from './slide-renderer.js?v=7';
+import scrollEngine from './scroll-engine.js?v=7';
+import brandEngine from './brand-engine.js?v=7';
 
 
 class App {
