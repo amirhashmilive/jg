@@ -125,5 +125,48 @@
       <p style="opacity: 0.7; margin-top: var(--space-md);">This site uses local storage for seamless playback.</p>
     </div>
   </footer>
+
+  <script>
+    // LocalStorage Resume Logic
+    document.addEventListener('DOMContentLoaded', () => {
+        // Set initial visit timestamp if it doesn't exist
+        if (!localStorage.getItem('jg_visited')) {
+            localStorage.setItem('jg_visited', new Date().toISOString());
+        }
+
+        // Set default auto-scroll speed if not exists
+        if (!localStorage.getItem('jg_autoScrollSpeed')) {
+            localStorage.setItem('jg_autoScrollSpeed', '60');
+        }
+
+        // Read resume data
+        const lastSeries = localStorage.getItem('jg_lastSeries');
+        const lastEpisode = localStorage.getItem('jg_lastEpisode');
+        const lastSlide = localStorage.getItem('jg_lastSlide');
+
+        if (lastSeries && lastEpisode && lastSlide) {
+            window.JG_RESUME_DATA = {
+                series: parseInt(lastSeries),
+                episode: parseInt(lastEpisode),
+                slide: parseInt(lastSlide)
+            };
+        } else {
+            window.JG_RESUME_DATA = null;
+        }
+    });
+
+    // Prefetching after load
+    window.addEventListener('load', () => {
+        // Prefetch first episode data
+        fetch('data/series1/episode01.json').catch(e => console.log('Prefetch failed:', e));
+        
+        // Prefetch first 5 images of episode 1 (if they exist)
+        for (let i = 1; i <= 5; i++) {
+            const img = new Image();
+            const slideNum = i.toString().padStart(3, '0');
+            img.src = `images/series1/ep01/slide-${slideNum}.webp`;
+        }
+    });
+  </script>
 </body>
 </html>
