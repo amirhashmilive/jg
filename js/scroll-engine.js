@@ -13,8 +13,8 @@ class ScrollEngine {
         
         // Settings (from user corrections)
         this.settings = {
-            readingDuration: 30000, // 30s for Read Along mode
-            visualDuration: 15000,  // 15s for Visual Story mode
+            readingDuration: 60000, // 60s default
+            visualDuration: 60000,  // 60s default
             speedMultiplier: 1.0,
             autoScrollEnabled: true,
             inactivityTimeout: 5000 // 5s resume after manual scroll
