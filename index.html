@@ -17,9 +17,21 @@
   <meta name="twitter:title" content="Johar Gandhi">
   <meta name="twitter:description" content="The cinematic journey of Mahatma Gandhi in Chhattisgarh">
   
-  <!-- Favicon -->
-
+  <!-- Preconnect & DNS Prefetch -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
   
+  <!-- Preload Critical Images -->
+  <link rel="preload" href="images/brand/episode-thumb-placeholder.webp" as="image">
+  
+  <!-- Inline Critical CSS -->
+  <style id="critical-css">
+    body { background-color: #0A0A0A; color: #F5F0E8; margin: 0; }
+    .landing-hero { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; position: relative; }
+    .landing-hero__bg { position: absolute; inset: 0; background: #0A0A0A; z-index: -2; }
+  </style>
+
   <!-- Styles -->
   <link rel="stylesheet" href="css/global.css">
   <link rel="stylesheet" href="css/animations.css">
