@@ -61,14 +61,6 @@
       </a>
     </div>
 
-    <!-- Presentation Button -->
-    <div style="text-align: center; margin-top: var(--space-xl); position: relative; z-index: 20;">
-      <button onclick="startPresentation()" style="background: var(--accent-gold); color: var(--bg-primary); padding: var(--space-sm) var(--space-lg); border-radius: 30px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; transition: all 0.3s; font-size: 0.9rem;">
-        ▶ Play Presentation
-      </button>
-      <p class="caption text-muted" style="margin-top: var(--space-sm);">Auto-starting shortly...</p>
-    </div>
-
     <!-- Scroll Hint -->
     <div class="scroll-hint" aria-hidden="true">
       <span class="scroll-hint__text">Explore</span>
@@ -93,10 +85,10 @@
     max-width: 800px;
     margin: 0 auto;
   ">
-    <p class="quote-display" style="margin-bottom: var(--space-xl);">
-      "Future generations will find it difficult to believe that such a man — made of flesh and blood — ever came to earth."
+    <p class="quote-display" style="margin-bottom: var(--space-xl); font-size: clamp(1rem, 2vw, 1.5rem);">
+      "History remembers the Gandhi who belonged to the world; this book is about the Gandhi who belonged to my soil, my people, and my Chhattisgarh. It is my attempt to reclaim the forgotten conversations between Mahatma Gandhi and the ordinary lives that shaped the moral courage of this region."
     </p>
-    <p class="caption" style="margin-bottom: var(--space-3xl);">— Albert Einstein, on Mahatma Gandhi</p>
+    <p class="caption" style="margin-bottom: var(--space-3xl);">— Amir Hashmi</p>
 
     <div class="gold-divider" style="margin-bottom: var(--space-2xl);"></div>
 
@@ -113,19 +105,5 @@
     </div>
   </section>
 
-  <script>
-    let presentationTimer = setTimeout(() => {
-        startPresentation();
-    }, 15000); // 15 seconds
-
-    window.addEventListener('wheel', () => clearTimeout(presentationTimer));
-    window.addEventListener('click', () => clearTimeout(presentationTimer));
-    window.addEventListener('touchstart', () => clearTimeout(presentationTimer));
-
-    function startPresentation() {
-        sessionStorage.setItem('presentationMode', 'true');
-        window.location.href = 'pages/player.html?s=1&e=1';
-    }
-  </script>
 </body>
 </html>
