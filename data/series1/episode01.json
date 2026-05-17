@@ -70,84 +70,84 @@
     },
     {
       "id": "s1e01-008",
-      "type": "content",
+      "type": "chapter",
       "image": "images/series1/ep01/slide-008.webp",
-      "text": "Mohandas Karamchand Gandhi was an eminent independence activist and an influential political leader who played a major role in India's struggle for independence. Gandhi is known by different names — Mahatma, a great soul; Bapu, father in Gujarati; and Father of the Nation.",
-      "animation": {"type": "zoomIn", "duration": 15},
-      "emotion": "building",
-      "visualDescription": "Portrait of Gandhi — round glasses, gentle eyes, iconic profile. Dramatic rim lighting against dark background. The names Mahatma, Bapu, Father of the Nation orbit his silhouette in different scripts. Reverential, timeless."
+      "text": "THE LAND OF 36 FORTS",
+      "animation": {"type": "fadeIn", "duration": 10},
+      "emotion": "establishing",
+      "visualDescription": "Full-screen chapter card. Gold serif text on deep black: THE LAND OF 36 FORTS. Below it, a thin gold line and the episode subtitle: Episode 1 — Series One: MOHANDAS. Ancient fort silhouette faint in the background. Cinematic, minimal."
     },
     {
       "id": "s1e01-009",
       "type": "content",
       "image": "images/series1/ep01/slide-009.webp",
-      "text": "Gandhi began his activism as an Indian immigrant in South Africa in the early 1900s and became a leading figure in India's struggle for independence from Great Britain in the years following World War I. He often wore only a loincloth and shawl.",
-      "animation": {"type": "panLeft", "duration": 15},
+      "text": "By 1919, Chhattisgarh was politically awake. The Amritsar Massacre had sent a tremor through every district of India, and in Raipur, Dhamtari, and Bilaspur, ordinary people began to ask questions they had never dared to ask before. The Hindi press — led by Madhavrao Sapre's Chhattisgarh Mitra — had spent two decades planting seeds of consciousness in the minds of farmers, teachers, and traders. Pt. Sundarlal Sharma had already walked from village to village, organising, awakening, defying the caste walls that the British used as instruments of division. When the Indian National Congress passed its Non-Cooperation Resolution in September 1920, Chhattisgarh did not wait to be told what to do. It had already begun.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Young Gandhi in South Africa — suited, determined, walking alone on a road. Then Gandhi in loincloth and shawl walking barefoot through Indian village. Two images of the same man, the transformation of a lifetime. Ink illustration."
+      "visualDescription": "A Hindi newspaper printing press in colonial-era Raipur — a typesetter laying letters by lamplight, the press rolling, pages stacking. Outside the window, a village stirring at dawn. The word SWARAJ visible on the front page. Ink, paper, and purpose. Warm sepia tones."
     },
     {
       "id": "s1e01-010",
       "type": "content",
       "image": "images/series1/ep01/slide-010.webp",
-      "text": "In South Africa, Gandhi felt racial discrimination towards blacks and Indians. He faced humiliation on several occasions, due to which he decided to fight racial discrimination. At that time, Indians and blacks in South Africa did not have the right to vote or even walk on the footpath.",
-      "animation": {"type": "panRight", "duration": 15},
+      "text": "The Mahanadi runs through the heart of Dhamtari district like a promise. For generations, farmers along its banks had built channels, nursed paddies, and harvested rice from some of the most fertile soil in central India. Then the British built the Mahanadi Canal — and handed the farmers a bill for water that had always been theirs. The canal tax was not merely unjust. It was colonial arrogance so brazen that even the most patient farmers felt the ground shift. In 1920, when the Non-Cooperation Movement gave that anger a shape and a name, the farmers of Dhamtari did not hesitate. They refused to pay.",
+      "animation": {"type": "zoomOut", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi being thrown off a train in South Africa. Dramatic angle from the platform — the train door, a suited figure falling, British officers watching. Stark black and white with a slash of red. Sense of injustice and awakening."
+      "visualDescription": "The Mahanadi canal at golden hour — water glinting, paddy fields green on both sides. A British tax notice nailed to a wooden post near a farmer's field. A farmer reading it, jaw set, hands clenched. The canal water flowing indifferently. Sepia and green, controlled anger."
     },
     {
       "id": "s1e01-011",
       "type": "content",
       "image": "images/series1/ep01/slide-011.webp",
-      "text": "Gandhi strongly opposed this and eventually succeeded in establishing an organization called Indian National Congress in the year 1894. He returned to India in the year 1915 after living in South Africa for 21 years.",
-      "animation": {"type": "zoomIn", "duration": 15},
+      "text": "Kandel was a small village. Nothing about it suggested it would become the ignition point of Chhattisgarh's most significant act of civil disobedience. But Babu Chhotelal Srivastava was not a small man. A farmer by identity, an organiser by instinct, he had watched the canal tax extract his neighbours' dignity one season at a time. In the summer of 1920, he called a meeting. Farmers from eight surrounding villages came. When Srivastava stood and said — we will not pay — the silence that followed was not doubt. It was resolve. The Kandel Satyagraha had begun. For the first time, an entire farming community in Chhattisgarh had chosen non-violent resistance as its weapon.",
+      "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi standing at a podium with Indian National Congress banner in South Africa, a crowd of Indians and Black Africans before him. Ship on the ocean at sunrise — Gandhi at the bow looking toward the horizon. Homecoming. Hope."
+      "visualDescription": "Babu Chhotelal Srivastava standing before a gathering of farmers under a large peepal tree in Kandel village. Evening light. Faces listening — young men, elders, women at the edge of the crowd. A moment of collective decision. Ink-wash, deep greens and ochre, the tree's shadow long behind him."
     },
     {
       "id": "s1e01-012",
       "type": "content",
       "image": "images/series1/ep01/slide-012.webp",
-      "text": "Gopal Krishna Gokhale, a senior leader of the Indian National Congress, invited Gandhi to join India's struggle for independence against British rule. In the year 1915, Gandhi came to India and toured the villages of the country to prepare the strategy for the freedom struggle.",
-      "animation": {"type": "fadeIn", "duration": 15},
+      "text": "The British did not ignore Kandel. They sent notices. They sent officers. They threatened seizure of cattle, crops, and property. The farmers sent back silence. Word spread across Dhamtari district, then to Raipur, then to Congress leaders throughout the Central Provinces. What was happening in one small village was not merely a tax dispute — it was a demonstration that Gandhi's method worked even in a land Gandhi had never visited. Pt. Sundarlal Sharma understood this immediately. He began drawing the Kandel Satyagraha into the national Congress framework. But he knew that to protect the farmers, he needed something more powerful than local support. He needed Gandhi himself.",
+      "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Gandhi meeting Gopal Krishna Gokhale — two men shaking hands, mutual respect between them. Then Gandhi walking barefoot through Indian villages, children following. Dusty roads. A man learning his country from the ground up."
+      "visualDescription": "British district officer at his desk in Dhamtari, reading reports about Kandel — expression shifting from irritation to concern. Cut to: Pt. Sundarlal Sharma writing by lamplight, pen moving urgently. Maps of Chhattisgarh spread before him. The distance between Kandel and Calcutta measured by one urgent letter. Sepia, tension."
     },
     {
       "id": "s1e01-013",
       "type": "content",
       "image": "images/series1/ep01/slide-013.webp",
-      "text": "Gandhi gave the name of Satyagraha to his entire non-violent method of work. Satyagraha for him meant the exercise of pure self-force against all kinds of injustice, tyranny, and exploitation. Gandhi said that Satyagraha can be adopted by anyone.",
-      "animation": {"type": "zoomOut", "duration": 15},
+      "text": "The Nagpur Congress session was scheduled for December 1920 — and Gandhi would travel from Calcutta to reach it. Pt. Sundarlal Sharma saw the moment. He boarded a train for Calcutta — not as a supplicant, but as a representative of a people who had already done the hard work. When he found Gandhi, he did not ask for sympathy. He told him the facts: the farmers of Kandel had refused an unjust tax, the British were threatening force, and a visit — even a brief one — could change everything. Gandhi listened. And then, crucially, Gandhi agreed. In the British offices of Raipur, someone had begun to sweat.",
+      "animation": {"type": "panRight", "duration": 15},
       "emotion": "building",
-      "visualDescription": "A massive banyan tree with roots reaching in all directions — visual metaphor for Satyagraha. Gandhi's spinning charkha in close-up, thread being drawn. Split panel: armed soldiers on left, unarmed people standing firm on right. Philosophy made visible."
+      "visualDescription": "Pt. Sundarlal Sharma and Gandhi in a third-class train compartment — Sharma speaking earnestly, Gandhi listening with complete stillness. Through the window, the Indian countryside at dusk. A telegraph office in Raipur receiving a message. The British collector's face going pale. Sepia, urgency, the hinge of history."
     },
     {
       "id": "s1e01-014",
       "type": "content",
       "image": "images/series1/ep01/slide-014.webp",
-      "text": "In his thoughts, Satyagraha was like a banyan tree that has innumerable branches. Champaran and Bardoli Satyagrahas were done by Gandhi not only to get material benefits for the people but to oppose the unjust attitude of the then British rule.",
+      "text": "The British had seen this before. In 1917, when Gandhi had gone to Champaran to support indigo farmers, the colonial administration had panicked and capitulated. A committee was formed before Gandhi had even met the farmers. Their demands were met before any mass agitation could begin. The British had learned: Gandhi arriving by train was more powerful than any police force they could deploy. When word reached Dhamtari that Gandhi was coming to Raipur, orders went out immediately. The canal tax demand on the Kandel farmers was withdrawn. The British had conceded — before Gandhi had set foot in Chhattisgarh. His name alone had won the battle.",
       "animation": {"type": "panLeft", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Indigo farmers of Champaran standing in their fields, Gandhi among them. Farmers of Bardoli on another panel. Two struggles, one method. Ink illustration, sepia and blue-green palette, the ground itself as a battlefield of ideas."
+      "visualDescription": "Split composition: Champaran 1917 on the left — British committee signing documents, farmers watching. Kandel 1920 on the right — British order being revoked, a messenger rushing to Dhamtari. Same pattern, different soil. The power of a name used as a weapon. Dramatic ink-wash, black and gold."
     },
     {
       "id": "s1e01-015",
       "type": "content",
       "image": "images/series1/ep01/slide-015.webp",
-      "text": "The great scientist Albert Einstein said of Gandhi that future generations will find it difficult to believe that such a man — made of flesh and blood — ever came to earth. Gandhi's ideology not only inspired people all over the world but also played an important role in transforming India.",
+      "text": "On December 20, 1920, a train pulled into Raipur station carrying a man in a loincloth. He had not fired a single shot. He had not given a single speech in Chhattisgarh. He had simply agreed to come — and that agreement had already changed the lives of thousands of farmers in Kandel, Dhamtari, and across the Mahanadi basin. Waiting on the platform were Pt. Ravi Shankar Shukla, Thakur Pyarelal Singh, Sakharam Dubey, and hundreds of others who had spent years preparing for this moment. The crowd was enormous. The mood was electric. For the first time in its long history, Chhattisgarh was about to be seen by the man who was becoming the conscience of India.",
       "animation": {"type": "zoomIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Einstein at his desk, looking up with wonder. The quote floating beside him as golden text. World map with connecting lines from India to South Africa, USA, Myanmar — showing Gandhi's global reach. Awe, scale, legacy."
+      "visualDescription": "Raipur station, December 20, 1920. Steam from the arriving engine drifts across the platform. A dense, expectant crowd. Leaders at the front, ordinary people pressed behind. The train slowing. Ground-level shot — the crowd's feet shifting forward, hands rising. A moment suspended before it breaks into history. Cinematic sepia."
     },
     {
       "id": "s1e01-016",
       "type": "content",
       "image": "images/series1/ep01/slide-016.webp",
-      "text": "Mahatma Gandhi inspired the world's great moral and political leaders such as Martin Luther King Jr., Nelson Mandela, and the Dalai Lama, and influenced social and political movements in Latin America, Asia, the Middle East, and Europe.",
-      "animation": {"type": "panRight", "duration": 15},
+      "text": "Prabhu Lal Kabra — a young freedom fighter on the platform that day — would later recall: 'Someone told me that Gandhi was sitting in the third-class compartment. And I saw the entire crowd run toward that end of the train.' Every other leader stepped off from first and second class. Gandhi stepped off from the third. He wore a lungi and a simple cotton kurta. His hands were folded. He said nothing, and yet the crowd fell completely silent. In that silence — the silence of thousands confronting something they had never seen before — Chhattisgarh changed. The first visit had begun.",
+      "animation": {"type": "fadeIn", "duration": 15},
       "emotion": "building",
-      "visualDescription": "Portraits of Martin Luther King Jr., Nelson Mandela, Aung San Suu Kyi arranged around Gandhi's central silhouette. Lines of influence connecting them. Globe in background. The reach of one man's idea across oceans and decades."
+      "visualDescription": "The third-class compartment door opening. Gandhi at the threshold — slight, simply dressed, hands folded in namaste. The crowd surging toward him. Faces of farmers, students, leaders, women — all converging on one small figure. The scale of the crowd against the simplicity of the man. Sepia, cinematic, defining."
     },
     {
       "id": "s1e01-017",
