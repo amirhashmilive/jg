@@ -134,13 +134,13 @@ class SlideRenderer {
         textPanel.innerHTML = `
             <p class="caption uppercase text-gold">Series ${series} • Episode ${epNumStr}</p>
             <div class="gold-line"></div>
-            <h2 class="heading-lg">${title || 'Johar Gandhi'}</h2>
+            <h2 class="heading-lg" style="margin-bottom: var(--space-xl);">${title || 'Johar Gandhi'}</h2>
         `;
 
         // Chapter Navigation
         const navPanel = document.createElement('div');
         navPanel.className = 'chapter-nav';
-        let navHtml = '<p class="caption uppercase text-muted" style="margin-bottom: 0.5rem; font-size: 0.7rem;">Select Episode</p><div class="chapter-nav-links">';
+        let navHtml = '<p class="caption uppercase text-muted" style="margin-bottom: var(--space-sm); font-size: 0.75rem; letter-spacing: 0.15em;">Select Episode</p><div class="chapter-nav-links">';
         for (let i = 1; i <= 10; i++) {
             const isActive = i === parseInt(episode) ? 'active' : '';
             navHtml += `<a href="player.html?s=${series}&e=${i}" class="chapter-link ${isActive}">${i}</a>`;
@@ -148,12 +148,14 @@ class SlideRenderer {
         navHtml += '</div>';
         navPanel.innerHTML = navHtml;
 
+        // Append nav directly to the centered text panel
+        textPanel.appendChild(navPanel);
+
         const progress = document.createElement('div');
         progress.className = 'slide-progress';
         progress.innerHTML = '<div class="progress-bar-fill"></div>';
 
         slide.appendChild(textPanel);
-        slide.appendChild(navPanel);
         slide.appendChild(progress);
 
         return slide;

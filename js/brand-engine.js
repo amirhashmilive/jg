@@ -21,9 +21,11 @@ class BrandEngine {
         hud.className = 'player-hud';
         
         // Brand elements
-        const jgLogo = document.createElement('div');
+        const jgLogo = document.createElement('a');
+        jgLogo.href = '../index.html';
         jgLogo.className = 'hud-logo jg-logo display-lg text-primary';
         jgLogo.style.fontSize = '1.5rem';
+        jgLogo.style.textDecoration = 'none';
         jgLogo.innerText = 'Johar Gandhi';
 
         const mfLogo = document.createElement('div');

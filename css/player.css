@@ -272,10 +272,6 @@ html, body {
 
 /* --- Chapter Navigation on Hero Card --- */
 .chapter-nav {
-    position: absolute;
-    bottom: calc(var(--space-2xl) + 40px); /* Above the progress bar */
-    left: 50%;
-    transform: translateX(-50%);
     text-align: center;
     width: 100%;
     z-index: 100;
